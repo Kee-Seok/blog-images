@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 460" width="700" height="460">
+  <rect width="700" height="460" fill="#ffffff"/>
+  <style>
+    text { font-family: sans-serif; }
+    .title { font-size: 20px; font-weight: bold; fill: #1a1a1a; }
+    .subtitle { font-size: 13px; fill: #666; }
+    .step-box { font-size: 14px; font-weight: bold; fill: #222; }
+    .step-body { font-size: 13px; fill: #444; }
+    .arrow { stroke: #999; stroke-width: 2; fill: none; }
+    .accent-red { fill: #c0392b; }
+    .accent-blue { fill: #3b6cb5; }
+    .accent-gray { fill: #7f8c8d; }
+    .highlight-box { fill: #fff3cd; stroke: #e6a817; stroke-width: 1.5; }
+  </style>
+
+  <text x="30" y="35" class="title">스트레스 DSR 3단계 — 한도 산정 구조</text>
+  <text x="30" y="55" class="subtitle">2026년 8월부터 본격 시행 · 실제 금리에 스트레스 금리(+0.75%p)를 더해 한도 산정</text>
+
+  <!-- 왼쪽: 기존 방식 -->
+  <rect x="30" y="80" width="280" height="300" rx="8" fill="#f8f9fa" stroke="#ccc" stroke-width="1.5"/>
+  <text x="45" y="110" class="step-box">기존 DSR 한도 산정</text>
+  <text x="45" y="128" class="step-body">(2025년 7월 이전)</text>
+  <line x1="45" y1="140" x2="295" y2="140" stroke="#ddd" stroke-width="1"/>
+  <text x="45" y="160" class="step-body">실제 대출 금리 사용</text>
+  <text x="45" y="180" class="step-body">예: 연 4.0%</text>
+  <line x1="45" y1="200" x2="295" y2="200" stroke="#ddd" stroke-width="1"/>
+  <text x="45" y="220" class="step-body">DSR 계산 시</text>
+  <text x="45" y="238" class="step-body">바로 4.0% 기준 적용</text>
+  <line x1="45" y1="258" x2="295" y2="258" stroke="#ddd" stroke-width="1"/>
+  <text x="45" y="278" class="step-body">→ 같은 소득 대비</text>
+  <text x="45" y="296" class="step-body">한도 비교적 넉넉함</text>
+
+  <!-- 가운데 화살표 -->
+  <path d="M 320 230 Q 360 230 360 230 Q 400 230 400 230" class="arrow"/>
+  <polygon points="395,225 405,230 395,235" fill="#999"/>
+  <text x="360" y="260" text-anchor="middle" class="subtitle">스트레스 DSR 적용</text>
+
+  <!-- 오른쪽: 스트레스 DSR 방식 -->
+  <rect x="410" y="80" width="280" height="300" rx="8" fill="#fff8f8" stroke="#c0392b" stroke-width="1.5"/>
+  <text x="425" y="110" class="step-box">스트레스 DSR 한도 산정</text>
+  <text x="425" y="128" class="step-body">(2026년 8월~, 3단계)</text>
+  <line x1="425" y1="140" x2="665" y2="140" stroke="#ddd" stroke-width="1"/>
+  <text x="425" y="160" class="step-body">실제 대출 금리</text>
+  <text x="425" y="178" class="step-body">연 4.0%</text>
+  <line x1="425" y1="200" x2="665" y2="200" stroke="#ddd" stroke-width="1"/>
+  <rect x="425" y="205" width="260" height="70" class="highlight-box" rx="4"/>
+  <text x="440" y="225" class="step-body" font-weight="bold" fill="#c0392b">스트레스 금리 +0.75%p</text>
+  <text x="440" y="248" class="step-body">더해서 계산</text>
+  <line x1="425" y1="282" x2="665" y2="282" stroke="#ddd" stroke-width="1"/>
+  <text x="425" y="302" class="step-body">DSR 계산 시</text>
+  <text x="425" y="320" class="step-body">4.75% 기준 적용</text>
+  <line x1="425" y1="342" x2="665" y2="342" stroke="#ddd" stroke-width="1"/>
+  <text x="425" y="362" class="step-body">→ 같은 소득 대비</text>
+  <text x="425" y="380" class="step-body">한도 줄어듦</text>
+
+  <!-- 하단 예시 박스 -->
+  <rect x="30" y="400" width="660" height="45" rx="6" fill="#f0f4fb" stroke="#3b6cb5" stroke-width="1"/>
+  <text x="45" y="420" class="step-body">예시: 연소득 6,000만 원, 기존 대출 없음, 3억 원 아파트 매수, 2억 원 주담대</text>
+  <text x="45" y="438" class="step-body" fill="#c0392b">2025년 7월 이전엔 DSR 40% 내에서 가능했지만, 지금은 스트레스 금리(+0.75%p)가 더해져 한도가 더 보수적으로 산정됨</text>
+
+  <!-- 출처 -->
+  <text x="30" y="465" class="subtitle">자료: 금융위원회·한국은행 발표 기준 (2026년 8월)</text>
+</svg>
