@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <rect width="1200" height="675" fill="#ffffff"/>
+  
+  <!-- 헤더 -->
+  <rect x="50" y="40" width="1100" height="60" rx="8" fill="#2c5aa0"/>
+  <text x="600" y="78" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="700" fill="#ffffff">
+    2026년 치과보험 주요 보장내역 비교
+  </text>
+  
+  <!-- 표 영역 -->
+  <rect x="50" y="120" width="1100" height="480" rx="8" fill="#f7fafc" stroke="#cbd5e0" stroke-width="1"/>
+  
+  <!-- 표 헤더 -->
+  <rect x="50" y="120" width="1100" height="50" fill="#4a90d9"/>
+  <text x="140" y="152" font-family="sans-serif" font-size="20" font-weight="600" fill="#ffffff">구분</text>
+  <text x="370" y="152" font-family="sans-serif" font-size="20" font-weight="600" fill="#ffffff">스케일링</text>
+  <text x="600" y="152" font-family="sans-serif" font-size="20" font-weight="600" fill="#ffffff">임플란트</text>
+  <text x="820" y="152" font-family="sans-serif" font-size="20" font-weight="600" fill="#ffffff">틀니</text>
+  <text x="990" y="152" font-family="sans-serif" font-size="20" font-weight="600" fill="#ffffff">비고</text>
+  
+  <!-- 구분선 -->
+  <line x1="50" y1="170" x2="1150" y2="170" stroke="#2c5aa0" stroke-width="2"/>
+  
+  <!-- 1행: 삼성화재 -->
+  <rect x="50" y="170" width="1100" height="55" fill="#ffffff"/>
+  <rect x="50" y="225" x2="1150" y2="225" stroke="#cbd5e0" stroke-width="1"/>
+  <text x="140" y="202" font-family="sans-serif" font-size="19" fill="#2d3748">삼성화재</text>
+  <text x="370" y="202" font-family="sans-serif" font-size="19" fill="#2d3748">연 1회</text>
+  <text x="600" y="202" font-family="sans-serif" font-size="19" fill="#2d3748">최대 200만원</text>
+  <text x="820" y="202" font-family="sans-serif" font-size="19" fill="#2d3748">최대 100만원</text>
+  <text x="990" y="202" font-family="sans-serif" font-size="19" fill="#2d3748">갱신형 상품</text>
+  
+  <!-- 2행: 현대해상 -->
+  <rect x="50" y="225" width="1100" height="55" fill="#f0f7ff" stroke="#cbd5e0" stroke-width="1"/>
+  <text x="140" y="257" font-family="sans-serif" font-size="19" fill="#2d3748">현대해상</text>
+  <text x="370" y="257" font-family="sans-serif" font-size="19" fill="#2d3748">연 1~2회</text>
+  <text x="600" y="257" font-family="sans-serif" font-size="19" fill="#2d3748">최대 250만원</text>
+  <text x="820" y="257" font-family="sans-serif" font-size="19" fill="#2d3748">최대 150만원</text>
+  <text x="990" y="257" font-family="sans-serif" font-size="19" fill="#2d3748">비갱신 옵션 가능</text>
+  
+  <!-- 3행: 한화손해보험 -->
+  <rect x="50" y="280" width="1100" height="55" fill="#ffffff" stroke="#cbd5e0" stroke-width="1"/>
+  <text x="140" y="312" font-family="sans-serif" font-size="19" fill="#2d3748">한화손해보험</text>
+  <text x="370" y="312" font-family="sans-serif" font-size="19" fill="#2d3748">연 1회</text>
+  <text x="600" y="312" font-family="sans-serif" font-size="19" fill="#2d3748">최대 300만원</text>
+  <text x="820" y="312" font-family="sans-serif" font-size="19" fill="#2d3748">최대 150만원</text>
+  <text x="990" y="312" font-family="sans-serif" font-size="19" fill="#2d3748">특약 선택 가능</text>
+  
+  <!-- 4행: 라이나생명 (2026년 신규 확인) -->
+  <rect x="50" y="335" width="1100" height="55" fill="#f0f7ff" stroke="#cbd5e0" stroke-width="1"/>
+  <text x="140" y="367" font-family="sans-serif" font-size="19" fill="#2d3748">라이나생명</text>
+  <text x="370" y="367" font-family="sans-serif" font-size="19" fill="#2d3748">연 1회</text>
+  <text x="600" y="367" font-family="sans-serif" font-size="19" fill="#2d3748">치아당 최대 200만원</text>
+  <text x="820" y="367" font-family="sans-serif" font-size="19" fill="#2d3748">보장 (크라운·브릿지 포함)</text>
+  <text x="990" y="367" font-family="sans-serif" font-size="19" fill="#2d3748">비갱신형, 10년 동일 보험료</text>
+  
+  <!-- 5행: 메리츠화재 (2026년 확인) -->
+  <rect x="50" y="390" width="1100" height="55" fill="#ffffff" stroke="#cbd5e0" stroke-width="1"/>
+  <text x="140" y="422" font-family="sans-serif" font-size="19" fill="#2d3748">메리츠화재</text>
+  <text x="370" y="422" font-family="sans-serif" font-size="19" fill="#2d3748">보장 (충전치료 포함)</text>
+  <text x="600" y="422" font-family="sans-serif" font-size="19" fill="#2d3748">보철통합치료비 보장</text>
+  <text x="820" y="422" font-family="sans-serif" font-size="19" fill="#2d3748">보장 (특약)</text>
+  <text x="990" y="422" font-family="sans-serif" font-size="19" fill="#2d3748">897만 고객 가입 (26.3월 기준)</text>
+  
+  <!-- 출처 -->
+  <text x="600" y="570" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#718096">
+    출처: 각 보험사 공식 홈페이지 및 금융감독원 보험다모아 (2026년 8월 기준)
+  </text>
+  <text x="600" y="590" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#a0aec0">
+    ※ 위 표는 대표 상품의 예시를 정리한 것으로, 실제 보장 내용과 한도는 가입 시 약관을 반드시 확인하세요.
+  </text>
+  
+  <!-- 건강보험 정보 박스 -->
+  <rect x="50" y="460" width="1100" height="80" rx="8" fill="#f0fff4" stroke="#48bb78" stroke-width="2"/>
+  <text x="100" y="490" font-family="sans-serif" font-size="18" font-weight="600" fill="#22543d">🏥 건강보험 적용 요약 (2026년 현재)</text>
+  <text x="100" y="520" font-family="sans-serif" font-size="16" fill="#2d3748">
+    · 스케일링: 만 19세 이상 연 1회 건강보험 급여 적용 (본인부담 약 1~3만원)
+  </text>
+  <text x="100" y="545" font-family="sans-serif" font-size="16" fill="#2d3748">
+    · 임플란트: 만 65세 이상 평생 2개, 본인부담 30% (2017~2018년부터 시행 중)
+  </text>
+</svg>
