@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="1200" height="675">
+  <rect width="1200" height="675" fill="#ffffff"/>
+  
+  <!-- 헤더 -->
+  <rect x="50" y="40" width="1100" height="60" rx="8" fill="#2c5aa0"/>
+  <text x="600" y="78" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="700" fill="#ffffff">
+    치과보험 가입 전 체크리스트: 단계별 확인 포인트
+  </text>
+  
+  <!-- 1단계 박스 -->
+  <rect x="60" y="140" width="240" height="180" rx="12" fill="#ebf8ff" stroke="#4a90d9" stroke-width="2"/>
+  <circle cx="180" cy="170" r="22" fill="#4a90d9"/>
+  <text x="180" y="178" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="700" fill="#ffffff">1</text>
+  <text x="85" y="205" font-family="sans-serif" font-size="20" font-weight="700" fill="#2c5aa0">보장 범위 확인</text>
+  <text x="85" y="235" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 충전치료</text>
+  <text x="85" y="255" font-family="sans-serif" font-size="15" fill="#2d3748">  (레진·인레이)</text>
+  <text x="85" y="280" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 크라운·브릿지</text>
+  <text x="85" y="300" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 임플란트 한도</text>
+  <text x="85" y="320" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 틀니 포함 여부</text>
+  
+  <!-- 화살표 -->
+  <line x1="300" y1="230" x2="370" y2="230" stroke="#4a90d9" stroke-width="3"/>
+  <polygon points="365,225 375,230 365,235" fill="#4a90d9"/>
+  
+  <!-- 2단계 박스 -->
+  <rect x="370" y="140" width="240" height="180" rx="12" fill="#f0fff4" stroke="#48bb78" stroke-width="2"/>
+  <circle cx="490" cy="170" r="22" fill="#48bb78"/>
+  <text x="490" y="178" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="700" fill="#ffffff">2</text>
+  <text x="395" y="205" font-family="sans-serif" font-size="20" font-weight="700" fill="#22543d">면책·감액 확인</text>
+  <text x="395" y="235" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 90일 면책기간</text>
+  <text x="395" y="255" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 2년 미만 감액</text>
+  <text x="395" y="275" font-family="sans-serif" font-size="15" fill="#2d3748">  (50% 지급 등)</text>
+  <text x="395" y="295" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 치료시기 확인</text>
+  <text x="395" y="315" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 발치일 기준</text>
+  
+  <!-- 화살표 -->
+  <line x1="610" y1="230" x2="680" y2="230" stroke="#48bb78" stroke-width="3"/>
+  <polygon points="675,225 685,230 675,235" fill="#48bb78"/>
+  
+  <!-- 3단계 박스 -->
+  <rect x="680" y="140" width="240" height="180" rx="12" fill="#fffaf0" stroke="#ed8936" stroke-width="2"/>
+  <circle cx="800" cy="170" r="22" fill="#ed8936"/>
+  <text x="800" y="178" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="700" fill="#ffffff">3</text>
+  <text x="705" y="205" font-family="sans-serif" font-size="20" font-weight="700" fill="#9c4221">보험료·갱신 비교</text>
+  <text x="705" y="235" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 월 보험료 확인</text>
+  <text x="705" y="255" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 갱신형 vs 비갱신형</text>
+  <text x="705" y="275" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 연령별 보험료</text>
+  <text x="705" y="295" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 해지환급금</text>
+  <text x="705" y="315" font-family="sans-serif" font-size="15" fill="#2d3748">✓ 특약 추가 여부</text>
+  
+  <!-- 화살표 -->
+  <line x1="920" y1="230" x2="990" y2="230" stroke="#ed8936" stroke-width="3"/>
+  <polygon points="985,225 995,230 985,235" fill="#ed8936"/>
+  
+  <!-- 4단계 박스 -->
+  <rect x="990" y="140" width="150" height="180" rx="12" fill="#f7fafc" stroke="#a0aec0" stroke-width="2"/>
+  <circle cx="1065" cy="170" r="22" fill="#a0aec0"/>
+  <text x="1065" y="178" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="700" fill="#ffffff">4</text>
+  <text x="1015" y="205" font-family="sans-serif" font-size="19" font-weight="700" fill="#2d3748" text-anchor="middle">약관</text>
+  <text x="1015" y="230" font-family="sans-serif" font-size="19" font-weight="700" fill="#2d3748" text-anchor="middle">최종</text>
+  <text x="1015" y="255" font-family="sans-serif" font-size="18" fill="#2d3748" text-anchor="middle">확인 후</text>
+  <text x="1015" y="280" font-family="sans-serif" font-size="22" font-weight="700" fill="#2c5aa0" text-anchor="middle">가입!</text>
+  
+  <!-- 하단 주의사항 박스 -->
+  <rect x="60" y="360" width="1080" height="230" rx="12" fill="#fffff0" stroke="#d69e2e" stroke-width="2"/>
+  <text x="100" y="395" font-family="sans-serif" font-size="22" font-weight="700" fill="#975a16">⚠ 자주 놓치는 실수 &amp; 탈락 사유</text>
+  
+  <text x="90" y="430" font-family="sans-serif" font-size="17" font-weight="600" fill="#2d3748">1. 기본 보험만 가입하고 특약 빠뜨리기</text>
+  <text x="110" y="455" font-family="sans-serif" font-size="14" fill="#718096">임플란트 보장이 특약으로만 있는 상품이 많으니 약관 확인 필수</text>
+  
+  <text x="90" y="490" font-family="sans-serif" font-size="17" font-weight="600" fill="#2d3748">2. 가입 전 이미 발치한 치아는 보장 제외</text>
+  <text x="110" y="515" font-family="sans-serif" font-size="14" fill="#718096">"가입 전 발치(치아 상실) 시 제외된다"는 조건이 대부분 약관에 있음</text>
+  
+  <text x="90" y="550" font-family="sans-serif" font-size="17" font-weight="600" fill="#2d3748">3. 면책기간(90일) 내 치료 시 보험금 미지급</text>
+  <text x="110" y="575" font-family="sans-serif" font-size="14" fill="#718096">충치·치주질환은 가입 전 이미 진행된 경우 보장 제외될 수 있음</text>
+  
+  <text x="90" y="610" font-family="sans-serif" font-size="17" font-weight="600" fill="#2d3748">4. 65세 이상 건강보험 임플란트와 중복 청구 가능</text>
+  <text x="110" y="635" font-family="sans-serif" font-size="14" fill="#718096">건강보험 임플란트(만 65세 이상 평생 2개, 본인부담 30%)와 개인 치아보험 중복 청구 가능</text>
+  
+  <text x="600" y="665" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#a0aec0">
+    출처: 각 보험사 약관 및 금융감독원 보험다모아 (2026년 8월 기준)
+  </text>
+</svg>
