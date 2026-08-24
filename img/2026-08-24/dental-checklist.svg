@@ -74,8 +74,8 @@
   <text x="90" y="550" font-family="sans-serif" font-size="17" font-weight="600" fill="#2d3748">3. 면책기간(90일) 내 치료 시 보험금 미지급</text>
   <text x="110" y="575" font-family="sans-serif" font-size="14" fill="#718096">충치·치주질환은 가입 전 이미 진행된 경우 보장 제외될 수 있음</text>
   
-  <text x="90" y="610" font-family="sans-serif" font-size="17" font-weight="600" fill="#2d3748">4. 65세 이상 건강보험 임플란트와 중복 청구 가능</text>
-  <text x="110" y="635" font-family="sans-serif" font-size="14" fill="#718096">건강보험 임플란트(만 65세 이상 평생 2개, 본인부담 30%)와 개인 치아보험 중복 청구 가능</text>
+  <text x="90" y="610" font-family="sans-serif" font-size="17" font-weight="600" fill="#2d3748">4. 65세 이상 건강보험 임플란트 급여 조건</text>
+  <text x="110" y="635" font-family="sans-serif" font-size="14" fill="#718096">만 65세 이상, 평생 2개까지, 본인부담 30% — 개인보험 중복 청구는 보험사별 약관 확인 필요</text>
   
   <text x="600" y="665" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#a0aec0">
     출처: 각 보험사 약관 및 금융감독원 보험다모아 (2026년 8월 기준)
