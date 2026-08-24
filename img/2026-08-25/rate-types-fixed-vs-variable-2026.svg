@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" width="700" height="440">
+  <rect width="700" height="440" fill="#ffffff"/>
+  <style>
+    text { font-family: sans-serif; }
+    .title { font-size: 20px; font-weight: bold; fill: #1a1a1a; }
+    .subtitle { font-size: 13px; fill: #666; }
+    .card-title { font-size: 16px; font-weight: bold; fill: #222; }
+    .card-body { font-size: 13px; fill: #444; }
+    .accent-blue { fill: #3b6cb5; }
+    .accent-orange { fill: #d4783a; }
+    .accent-green { fill: #2e8b57; }
+    .line { stroke: #ccc; stroke-width: 1; }
+  </style>
+
+  <text x="30" y="35" class="title">고정금리 vs 변동금리 vs 혼합형, 한눈에 보기</text>
+  <text x="30" y="55" class="subtitle">2026년 8월 기준 · 본인에게 맞는 유형 선택 가이드</text>
+
+  <!-- 고정금리 카드 -->
+  <rect x="30" y="80" width="200" height="280" rx="8" fill="#f0f4fb" stroke="#3b6cb5" stroke-width="2"/>
+  <text x="45" y="110" class="card-title">고정금리</text>
+  <circle cx="55" cy="124" r="5" class="accent-blue"/>
+  <text x="70" y="128" class="card-body">일정 기간(1년·3년·5년 등) 금리가 고정</text>
+  <text x="45" y="150" class="card-body">초기 금리: 변동금리보다</text>
+  <text x="45" y="166" class="card-body">0.1~0.3%p 정도 높게 형성</text>
+  <text x="45" y="190" class="card-body" font-weight="bold">장점</text>
+  <text x="45" y="208" class="card-body">· 상환액이 일정해 장기 예산 계획 가능</text>
+  <text x="45" y="226" class="card-body">· 금리 인상기에도 상환액 변동 없음</text>
+  <text x="45" y="244" class="card-body">· 은퇴 후 고정소득자에게 적합</text>
+  <text x="45" y="270" class="card-body" font-weight="bold">이런 분께</text>
+  <text x="45" y="288" class="card-body">· 금리 변동 불확실성이 부담스러운 분</text>
+  <text x="45" y="306" class="card-body">· 집값·금리 상승 걱정 있는 분</text>
+
+  <!-- 변동금리 카드 -->
+  <rect x="250" y="80" width="200" height="280" rx="8" fill="#fdf3ec" stroke="#d4783a" stroke-width="2"/>
+  <text x="265" y="110" class="card-title">변동금리</text>
+  <circle cx="275" cy="124" r="5" class="accent-orange"/>
+  <text x="290" y="128" class="card-body">COFIX·기준금리 변화에 따라</text>
+  <text x="290" y="146" class="card-body">3개월·6개월·12개월 주기마다 금리 변동</text>
+  <text x="265" y="170" class="card-body">현재(금리 인하 국면):</text>
+  <text x="265" y="188" class="card-body">초기 금리 낮고 이자 부담 감소</text>
+  <text x="265" y="210" class="card-body" font-weight="bold">장점</text>
+  <text x="265" y="228" class="card-body">· 금리 인하 국면에서 초기 금리 유리</text>
+  <text x="265" y="246" class="card-body">· 이자가 줄어 월 상환액 감소 기대</text>
+  <text x="265" y="270" class="card-body" font-weight="bold">위험</text>
+  <text x="265" y="288" class="card-body">· 금리 인상 시 월 상환액 증가</text>
+  <text x="265" y="306" class="card-body">· 소득 변동 큰 분은 주의 필요</text>
+
+  <!-- 혼합형 카드 -->
+  <rect x="470" y="80" width="200" height="280" rx="8" fill="#f0faf3" stroke="#2e8b57" stroke-width="2"/>
+  <text x="485" y="110" class="card-title">혼합형</text>
+  <circle cx="495" cy="124" r="5" class="accent-green"/>
+  <text x="510" y="128" class="card-body">일정 기간(예: 3년) 고정금리 →</text>
+  <text x="510" y="146" class="card-body">이후 변동금리로 전환</text>
+  <text x="485" y="170" class="card-body" font-weight="bold">장점</text>
+  <text x="485" y="188" class="card-body">· 초기 안정감 + 장기 변동 흐름 기대</text>
+  <text x="485" y="210" class="card-body">· 전환으로 유연성 확보</text>
+  <text x="485" y="230" class="card-body" font-weight="bold">이런 분께</text>
+  <text x="485" y="248" class="card-body">· 초기 안심 + 장기 변동금리 희망</text>
+  <text x="485" y="266" class="card-body">· 일정 기간 후 상황 변화 예상 가능</text>
+
+  <!-- 하단 메모 -->
+  <text x="30" y="385" class="subtitle">실제 적용 금리는 신용도·소득·담보·상환 방식·우대 조건 충족 여부에 따라 달라집니다.</text>
+</svg>
