@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+<rect width="1200" height="630" fill="#ffffff"/>
+<defs>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#eef3fb"/>
+    <stop offset="100%" stop-color="#e3ecf7"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="630" fill="url(#bg)"/>
+<style>
+  text { font-family: sans-serif; }
+  .t { font-size: 52px; font-weight: bold; fill: #17233d; }
+  .s { font-size: 24px; fill: #4a5a75; }
+  .k { font-size: 30px; font-weight: bold; fill: #2d5aa8; }
+  .kl { font-size: 16px; fill: #667; }
+  .warn { font-size: 19px; font-weight: bold; fill: #8a6d1f; }
+</style>
+<text class="t" x="80" y="150">청년미래적금</text>
+<text class="t" x="80" y="215">지금 가입해도 될까?</text>
+<text class="s" x="80" y="268">청년도약계좌 갈아타기를 놓친 분들을 위한 정리</text>
+
+<rect x="80" y="315" width="320" height="130" rx="10" fill="#ffffff" stroke="#c7d3e6"/>
+<text class="k" x="110" y="368">3년</text>
+<text class="kl" x="110" y="400">만기</text>
+
+<rect x="440" y="315" width="320" height="130" rx="10" fill="#ffffff" stroke="#c7d3e6"/>
+<text class="k" x="470" y="368">월 50만 원</text>
+<text class="kl" x="470" y="400">납입 한도</text>
+
+<rect x="800" y="315" width="320" height="130" rx="10" fill="#ffffff" stroke="#c7d3e6"/>
+<text class="k" x="830" y="368">연 7.0~8.0%</text>
+<text class="kl" x="830" y="400">최대 금리 (세전)</text>
+
+<rect x="80" y="480" width="1040" height="70" rx="8" fill="#fff8e6" stroke="#f0c674"/>
+<text class="warn" x="110" y="524">특별 중도해지 기간 종료 — 2026년 6월 22일 ~ 7월 3일 신청자에 한해 인정됐습니다</text>
+<text x="80" y="592" font-size="14" fill="#8895aa">2026년 8월 기준 · 출처: 대한민국 정책브리핑, 각 은행 공식 안내</text>
+</svg>
