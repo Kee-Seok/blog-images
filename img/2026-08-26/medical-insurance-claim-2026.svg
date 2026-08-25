@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" font-family="Noto Sans KR, sans-serif">
+  <rect width="1200" height="600" fill="#ffffff"/>
+
+  <!-- 제목 -->
+  <text x="60" y="60" font-size="32" font-weight="700" fill="#202124">실손보험금 차감 — 병원비 전액 공제 착각이 제일 흔한 함정입니다</text>
+  <text x="60" y="92" font-size="18" fill="#5f6368">공제는 실제로 내 주머니에서 나간 돈만 대상으로 합니다</text>
+
+  <!-- 왼쪽: 잘못된 예시 (회색/빨강 계열) -->
+  <rect x="60" y="140" width="520" height="360" rx="14" fill="#f6f7f8" stroke="#c5c7c9" stroke-width="2"/>
+  <text x="80" y="180" font-size="22" font-weight="700" fill="#d93025">이렇게 생각하면 틀립니다</text>
+  <text x="80" y="200" font-size="16" fill="#5f6368">진료비 전체를 의료비로 넣고</text>
+  <text x="80" y="220" font-size="16" fill="#5f6368">실손보험금은 신경 안 쓰는 방식</text>
+
+  <!-- 왼쪽 표 -->
+  <rect x="80" y="260" width="480" height="56" fill="#ffffff" stroke="#c5c7c9" stroke-width="1"/>
+  <text x="100" y="292" font-size="17" font-weight="700" fill="#202124">진료비 결제</text>
+  <text x="380" y="292" font-size="17" font-weight="700" fill="#202124">100만원</text>
+
+  <rect x="80" y="316" width="480" height="56" fill="#ffffff" stroke="#c5c7c9" stroke-width="1"/>
+  <text x="100" y="348" font-size="17" font-weight="700" fill="#202124">실손보험금 수령</text>
+  <text x="380" y="348" font-size="17" font-weight="700" fill="#d93025">70만원</text>
+
+  <rect x="80" y="372" width="480" height="56" fill="#fff0f0" stroke="#d93025" stroke-width="2"/>
+  <text x="100" y="398" font-size="17" font-weight="700" fill="#d93025">공제 대상 (이렇게 계산 ❌)</text>
+  <text x="380" y="398" font-size="20" font-weight="700" fill="#d93025">100만원</text>
+
+  <text x="80" y="450" font-size="15" fill="#5f6368">→ 보험사가 돌려준 70만원을 빼지 않아서</text>
+  <text x="80" y="472" font-size="15" fill="#5f6368">→ 공제 대상이 실제보다 부풀려집니다</text>
+  <text x="80" y="498" font-size="16" fill="#d93025">→ 나중에 가산세 위험까지 생길 수 있습니다</text>
+
+  <!-- 가운데 X 표시 -->
+  <g transform="translate(565,310)">
+    <rect x="-10" y="-10" width="20" height="20" fill="#ffffff"/>
+    <text x="-40" y="5" font-size="36" font-weight="900" fill="#d93025">✕</text>
+  </g>
+
+  <!-- 오른쪽: 맞는 예시 (파랑/초록 계열) -->
+  <rect x="620" y="140" width="520" height="360" rx="14" fill="#eaf7ea" stroke="#66bb6a" stroke-width="2"/>
+  <text x="640" y="180" font-size="22" font-weight="700" fill="#2e7d32">이게 맞습니다</text>
+  <text x="640" y="200" font-size="16" fill="#5f6368">실제로 내 주머니에서 나간</text>
+  <text x="640" y="220" font-size="16" fill="#5f6368">돈만 의료비 공제 대상으로 합니다</text>
+
+  <!-- 오른쪽 표 -->
+  <rect x="640" y="260" width="480" height="56" fill="#ffffff" stroke="#c5c7c9" stroke-width="1"/>
+  <text x="660" y="292" font-size="17" font-weight="700" fill="#202124">진료비 결제</text>
+  <text x="920" y="292" font-size="17" font-weight="700" fill="#202124">100만원</text>
+
+  <rect x="640" y="316" width="480" height="56" fill="#ffffff" stroke="#c5c7c9" stroke-width="1"/>
+  <text x="660" y="348" font-size="17" font-weight="700" fill="#202124">실손보험금 수령 (차감)</text>
+  <text x="920" y="348" font-size="17" font-weight="700" fill="#2e7d32">− 70만원</text>
+
+  <rect x="640" y="372" width="480" height="56" fill="#e8f5e9" stroke="#66bb6a" stroke-width="2"/>
+  <text x="660" y="398" font-size="17" font-weight="700" fill="#2e7d32">공제 대상 (이렇게 계산 ✅)</text>
+  <text x="920" y="398" font-size="20" font-weight="700" fill="#2e7d32">30만원</text>
+
+  <text x="640" y="450" font-size="15" fill="#5f6368">→ 진료비 100만원 중</text>
+  <text x="640" y="472" font-size="15" fill="#5f6368">→ 실손으로 70만원 돌려받았으니</text>
+  <text x="640" y="498" font-size="16" fill="#2e7d32">→ 실제 부담은 30만원, 이 금액만 공제</text>
+
+  <!-- 하단 교훈 박스 -->
+  <rect x="60" y="530" width="1070" height="56" rx="8" fill="#fff8f0" stroke="#ffd9b3" stroke-width="2"/>
+  <text x="80" y="558" font-size="16" font-weight="700" fill="#ff7a18">실손보험금으로 돌려받은 금액은 반드시 의료비에서 빼고 계산하세요</text>
+  <text x="80" y="580" font-size="14" fill="#5f6368">진료비는 작년에 냈는데 실손은 올해 받았다면, 받은 해에 맞춰 수정신고하면 가산세 면제 가능</text>
+</svg>
