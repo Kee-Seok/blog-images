@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="Noto Sans KR, sans-serif">
+  <rect width="1200" height="700" fill="#ffffff"/>
+
+  <!-- 제목 -->
+  <text x="60" y="60" font-size="32" font-weight="700" fill="#202124">총급여별 3% 문턱 — 내 병원비가 공제 시작되는 지점</text>
+  <text x="60" y="92" font-size="18" fill="#5f6368">2025년 귀속 연말정산 기준 · 총급여 × 3% = 공제 시작점</text>
+
+  <!-- 표 시작 -->
+  <!-- 헤더 행 -->
+  <rect x="60" y="120" width="220" height="56" fill="#f6f7f8"/>
+  <text x="80" y="152" font-size="18" font-weight="700" fill="#202124">총급여</text>
+
+  <rect x="280" y="120" width="240" height="56" fill="#f6f7f8"/>
+  <text x="300" y="152" font-size="18" font-weight="700" fill="#202124">3% 문턱</text>
+
+  <rect x="520" y="120" width="400" height="56" fill="#f6f7f8"/>
+  <text x="540" y="152" font-size="18" font-weight="700" fill="#202124">공제 시작점 (해설)</text>
+
+  <rect x="920" y="120" width="220" height="56" fill="#f6f7f8"/>
+  <text x="940" y="152" font-size="18" font-weight="700" fill="#202124">대표 예시</text>
+
+  <!-- 데이터 행 1 -->
+  <rect x="60" y="176" width="220" height="70" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <text x="80" y="218" font-size="20" font-weight="700" fill="#202124">3,000만원</text>
+
+  <rect x="280" y="176" width="240" height="70" fill="#fff4e6" stroke="#ffd9b3" stroke-width="1"/>
+  <text x="300" y="218" font-size="22" font-weight="700" fill="#ff7a18">90만원</text>
+  <text x="300" y="248" font-size="14" fill="#5f6368">3% = 90만원</text>
+
+  <rect x="520" y="176" width="400" height="70" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <text x="540" y="218" font-size="17" fill="#202124">병원비가 90만원 이하면 공제 0원</text>
+  <text x="540" y="245" font-size="17" fill="#202124">90만원 초과분부터 15% 환급 시작</text>
+
+  <rect x="920" y="176" width="220" height="70" fill="#eaf7ea" stroke="#a5d6a5" stroke-width="1"/>
+  <text x="940" y="208" font-size="15" fill="#202124">연봉 3천만 원</text>
+  <text x="940" y="230" font-size="15" fill="#202124">신입·초봉 직장인</text>
+  <text x="940" y="252" font-size="13" fill="#5f6368">문턱 낮아 유리</text>
+
+  <!-- 데이터 행 2 -->
+  <rect x="60" y="246" width="220" height="70" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <text x="80" y="288" font-size="20" font-weight="700" fill="#202124">4,000만원</text>
+
+  <rect x="280" y="246" width="240" height="70" fill="#fff4e6" stroke="#ffd9b3" stroke-width="1"/>
+  <text x="300" y="288" font-size="22" font-weight="700" fill="#ff7a18">120만원</text>
+  <text x="300" y="318" font-size="14" fill="#5f6368">3% = 120만원</text>
+
+  <rect x="520" y="246" width="400" height="70" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <text x="540" y="288" font-size="17" fill="#202124">병원비가 120만원 이하면 공제 0원</text>
+  <text x="540" y="315" font-size="17" fill="#202124">120만원 초과분부터 15% 환급 시작</text>
+
+  <rect x="920" y="246" width="220" height="70" fill="#eaf7ea" stroke="#a5d6a5" stroke-width="1"/>
+  <text x="940" y="278" font-size="15" fill="#202124">연봉 4천만 원</text>
+  <text x="940" y="300" font-size="15" fill="#202124">중견 직장인</text>
+  <text x="940" y="322" font-size="13" fill="#5f6368">가장 흔한 구간</text>
+
+  <!-- 데이터 행 3 -->
+  <rect x="60" y="316" width="220" height="70" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <text x="80" y="358" font-size="20" font-weight="700" fill="#202124">5,000만원</text>
+
+  <rect x="280" y="316" width="240" height="70" fill="#fff4e6" stroke="#ffd9b3" stroke-width="1"/>
+  <text x="300" y="358" font-size="22" font-weight="700" fill="#ff7a18">150만원</text>
+  <text x="300" y="388" font-size="14" fill="#5f6368">3% = 150만원</text>
+
+  <rect x="520" y="316" width="400" height="70" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <text x="540" y="358" font-size="17" fill="#202124">병원비가 150만원 이하면 공제 0원</text>
+  <text x="540" y="385" font-size="17" fill="#202124">150만원 초과분부터 15% 환급 시작</text>
+
+  <rect x="920" y="316" width="220" height="70" fill="#eaf7ea" stroke="#a5d6a5" stroke-width="1"/>
+  <text x="940" y="348" font-size="15" fill="#202124">연봉 5천만 원</text>
+  <text x="940" y="370" font-size="15" fill="#202124">고소득 직장인</text>
+  <text x="940" y="392" font-size="13" fill="#5f6368">문턱 높음 주의</text>
+
+  <!-- 데이터 행 4 -->
+  <rect x="60" y="386" width="220" height="70" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <text x="80" y="428" font-size="20" font-weight="700" fill="#202124">6,000만원</text>
+
+  <rect x="280" y="386" width="240" height="70" fill="#fff4e6" stroke="#ffd9b3" stroke-width="1"/>
+  <text x="300" y="428" font-size="22" font-weight="700" fill="#ff7a18">180만원</text>
+  <text x="300" y="458" font-size="14" fill="#5f6368">3% = 180만원</text>
+
+  <rect x="520" y="386" width="400" height="70" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <text x="540" y="428" font-size="17" fill="#202124">병원비가 180만원 이하면 공제 0원</text>
+  <text x="540" y="455" font-size="17" fill="#202124">180만원 초과분부터 15% 환급 시작</text>
+
+  <rect x="920" y="386" width="220" height="70" fill="#eaf7ea" stroke="#a5d6a5" stroke-width="1"/>
+  <text x="940" y="418" font-size="15" fill="#202124">연봉 6천만 원</text>
+  <text x="940" y="440" font-size="15" fill="#202124">맞벌이 가구</text>
+  <text x="940" y="462" font-size="13" fill="#5f6368">문턱 높음 주의</text>
+
+  <!-- 데이터 행 5 -->
+  <rect x="60" y="456" width="220" height="70" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <text x="80" y="498" font-size="20" font-weight="700" fill="#202124">7,000만원</text>
+
+  <rect x="280" y="456" width="240" height="70" fill="#fff4e6" stroke="#ffd9b3" stroke-width="1"/>
+  <text x="300" y="498" font-size="22" font-weight="700" fill="#ff7a18">210만원</text>
+  <text x="300" y="528" font-size="14" fill="#5f6368">3% = 210만원</text>
+
+  <rect x="520" y="456" width="400" height="70" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <text x="540" y="498" font-size="17" fill="#202124">병원비가 210만원 이하면 공제 0원</text>
+  <text x="540" y="525" font-size="17" fill="#202124">210만원 초과분부터 15% 환급 시작</text>
+
+  <rect x="920" y="456" width="220" height="70" fill="#eaf7ea" stroke="#a5d6a5" stroke-width="1"/>
+  <text x="940" y="488" font-size="15" fill="#202124">연봉 7천만 원</text>
+  <text x="940" y="510" font-size="15" fill="#202124">맞벌이 고소득</text>
+  <text x="940" y="532" font-size="13" fill="#5f6368">문턱 매우 높음</text>
+
+  <!-- 하단 강조 박스 -->
+  <rect x="60" y="550" width="1070" height="110" rx="12" fill="#fff8f0" stroke="#ffd9b3" stroke-width="2"/>
+  <text x="80" y="582" font-size="20" font-weight="700" fill="#ff7a18">점선 구간: 병원비가 이 금액보다 적으면 의료비 공제 0원</text>
+  <text x="80" y="620" font-size="17" fill="#202124">총급여 4,000만원이면 병원비가 120만원 넘어야 공제 시작</text>
+  <text x="80" y="650" font-size="17" fill="#202124">총급여 5,000만원이면 병원비가 150만원 넘어야 공제 시작</text>
+
+  <!-- 출처 -->
+  <text x="60" y="688" font-size="13" fill="#9aa0a6">2026년 8월 기준 · 소득세법 제59조의4 · 홈택스 연말정산 간소화 안내</text>
+</svg>
