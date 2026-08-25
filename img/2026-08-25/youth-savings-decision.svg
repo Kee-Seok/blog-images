@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560">
+<rect width="1000" height="560" fill="#ffffff"/>
+<style>
+  text { font-family: sans-serif; }
+  .t { font-size: 22px; font-weight: bold; fill: #1a2b45; }
+  .sub { font-size: 13px; fill: #667; }
+  .q { font-size: 16px; font-weight: bold; fill: #1a2b45; }
+  .cap { font-size: 14px; font-weight: bold; fill: #fff; }
+  .body { font-size: 13.5px; fill: #444; }
+  .note { font-size: 12px; fill: #888; }
+</style>
+<text class="t" x="40" y="46">지금 시점, 상황별로 어떻게 해야 할까</text>
+<text class="sub" x="40" y="70">2026년 8월 기준 · 특별 중도해지 기간 종료 이후</text>
+
+<rect x="40" y="96" width="920" height="52" rx="6" fill="#eef2f8" stroke="#c7d3e6"/>
+<text class="q" x="60" y="128">청년도약계좌를 갖고 계신가요?</text>
+
+<rect x="40" y="176" width="450" height="150" rx="6" fill="#f5f9f5" stroke="#a8ceb0"/>
+<rect x="40" y="176" width="450" height="34" rx="6" fill="#3d8c5a"/>
+<text class="cap" x="60" y="199">아니오 — 도약계좌 없음</text>
+<text class="body" x="60" y="234">조건만 맞으면 청년미래적금을 검토하시면 돼요.</text>
+<text class="body" x="60" y="258">단, 신청 기간(6월 22일~7월 3일)이 지났으므로</text>
+<text class="body" x="60" y="282">다음 모집 일정을 은행·금융위 공지에서</text>
+<text class="body" x="60" y="306">확인하셔야 해요.</text>
+
+<rect x="510" y="176" width="450" height="150" rx="6" fill="#fdf6f3" stroke="#e0b09a"/>
+<rect x="510" y="176" width="450" height="34" rx="6" fill="#b5643c"/>
+<text class="cap" x="530" y="199">예 — 도약계좌 유지 중</text>
+<text class="body" x="530" y="234">서둘러 해지하지 마세요.</text>
+<text class="body" x="530" y="258">지금 해지하면 일반 중도해지가 되어</text>
+<text class="body" x="530" y="282">정부 기여금·우대금리·비과세 혜택을</text>
+<text class="body" x="530" y="306">잃게 돼요. 남은 만기를 먼저 따져보세요.</text>
+
+<rect x="40" y="356" width="920" height="120" rx="6" fill="#fff8e6" stroke="#f0c674"/>
+<text x="62" y="386" font-size="15" font-weight="bold" fill="#8a6d1f">특별 중도해지와 일반 중도해지의 차이</text>
+<text class="body" x="62" y="414" fill="#6b5518">특별 중도해지 (6월 22일~7월 3일 신청자) — 원금 + 정부 기여금 + 우대금리 포함 환급, 비과세 유지</text>
+<text class="body" x="62" y="440" fill="#6b5518">일반 중도해지 (그 외 기간) — 정부 기여금·우대금리·비과세 혜택 상실</text>
+<text class="body" x="62" y="464" fill="#8a6d1f">※ 순서 주의: 미래적금 신청 접수가 시작된 뒤에 도약계좌를 해지해야 했습니다</text>
+
+<text class="note" x="40" y="516">출처: 대한민국 정책브리핑 (2026년 6월)</text>
+</svg>
