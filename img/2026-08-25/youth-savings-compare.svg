@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520">
+<rect width="1000" height="520" fill="#ffffff"/>
+<style>
+  text { font-family: sans-serif; }
+  .t { font-size: 22px; font-weight: bold; fill: #1a2b45; }
+  .sub { font-size: 13px; fill: #667; }
+  .hdr { font-size: 15px; font-weight: bold; fill: #ffffff; }
+  .lbl { font-size: 14px; fill: #333; }
+  .val { font-size: 15px; font-weight: bold; fill: #1a2b45; }
+  .note { font-size: 12px; fill: #888; }
+</style>
+<text class="t" x="40" y="46">청년미래적금 vs 청년도약계좌</text>
+<text class="sub" x="40" y="70">2026년 8월 기준 · 두 상품은 중복 가입 불가</text>
+
+<rect x="40" y="95" width="300" height="42" fill="#e8edf5"/>
+<rect x="340" y="95" width="310" height="42" fill="#2d5aa8"/>
+<rect x="650" y="95" width="310" height="42" fill="#6b7c99"/>
+<text class="hdr" x="360" y="122" fill="#fff">청년미래적금</text>
+<text class="hdr" x="670" y="122" fill="#fff">청년도약계좌</text>
+
+<rect x="40" y="137" width="920" height="44" fill="#fafbfd"/>
+<text class="lbl" x="60" y="165">만기</text>
+<text class="val" x="360" y="165">3년</text>
+<text class="val" x="670" y="165">5년</text>
+
+<rect x="40" y="181" width="920" height="44" fill="#f2f5fa"/>
+<text class="lbl" x="60" y="209">월 납입 한도</text>
+<text class="val" x="360" y="209">50만 원</text>
+<text class="val" x="670" y="209">70만 원</text>
+
+<rect x="40" y="225" width="920" height="44" fill="#fafbfd"/>
+<text class="lbl" x="60" y="253">금리 수준</text>
+<text class="val" x="360" y="253">최대 연 7.0~8.0%</text>
+<text class="val" x="670" y="253">약 연 6%</text>
+
+<rect x="40" y="269" width="920" height="44" fill="#f2f5fa"/>
+<text class="lbl" x="60" y="297">정부 기여금</text>
+<text class="val" x="360" y="297">일반형 6% / 우대형 12%</text>
+<text class="val" x="670" y="297">소득 구간별 차등</text>
+
+<rect x="40" y="313" width="920" height="44" fill="#fafbfd"/>
+<text class="lbl" x="60" y="341">자격 유지 심사</text>
+<text class="val" x="360" y="341" fill="#1a7a4a">없음</text>
+<text class="val" x="670" y="341">있음</text>
+
+<rect x="40" y="380" width="920" height="76" fill="#fff8e6" stroke="#f0c674" stroke-width="1"/>
+<text x="62" y="408" font-size="15" font-weight="bold" fill="#8a6d1f">손해 없는 갈아타기 기간은 이미 종료</text>
+<text x="62" y="433" font-size="13.5" fill="#6b5518">청년도약계좌 특별 중도해지 인정: 2026년 6월 22일 ~ 7월 3일 신청자에 한함</text>
+<text class="note" x="40" y="486">출처: 대한민국 정책브리핑, 각 은행 공식 안내 (2026년 6월 기준)</text>
+</svg>
