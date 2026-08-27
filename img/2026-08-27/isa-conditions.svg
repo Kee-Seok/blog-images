@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#ffffff"/>
+  <style>
+    text { font-family: sans-serif; fill: #1a1a1a; }
+    .small { font-size: 20px; }
+    .lg { font-size: 32px; font-weight: 700; }
+    .accent { fill: #2b6cb0; font-weight: 700; }
+  </style>
+
+  <!-- 타이틀 -->
+  <text x="600" y="50" text-anchor="middle" class="lg">연금계좌 이체, 지켜야 할 세 가지 조건</text>
+  <text x="600" y="80" text-anchor="middle" class="small" fill="#4a5568">ISA 만기 자금을 연금계좌로 옮길 때 꼭 확인해야 할 제한 요건</text>
+
+  <!-- 타임라인 라인 -->
+  <line x1="80" y1="200" x2="1120" y2="200" stroke="#cbd5e0" stroke-width="3"/>
+
+  <!-- 조건 1: 3년 이내 -->
+  <circle cx="200" cy="200" r="22" fill="#2b6cb0"/>
+  <text x="200" y="208" text-anchor="middle" class="lg" fill="#ffffff">1</text>
+  <text x="200" y="150" text-anchor="middle" class="accent">만기 후 3년 이내</text>
+  <rect x="120" y="230" width="160" height="80" rx="10" fill="#ebf4ff" stroke="#2b6cb0"/>
+  <text x="200" y="262" text-anchor="middle" class="small">이체 가능</text>
+  <text x="200" y="292" text-anchor="middle" class="small" fill="#718096">기간 제한</text>
+
+  <!-- 조건 2: 연 1천2백만원 -->
+  <circle cx="560" cy="200" r="22" fill="#2b6cb0"/>
+  <text x="560" y="208" text-anchor="middle" class="lg" fill="#ffffff">2</text>
+  <text x="560" y="150" text-anchor="middle" class="accent">1년 1천2백만원 한도</text>
+  <rect x="480" y="230" width="160" height="80" rx="10" fill="#ebf4ff" stroke="#2b6cb0"/>
+  <text x="560" y="262" text-anchor="middle" class="small">연간 이체</text>
+  <text x="560" y="292" text-anchor="middle" class="small" fill="#718096">금액 제한</text>
+
+  <!-- 조건 3: 55세 이후 -->
+  <circle cx="920" cy="200" r="22" fill="#2b6cb0"/>
+  <text x="920" y="208" text-anchor="middle" class="lg" fill="#ffffff">3</text>
+  <text x="920" y="150" text-anchor="middle" class="accent">55세 이후 수령</text>
+  <rect x="840" y="230" width="160" height="80" rx="10" fill="#ebf4ff" stroke="#2b6cb0"/>
+  <text x="920" y="262" text-anchor="middle" class="small">연금 수령</text>
+  <text x="920" y="292" text-anchor="middle" class="small" fill="#718096">연령 제한</text>
+
+  <!-- 하단 주의사항 -->
+  <rect x="80" y="340" width="1040" height="150" rx="12" fill="#fffaf0" stroke="#d69e2e" stroke-width="3"/>
+  <text x="600" y="380" text-anchor="middle" class="lg" fill="#975a16">주의할 점</text>
+  <text x="180" y="420" class="small">중도 인출하면 과세이연이 깨지고 세금 혜택이 줄어들 수 있으니</text>
+  <text x="180" y="450" class="small">기간을 넉넉히 잡고 계획하는 게 좋아요</text>
+  <text x="600" y="420" text-anchor="middle" class="small" fill="#718096">가입한 은행이나 증권사마다 세부 요건이 조금씩 다를 수 있으므로</text>
+  <text x="600" y="450" text-anchor="middle" class="small" fill="#718096">정확한 내용은 가입한 금융사에 직접 문의하는 것이 가장 확실합니다</text>
+</svg>
