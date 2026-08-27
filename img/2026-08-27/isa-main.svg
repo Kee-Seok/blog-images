@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" fill="#ffffff"/>
+  <style>
+    text { font-family: sans-serif; fill: #1a1a1a; }
+    .small { font-size: 20px; }
+    .lg { font-size: 34px; font-weight: 700; }
+    .arrow { stroke: #2b6cb0; stroke-width: 4; fill: none; marker-end: url(#arrow); }
+    .box { stroke-width: 3; }
+    .divider { stroke: #cbd5e0; stroke-width: 2; stroke-dasharray: 8 6; }
+  </style>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#2b6cb0"/>
+    </marker>
+  </defs>
+
+  <!-- 타이틀 -->
+  <text x="600" y="52" text-anchor="middle" class="lg">ISA 만기 자금, 어디로 보낼까?</text>
+  <text x="600" y="84" text-anchor="middle" class="small" fill="#4a5568">만기된 ISA 계좌를 그냥 인출할지, 연금계좌로 옮길지에 따라 세금이 달라집니다</text>
+
+  <!-- ISA 만기 박스 -->
+  <rect x="470" y="120" width="260" height="64" rx="12" fill="#ebf4ff" stroke="#2b6cb0" class="box"/>
+  <text x="600" y="148" text-anchor="middle" class="lg" fill="#2b6cb0">ISA 만기</text>
+  <text x="600" y="176" text-anchor="middle" class="small">원금 3천만원 + 수익 3백만원 → 3천3백6십만원</text>
+
+  <!-- 화살표 분기 -->
+  <line x1="600" y1="184" x2="280" y2="260" class="arrow"/>
+  <line x1="600" y1="184" x2="920" y2="260" class="arrow"/>
+  <text x="280" y="220" text-anchor="middle" class="small" fill="#2b6cb0">그냥 인출</text>
+  <text x="920" y="220" text-anchor="middle" class="small" fill="#2b6cb0">연금계좌로 이체</text>
+
+  <!-- 좌측: 일반 인출 -->
+  <rect x="100" y="280" width="360" height="200" rx="12" fill="#fff5f5" stroke="#c53030" class="box"/>
+  <text x="280" y="318" text-anchor="middle" class="lg" fill="#c53030">일반 계좌로 인출</text>
+  <text x="280" y="360" text-anchor="middle" class="small">이자소득 3백3십만원에</text>
+  <text x="280" y="390" text-anchor="middle" class="small">15.4% 분리과세 적용</text>
+  <rect x="140" y="412" width="280" height="50" rx="8" fill="#fed7d7" stroke="#c53030"/>
+  <text x="280" y="440" text-anchor="middle" class="lg" fill="#c53030">세금 약 50만8천원</text>
+  <text x="160" y="482" class="small">실제 수령: 3천2백99만2천원</text>
+
+  <!-- 우측: 연금계좌 -->
+  <rect x="740" y="280" width="360" height="200" rx="12" fill="#f0fff4" stroke="#276749" class="box"/>
+  <text x="920" y="318" text-anchor="middle" class="lg" fill="#276749">연금계좌로 이체 후</text>
+  <text x="920" y="360" text-anchor="middle" class="small">연금 수령 시까지 과세이연</text>
+  <text x="920" y="390" text-anchor="middle" class="small">연금소득세율 3~5% 적용</text>
+  <rect x="780" y="412" width="280" height="50" rx="8" fill="#c6f6d5" stroke="#276749"/>
+  <text x="920" y="440" text-anchor="middle" class="lg" fill="#276749">세금 약 9만9천~16만5천원</text>
+  <text x="820" y="482" class="small">실제 수령: 3천3백53만5천~3천3백60만1천원</text>
+
+  <!-- 하단 요약 -->
+  <text x="600" y="544" text-anchor="middle" class="lg" fill="#2d3748">차이: 최소 34만원 ~ 최대 41만원 가까이 세금을 덜 낼 수 있음</text>
+  <text x="600" y="580" text-anchor="middle" class="small" fill="#718096">단, 3년 이내·연 1천2백만원 한도·55세 이후 수령 조건이 붙습니다</text>
+</svg>
