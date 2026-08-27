@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="100%" height="100%"
+  style="font-family:-apple-system,BlinkMacSystemFont,'Malgun Gothic',sans-serif">
+<rect width="800" height="450" fill="#ffffff"/>
+<text x="400" y="38" font-size="22" font-weight="bold" fill="#1a1a1a" text-anchor="middle">실전 분산 비교: 3개 은행 분산 vs 1개 은행 몰빵</text>
+<text x="400" y="62" font-size="14" font-weight="normal" fill="#666" text-anchor="middle">같은 3억 원이라도 어디에 넣느냐에 따라 보호 결과가 완전히 달라짐</text>
+<text x="170" y="92" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">✅ 안전한 분산</text>
+<rect x="30" y="100" width="80" height="70" fill="#f0f7ff" stroke="#5b9bd5" stroke-width="2" rx="8"/>
+<text x="70" y="122" font-size="13" font-weight="bold" fill="#1a1a1a" text-anchor="middle">A은행</text>
+<text x="70" y="148" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">1억 원</text>
+<circle cx="70" cy="190" r="11.0" fill="#2e7d32"/><path d="M62.3,190 L67,197.7 L77.7,182.3 Z" fill="#fff"/>
+<text x="70" y="215" font-size="11" font-weight="normal" fill="#2e7d32" text-anchor="middle">보호</text>
+<rect x="130" y="100" width="80" height="70" fill="#f0f7ff" stroke="#5b9bd5" stroke-width="2" rx="8"/>
+<text x="170" y="122" font-size="13" font-weight="bold" fill="#1a1a1a" text-anchor="middle">B은행</text>
+<text x="170" y="148" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">1억 원</text>
+<circle cx="170" cy="190" r="11.0" fill="#2e7d32"/><path d="M162.3,190 L167,197.7 L177.7,182.3 Z" fill="#fff"/>
+<text x="170" y="215" font-size="11" font-weight="normal" fill="#2e7d32" text-anchor="middle">보호</text>
+<rect x="230" y="100" width="80" height="70" fill="#f0f7ff" stroke="#5b9bd5" stroke-width="2" rx="8"/>
+<text x="270" y="122" font-size="13" font-weight="bold" fill="#1a1a1a" text-anchor="middle">C은행</text>
+<text x="270" y="148" font-size="16" font-weight="bold" fill="#2e7d32" text-anchor="middle">1억 원</text>
+<circle cx="270" cy="190" r="11.0" fill="#2e7d32"/><path d="M262.3,190 L267,197.7 L277.7,182.3 Z" fill="#fff"/>
+<text x="270" y="215" font-size="11" font-weight="normal" fill="#2e7d32" text-anchor="middle">보호</text>
+<rect x="50" y="235" width="240" height="45" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5" rx="8"/>
+<text x="170" y="255" font-size="14" font-weight="bold" fill="#2e7d32" text-anchor="middle">총 3억 원 → 전액 보호</text>
+<line x1="270" y1="150" x2="340" y2="150" stroke="#999" stroke-width="2"/><polygon points="340,150 332,145 332,155" fill="#999"/>
+<text x="510" y="92" font-size="16" font-weight="bold" fill="#c0392b" text-anchor="middle">⚠ 위험한 몰빵</text>
+<rect x="470" y="100" width="120" height="90" fill="#fff5f5" stroke="#c0392b" stroke-width="2" rx="8"/>
+<text x="530" y="122" font-size="14" font-weight="bold" fill="#1a1a1a" text-anchor="middle">A은행</text>
+<text x="530" y="148" font-size="12" font-weight="normal" fill="#555" text-anchor="middle">정기예금</text>
+<text x="530" y="170" font-size="16" font-weight="bold" fill="#c0392b" text-anchor="middle">1억 2천만 원</text>
+<rect x="600" y="105" width="70" height="30" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5" rx="8"/>
+<text x="635" y="120" font-size="13" font-weight="bold" fill="#2e7d32" text-anchor="middle">1억 원</text>
+<rect x="600" y="145" width="70" height="30" fill="#ffebee" stroke="#c0392b" stroke-width="1.5" rx="8"/>
+<text x="635" y="160" font-size="13" font-weight="bold" fill="#c0392b" text-anchor="middle">2천만 원</text>
+<circle cx="530" cy="210" r="10.0" fill="#2e7d32"/><path d="M523.0,210 L527,217.0 L537.0,203.0 Z" fill="#fff"/>
+<text x="530" y="233" font-size="12" font-weight="normal" fill="#2e7d32" text-anchor="middle">1억만 보호</text>
+<circle cx="635" cy="210" r="10.0" fill="#c0392b"/><text x="635" y="217" font-size="20" font-weight="bold" fill="#fff" text-anchor="middle">!</text>
+<text x="635" y="233" font-size="12" font-weight="normal" fill="#c0392b" text-anchor="middle">손실</text>
+<rect x="60" y="295" width="340" height="60" fill="#e8f5e9" stroke="#2e7d32" stroke-width="1.5" rx="8"/>
+<text x="150" y="320" font-size="14" font-weight="bold" fill="#2e7d32" text-anchor="middle">3개 은행 분산: 3억 원</text>
+<text x="150" y="340" font-size="13" font-weight="normal" fill="#2e7d32" text-anchor="middle">→ 전액 보호, 손실 0원</text>
+<rect x="420" y="295" width="340" height="60" fill="#ffebee" stroke="#c0392b" stroke-width="1.5" rx="8"/>
+<text x="590" y="320" font-size="14" font-weight="bold" fill="#c0392b" text-anchor="middle">1개 은행 몰빵: 1억 2천만 원</text>
+<text x="590" y="340" font-size="13" font-weight="normal" fill="#c0392b" text-anchor="middle">→ 1억만 보호, 2천만 원 손실</text></svg>
