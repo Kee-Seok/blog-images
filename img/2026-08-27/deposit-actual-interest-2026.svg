@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" font-family="Noto Sans KR, sans-serif">
+  <rect width="1200" height="600" fill="#ffffff"/>
+
+  <!-- 제목 -->
+  <text x="60" y="60" font-size="32" font-weight="700" fill="#202124">1,000만원 vs 3,000만원 vs 5,000만원, 실제 받는 이자는 다릅니다</text>
+  <text x="60" y="92" font-size="18" fill="#5f6368">금리 3.5%, 1년 정기예금, 이자소득세 15.4% 차감 후 실수령 이자 기준</text>
+
+  <!-- 예치금액별 3단 카드 -->
+  <!-- 1,000만원 -->
+  <rect x="60" y="140" width="340" height="400" rx="12" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <rect x="60" y="140" width="340" height="60" rx="12" fill="#f6f7f8"/>
+  <text x="80" y="172" font-size="19" font-weight="700" fill="#202124">1,000만원</text>
+
+  <text x="80" y="235" font-size="16" fill="#5f6368">세전 금리</text>
+  <text x="80" y="265" font-size="22" font-weight="700" fill="#202124">3.5%</text>
+  <text x="80" y="295" font-size="14" fill="#5f6368">1년 기준</text>
+
+  <rect x="80" y="320" width="300" height="44" rx="8" fill="#edf7ed" stroke="#a5d6a5" stroke-width="1"/>
+  <text x="100" y="348" font-size="14" fill="#202124">세전 이자</text>
+  <text x="260" y="348" font-size="17" font-weight="700" fill="#202124">35만원</text>
+
+  <rect x="80" y="376" width="300" height="44" rx="8" fill="#fff4e6" stroke="#ffd9b3" stroke-width="1"/>
+  <text x="100" y="404" font-size="14" fill="#202124">이자소득세 15.4%</text>
+  <text x="260" y="404" font-size="17" font-weight="700" fill="#d93025">5만 3,900원</text>
+
+  <rect x="80" y="432" width="300" height="60" rx="10" fill="#1A73E8"/>
+  <text x="100" y="460" font-size="14" fill="#ffffff">실수령 이자</text>
+  <text x="100" y="490" font-size="24" font-weight="700" fill="#ffffff">약 29만 6,100원</text>
+
+  <!-- 3,000만원 -->
+  <rect x="410" y="140" width="340" height="400" rx="12" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <rect x="410" y="140" width="340" height="60" rx="12" fill="#f6f7f8"/>
+  <text x="430" y="172" font-size="19" font-weight="700" fill="#202124">3,000만원</text>
+
+  <text x="430" y="235" font-size="16" fill="#5f6368">세전 금리</text>
+  <text x="430" y="265" font-size="22" font-weight="700" fill="#202124">3.5%</text>
+  <text x="430" y="295" font-size="14" fill="#5f6368">1년 기준</text>
+
+  <rect x="430" y="320" width="300" height="44" rx="8" fill="#edf7ed" stroke="#a5d6a5" stroke-width="1"/>
+  <text x="450" y="348" font-size="14" fill="#202124">세전 이자</text>
+  <text x="610" y="348" font-size="17" font-weight="700" fill="#202124">105만원</text>
+
+  <rect x="430" y="376" width="300" height="44" rx="8" fill="#fff4e6" stroke="#ffd9b3" stroke-width="1"/>
+  <text x="450" y="404" font-size="14" fill="#202124">이자소득세 15.4%</text>
+  <text x="610" y="404" font-size="17" font-weight="700" fill="#d93025">16만 1,700원</text>
+
+  <rect x="430" y="432" width="300" height="60" rx="10" fill="#1A73E8"/>
+  <text x="450" y="460" font-size="14" fill="#ffffff">실수령 이자</text>
+  <text x="450" y="490" font-size="24" font-weight="700" fill="#ffffff">약 88만 8,300원</text>
+
+  <!-- 5,000만원 -->
+  <rect x="760" y="140" width="380" height="400" rx="12" fill="#ffffff" stroke="#ddd" stroke-width="1"/>
+  <rect x="760" y="140" width="380" height="60" rx="12" fill="#f6f7f8"/>
+  <text x="780" y="172" font-size="19" font-weight="700" fill="#202124">5,000만원</text>
+
+  <text x="780" y="235" font-size="16" fill="#5f6368">세전 금리</text>
+  <text x="780" y="265" font-size="22" font-weight="700" fill="#202124">3.5%</text>
+  <text x="780" y="295" font-size="14" fill="#5f6368">1년 기준</text>
+
+  <rect x="780" y="320" width="340" height="44" rx="8" fill="#edf7ed" stroke="#a5d6a5" stroke-width="1"/>
+  <text x="800" y="348" font-size="14" fill="#202124">세전 이자</text>
+  <text x="960" y="348" font-size="17" font-weight="700" fill="#202124">175만원</text>
+
+  <rect x="780" y="376" width="340" height="44" rx="8" fill="#fff4e6" stroke="#ffd9b3" stroke-width="1"/>
+  <text x="800" y="404" font-size="14" fill="#202124">이자소득세 15.4%</text>
+  <text x="960" y="404" font-size="17" font-weight="700" fill="#d93025">26만 9,500원</text>
+
+  <rect x="780" y="432" width="340" height="60" rx="10" fill="#1A73E8"/>
+  <text x="800" y="460" font-size="14" fill="#ffffff">실수령 이자</text>
+  <text x="800" y="490" font-size="24" font-weight="700" fill="#ffffff">약 148만 500원</text>
+
+  <!-- 하단 요약 -->
+  <rect x="60" y="560" width="1080" height="28" rx="6" fill="#f6f7f8"/>
+  <text x="80" y="580" font-size="14" fill="#5f6368">2026년 8월 기준 · 금리 3.5% 예시 · 실제 적용 금리와 조건은 상품별로 다름</text>
+</svg>
