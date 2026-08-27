@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" font-family="Noto Sans KR, sans-serif" text-rendering="geometricPrecision">
+  <defs>
+    <linearGradient id="greenGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8f5e9"/>
+      <stop offset="100%" stop-color="#c8e6c9"/>
+    </linearGradient>
+    <linearGradient id="redGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff0f0"/>
+      <stop offset="100%" stop-color="#ffcdd2"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="500" fill="#ffffff"/>
+
+  <!-- 헤더 -->
+  <rect x="0" y="0" width="1200" height="90" fill="#1a1a1a"/>
+  <text x="600" y="45" font-size="22" font-weight="bold" fill="#ffffff" text-anchor="middle">실전 분산 비교: 3개 은행 분산 vs 1개 은행 몰빵</text>
+  <text x="600" y="70" font-size="13" fill="#bdbdbd" text-anchor="middle">예금자보호 한도 1억원을 기준으로 한 원리금 보호 시뮬레이션</text>
+
+  <!-- 왼쪽: 3개 은행 분산 -->
+  <g>
+    <rect x="60" y="130" width="460" height="320" rx="16" fill="url(#greenGrad)" stroke="#2e7d32" stroke-width="2"/>
+    <text x="290" y="168" font-size="18" font-weight="bold" fill="#2e7d32" text-anchor="middle">3개 은행 분산 (A·B·C)</text>
+    <text x="290" y="195" font-size="13" fill="#555" text-anchor="middle">총 3억원 → 각 은행 1억원 한도</text>
+
+    <!-- A은행 -->
+    <rect x="90" y="220" width="170" height="90" rx="10" fill="#ffffff" stroke="#2e7d32" stroke-width="1.5"/>
+    <text x="175" y="242" font-size="12" fill="#666" text-anchor="middle">A은행</text>
+    <text x="175" y="262" font-size="15" font-weight="bold" fill="#1a1a1a" text-anchor="middle">원리금 1억원</text>
+    <text x="175" y="282" font-size="13" fill="#2e7d32" text-anchor="middle">→ 전액 보호</text>
+    <text x="175" y="300" font-size="12" fill="#666" text-anchor="middle">(한도 1억원)</text>
+
+    <!-- B은행 -->
+    <rect x="280" y="220" width="170" height="90" rx="10" fill="#ffffff" stroke="#2e7d32" stroke-width="1.5"/>
+    <text x="365" y="242" font-size="12" fill="#666" text-anchor="middle">B은행</text>
+    <text x="365" y="262" font-size="15" font-weight="bold" fill="#1a1a1a" text-anchor="middle">원리금 1억원</text>
+    <text x="365" y="282" font-size="13" fill="#2e7d32" text-anchor="middle">→ 전액 보호</text>
+    <text x="365" y="300" font-size="12" fill="#666" text-anchor="middle">(한도 1억원)</text>
+
+    <!-- C은행 -->
+    <rect x="90" y="330" width="170" height="90" rx="10" fill="#ffffff" stroke="#2e7d32" stroke-width="1.5"/>
+    <text x="175" y="352" font-size="12" fill="#666" text-anchor="middle">C은행</text>
+    <text x="175" y="372" font-size="15" font-weight="bold" fill="#1a1a1a" text-anchor="middle">원리금 1억원</text>
+    <text x="175" y="392" font-size="13" fill="#2e7d32" text-anchor="middle">→ 전액 보호</text>
+    <text x="175" y="410" font-size="12" fill="#666" text-anchor="middle">(한도 1억원)</text>
+
+    <!-- 결과 박스 -->
+    <rect x="280" y="330" width="170" height="90" rx="10" fill="#f5f9fc" stroke="#5b9bd5" stroke-width="1.5"/>
+    <text x="365" y="352" font-size="12" fill="#666" text-anchor="middle">총 보호 결과</text>
+    <text x="365" y="372" font-size="15" font-weight="bold" fill="#1a1a1a" text-anchor="middle">3억원 전액</text>
+    <text x="365" y="392" font-size="13" fill="#2e7d32" text-anchor="middle">→ 전액 보호, 기준 충족</text>
+    <text x="365" y="410" font-size="12" fill="#666" text-anchor="middle">(금융회사별 분산)</text>
+  </g>
+
+  <!-- 중간 화살표 -->
+  <text x="590" y="290" font-size="18" fill="#999" text-anchor="middle">vs</text>
+
+  <!-- 오른쪽: 1개 은행 몰빵 -->
+  <g>
+    <rect x="660" y="130" width="460" height="320" rx="16" fill="url(#redGrad)" stroke="#c0392b" stroke-width="2"/>
+    <text x="890" y="168" font-size="18" font-weight="bold" fill="#c0392b" text-anchor="middle">1개 은행 몰빵 (A은행)</text>
+    <text x="890" y="195" font-size="13" fill="#555" text-anchor="middle">총 1억 2천만원 → 한도 1억원 초과</text>
+
+    <!-- A은행 대형 박스 -->
+    <rect x="700" y="220" width="360" height="160" rx="12" fill="#ffffff" stroke="#c0392b" stroke-width="1.5"/>
+    <text x="880" y="245" font-size="13" fill="#666" text-anchor="middle">A은행</text>
+    <text x="880" y="268" font-size="16" font-weight="bold" fill="#1a1a1a" text-anchor="middle">원리금 1억 2천만원</text>
+    <text x="880" y="288" font-size="13" fill="#555" text-anchor="middle">(한도 1억원)</text>
+
+    <!-- 보호 구간 시각화 -->
+    <rect x="720" y="300" width="320" height="20" rx="4" fill="#2e7d32"/>
+    <text x="880" y="314" font-size="11" fill="#ffffff" text-anchor="middle">보호: 1억원 (한도 내)</text>
+
+    <rect x="720" y="325" width="100" height="20" rx="4" fill="#ff5252"/>
+    <text x="770" y="339" font-size="11" fill="#ffffff" text-anchor="middle">손실</text>
+    <text x="810" y="339" font-size="11" fill="#ffffff" text-anchor="middle">2천만원</text>
+
+    <rect x="820" y="325" width="1" height="20" fill="#f0f0f0"/>
+
+    <!-- 초과 구간 표시 -->
+    <rect x="720" y="350" width="320" height="14" fill="#ffebee"/>
+    <text x="880" y="361" font-size="11" fill="#c0392b" text-anchor="middle">원금+이자 포함 1억원 초과분 → 보호 안 됨</text>
+
+    <!-- 결과 박스 -->
+    <rect x="700" y="385" width="360" height="55" rx="8" fill="#fff5f5" stroke="#c0392b" stroke-width="1.5"/>
+    <text x="880" y="405" font-size="13" fill="#666" text-anchor="middle">보호 결과</text>
+    <text x="880" y="422" font-size="14" font-weight="bold" fill="#c0392b" text-anchor="middle">2천만원 손실</text>
+    <text x="880" y="438" font-size="12" fill="#666" text-anchor="middle">(한도 초과 → 미보호)</text>
+  </g>
+
+  <!-- 하단 요약 -->
+  <rect x="60" y="470" width="1060" height="22" fill="#f5f5f5"/>
+  <text x="590" y="486" font-size="11" fill="#888" text-anchor="middle">예금자보호는 금융회사별 1억원 한도(원금+이자 합산). 같은 은행 안에서는 계좌 수와 관계없이 합산 적용</text>
+</svg>
