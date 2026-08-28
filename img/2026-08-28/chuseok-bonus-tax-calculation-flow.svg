@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" width="900" height="460" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="460" fill="#ffffff"/>
+  <text x="450" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">추석 상여금 세금이 계산되는 순서</text>
+  <text x="450" y="76" text-anchor="middle" font-size="15" fill="#5f6368">상여금만 따로 떼지 않고, 여러 달에 나눠 번 것처럼 평균을 냅니다</text>
+
+  <rect x="60" y="110" width="230" height="90" rx="10" fill="#E8F0FE" stroke="#1A73E8" stroke-width="2"/>
+  <text x="175" y="142" text-anchor="middle" font-size="16" fill="#1a73e8" font-weight="700">지급대상기간 급여</text>
+  <text x="175" y="172" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">1,800만원</text>
+
+  <text x="315" y="162" text-anchor="middle" font-size="30" fill="#5f6368">+</text>
+
+  <rect x="345" y="110" width="230" height="90" rx="10" fill="#FEF7E0" stroke="#F9AB00" stroke-width="2"/>
+  <text x="460" y="142" text-anchor="middle" font-size="16" fill="#b06000" font-weight="700">추석 상여금</text>
+  <text x="460" y="172" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">200만원</text>
+
+  <text x="600" y="162" text-anchor="middle" font-size="30" fill="#5f6368">=</text>
+
+  <rect x="630" y="110" width="210" height="90" rx="10" fill="#F1F3F4" stroke="#9AA0A6" stroke-width="2"/>
+  <text x="735" y="142" text-anchor="middle" font-size="16" fill="#5f6368" font-weight="700">합계</text>
+  <text x="735" y="172" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">2,000만원</text>
+
+  <path d="M450 210 L450 250" stroke="#5f6368" stroke-width="2" marker-end="url(#a)"/>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto"><path d="M0,0 L0,6 L7,3 z" fill="#5f6368"/></marker></defs>
+
+  <rect x="230" y="255" width="440" height="70" rx="10" fill="#ffffff" stroke="#1A73E8" stroke-width="2" stroke-dasharray="6 4"/>
+  <text x="450" y="298" text-anchor="middle" font-size="19" fill="#1a73e8" font-weight="700">지급대상기간 월수로 나눈다</text>
+
+  <path d="M450 330 L450 366" stroke="#5f6368" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="255" y="370" width="390" height="72" rx="10" fill="#E6F4EA" stroke="#188038" stroke-width="2"/>
+  <text x="450" y="399" text-anchor="middle" font-size="15" fill="#188038" font-weight="700">이 금액 기준으로 세율이 정해집니다</text>
+  <text x="450" y="427" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">약 333만원</text>
+</svg>
