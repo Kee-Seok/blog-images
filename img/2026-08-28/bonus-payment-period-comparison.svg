@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="400" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">지급대상기간이 정해져 있느냐에 따라 달라집니다</text>
+  <text x="450" y="74" text-anchor="middle" font-size="15" fill="#5f6368">나누는 개월 수가 커질수록 적용 세율 구간이 내려갑니다</text>
+
+  <rect x="55" y="105" width="380" height="255" rx="12" fill="#E8F0FE" stroke="#1A73E8" stroke-width="2"/>
+  <text x="245" y="140" text-anchor="middle" font-size="18" font-weight="700" fill="#1a73e8">기간이 정해져 있는 경우</text>
+  <line x1="85" y1="158" x2="405" y2="158" stroke="#1A73E8" stroke-width="1" opacity="0.4"/>
+  <text x="85" y="192" font-size="15" fill="#202124">회사가 정한 기간을 그대로 적용</text>
+  <text x="85" y="228" font-size="15" fill="#202124">예: 상여 지급대상기간이 정해진 경우</text>
+  <rect x="85" y="248" width="320" height="52" rx="8" fill="#ffffff" stroke="#1A73E8" stroke-width="1"/>
+  <text x="245" y="280" text-anchor="middle" font-size="17" font-weight="700" fill="#1a73e8">그 기간의 월수로 나눔</text>
+  <text x="245" y="332" text-anchor="middle" font-size="14" fill="#5f6368">회사마다 다르게 잡습니다</text>
+
+  <rect x="465" y="105" width="380" height="255" rx="12" fill="#FEF7E0" stroke="#F9AB00" stroke-width="2"/>
+  <text x="655" y="140" text-anchor="middle" font-size="18" font-weight="700" fill="#b06000">기간이 없는 경우</text>
+  <line x1="495" y1="158" x2="815" y2="158" stroke="#F9AB00" stroke-width="1" opacity="0.5"/>
+  <text x="495" y="192" font-size="15" fill="#202124">그 해 1월부터 지급일이 속한 달까지</text>
+  <text x="495" y="228" font-size="15" fill="#202124">이미 상여를 받았다면 그 다음 달부터</text>
+  <rect x="495" y="248" width="320" height="52" rx="8" fill="#ffffff" stroke="#F9AB00" stroke-width="1"/>
+  <text x="655" y="280" text-anchor="middle" font-size="17" font-weight="700" fill="#b06000">1월 기준이면 9개월</text>
+  <text x="655" y="332" text-anchor="middle" font-size="14" fill="#5f6368">설 상여를 받았다면 7개월</text>
+</svg>
