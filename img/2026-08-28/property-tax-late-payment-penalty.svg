@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="360" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">기한을 넘기면 이렇게 붙습니다</text>
+  <text x="450" y="74" text-anchor="middle" font-size="15" fill="#5f6368">며칠 늦었는지에 비례하는 게 아니라, 기한이 지나는 순간 붙습니다</text>
+
+  <rect x="70" y="105" width="360" height="200" rx="12" fill="#FCE8E6" stroke="#D93025" stroke-width="2"/>
+  <text x="250" y="142" text-anchor="middle" font-size="18" font-weight="700" fill="#c5221f">하루만 넘겨도</text>
+  <text x="250" y="200" text-anchor="middle" font-size="52" font-weight="700" fill="#c5221f">3%</text>
+  <text x="250" y="240" text-anchor="middle" font-size="15" fill="#202124">납부지연가산세</text>
+  <text x="250" y="272" text-anchor="middle" font-size="14" fill="#5f6368">기한이 지나는 순간 한 번에</text>
+
+  <rect x="470" y="105" width="360" height="200" rx="12" fill="#FEF7E0" stroke="#F9AB00" stroke-width="2"/>
+  <text x="650" y="142" text-anchor="middle" font-size="18" font-weight="700" fill="#b06000">45만원 이상이면 추가로</text>
+  <text x="650" y="200" text-anchor="middle" font-size="44" font-weight="700" fill="#b06000">0.66%</text>
+  <text x="650" y="240" text-anchor="middle" font-size="15" fill="#202124">1개월마다 계속</text>
+  <text x="650" y="272" text-anchor="middle" font-size="14" fill="#5f6368">최대 60개월까지</text>
+
+  <text x="450" y="337" text-anchor="middle" font-size="14" fill="#5f6368">계산 기준은 본세액입니다</text>
+</svg>
