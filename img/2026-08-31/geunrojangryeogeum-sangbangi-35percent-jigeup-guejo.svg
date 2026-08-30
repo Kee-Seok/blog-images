@@ -1,0 +1,41 @@
+<svg viewBox="0 0 1000 560" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <rect x="0" y="0" width="1000" height="560" fill="#ffffff"/>
+  <text x="500" y="48" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">12월엔 전체가 아니라 35%만 먼저 들어와요</text>
+  <text x="500" y="78" text-anchor="middle" font-size="15" fill="#5f6368">예시: 맞벌이 가구 연간 산정액 330만원인 경우</text>
+
+  <!-- bar background -->
+  <rect x="150" y="140" width="700" height="70" rx="10" fill="#f1f3f4"/>
+  <!-- 35% portion -->
+  <rect x="150" y="140" width="245" height="70" rx="10" fill="#e8710a"/>
+  <text x="272" y="183" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">35%</text>
+
+  <!-- 65% portion label -->
+  <text x="620" y="183" text-anchor="middle" font-size="20" font-weight="700" fill="#5f6368">65%</text>
+
+  <text x="272" y="240" text-anchor="middle" font-size="17" font-weight="700" fill="#e8710a">약 115만원</text>
+  <text x="272" y="264" text-anchor="middle" font-size="14" fill="#9a7b3f">12월 30일 지급</text>
+
+  <text x="620" y="240" text-anchor="middle" font-size="17" font-weight="700" fill="#5f6368">약 215만원</text>
+  <text x="620" y="264" text-anchor="middle" font-size="14" fill="#80868b">2027년 6월 30일 정산 지급</text>
+
+  <!-- arrows -->
+  <line x1="272" y1="290" x2="272" y2="330" stroke="#e8710a" stroke-width="2" marker-end="url(#arrow1)"/>
+  <line x1="620" y1="290" x2="620" y2="330" stroke="#9aa0a6" stroke-width="2" marker-end="url(#arrow2)"/>
+  <defs>
+    <marker id="arrow1" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#e8710a"/></marker>
+    <marker id="arrow2" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#9aa0a6"/></marker>
+  </defs>
+
+  <rect x="130" y="340" width="290" height="90" rx="12" fill="#fffaf0" stroke="#f5dfae"/>
+  <text x="275" y="372" text-anchor="middle" font-size="14" font-weight="700" fill="#b06000">상반기분 우선 지급</text>
+  <text x="275" y="396" text-anchor="middle" font-size="13" fill="#8a6d3b">15만원 미만이면 지급 보류,</text>
+  <text x="275" y="416" text-anchor="middle" font-size="13" fill="#8a6d3b">6월 정산 때 합산 지급</text>
+
+  <rect x="480" y="340" width="290" height="90" rx="12" fill="#f7f9fc" stroke="#e1e6ee"/>
+  <text x="625" y="372" text-anchor="middle" font-size="14" font-weight="700" fill="#1a73e8">하반기분 + 나머지 정산</text>
+  <text x="625" y="396" text-anchor="middle" font-size="13" fill="#5f6368">2026년 7~12월 소득 반영해</text>
+  <text x="625" y="416" text-anchor="middle" font-size="13" fill="#5f6368">최종 금액으로 확정 지급</text>
+
+  <text x="500" y="480" text-anchor="middle" font-size="13" fill="#9aa0a6">가구 유형·실제 소득에 따라 산정액과 지급 시기는 달라질 수 있어요</text>
+  <text x="500" y="504" text-anchor="middle" font-size="13" fill="#9aa0a6">국세청 근로장려금 반기신청 지급 구조 기준, 2026년 8월 확인</text>
+</svg>
