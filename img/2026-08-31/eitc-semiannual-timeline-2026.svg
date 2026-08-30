@@ -1,0 +1,41 @@
+<svg viewBox="0 0 920 330" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <rect x="0" y="0" width="920" height="330" fill="#ffffff"/>
+  <text x="460" y="36" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">근로장려금 9월 반기신청, 신청부터 정산까지</text>
+
+  <!-- connecting line -->
+  <line x1="90" y1="150" x2="830" y2="150" stroke="#c7ccd6" stroke-width="3"/>
+
+  <!-- Step 1 -->
+  <circle cx="110" cy="150" r="10" fill="#1a73e8"/>
+  <rect x="20" y="180" width="180" height="110" rx="12" fill="#eef4fd" stroke="#1a73e8" stroke-width="1.5"/>
+  <text x="110" y="205" text-anchor="middle" font-size="13" fill="#5f6368">1단계 · 신청</text>
+  <text x="110" y="230" text-anchor="middle" font-size="16" font-weight="700" fill="#1a73e8">9월 1일~15일</text>
+  <text x="110" y="252" text-anchor="middle" font-size="13" fill="#202124">상반기(1~6월)</text>
+  <text x="110" y="270" text-anchor="middle" font-size="13" fill="#202124">근로소득 반기신청</text>
+
+  <!-- Step 2 -->
+  <circle cx="320" cy="150" r="10" fill="#188038"/>
+  <rect x="230" y="180" width="180" height="110" rx="12" fill="#e9f7ee" stroke="#188038" stroke-width="1.5"/>
+  <text x="320" y="205" text-anchor="middle" font-size="13" fill="#5f6368">2단계 · 선지급</text>
+  <text x="320" y="230" text-anchor="middle" font-size="16" font-weight="700" fill="#188038">12월 30일까지</text>
+  <text x="320" y="252" text-anchor="middle" font-size="13" fill="#202124">연간 산정액의</text>
+  <text x="320" y="270" text-anchor="middle" font-size="13" fill="#202124">35% 우선 지급</text>
+
+  <!-- Step 3 -->
+  <circle cx="530" cy="150" r="10" fill="#e8710a"/>
+  <rect x="440" y="180" width="180" height="110" rx="12" fill="#fdf2e9" stroke="#e8710a" stroke-width="1.5"/>
+  <text x="530" y="205" text-anchor="middle" font-size="13" fill="#5f6368">3단계 · 하반기분</text>
+  <text x="530" y="230" text-anchor="middle" font-size="16" font-weight="700" fill="#e8710a">별도 신청 불필요</text>
+  <text x="530" y="252" text-anchor="middle" font-size="13" fill="#202124">상반기 신청자는</text>
+  <text x="530" y="270" text-anchor="middle" font-size="13" fill="#202124">자동으로 이어짐</text>
+
+  <!-- Step 4 -->
+  <circle cx="740" cy="150" r="10" fill="#8430ce"/>
+  <rect x="650" y="180" width="180" height="110" rx="12" fill="#f5edfb" stroke="#8430ce" stroke-width="1.5"/>
+  <text x="740" y="205" text-anchor="middle" font-size="13" fill="#5f6368">4단계 · 정산</text>
+  <text x="740" y="230" text-anchor="middle" font-size="16" font-weight="700" fill="#8430ce">이듬해 6월 30일까지</text>
+  <text x="740" y="252" text-anchor="middle" font-size="13" fill="#202124">나머지 65% 지급</text>
+  <text x="740" y="270" text-anchor="middle" font-size="13" fill="#202124">(자녀장려금 포함)</text>
+
+  <text x="460" y="320" text-anchor="middle" font-size="12" fill="#9aa0a6">기준: 국세청 근로·자녀장려금 안내 (2026년 8월 기준)</text>
+</svg>
