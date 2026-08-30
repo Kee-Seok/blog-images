@@ -1,0 +1,43 @@
+<svg viewBox="0 0 1200 620" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <rect x="0" y="0" width="1200" height="620" fill="#ffffff"/>
+  <text x="600" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">근로장려금 상반기분 반기신청 일정 (2026년 소득 기준)</text>
+
+  <!-- timeline line -->
+  <line x1="90" y1="150" x2="1110" y2="150" stroke="#c7cdd6" stroke-width="4"/>
+
+  <!-- Step 1: 신청 -->
+  <circle cx="150" cy="150" r="14" fill="#1a73e8"/>
+  <text x="150" y="110" text-anchor="middle" font-size="18" font-weight="700" fill="#1a73e8">9.1 ~ 9.15</text>
+  <text x="150" y="190" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">상반기분 신청</text>
+  <text x="150" y="214" text-anchor="middle" font-size="14" fill="#5f6368">홈택스 · 손택스 · ARS</text>
+
+  <!-- Step 2: 심사 -->
+  <circle cx="450" cy="150" r="14" fill="#5f6368"/>
+  <text x="450" y="110" text-anchor="middle" font-size="18" font-weight="700" fill="#5f6368">9 ~ 12월</text>
+  <text x="450" y="190" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">국세청 심사</text>
+  <text x="450" y="214" text-anchor="middle" font-size="14" fill="#5f6368">소득·재산 요건 확인</text>
+
+  <!-- Step 3: 지급 35% -->
+  <circle cx="750" cy="150" r="16" fill="#e8710a"/>
+  <text x="750" y="108" text-anchor="middle" font-size="18" font-weight="700" fill="#e8710a">12.30 지급</text>
+  <text x="750" y="192" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">연간 산정액의 35%</text>
+  <text x="750" y="216" text-anchor="middle" font-size="14" fill="#5f6368">15만원 미만이면 정산 때 합산</text>
+
+  <!-- Step 4: 정산 -->
+  <circle cx="1050" cy="150" r="16" fill="#1a73e8"/>
+  <text x="1050" y="108" text-anchor="middle" font-size="18" font-weight="700" fill="#1a73e8">2027.6.30</text>
+  <text x="1050" y="192" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">최종 정산 지급</text>
+  <text x="1050" y="216" text-anchor="middle" font-size="14" fill="#5f6368">하반기분 + 나머지 65%</text>
+
+  <!-- lower box: 하반기분 자동신청 안내 -->
+  <rect x="90" y="300" width="1020" height="120" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="1.5"/>
+  <text x="600" y="340" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">상반기분을 신청하면 하반기분(2026.7~12월 소득)도 자동으로 신청한 것으로 처리돼요</text>
+  <text x="600" y="372" text-anchor="middle" font-size="15" fill="#5f6368">2027년 3월에 별도로 다시 신청할 필요 없이, 2027년 6월 정산 때 하반기분까지 함께 지급돼요</text>
+  <text x="600" y="400" text-anchor="middle" font-size="14" fill="#9aa0a6">단, 상반기 소득 기준을 초과하게 되면 하반기분에서 조정될 수 있어요</text>
+
+  <!-- bottom note -->
+  <rect x="90" y="460" width="1020" height="110" rx="14" fill="#fffaf0" stroke="#f5dfae" stroke-width="1.5"/>
+  <text x="600" y="498" text-anchor="middle" font-size="17" font-weight="700" fill="#b06000">신청 대상: 2026년에 신청자·배우자 모두 근로소득만 있는 가구</text>
+  <text x="600" y="528" text-anchor="middle" font-size="14" fill="#8a6d3b">사업소득 · 종교인소득이 있으면 반기신청 불가 → 2027년 5월 정기신청으로 진행</text>
+  <text x="600" y="552" text-anchor="middle" font-size="13" fill="#9a7b3f">국세청 안내 기준, 2026년 8월 확인</text>
+</svg>
