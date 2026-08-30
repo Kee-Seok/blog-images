@@ -1,0 +1,37 @@
+<svg viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <rect x="0" y="0" width="900" height="380" fill="#ffffff"/>
+  <text x="450" y="34" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">가구 유형별 소득·재산 요건 (반기신청)</text>
+
+  <!-- table header -->
+  <rect x="40" y="60" width="820" height="46" fill="#1a73e8"/>
+  <text x="150" y="89" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">가구 유형</text>
+  <text x="450" y="89" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">소득요건 (2025년 총소득 기준)</text>
+  <text x="730" y="89" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">최대 지급액</text>
+
+  <!-- row 1 -->
+  <rect x="40" y="106" width="820" height="56" fill="#f7f9fc"/>
+  <text x="150" y="140" text-anchor="middle" font-size="15" fill="#202124">단독가구</text>
+  <text x="450" y="140" text-anchor="middle" font-size="15" fill="#202124">연 2,200만원 미만</text>
+  <text x="730" y="140" text-anchor="middle" font-size="15" font-weight="700" fill="#1a73e8">165만원</text>
+
+  <!-- row 2 -->
+  <rect x="40" y="162" width="820" height="56" fill="#ffffff"/>
+  <text x="150" y="196" text-anchor="middle" font-size="15" fill="#202124">홑벌이가구</text>
+  <text x="450" y="196" text-anchor="middle" font-size="15" fill="#202124">연 3,200만원 미만</text>
+  <text x="730" y="196" text-anchor="middle" font-size="15" font-weight="700" fill="#1a73e8">285만원</text>
+
+  <!-- row 3 -->
+  <rect x="40" y="218" width="820" height="56" fill="#f7f9fc"/>
+  <text x="150" y="252" text-anchor="middle" font-size="15" fill="#202124">맞벌이가구</text>
+  <text x="450" y="252" text-anchor="middle" font-size="15" fill="#202124">연 4,400만원 미만</text>
+  <text x="730" y="252" text-anchor="middle" font-size="15" font-weight="700" fill="#1a73e8">330만원</text>
+
+  <rect x="40" y="60" width="820" height="214" fill="none" stroke="#dadce0" stroke-width="1.5"/>
+  <line x1="300" y1="60" x2="300" y2="274" stroke="#dadce0" stroke-width="1"/>
+  <line x1="600" y1="60" x2="600" y2="274" stroke="#dadce0" stroke-width="1"/>
+
+  <!-- property note box -->
+  <rect x="40" y="296" width="820" height="66" rx="10" fill="#fffaf0" stroke="#f5dfae" stroke-width="1.5"/>
+  <text x="60" y="320" font-size="14" font-weight="700" fill="#b06000">재산요건 (2025년 6월 1일 기준, 가구원 전체 합산)</text>
+  <text x="60" y="344" font-size="14" fill="#5f4a1f">2억 4천만원 미만이어야 신청 가능 · 1억 7천만원 이상~2억 4천만원 미만이면 지급액의 50%만 지급</text>
+</svg>
