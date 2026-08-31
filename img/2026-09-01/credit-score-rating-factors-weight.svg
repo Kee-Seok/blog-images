@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900" height="430" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="430" fill="#ffffff"/>
+  <text x="450" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">신용점수는 이 다섯 가지로 매겨집니다</text>
+  <text x="450" y="76" text-anchor="middle" font-size="15" fill="#5f6368">올크레딧(KCB) 공개 기준</text>
+  <g font-size="17">
+    <rect x="60" y="108" width="780" height="52" rx="8" fill="#F1F3F4"/>
+    <text x="86" y="140" font-weight="700" fill="#5f6368">상환이력</text>
+    <rect x="260" y="120" width="288" height="28" rx="5" fill="#5f6368"/>
+    <text x="812" y="140" text-anchor="end" font-size="20" font-weight="700" fill="#202124">32%</text>
+
+    <rect x="60" y="170" width="780" height="52" rx="8" fill="#F1F3F4"/>
+    <text x="86" y="202" font-weight="700" fill="#5f6368">신용거래 형태</text>
+    <rect x="260" y="182" width="243" height="28" rx="5" fill="#5f6368"/>
+    <text x="812" y="202" text-anchor="end" font-size="20" font-weight="700" fill="#202124">27%</text>
+
+    <rect x="60" y="232" width="780" height="52" rx="8" fill="#F1F3F4"/>
+    <text x="86" y="264" font-weight="700" fill="#5f6368">부채수준</text>
+    <rect x="260" y="244" width="225" height="28" rx="5" fill="#5f6368"/>
+    <text x="812" y="264" text-anchor="end" font-size="20" font-weight="700" fill="#202124">25%</text>
+
+    <rect x="60" y="294" width="780" height="52" rx="8" fill="#E8F0FE"/>
+    <text x="86" y="326" font-weight="700" fill="#1a73e8">비금융·마이데이터</text>
+    <rect x="260" y="306" width="99" height="28" rx="5" fill="#1A73E8"/>
+    <text x="812" y="326" text-anchor="end" font-size="20" font-weight="700" fill="#1a73e8">11%</text>
+
+    <rect x="60" y="356" width="780" height="52" rx="8" fill="#F1F3F4"/>
+    <text x="86" y="388" font-weight="700" fill="#5f6368">신용거래기간</text>
+    <rect x="260" y="368" width="45" height="28" rx="5" fill="#5f6368"/>
+    <text x="812" y="388" text-anchor="end" font-size="20" font-weight="700" fill="#202124">5%</text>
+  </g>
+</svg>
