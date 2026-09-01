@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="330" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">내 대출은 어느 쪽인가</text>
+  <text x="450" y="74" text-anchor="middle" font-size="15" fill="#5f6368">계약 시점이 인하 적용 여부를 가릅니다</text>
+
+  <rect x="55" y="105" width="380" height="185" rx="12" fill="#FCE8E6" stroke="#D93025" stroke-width="2"/>
+  <text x="245" y="142" text-anchor="middle" font-size="18" font-weight="700" fill="#c5221f">2025년 1월 13일 이전 계약</text>
+  <line x1="85" y1="160" x2="405" y2="160" stroke="#D93025" stroke-width="1" opacity="0.4"/>
+  <text x="245" y="200" text-anchor="middle" font-size="17" fill="#202124">계약 당시 요율 그대로</text>
+  <text x="245" y="238" text-anchor="middle" font-size="26" font-weight="700" fill="#c5221f">인하 적용 안 됨</text>
+  <text x="245" y="270" text-anchor="middle" font-size="14" fill="#5f6368">지금 갚아도 예전 요율입니다</text>
+
+  <rect x="465" y="105" width="380" height="185" rx="12" fill="#E6F4EA" stroke="#188038" stroke-width="2"/>
+  <text x="655" y="142" text-anchor="middle" font-size="18" font-weight="700" fill="#137333">2025년 1월 13일 이후 계약</text>
+  <line x1="495" y1="160" x2="815" y2="160" stroke="#188038" stroke-width="1" opacity="0.4"/>
+  <text x="655" y="200" text-anchor="middle" font-size="17" fill="#202124">실비용 기준 요율</text>
+  <text x="655" y="238" text-anchor="middle" font-size="26" font-weight="700" fill="#137333">인하 적용됨</text>
+  <text x="655" y="270" text-anchor="middle" font-size="14" fill="#5f6368">상호금융권은 2026년 1월부터</text>
+</svg>
