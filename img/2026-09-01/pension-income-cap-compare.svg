@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480">
+  <rect width="1200" height="480" fill="#ffffff"/>
+  <style>
+    text { font-family: sans-serif; fill: #1a1a1a; }
+    .small { font-size: 20px; }
+    .lg { font-size: 30px; font-weight: 700; }
+    .accent { fill: #2b6cb0; font-weight: 700; }
+  </style>
+
+  <text x="600" y="48" text-anchor="middle" class="lg">기준소득월액 상한·하한, 2026년 7월에 또 올랐다</text>
+  <text x="600" y="78" text-anchor="middle" class="small" fill="#4a5568">추납보험료도 이 상한선을 넘는 소득은 반영되지 않는다</text>
+
+  <!-- 표 헤더 -->
+  <rect x="100" y="120" width="1000" height="60" fill="#2b6cb0"/>
+  <text x="350" y="158" text-anchor="middle" class="small" fill="#ffffff" font-weight="700">적용 기간</text>
+  <text x="700" y="158" text-anchor="middle" class="small" fill="#ffffff" font-weight="700">상한액</text>
+  <text x="950" y="158" text-anchor="middle" class="small" fill="#ffffff" font-weight="700">하한액</text>
+
+  <!-- 이전 기간 -->
+  <rect x="100" y="180" width="1000" height="70" fill="#f7f9fc" stroke="#e2e8f0"/>
+  <text x="350" y="222" text-anchor="middle" class="small">2025.7 ~ 2026.6</text>
+  <text x="700" y="222" text-anchor="middle" class="small">637만원</text>
+  <text x="950" y="222" text-anchor="middle" class="small">40만원</text>
+
+  <!-- 현재 기간 -->
+  <rect x="100" y="250" width="1000" height="70" fill="#ebf4ff" stroke="#2b6cb0" stroke-width="2"/>
+  <text x="350" y="292" text-anchor="middle" class="small accent">2026.7 ~ 2027.6 (현재)</text>
+  <text x="700" y="292" text-anchor="middle" class="lg" fill="#2b6cb0">659만원</text>
+  <text x="950" y="292" text-anchor="middle" class="lg" fill="#2b6cb0">41만원</text>
+
+  <!-- 하단 설명 -->
+  <rect x="100" y="345" width="1000" height="100" rx="12" fill="#fffaf0" stroke="#d69e2e" stroke-width="2"/>
+  <text x="600" y="380" text-anchor="middle" class="small" fill="#975a16">월소득이 659만원을 넘는 고소득자도</text>
+  <text x="600" y="410" text-anchor="middle" class="small" fill="#975a16">추납보험료 계산 시 소득은 659만원까지만 인정됩니다</text>
+</svg>
