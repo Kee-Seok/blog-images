@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="300" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">갈아타기, 이 셋을 놓고 비교하세요</text>
+  <text x="450" y="74" text-anchor="middle" font-size="15" fill="#5f6368">위가 아래 둘을 합친 것보다 크면 이득입니다</text>
+
+  <rect x="150" y="100" width="600" height="58" rx="10" fill="#E6F4EA" stroke="#188038" stroke-width="2"/>
+  <text x="180" y="136" font-size="17" font-weight="700" fill="#137333">남은 기간 이자 절감액</text>
+  <text x="720" y="136" text-anchor="end" font-size="15" fill="#5f6368">금리차 × 남은 원금 × 남은 기간</text>
+
+  <text x="450" y="182" text-anchor="middle" font-size="24" font-weight="700" fill="#5f6368">vs</text>
+
+  <rect x="150" y="196" width="600" height="46" rx="8" fill="#FCE8E6" stroke="#D93025"/>
+  <text x="180" y="225" font-size="16" font-weight="700" fill="#c5221f">중도상환수수료</text>
+  <text x="720" y="225" text-anchor="end" font-size="15" fill="#5f6368">내 계약서 요율 · 3년 지나면 대개 면제</text>
+
+  <rect x="150" y="250" width="600" height="46" rx="8" fill="#FEF7E0" stroke="#F9AB00"/>
+  <text x="180" y="279" font-size="16" font-weight="700" fill="#b06000">부대비용</text>
+  <text x="720" y="279" text-anchor="end" font-size="15" fill="#5f6368">근저당 설정비 · 인지세</text>
+</svg>
