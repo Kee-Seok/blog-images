@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="380" fill="#ffffff"/>
+  <text x="450" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">대중교통 소득공제율, 이렇게 바뀝니다</text>
+  <text x="450" y="76" text-anchor="middle" font-size="15" fill="#5f6368">2026년 세제개편안 · 2027년 사용분부터</text>
+
+  <rect x="70" y="110" width="340" height="220" rx="12" fill="#E8F0FE" stroke="#1A73E8" stroke-width="2"/>
+  <text x="240" y="148" text-anchor="middle" font-size="17" font-weight="700" fill="#1a73e8">지금 (2026년 사용분까지)</text>
+  <line x1="100" y1="166" x2="380" y2="166" stroke="#1A73E8" stroke-width="1" opacity="0.4"/>
+  <text x="240" y="200" text-anchor="middle" font-size="15" fill="#5f6368">결제수단 상관없이</text>
+  <text x="240" y="262" text-anchor="middle" font-size="62" font-weight="700" fill="#1a73e8">40%</text>
+  <text x="240" y="300" text-anchor="middle" font-size="15" fill="#202124">우대공제</text>
+
+  <text x="450" y="228" text-anchor="middle" font-size="34" fill="#5f6368">→</text>
+
+  <rect x="490" y="110" width="340" height="220" rx="12" fill="#FCE8E6" stroke="#D93025" stroke-width="2"/>
+  <text x="660" y="148" text-anchor="middle" font-size="17" font-weight="700" fill="#c5221f">개편 후 (2027년 사용분부터)</text>
+  <line x1="520" y1="166" x2="800" y2="166" stroke="#D93025" stroke-width="1" opacity="0.4"/>
+  <text x="560" y="205" font-size="16" fill="#202124">신용카드</text>
+  <text x="790" y="209" text-anchor="end" font-size="34" font-weight="700" fill="#c5221f">15%</text>
+  <line x1="520" y1="228" x2="800" y2="228" stroke="#D93025" stroke-width="1" opacity="0.25"/>
+  <text x="560" y="268" font-size="16" font-weight="700" fill="#202124">체크카드·현금영수증</text>
+  <text x="790" y="272" text-anchor="end" font-size="34" font-weight="700" fill="#b06000">30%</text>
+  <text x="660" y="308" text-anchor="middle" font-size="14" fill="#5f6368">추가공제 한도도 100만원 축소</text>
+</svg>
