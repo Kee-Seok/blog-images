@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#ffffff"/>
+  <style>
+    text { font-family: sans-serif; fill: #1a1a1a; }
+    .small { font-size: 19px; }
+    .lg { font-size: 32px; font-weight: 700; }
+    .accent { fill: #2b6cb0; font-weight: 700; }
+  </style>
+
+  <text x="600" y="50" text-anchor="middle" class="lg">국민연금 보험료율, 2026년부터 매년 0.5%p씩 오른다</text>
+  <text x="600" y="82" text-anchor="middle" class="small" fill="#4a5568">2026년 1월 1일부터 9%에서 9.5%로 인상 시행, 2033년 13%까지 단계적 인상</text>
+
+  <!-- 막대 그래프: 2025, 2026, 2029, 2033 -->
+  <line x1="120" y1="440" x2="1120" y2="440" stroke="#4a5568" stroke-width="2"/>
+
+  <!-- 2025 : 9% -->
+  <rect x="180" y="332" width="140" height="108" fill="#a0aec0"/>
+  <text x="250" y="315" text-anchor="middle" class="lg" fill="#4a5568">9%</text>
+  <text x="250" y="470" text-anchor="middle" class="small">2025년</text>
+
+  <!-- 2026 : 9.5% -->
+  <rect x="420" y="320" width="140" height="120" fill="#2b6cb0"/>
+  <text x="490" y="303" text-anchor="middle" class="lg" fill="#2b6cb0">9.5%</text>
+  <text x="490" y="470" text-anchor="middle" class="small accent">2026년 1월~</text>
+
+  <!-- 2029 : 11% (0.5*6=3 -> 9+3=12? recompute) -->
+  <rect x="660" y="248" width="140" height="192" fill="#63b3ed"/>
+  <text x="730" y="231" text-anchor="middle" class="lg" fill="#2b6cb0">11%</text>
+  <text x="730" y="470" text-anchor="middle" class="small">2029년(예정)</text>
+
+  <!-- 2033 : 13% -->
+  <rect x="900" y="152" width="140" height="288" fill="#1a4e8a"/>
+  <text x="970" y="135" text-anchor="middle" class="lg" fill="#1a4e8a">13%</text>
+  <text x="970" y="470" text-anchor="middle" class="small">2033년(예정)</text>
+
+  <!-- 안내 박스 -->
+  <rect x="120" y="486" width="0" height="0"/>
+</svg>
