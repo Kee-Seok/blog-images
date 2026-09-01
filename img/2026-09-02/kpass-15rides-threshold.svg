@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="330" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">가장 손해 보는 사람은 따로 있습니다</text>
+  <text x="450" y="74" text-anchor="middle" font-size="15" fill="#5f6368">K-패스 환급 요건은 월 15회 이상 이용입니다</text>
+
+  <rect x="55" y="105" width="380" height="190" rx="12" fill="#E6F4EA" stroke="#188038" stroke-width="2"/>
+  <text x="245" y="142" text-anchor="middle" font-size="18" font-weight="700" fill="#137333">월 15회 이상 이용</text>
+  <line x1="85" y1="160" x2="405" y2="160" stroke="#188038" stroke-width="1" opacity="0.4"/>
+  <text x="245" y="196" text-anchor="middle" font-size="16" fill="#202124">공제는 줄지만</text>
+  <text x="245" y="232" text-anchor="middle" font-size="19" font-weight="700" fill="#137333">K-패스 환급으로 보전</text>
+  <text x="245" y="268" text-anchor="middle" font-size="14" fill="#5f6368">타격이 크지 않습니다</text>
+
+  <rect x="465" y="105" width="380" height="190" rx="12" fill="#FCE8E6" stroke="#D93025" stroke-width="2"/>
+  <text x="655" y="142" text-anchor="middle" font-size="18" font-weight="700" fill="#c5221f">월 15회 미만 이용</text>
+  <line x1="495" y1="160" x2="815" y2="160" stroke="#D93025" stroke-width="1" opacity="0.4"/>
+  <text x="655" y="196" text-anchor="middle" font-size="16" fill="#202124">공제도 줄고</text>
+  <text x="655" y="232" text-anchor="middle" font-size="19" font-weight="700" fill="#c5221f">환급도 못 받음</text>
+  <text x="655" y="268" text-anchor="middle" font-size="14" fill="#5f6368">재택근무·장거리 출퇴근족</text>
+</svg>
