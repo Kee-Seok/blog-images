@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#ffffff"/>
+  <style>
+    text { font-family: sans-serif; fill: #1a1a1a; }
+    .small { font-size: 20px; }
+    .lg { font-size: 32px; font-weight: 700; }
+    .accent { fill: #2b6cb0; font-weight: 700; }
+  </style>
+
+  <text x="600" y="50" text-anchor="middle" class="lg">국민연금 추납보험료 계산 공식</text>
+  <text x="600" y="82" text-anchor="middle" class="small" fill="#4a5568">신청일 기준소득월액 × 납부기한 속한 달 보험료율 × 추납 개월수</text>
+
+  <!-- 공식 박스 3개 -->
+  <rect x="80" y="130" width="290" height="120" rx="12" fill="#ebf4ff" stroke="#2b6cb0" stroke-width="2"/>
+  <text x="225" y="180" text-anchor="middle" class="lg" fill="#2b6cb0">기준소득월액</text>
+  <text x="225" y="215" text-anchor="middle" class="small" fill="#4a5568">신청일이 속한 달 기준</text>
+
+  <text x="405" y="200" text-anchor="middle" class="lg">×</text>
+
+  <rect x="440" y="130" width="290" height="120" rx="12" fill="#ebf4ff" stroke="#2b6cb0" stroke-width="2"/>
+  <text x="585" y="180" text-anchor="middle" class="lg" fill="#2b6cb0">보험료율</text>
+  <text x="585" y="215" text-anchor="middle" class="small" fill="#4a5568">2026년 1월부터 9.5%</text>
+
+  <text x="765" y="200" text-anchor="middle" class="lg">×</text>
+
+  <rect x="800" y="130" width="320" height="120" rx="12" fill="#ebf4ff" stroke="#2b6cb0" stroke-width="2"/>
+  <text x="960" y="180" text-anchor="middle" class="lg" fill="#2b6cb0">추납 개월수</text>
+  <text x="960" y="215" text-anchor="middle" class="small" fill="#4a5568">최대 119개월</text>
+
+  <!-- 예시 계산 -->
+  <rect x="80" y="300" width="1040" height="220" rx="14" fill="#f7f9fc" stroke="#cbd5e0" stroke-width="2"/>
+  <text x="600" y="345" text-anchor="middle" class="lg" fill="#202124">예시로 계산해 보면</text>
+
+  <text x="120" y="395" class="small">기준소득월액 200만원인 지역가입자가</text>
+  <text x="120" y="425" class="small">2026년 1월 이후 30개월치를 추납한다면</text>
+
+  <text x="1080" y="395" text-anchor="end" class="small accent">200만원 × 9.5% × 30개월</text>
+  <text x="1080" y="435" text-anchor="end" class="lg" fill="#2b6cb0">= 570만원</text>
+
+  <line x1="120" y1="460" x2="1080" y2="460" stroke="#cbd5e0" stroke-width="1"/>
+  <text x="120" y="495" class="small" fill="#718096">60회(5년) 분할납부를 선택하면 월 부담은 약 95,000원</text>
+  <text x="1080" y="495" text-anchor="end" class="small" fill="#718096">2026년 9월 1일 기준 국민연금공단 안내</text>
+</svg>
