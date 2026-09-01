@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 290" width="900" height="290" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="290" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">언제부터 적용되나</text>
+  <text x="450" y="74" text-anchor="middle" font-size="15" fill="#5f6368">올해 쓴 교통비는 그대로입니다</text>
+  <line x1="90" y1="150" x2="810" y2="150" stroke="#DADCE0" stroke-width="3"/>
+  <g font-size="15">
+    <circle cx="200" cy="150" r="13" fill="#1A73E8"/>
+    <text x="200" y="122" text-anchor="middle" font-size="17" font-weight="700" fill="#1a73e8">2026년 사용분</text>
+    <text x="200" y="190" text-anchor="middle" font-weight="700" fill="#202124">40% 그대로</text>
+    <text x="200" y="214" text-anchor="middle" fill="#5f6368">변화 없음</text>
+
+    <circle cx="450" cy="150" r="13" fill="#D93025"/>
+    <text x="450" y="122" text-anchor="middle" font-size="17" font-weight="700" fill="#c5221f">2027년 사용분</text>
+    <text x="450" y="190" text-anchor="middle" font-weight="700" fill="#202124">15% 또는 30%</text>
+    <text x="450" y="214" text-anchor="middle" fill="#5f6368">새 기준 적용 시작</text>
+
+    <circle cx="700" cy="150" r="13" fill="#9AA0A6"/>
+    <text x="700" y="122" text-anchor="middle" font-size="17" font-weight="700" fill="#5f6368">2028년 초</text>
+    <text x="700" y="190" text-anchor="middle" font-weight="700" fill="#202124">연말정산에 반영</text>
+    <text x="700" y="214" text-anchor="middle" fill="#5f6368">여기서 체감합니다</text>
+  </g>
+  <text x="450" y="262" text-anchor="middle" font-size="15" fill="#137333" font-weight="700">대비할 시간이 1년 넘게 남아 있습니다</text>
+</svg>
