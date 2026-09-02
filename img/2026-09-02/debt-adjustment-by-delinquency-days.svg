@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="340" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">연체 며칠이냐가 제도를 결정합니다</text>
+  <text x="450" y="74" text-anchor="middle" font-size="15" fill="#5f6368">내가 고르는 게 아니라 연체 기간이 정합니다</text>
+  <line x1="80" y1="150" x2="820" y2="150" stroke="#DADCE0" stroke-width="4"/>
+  <g>
+    <circle cx="210" cy="150" r="14" fill="#188038"/>
+    <text x="210" y="122" text-anchor="middle" font-size="17" font-weight="700" fill="#137333">연체 30일 이하</text>
+    <rect x="105" y="180" width="210" height="70" rx="10" fill="#E6F4EA" stroke="#188038" stroke-width="2"/>
+    <text x="210" y="212" text-anchor="middle" font-size="17" font-weight="700" fill="#137333">신속채무조정</text>
+    <text x="210" y="236" text-anchor="middle" font-size="14" fill="#5f6368">연체이자 면제</text>
+
+    <circle cx="450" cy="150" r="14" fill="#F9AB00"/>
+    <text x="450" y="122" text-anchor="middle" font-size="17" font-weight="700" fill="#b06000">연체 31~89일</text>
+    <rect x="345" y="180" width="210" height="70" rx="10" fill="#FEF7E0" stroke="#F9AB00" stroke-width="2"/>
+    <text x="450" y="212" text-anchor="middle" font-size="17" font-weight="700" fill="#b06000">프리워크아웃</text>
+    <text x="450" y="236" text-anchor="middle" font-size="14" fill="#5f6368">이자 30~70% 감면</text>
+
+    <circle cx="690" cy="150" r="14" fill="#D93025"/>
+    <text x="690" y="122" text-anchor="middle" font-size="17" font-weight="700" fill="#c5221f">연체 90일 이상</text>
+    <rect x="585" y="180" width="210" height="70" rx="10" fill="#FCE8E6" stroke="#D93025" stroke-width="2"/>
+    <text x="690" y="212" text-anchor="middle" font-size="17" font-weight="700" fill="#c5221f">개인워크아웃</text>
+    <text x="690" y="236" text-anchor="middle" font-size="14" fill="#5f6368">원금 일부 감면</text>
+  </g>
+  <text x="450" y="300" text-anchor="middle" font-size="15" fill="#5f6368">연체가 시작되기 전에도 신청할 수 있습니다</text>
+</svg>
