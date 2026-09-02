@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+  <rect width="900" height="300" fill="#ffffff"/>
+  <text x="450" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">세 제도 공통 자격 요건</text>
+  <text x="450" y="74" text-anchor="middle" font-size="15" fill="#5f6368">하나라도 안 맞으면 신청이 막힙니다</text>
+  <g font-size="16">
+    <rect x="80" y="100" width="740" height="54" rx="9" fill="#F1F3F4"/>
+    <circle cx="118" cy="127" r="13" fill="#1A73E8"/><text x="118" y="133" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">1</text>
+    <text x="150" y="133" fill="#202124">금융회사 채무가 <tspan font-weight="700">1곳 이상</tspan></text>
+
+    <rect x="80" y="164" width="740" height="54" rx="9" fill="#F1F3F4"/>
+    <circle cx="118" cy="191" r="13" fill="#1A73E8"/><text x="118" y="197" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">2</text>
+    <text x="150" y="197" fill="#202124">총 채무액 <tspan font-weight="700">15억원 이하</tspan> (담보 10억 · 무담보 5억 이하)</text>
+
+    <rect x="80" y="228" width="740" height="54" rx="9" fill="#FEF7E0" stroke="#F9AB00" stroke-width="2"/>
+    <circle cx="118" cy="255" r="13" fill="#b06000"/><text x="118" y="261" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">3</text>
+    <text x="150" y="261" fill="#202124">최근 6개월 내 새 빚이 전체의 <tspan font-weight="700" fill="#b06000">30% 미만</tspan></text>
+  </g>
+</svg>
