@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="360" fill="#ffffff"/>
+<text x="30" y="40" font-size="21" font-weight="700" fill="#202124">종부세 정부안, 8월 발표에서 무엇이 바뀌었나</text>
+<text x="30" y="66" font-size="14" fill="#80868b">2026년 9월 1일 국무회의 확정 기준</text>
+<text x="330" y="104" text-anchor="middle" font-size="14" font-weight="700" fill="#80868b">8월 발표안</text>
+<text x="640" y="104" text-anchor="middle" font-size="14" font-weight="700" fill="#1a73e8">9월 1일 확정안</text>
+<line x1="30" y1="116" x2="870" y2="116" stroke="#e1e6ee" stroke-width="2"/>
+<text x="30" y="152" font-size="15" fill="#3c4043">실거주 1주택 공제</text>
+<text x="330" y="152" text-anchor="middle" font-size="16" font-weight="700" fill="#5f6368">14억원</text>
+<text x="485" y="152" text-anchor="middle" font-size="15" fill="#bdc1c6">→</text>
+<text x="640" y="152" text-anchor="middle" font-size="17" font-weight="800" fill="#1a73e8">14억원</text>
+<text x="790" y="152" font-size="13" fill="#4a9e68">유지</text>
+<line x1="30" y1="168" x2="870" y2="168" stroke="#f1f3f4" stroke-width="1"/>
+<text x="30" y="204" font-size="15" fill="#3c4043">비거주 1주택 공제</text>
+<text x="330" y="204" text-anchor="middle" font-size="16" font-weight="700" fill="#d93025">9억원</text>
+<text x="485" y="204" text-anchor="middle" font-size="15" fill="#bdc1c6">→</text>
+<text x="640" y="204" text-anchor="middle" font-size="17" font-weight="800" fill="#1a73e8">12억원</text>
+<text x="790" y="204" font-size="13" fill="#e8710a">철회</text>
+<line x1="30" y1="220" x2="870" y2="220" stroke="#f1f3f4" stroke-width="1"/>
+<text x="30" y="256" font-size="15" fill="#3c4043">세부담 상한</text>
+<text x="330" y="256" text-anchor="middle" font-size="16" font-weight="700" fill="#d93025">200%</text>
+<text x="485" y="256" text-anchor="middle" font-size="15" fill="#bdc1c6">→</text>
+<text x="640" y="256" text-anchor="middle" font-size="17" font-weight="800" fill="#1a73e8">150%</text>
+<text x="790" y="256" font-size="13" fill="#e8710a">철회</text>
+<line x1="30" y1="272" x2="870" y2="272" stroke="#f1f3f4" stroke-width="1"/>
+<text x="30" y="308" font-size="15" fill="#3c4043">비거주 부부 공동명의</text>
+<text x="330" y="308" text-anchor="middle" font-size="16" font-weight="700" fill="#d93025">각 4억 (합 8억)</text>
+<text x="485" y="308" text-anchor="middle" font-size="15" fill="#bdc1c6">→</text>
+<text x="640" y="308" text-anchor="middle" font-size="17" font-weight="800" fill="#1a73e8">각 6억 (합 12억)</text>
+<text x="790" y="308" font-size="13" fill="#e8710a">철회</text>
+<text x="30" y="345" font-size="13" fill="#80868b">깎으려던 항목은 모두 되돌아갔고, 실거주 상향만 남았다</text>
+</svg>
