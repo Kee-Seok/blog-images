@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="330" fill="#ffffff"/>
+<text x="30" y="40" font-size="21" font-weight="700" fill="#202124">세부담 상한은 뚜껑이다 — 숫자가 커지면 얇아진다</text>
+<text x="30" y="66" font-size="14" fill="#80868b">작년에 종부세 200만원을 낸 사람 기준</text>
+<rect x="40" y="96" width="380" height="180" rx="14" fill="#f1f8f3" stroke="#4a9e68" stroke-width="3"/>
+<text x="230" y="128" text-anchor="middle" font-size="16" font-weight="700" fill="#4a9e68">상한 150% (확정안)</text>
+<text x="230" y="186" text-anchor="middle" font-size="44" font-weight="800" fill="#202124">300만원</text>
+<text x="230" y="220" text-anchor="middle" font-size="15" fill="#3c4043">공시가격이 아무리 올라도</text>
+<text x="230" y="246" text-anchor="middle" font-size="15" fill="#3c4043">여기서 멈춘다</text>
+<rect x="480" y="96" width="380" height="180" rx="14" fill="#fdf1ef" stroke="#d93025" stroke-width="3"/>
+<text x="670" y="128" text-anchor="middle" font-size="16" font-weight="700" fill="#d93025">상한 200% (철회된 안)</text>
+<text x="670" y="186" text-anchor="middle" font-size="44" font-weight="800" fill="#202124">400만원</text>
+<text x="670" y="220" text-anchor="middle" font-size="15" fill="#3c4043">같은 사람이 여기까지</text>
+<text x="670" y="246" text-anchor="middle" font-size="15" fill="#3c4043">갈 수 있었다</text>
+<text x="450" y="192" text-anchor="middle" font-size="26" fill="#bdc1c6">vs</text>
+<text x="30" y="310" font-size="14" fill="#80868b">상한을 올린다는 건 완화가 아니라, 급등할 때 막아주는 뚜껑을 얇게 만드는 일이다</text>
+</svg>
