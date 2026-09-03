@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="320" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">받더라도 통장에 들어오지 않는다</text>
+<text x="30" y="68" font-size="14" fill="#80868b">그 돈이 지역 안에서 돌게 하려고 이렇게 설계돼 있다</text>
+<rect x="30" y="96" width="270" height="150" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="165" y="140" text-anchor="middle" font-size="19" font-weight="800" fill="#202124">무기명 선불카드</text>
+<text x="165" y="180" text-anchor="middle" font-size="15" fill="#5f6368">카드를 받아</text>
+<text x="165" y="206" text-anchor="middle" font-size="15" fill="#5f6368">충전된 금액을 쓴다</text>
+<rect x="325" y="96" width="270" height="150" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="460" y="140" text-anchor="middle" font-size="19" font-weight="800" fill="#202124">지역사랑상품권</text>
+<text x="460" y="180" text-anchor="middle" font-size="15" fill="#5f6368">종이 또는</text>
+<text x="460" y="206" text-anchor="middle" font-size="15" fill="#5f6368">모바일 상품권</text>
+<rect x="620" y="96" width="250" height="150" rx="14" fill="#fdf1ef" stroke="#d93025" stroke-width="3"/>
+<text x="745" y="134" text-anchor="middle" font-size="18" font-weight="800" fill="#d93025">따라오는 제약</text>
+<text x="745" y="170" text-anchor="middle" font-size="15" fill="#3c4043">사용 지역 제한</text>
+<text x="745" y="196" text-anchor="middle" font-size="15" fill="#3c4043">사용 기한 있음</text>
+<text x="745" y="222" text-anchor="middle" font-size="15" fill="#3c4043">업종 제한</text>
+<text x="30" y="284" font-size="16" font-weight="700" fill="#d93025">완주군 사례 — 군내에서만, 12월 31일까지. 기한을 넘기면 남은 금액은 사라진다</text>
+<text x="30" y="310" font-size="14" fill="#80868b">대형마트·백화점·온라인 쇼핑몰은 대체로 안 된다. 받으면 사용처 안내문부터 읽어야 한다</text>
+</svg>
