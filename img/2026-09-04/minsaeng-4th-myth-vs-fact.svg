@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="380" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">4차 민생지원금 — 돌아다니는 말과 실제</text>
+<text x="30" y="68" font-size="14" fill="#80868b">2026년 9월 4일 기준</text>
+<rect x="30" y="92" width="400" height="252" rx="14" fill="#fdf1ef" stroke="#d93025" stroke-width="3"/>
+<text x="230" y="128" text-anchor="middle" font-size="17" font-weight="800" fill="#d93025">이렇게 알려져 있지만</text>
+<text x="60" y="176" font-size="17" fill="#3c4043">✕  전 국민에게 지급</text>
+<text x="60" y="216" font-size="17" fill="#3c4043">✕  모두 50만원</text>
+<text x="60" y="256" font-size="17" fill="#3c4043">✕  현금으로 통장 입금</text>
+<text x="60" y="296" font-size="17" fill="#3c4043">✕  자동으로 들어옴</text>
+<rect x="470" y="92" width="400" height="252" rx="14" fill="#f1f8f3" stroke="#4a9e68" stroke-width="3"/>
+<text x="670" y="128" text-anchor="middle" font-size="17" font-weight="800" fill="#4a9e68">실제로는</text>
+<text x="500" y="176" font-size="17" fill="#3c4043">○  지자체별 자체 사업</text>
+<text x="500" y="216" font-size="17" fill="#3c4043">○  지역마다 30만~50만원</text>
+<text x="500" y="256" font-size="17" fill="#3c4043">○  선불카드·지역상품권</text>
+<text x="500" y="296" font-size="17" fill="#3c4043">○  대부분 신청해야 받음</text>
+<text x="30" y="368" font-size="14" fill="#80868b">내 지역이 대상인지는 정부24 보조금24에서 주소지 기준으로 확인해야 알 수 있다</text>
+</svg>
