@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="300" fill="#ffffff"/>
+<text x="30" y="40" font-size="21" font-weight="700" fill="#202124">언제부터 적용되나 — 준비할 시간은 1년 9개월</text>
+<text x="30" y="66" font-size="14" fill="#80868b">종부세 과세기준일은 매년 6월 1일이다</text>
+<line x1="90" y1="150" x2="820" y2="150" stroke="#e1e6ee" stroke-width="4"/>
+<circle cx="150" cy="150" r="13" fill="#9aa0a6"/>
+<text x="150" y="118" text-anchor="middle" font-size="16" font-weight="700" fill="#5f6368">2026년 12월</text>
+<text x="150" y="192" text-anchor="middle" font-size="14" fill="#3c4043">올해 고지분</text>
+<text x="150" y="216" text-anchor="middle" font-size="14" fill="#3c4043">지금 기준 그대로</text>
+<text x="150" y="240" text-anchor="middle" font-size="13" fill="#80868b">개편과 무관</text>
+<circle cx="455" cy="150" r="16" fill="#1a73e8"/>
+<text x="455" y="114" text-anchor="middle" font-size="17" font-weight="800" fill="#1a73e8">2027년 6월 1일</text>
+<text x="455" y="194" text-anchor="middle" font-size="14" font-weight="700" fill="#202124">개편 기준으로 판정되는 첫날</text>
+<text x="455" y="220" text-anchor="middle" font-size="14" fill="#3c4043">이날 등기부에 이름이 있으면</text>
+<text x="455" y="244" text-anchor="middle" font-size="14" fill="#3c4043">그해 종부세 대상</text>
+<circle cx="760" cy="150" r="13" fill="#9aa0a6"/>
+<text x="760" y="118" text-anchor="middle" font-size="16" font-weight="700" fill="#5f6368">2027년 12월</text>
+<text x="760" y="192" text-anchor="middle" font-size="14" fill="#3c4043">그 결과가</text>
+<text x="760" y="216" text-anchor="middle" font-size="14" fill="#3c4043">고지서로 오는 시점</text>
+<text x="30" y="284" font-size="14" fill="#80868b">국회 심사가 남아 있어 숫자는 또 바뀔 수 있다 — 통과를 보고 움직여도 늦지 않다</text>
+</svg>
