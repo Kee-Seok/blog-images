@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="340" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">"9급 300만원" — 세 가지 숫자가 뒤섞여 있다</text>
+<text x="30" y="68" font-size="14" fill="#80868b">셋은 완전히 다른 값이다</text>
+<rect x="30" y="96" width="270" height="176" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="165" y="130" text-anchor="middle" font-size="16" font-weight="700" fill="#5f6368">봉급 (기본급)</text>
+<text x="165" y="180" text-anchor="middle" font-size="27" font-weight="800" fill="#202124">2,133,000원</text>
+<text x="165" y="212" text-anchor="middle" font-size="14" fill="#80868b">봉급표에 적히는 숫자</text>
+<text x="165" y="240" text-anchor="middle" font-size="14" fill="#80868b">2026년 9급 1호봉</text>
+<rect x="315" y="96" width="270" height="176" rx="14" fill="#f7f9fc" stroke="#1a73e8" stroke-width="3"/>
+<text x="450" y="130" text-anchor="middle" font-size="16" font-weight="700" fill="#1a73e8">월평균 보수 (세전)</text>
+<text x="450" y="180" text-anchor="middle" font-size="27" font-weight="800" fill="#202124">약 300만원</text>
+<text x="450" y="212" text-anchor="middle" font-size="14" fill="#80868b">봉급 + 수당</text>
+<text x="450" y="240" text-anchor="middle" font-size="14" fill="#1a73e8">기사 제목의 그 숫자</text>
+<rect x="600" y="96" width="270" height="176" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="735" y="130" text-anchor="middle" font-size="16" font-weight="700" fill="#5f6368">실수령액</text>
+<text x="735" y="180" text-anchor="middle" font-size="27" font-weight="800" fill="#202124">250만원 안팎</text>
+<text x="735" y="212" text-anchor="middle" font-size="14" fill="#80868b">세금·기여금을 뺀 금액</text>
+<text x="735" y="240" text-anchor="middle" font-size="14" fill="#80868b">통장에 찍히는 돈</text>
+<text x="450" y="308" text-anchor="middle" font-size="16" font-weight="700" fill="#202124">봉급표는 기본급만 적힌 표다 — 그래서 보고 실망하게 된다</text>
+<text x="450" y="332" text-anchor="middle" font-size="14" fill="#80868b">2026년 기준 기본급과 월평균 보수 사이는 70만원 넘게 벌어진다</text>
+</svg>
