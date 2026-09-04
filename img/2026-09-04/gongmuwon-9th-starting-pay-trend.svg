@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="320" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">9급 초임 월평균 보수 — 2년 사이 31만원 올랐다</text>
+<text x="30" y="68" font-size="14" fill="#80868b">수당을 포함한 세전 금액 · 2027년은 예산안 기준</text>
+<line x1="130" y1="258" x2="850" y2="258" stroke="#e1e6ee" stroke-width="2"/>
+<rect x="200" y="168" width="120" height="90" rx="6" fill="#c6dafc"/>
+<text x="260" y="156" text-anchor="middle" font-size="24" font-weight="800" fill="#202124">269만원</text>
+<text x="260" y="284" text-anchor="middle" font-size="16" fill="#5f6368">2025년</text>
+<rect x="390" y="138" width="120" height="120" rx="6" fill="#8ab4f8"/>
+<text x="450" y="126" text-anchor="middle" font-size="24" font-weight="800" fill="#202124">284만원</text>
+<text x="450" y="284" text-anchor="middle" font-size="16" fill="#5f6368">2026년</text>
+<rect x="580" y="108" width="120" height="150" rx="6" fill="#1a73e8"/>
+<text x="640" y="96" text-anchor="middle" font-size="24" font-weight="800" fill="#1a73e8">300만원</text>
+<text x="640" y="284" text-anchor="middle" font-size="16" fill="#5f6368">2027년</text>
+<text x="640" y="308" text-anchor="middle" font-size="13" fill="#80868b">예산안 목표</text>
+<text x="30" y="308" font-size="15" font-weight="700" fill="#202124">2027년에는 정액급식비도 14만원에서 16만원으로 오른다</text>
+</svg>
