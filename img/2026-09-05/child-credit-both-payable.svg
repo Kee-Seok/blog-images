@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="300" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">근로장려금을 받아도 자녀장려금은 따로 나온다</text>
+<text x="30" y="68" font-size="14" fill="#80868b">하나를 받으면 다른 하나가 깎이는 구조가 아니다</text>
+<rect x="70" y="100" width="300" height="112" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="3"/>
+<text x="220" y="140" text-anchor="middle" font-size="19" font-weight="700" fill="#1a73e8">근로장려금</text>
+<text x="220" y="180" text-anchor="middle" font-size="17" fill="#3c4043">요건 충족 시 전액</text>
+<text x="450" y="168" text-anchor="middle" font-size="40" font-weight="800" fill="#4a9e68">+</text>
+<rect x="530" y="100" width="300" height="112" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="3"/>
+<text x="680" y="140" text-anchor="middle" font-size="19" font-weight="700" fill="#1a73e8">자녀장려금</text>
+<text x="680" y="180" text-anchor="middle" font-size="17" fill="#3c4043">요건 충족 시 전액</text>
+<text x="450" y="252" text-anchor="middle" font-size="19" font-weight="800" fill="#202124">중복 수급이 된다 — 각각 전액</text>
+<text x="450" y="284" text-anchor="middle" font-size="15" fill="#80868b">다만 둘 다 2025년 소득과 2025년 6월 1일 기준 재산으로 판정한다</text>
+</svg>
