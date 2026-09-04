@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="340" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">이름은 붙어 다니는데 신청 창구가 다르다</text>
+<text x="30" y="68" font-size="14" fill="#80868b">2026년 9월 5일 기준</text>
+<rect x="40" y="96" width="380" height="188" rx="14" fill="#f7f9fc" stroke="#1a73e8" stroke-width="3"/>
+<text x="230" y="132" text-anchor="middle" font-size="19" font-weight="800" fill="#1a73e8">근로장려금</text>
+<text x="75" y="176" font-size="16" fill="#3c4043">정기신청 (5월)</text>
+<text x="390" y="176" text-anchor="end" font-size="16" font-weight="700" fill="#4a9e68">있음</text>
+<text x="75" y="214" font-size="16" fill="#3c4043">반기신청</text>
+<text x="390" y="214" text-anchor="end" font-size="16" font-weight="700" fill="#4a9e68">있음</text>
+<text x="75" y="252" font-size="16" fill="#3c4043">기한 후 신청</text>
+<text x="390" y="252" text-anchor="end" font-size="16" font-weight="700" fill="#4a9e68">있음</text>
+<rect x="480" y="96" width="380" height="188" rx="14" fill="#fdf1ef" stroke="#d93025" stroke-width="3"/>
+<text x="670" y="132" text-anchor="middle" font-size="19" font-weight="800" fill="#d93025">자녀장려금</text>
+<text x="515" y="176" font-size="16" fill="#3c4043">정기신청 (5월)</text>
+<text x="830" y="176" text-anchor="end" font-size="16" font-weight="700" fill="#4a9e68">있음</text>
+<text x="515" y="214" font-size="16" fill="#3c4043">반기신청</text>
+<text x="830" y="214" text-anchor="end" font-size="17" font-weight="800" fill="#d93025">없음</text>
+<text x="515" y="252" font-size="16" fill="#3c4043">기한 후 신청</text>
+<text x="830" y="252" text-anchor="end" font-size="16" font-weight="700" fill="#4a9e68">있음</text>
+<text x="450" y="318" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">9월 15일 마감은 근로장려금 상반기분뿐 — 자녀장려금은 그 창구에 없다</text>
+</svg>
