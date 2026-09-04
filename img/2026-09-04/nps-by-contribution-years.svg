@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="360" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">가입기간이 전부다 — 월급 300만원 기준</text>
+<text x="30" y="68" font-size="14" fill="#80868b">20년까지는 가산이 없고, 21년째부터 1년에 5%씩 붙는다</text>
+<line x1="150" y1="300" x2="860" y2="300" stroke="#e1e6ee" stroke-width="2"/>
+<rect x="180" y="240" width="86" height="60" rx="5" fill="#c6dafc"/>
+<text x="223" y="228" text-anchor="middle" font-size="15" font-weight="700" fill="#202124">665,802</text>
+<text x="223" y="322" text-anchor="middle" font-size="15" fill="#5f6368">20년</text>
+<rect x="310" y="210" width="86" height="90" rx="5" fill="#a8c7fa"/>
+<text x="353" y="198" text-anchor="middle" font-size="15" font-weight="700" fill="#202124">832,253</text>
+<text x="353" y="322" text-anchor="middle" font-size="15" fill="#5f6368">25년</text>
+<rect x="440" y="180" width="86" height="120" rx="5" fill="#8ab4f8"/>
+<text x="483" y="168" text-anchor="middle" font-size="15" font-weight="700" fill="#202124">998,704</text>
+<text x="483" y="322" text-anchor="middle" font-size="15" fill="#5f6368">30년</text>
+<rect x="570" y="150" width="86" height="150" rx="5" fill="#5e9bf5"/>
+<text x="613" y="138" text-anchor="middle" font-size="15" font-weight="700" fill="#202124">1,165,154</text>
+<text x="613" y="322" text-anchor="middle" font-size="15" fill="#5f6368">35년</text>
+<rect x="700" y="120" width="86" height="180" rx="5" fill="#1a73e8"/>
+<text x="743" y="108" text-anchor="middle" font-size="15" font-weight="700" fill="#202124">1,331,605</text>
+<text x="743" y="322" text-anchor="middle" font-size="15" fill="#5f6368">40년</text>
+<text x="30" y="350" font-size="15" font-weight="700" fill="#1a73e8">20년에서 40년으로 가면 정확히 두 배가 된다 (단위: 원, 월 수령액)</text>
+</svg>
