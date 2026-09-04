@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="320" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">발표된 인상률이 내 인상률이 아니다 — 2026년 실제</text>
+<text x="30" y="68" font-size="14" fill="#80868b">저연차에 더 얹어주는 구조라 둘 다 맞는 말이다</text>
+<rect x="60" y="102" width="360" height="150" rx="14" fill="#f7f9fc" stroke="#9aa0a6" stroke-width="3"/>
+<text x="240" y="140" text-anchor="middle" font-size="17" font-weight="700" fill="#5f6368">뉴스에 나온 전체 인상률</text>
+<text x="240" y="200" text-anchor="middle" font-size="46" font-weight="800" fill="#5f6368">3.5%</text>
+<text x="240" y="232" text-anchor="middle" font-size="15" fill="#80868b">전 직급 평균</text>
+<rect x="480" y="102" width="360" height="150" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="4"/>
+<text x="660" y="140" text-anchor="middle" font-size="17" font-weight="700" fill="#1a73e8">9급 1호봉 실제 인상</text>
+<text x="660" y="200" text-anchor="middle" font-size="46" font-weight="800" fill="#1a73e8">6.6%</text>
+<text x="660" y="232" text-anchor="middle" font-size="15" fill="#1a73e8">2,000,900원 → 2,133,000원</text>
+<text x="450" y="184" text-anchor="middle" font-size="22" fill="#bdc1c6">vs</text>
+<text x="450" y="290" text-anchor="middle" font-size="16" font-weight="700" fill="#202124">2027년 3.9%도 마찬가지 — 저연차는 더, 고호봉은 덜 오를 가능성이 크다</text>
+</svg>
