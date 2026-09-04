@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="360" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">재산 커트라인은 하나가 아니라 둘이다</text>
+<text x="30" y="68" font-size="14" fill="#80868b">탈락은 아닌데 절반이 깎이는 구간이 있다</text>
+<rect x="40" y="98" width="266" height="104" rx="12" fill="#f1f8f3" stroke="#4a9e68" stroke-width="3"/>
+<text x="173" y="134" text-anchor="middle" font-size="16" fill="#3c4043">1억 7,000만원 미만</text>
+<text x="173" y="174" text-anchor="middle" font-size="26" font-weight="800" fill="#4a9e68">전액</text>
+<rect x="318" y="98" width="266" height="104" rx="12" fill="#fef7e0" stroke="#f0a500" stroke-width="3"/>
+<text x="451" y="128" text-anchor="middle" font-size="15" fill="#3c4043">1억 7,000만 ~ 2억 4,000만</text>
+<text x="451" y="174" text-anchor="middle" font-size="26" font-weight="800" fill="#b06000">50%만</text>
+<rect x="596" y="98" width="266" height="104" rx="12" fill="#fdf1ef" stroke="#d93025" stroke-width="3"/>
+<text x="729" y="134" text-anchor="middle" font-size="16" fill="#3c4043">2억 4,000만원 이상</text>
+<text x="729" y="174" text-anchor="middle" font-size="26" font-weight="800" fill="#d93025">못 받음</text>
+<text x="30" y="248" font-size="17" font-weight="700" fill="#202124">자녀 2명 · 재산 1억 8,000만원 · 기한 후 신청이면</text>
+<text x="60" y="284" font-size="17" fill="#3c4043">산정 금액 100만원 × 2명</text>
+<text x="470" y="284" font-size="19" font-weight="700" fill="#5f6368">200만원</text>
+<text x="60" y="314" font-size="17" fill="#3c4043">재산 구간 50% 감액</text>
+<text x="470" y="314" font-size="19" font-weight="700" fill="#b06000">100만원</text>
+<text x="60" y="344" font-size="17" font-weight="700" fill="#3c4043">기한 후 신청 95% 지급</text>
+<text x="470" y="344" font-size="21" font-weight="800" fill="#d93025">95만원</text>
+</svg>
