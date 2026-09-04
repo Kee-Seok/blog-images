@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="340" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">월급 300만원 · 40년 납부 · 65세부터 받는 금액</text>
+<text x="30" y="68" font-size="14" fill="#80868b">국민연금공단 산식으로 계산 · 2026년 9월 기준</text>
+<rect x="40" y="96" width="380" height="176" rx="14" fill="#f7f9fc" stroke="#1a73e8" stroke-width="3"/>
+<text x="230" y="132" text-anchor="middle" font-size="17" font-weight="700" fill="#1a73e8">85년생</text>
+<text x="230" y="192" text-anchor="middle" font-size="38" font-weight="800" fill="#202124">1,359,476원</text>
+<text x="230" y="226" text-anchor="middle" font-size="15" fill="#5f6368">2050년부터 매달</text>
+<text x="230" y="252" text-anchor="middle" font-size="14" fill="#80868b">2026년 이전 납부 16년</text>
+<rect x="480" y="96" width="380" height="176" rx="14" fill="#f7f9fc" stroke="#9aa0a6" stroke-width="3"/>
+<text x="670" y="132" text-anchor="middle" font-size="17" font-weight="700" fill="#5f6368">95년생</text>
+<text x="670" y="192" text-anchor="middle" font-size="38" font-weight="800" fill="#202124">1,330,444원</text>
+<text x="670" y="226" text-anchor="middle" font-size="15" fill="#5f6368">2060년부터 매달</text>
+<text x="670" y="252" text-anchor="middle" font-size="14" fill="#80868b">2026년 이전 납부 6년</text>
+<text x="450" y="196" text-anchor="middle" font-size="22" fill="#bdc1c6">vs</text>
+<text x="450" y="308" text-anchor="middle" font-size="17" font-weight="700" fill="#d93025">같은 월급 같은 40년인데 월 29,032원 차이</text>
+<text x="450" y="332" text-anchor="middle" font-size="14" fill="#80868b">20년을 받는다면 약 697만원 차이가 난다</text>
+</svg>
