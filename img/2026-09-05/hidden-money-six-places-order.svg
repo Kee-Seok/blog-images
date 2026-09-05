@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="900" height="380" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="380" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">숨은 돈 찾는 순서 — 여섯 군데, 10분</text>
+<text x="30" y="68" font-size="14" fill="#80868b">전부 무료 공식 창구 · 2026년 9월 5일 기준</text>
+<rect x="30" y="94" width="405" height="62" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<circle cx="66" cy="125" r="17" fill="#1a73e8"/><text x="66" y="131" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff">1</text>
+<text x="94" y="120" font-size="17" font-weight="700" fill="#202124">어카운트인포</text>
+<text x="94" y="142" font-size="14" fill="#5f6368">내 명의 계좌 전부 펼치기</text>
+<rect x="30" y="166" width="405" height="62" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<circle cx="66" cy="197" r="17" fill="#1a73e8"/><text x="66" y="203" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff">2</text>
+<text x="94" y="192" font-size="17" font-weight="700" fill="#202124">휴면예금 찾아줌</text>
+<text x="94" y="214" font-size="14" fill="#5f6368">계좌 조회에서 안 보이는 돈</text>
+<rect x="30" y="238" width="405" height="62" rx="10" fill="#fff1ed" stroke="#e8710a" stroke-width="3"/>
+<circle cx="66" cy="269" r="17" fill="#e8710a"/><text x="66" y="275" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff">3</text>
+<text x="94" y="264" font-size="17" font-weight="700" fill="#202124">내보험찾아줌</text>
+<text x="94" y="286" font-size="14" font-weight="700" fill="#b06000">금액이 가장 크고, 시효가 있다</text>
+<rect x="465" y="94" width="405" height="62" rx="10" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<circle cx="501" cy="125" r="17" fill="#9aa0a6"/><text x="501" y="131" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff">4</text>
+<text x="529" y="120" font-size="17" font-weight="700" fill="#202124">카드포인트 통합조회</text>
+<text x="529" y="142" font-size="14" fill="#5f6368">현금화가 가장 빠르다</text>
+<rect x="465" y="166" width="405" height="62" rx="10" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<circle cx="501" cy="197" r="17" fill="#9aa0a6"/><text x="501" y="203" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff">5</text>
+<text x="529" y="192" font-size="17" font-weight="700" fill="#202124">스마트초이스</text>
+<text x="529" y="214" font-size="14" fill="#5f6368">통신 미환급금</text>
+<rect x="465" y="238" width="405" height="62" rx="10" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<circle cx="501" cy="269" r="17" fill="#9aa0a6"/><text x="501" y="275" text-anchor="middle" font-size="16" font-weight="800" fill="#ffffff">6</text>
+<text x="529" y="264" font-size="17" font-weight="700" fill="#202124">홈택스 · 위택스</text>
+<text x="529" y="286" font-size="14" fill="#5f6368">국세 · 지방세 미환급금</text>
+<text x="450" y="344" text-anchor="middle" font-size="16" font-weight="700" fill="#202124">계좌 전체를 먼저 봐야 잊고 있던 금융회사가 떠오른다</text>
+<text x="450" y="368" text-anchor="middle" font-size="14" fill="#80868b">순서를 건너뛰면 있는 줄도 모르고 지나치는 것이 생긴다</text>
+</svg>
