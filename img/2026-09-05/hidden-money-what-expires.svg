@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="320" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">기다려도 되는 것과, 기다리면 사라지는 것</text>
+<text x="30" y="68" font-size="14" fill="#80868b">여섯 군데 중 하나만 급하다</text>
+<rect x="40" y="100" width="390" height="150" rx="14" fill="#f1f8f3" stroke="#4a9e68" stroke-width="3"/>
+<text x="235" y="138" text-anchor="middle" font-size="18" font-weight="800" fill="#4a9e68">기다려도 그대로</text>
+<text x="70" y="176" font-size="16" fill="#3c4043">계좌 잔액 · 휴면예금</text>
+<text x="70" y="206" font-size="16" fill="#3c4043">카드포인트 · 통신 미환급금</text>
+<text x="70" y="236" font-size="16" fill="#3c4043">국세 · 지방세 미환급금</text>
+<rect x="470" y="100" width="390" height="150" rx="14" fill="#fdf1ef" stroke="#d93025" stroke-width="4"/>
+<text x="665" y="138" text-anchor="middle" font-size="18" font-weight="800" fill="#d93025">기다리면 사라진다</text>
+<text x="500" y="176" font-size="17" font-weight="700" fill="#202124">보험금</text>
+<text x="500" y="206" font-size="16" fill="#3c4043">청구권 소멸시효 통상 3년</text>
+<text x="500" y="236" font-size="16" font-weight="700" fill="#d93025">만기 후 3년이면 조회에서도 빠진다</text>
+<text x="450" y="298" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">다 못 도시겠다면 내보험찾아줌 하나만이라도 오늘 하시라</text>
+</svg>
