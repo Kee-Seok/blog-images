@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="340" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">진짜 큰 건 응급실이다 — 경증이면 본인부담 90%</text>
+<text x="30" y="68" font-size="14" fill="#80868b">2024년 9월부터 적용 · KTAS 4~5단계가 경증</text>
+<rect x="40" y="98" width="390" height="164" rx="14" fill="#f1f8f3" stroke="#4a9e68" stroke-width="3"/>
+<text x="235" y="136" text-anchor="middle" font-size="17" font-weight="700" fill="#4a9e68">KTAS 1~3단계 · 응급</text>
+<text x="235" y="188" text-anchor="middle" font-size="34" font-weight="800" fill="#202124">일반 본인부담</text>
+<text x="235" y="224" text-anchor="middle" font-size="15" fill="#3c4043">90% 규정이 적용되지 않는다</text>
+<text x="235" y="250" text-anchor="middle" font-size="15" font-weight="700" fill="#4a9e68">아프면 참지 말 것</text>
+<rect x="470" y="98" width="390" height="164" rx="14" fill="#fdf1ef" stroke="#d93025" stroke-width="4"/>
+<text x="665" y="136" text-anchor="middle" font-size="17" font-weight="700" fill="#d93025">KTAS 4~5단계 · 경증</text>
+<text x="665" y="192" text-anchor="middle" font-size="42" font-weight="800" fill="#d93025">본인부담 90%</text>
+<text x="665" y="228" text-anchor="middle" font-size="16" fill="#3c4043">총액 13만~22만원 기준</text>
+<text x="665" y="252" text-anchor="middle" font-size="16" font-weight="700" fill="#d93025">약 12만~20만원을 낸다</text>
+<text x="450" y="300" text-anchor="middle" font-size="16" font-weight="700" fill="#202124">등급은 응급실 도착 시 간호사가 증상을 보고 매긴다</text>
+<text x="450" y="326" text-anchor="middle" font-size="14" fill="#80868b">동네 의원에는 없는 '응급의료관리료'가 응급실에는 따로 붙는다</text>
+</svg>
