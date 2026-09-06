@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" width="900" height="330" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="330" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">350만원은 이렇게 쌓인다 — 뒤로 갈수록 조건이 붙는다</text>
+<text x="30" y="68" font-size="14" fill="#80868b">장기 25주 과정 기준</text>
+<rect x="40" y="96" width="200" height="120" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="3"/>
+<text x="140" y="132" text-anchor="middle" font-size="16" font-weight="700" fill="#1a73e8">참여수당</text>
+<text x="140" y="178" text-anchor="middle" font-size="30" font-weight="800" fill="#202124">250만원</text>
+<text x="140" y="204" text-anchor="middle" font-size="13" fill="#5f6368">25주 참여하면</text>
+<text x="255" y="164" font-size="26" fill="#bdc1c6">+</text>
+<rect x="285" y="96" width="180" height="120" rx="12" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="375" y="132" text-anchor="middle" font-size="16" font-weight="700" fill="#5f6368">이수 인센티브</text>
+<text x="375" y="178" text-anchor="middle" font-size="28" font-weight="800" fill="#202124">20만원</text>
+<text x="375" y="204" text-anchor="middle" font-size="13" fill="#5f6368">끝까지 마쳐야</text>
+<text x="480" y="164" font-size="26" fill="#bdc1c6">+</text>
+<rect x="510" y="96" width="180" height="120" rx="12" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="600" y="132" text-anchor="middle" font-size="16" font-weight="700" fill="#5f6368">구직활동</text>
+<text x="600" y="178" text-anchor="middle" font-size="28" font-weight="800" fill="#202124">30만원</text>
+<text x="600" y="204" text-anchor="middle" font-size="13" fill="#5f6368">구직활동을 해야</text>
+<text x="705" y="164" font-size="26" fill="#bdc1c6">+</text>
+<rect x="735" y="96" width="130" height="120" rx="12" fill="#fff1ed" stroke="#e8710a" stroke-width="3"/>
+<text x="800" y="132" text-anchor="middle" font-size="16" font-weight="700" fill="#e8710a">취업</text>
+<text x="800" y="178" text-anchor="middle" font-size="26" font-weight="800" fill="#e8710a">50만원</text>
+<text x="800" y="204" text-anchor="middle" font-size="13" fill="#b06000">취업해야</text>
+<text x="450" y="266" text-anchor="middle" font-size="19" font-weight="800" fill="#202124">250 + 20 + 30 + 50 = 350만원</text>
+<text x="450" y="300" text-anchor="middle" font-size="15" fill="#d93025">중간에 그만두면 참여수당까지만 — 인센티브 100만원이 빠진다</text>
+</svg>
