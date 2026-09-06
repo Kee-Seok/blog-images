@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="340" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">내가 대상인지는 세 가지로 갈린다</text>
+<text x="30" y="68" font-size="14" fill="#80868b">'그냥 쉬고 있으면 된다'가 아니다</text>
+<rect x="40" y="96" width="256" height="150" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="168" y="134" text-anchor="middle" font-size="17" font-weight="700" fill="#5f6368">나이</text>
+<text x="168" y="182" text-anchor="middle" font-size="26" font-weight="800" fill="#202124">만 18~34세</text>
+<rect x="322" y="96" width="256" height="150" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="450" y="134" text-anchor="middle" font-size="17" font-weight="700" fill="#5f6368">이력</text>
+<text x="450" y="176" text-anchor="middle" font-size="22" font-weight="800" fill="#202124">최근 6개월</text>
+<text x="450" y="208" text-anchor="middle" font-size="16" fill="#3c4043">취업·교육·훈련 이력 없음</text>
+<rect x="604" y="96" width="256" height="150" rx="14" fill="#fff1ed" stroke="#e8710a" stroke-width="3"/>
+<text x="732" y="134" text-anchor="middle" font-size="17" font-weight="700" fill="#e8710a">문답표 점수</text>
+<text x="732" y="182" text-anchor="middle" font-size="26" font-weight="800" fill="#202124">21점 이상</text>
+<text x="732" y="212" text-anchor="middle" font-size="15" fill="#b06000">30점 만점 기준</text>
+<text x="30" y="288" font-size="16" font-weight="700" fill="#202124">최근에 짧게라도 아르바이트나 훈련 이력이 있으면 여기서 걸릴 수 있다</text>
+<text x="30" y="318" font-size="14" fill="#80868b">자립준비청년과 청소년쉼터 입·퇴소 청년은 별도 대상으로 분류된다</text>
+</svg>
