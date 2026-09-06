@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="320" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">응급실로 안 가려면 — 문 여는 곳 찾는 공식 창구</text>
+<text x="30" y="68" font-size="14" fill="#80868b">추석 연휴 2026년 9월 24일 ~ 27일</text>
+<rect x="40" y="98" width="256" height="136" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="3"/>
+<text x="168" y="136" text-anchor="middle" font-size="19" font-weight="800" fill="#1a73e8">응급의료포털 E-Gen</text>
+<text x="168" y="176" text-anchor="middle" font-size="15" fill="#3c4043">문 여는 병원과 약국을</text>
+<text x="168" y="202" text-anchor="middle" font-size="15" fill="#3c4043">지도에서 찾는다</text>
+<rect x="322" y="98" width="256" height="136" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="450" y="136" text-anchor="middle" font-size="19" font-weight="800" fill="#202124">휴일지킴이약국</text>
+<text x="450" y="176" text-anchor="middle" font-size="15" fill="#3c4043">연휴에 문 여는</text>
+<text x="450" y="202" text-anchor="middle" font-size="15" fill="#3c4043">약국만 따로 본다</text>
+<rect x="604" y="98" width="256" height="136" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="732" y="136" text-anchor="middle" font-size="19" font-weight="800" fill="#202124">119</text>
+<text x="732" y="176" text-anchor="middle" font-size="15" fill="#3c4043">전화로 안내받는다</text>
+<text x="732" y="202" text-anchor="middle" font-size="15" fill="#3c4043">이송 필요 여부도 판단</text>
+<text x="30" y="278" font-size="16" font-weight="700" fill="#202124">만성질환 약은 연휴 전에 미리 받아두는 게 가장 확실하다</text>
+<text x="30" y="304" font-size="14" fill="#80868b">연휴 중간에 약이 떨어지면 그것 때문에 응급실에 가게 되고, 90% 구간으로 들어간다</text>
+</svg>
