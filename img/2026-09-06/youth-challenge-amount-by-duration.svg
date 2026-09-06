@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 396" width="900" height="396" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="900" height="396" fill="#ffffff"/>
+<text x="30" y="42" font-size="22" font-weight="700" fill="#202124">과정 길이가 금액을 결정한다 — 같은 사업, 일곱 배 차이</text>
+<text x="30" y="68" font-size="14" fill="#80868b">국비 기준 · 2026년 9월 6일</text>
+<line x1="120" y1="290" x2="850" y2="290" stroke="#e1e6ee" stroke-width="2"/>
+<rect x="180" y="258" width="120" height="32" rx="5" fill="#c6dafc"/>
+<text x="240" y="246" text-anchor="middle" font-size="24" font-weight="800" fill="#202124">50만원</text>
+<text x="240" y="316" text-anchor="middle" font-size="17" fill="#5f6368">단기 5주</text>
+<text x="240" y="340" text-anchor="middle" font-size="13" fill="#80868b">이수 시</text>
+<rect x="390" y="182" width="120" height="108" rx="5" fill="#8ab4f8"/>
+<text x="450" y="170" text-anchor="middle" font-size="24" font-weight="800" fill="#202124">150만원</text>
+<text x="450" y="316" text-anchor="middle" font-size="17" fill="#5f6368">중기 15주</text>
+<text x="450" y="340" text-anchor="middle" font-size="13" fill="#80868b">참여수당</text>
+<rect x="600" y="110" width="120" height="180" rx="5" fill="#1a73e8"/>
+<text x="660" y="98" text-anchor="middle" font-size="24" font-weight="800" fill="#1a73e8">250만원</text>
+<text x="660" y="316" text-anchor="middle" font-size="17" fill="#5f6368">장기 25주</text>
+
+<text x="770" y="150" font-size="15" font-weight="700" fill="#e8710a">+ 인센티브 100만원</text>
+<text x="770" y="176" font-size="20" font-weight="800" fill="#e8710a">= 350만원</text>
+<text x="30" y="382" font-size="14" fill="#80868b">홍보 문구의 '최대 350만원'은 장기 25주를 다 채우고 취업까지 했을 때의 금액이다</text>
+</svg>
