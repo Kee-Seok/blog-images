@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="478" viewBox="0 0 900 478" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="478" fill="#ffffff"/>
+<text x="40" y="50" font-size="26" font-weight="700" fill="#202124">추석 기차표는 예매와 결제가 따로입니다</text>
+<text x="40" y="80" font-size="15" fill="#5f6368">좌석을 잡아도 결제 기간을 넘기면 자동으로 취소됩니다</text>
+
+<rect x="40" y="104" width="240" height="92" rx="12" fill="#f1f3f4" stroke="#dadce0" stroke-width="2"/>
+<text x="60" y="134" font-size="15" font-weight="700" fill="#5f6368">1단계 · 예매</text>
+<text x="60" y="162" font-size="19" font-weight="700" fill="#202124">9월 7일 ~ 11일</text>
+<text x="60" y="184" font-size="14" fill="#5f6368">노선별 · 07:00~13:00</text>
+
+<text x="296" y="158" font-size="26" fill="#9aa0a6">&#8594;</text>
+
+<rect x="330" y="104" width="240" height="92" rx="12" fill="#fef3e6" stroke="#e8710a" stroke-width="2.5"/>
+<text x="350" y="134" font-size="15" font-weight="700" fill="#b06000">2단계 · 결제</text>
+<text x="350" y="162" font-size="19" font-weight="700" fill="#b06000">9월 12일 ~ 15일</text>
+<text x="350" y="184" font-size="14" fill="#b06000">12일 0시 ~ 15일 24시</text>
+
+<text x="586" y="158" font-size="26" fill="#9aa0a6">&#8594;</text>
+
+<rect x="620" y="104" width="240" height="92" rx="12" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2.5"/>
+<text x="640" y="134" font-size="15" font-weight="700" fill="#137333">3단계 · 발권 완료</text>
+<text x="640" y="162" font-size="19" font-weight="700" fill="#137333">내 표가 됩니다</text>
+<text x="640" y="184" font-size="14" fill="#137333">이후에도 반환 가능</text>
+
+<rect x="40" y="222" width="820" height="58" rx="10" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="62" y="248" font-size="16" font-weight="700" fill="#c5221f">9월 15일 24시를 넘기면 예약이 자동 취소됩니다</text>
+<text x="62" y="270" font-size="14" fill="#3c4043">그 좌석은 예약대기를 걸어둔 다른 사람에게 넘어갑니다. 교통약자 사전예매분은 9월 18일까지입니다.</text>
+
+<text x="40" y="322" font-size="17" font-weight="700" fill="#202124">노선별 예매일 (모두 오전 7시 ~ 오후 1시)</text>
+<g font-size="14.5" fill="#3c4043">
+<text x="44" y="352">9월 7일 (월)</text><text x="196" y="352" fill="#5f6368">ITX-새마을 · ITX-마음 · 무궁화호 등 일반열차 전 노선</text>
+<text x="44" y="378">9월 8일 (화)</text><text x="196" y="378" fill="#5f6368">경전 · 강릉 · 동해 · 중앙 · 중부내륙선 KTX</text>
+<text x="44" y="404">9월 9일 (수)</text><text x="196" y="404" fill="#5f6368">호남 · 전라선 KTX</text>
+<text x="44" y="430">9월 10일 (목)</text><text x="196" y="430" fill="#5f6368">수서 출·도착 경부 · 경전 · 동해 · 호남 · 전라선 KTX</text>
+</g>
+<text x="44" y="456" font-size="14.5" fill="#3c4043">9월 11일 (금)</text><text x="196" y="456" font-size="14.5" fill="#5f6368">경부선 KTX</text>
+</svg>
