@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="470" fill="#ffffff"/>
+<text x="40" y="48" font-size="25" font-weight="700" fill="#202124">연금 90만 원으로 닷새를 건너는 계산</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">카드값 60만 원 · 대출이자 20만 원 · 결제일 25일인 경우</text>
+
+<text x="40" y="126" font-size="17" font-weight="700" fill="#1a73e8">평소 달 — 25일에 받아 25일에 나간다</text>
+<rect x="40" y="142" width="640" height="34" rx="6" fill="#e8f0fe"/>
+<rect x="40" y="142" width="569" height="34" rx="6" fill="#1a73e8"/>
+<text x="58" y="165" font-size="15" font-weight="700" fill="#ffffff">나갈 돈 80만 원</text>
+<text x="622" y="165" font-size="15" font-weight="700" fill="#1a73e8">남는 10만</text>
+<text x="700" y="165" font-size="15" fill="#3c4043">통장을 스칠 틈이 없습니다</text>
+
+<text x="40" y="228" font-size="17" font-weight="700" fill="#b06000">2026년 9월 — 23일에 받아 28일에 나간다</text>
+<rect x="40" y="244" width="640" height="34" rx="6" fill="#fef3e6"/>
+<rect x="218" y="244" width="462" height="34" rx="6" fill="#e8710a"/>
+<rect x="40" y="244" width="178" height="34" rx="6" fill="#c5221f"/>
+<text x="58" y="267" font-size="15" font-weight="700" fill="#ffffff">연휴 지출 25만</text>
+<text x="238" y="267" font-size="15" font-weight="700" fill="#ffffff">남은 잔고 65만</text>
+<text x="700" y="267" font-size="15" fill="#3c4043">닷새 동안 통장에 머뭅니다</text>
+
+<rect x="40" y="316" width="820" height="120" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="66" y="352" font-size="18" font-weight="700" fill="#c5221f">9월 28일 · 80만 원이 빠져야 하는데 잔고는 65만 원</text>
+<text x="66" y="384" font-size="15" fill="#3c4043">15만 원이 모자랍니다. 이건 연휴 때문에 밀린 게 아니라 잔고가 없어서 밀린 것이라,</text>
+<text x="66" y="408" font-size="15" fill="#3c4043">다음 영업일 연장 규정으로 보호받지 못하고 그대로 연체가 됩니다.</text>
+</svg>
