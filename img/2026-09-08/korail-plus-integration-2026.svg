@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="400" fill="#ffffff"/>
+<text x="40" y="50" font-size="26" font-weight="700" fill="#202124">2026년 9월 1일부터 예매 창구가 하나로 합쳐졌습니다</text>
+
+<rect x="40" y="86" width="360" height="150" rx="14" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<text x="66" y="120" font-size="17" font-weight="700" fill="#80868b">8월 31일까지</text>
+<text x="66" y="154" font-size="15" fill="#5f6368">KTX &#8594; 코레일 앱 · 홈페이지</text>
+<text x="66" y="182" font-size="15" fill="#5f6368">수서 출발 고속열차 &#8594; 별도 앱</text>
+<text x="66" y="212" font-size="14" fill="#c5221f">앱 두 개를 따로 써야 했습니다</text>
+
+<text x="418" y="168" font-size="30" fill="#9aa0a6">&#8594;</text>
+
+<rect x="460" y="86" width="400" height="150" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<text x="486" y="120" font-size="17" font-weight="700" fill="#1a73e8">9월 1일부터</text>
+<text x="486" y="154" font-size="15" fill="#3c4043">KTX &#8594; 코레일플러스 앱 · 홈페이지</text>
+<text x="486" y="182" font-size="15" fill="#3c4043">수서 출발 고속열차 &#8594; 같은 곳</text>
+<text x="486" y="212" font-size="14" font-weight="700" fill="#1a73e8">한 곳에서 다 됩니다</text>
+
+<rect x="40" y="262" width="820" height="108" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="66" y="294" font-size="17" font-weight="700" fill="#c5221f">예전에 쓰던 앱으로는 이번 추석 표를 결제할 수 없습니다</text>
+<text x="66" y="326" font-size="15" fill="#3c4043">기존 앱과 홈페이지의 예매 기능은 8월 31일로 종료됐습니다. 예매하려면 코레일 통합회원이어야 하고,</text>
+<text x="66" y="350" font-size="15" fill="#3c4043">기존 코레일 회원은 자동 전환됐습니다. 결제 기한 전에 앱을 받아 로그인이 되는지 확인해 두세요.</text>
+</svg>
