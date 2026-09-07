@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="470" fill="#ffffff"/>
+<text x="40" y="52" font-size="27" font-weight="700" fill="#202124">2026년 9월 셋째·넷째 주 돈의 흐름</text>
+<text x="40" y="84" font-size="16" fill="#5f6368">들어오는 돈은 앞으로 당겨지고, 나가는 돈은 뒤로 밀립니다</text>
+
+<g font-size="15" fill="#80868b" text-anchor="middle">
+<text x="105" y="126">수</text><text x="215" y="126">목</text><text x="325" y="126">금</text><text x="435" y="126">토</text><text x="545" y="126">일</text><text x="655" y="126">월</text>
+</g>
+
+<g>
+<rect x="52" y="140" width="106" height="96" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<text x="105" y="180" font-size="34" font-weight="700" fill="#1a73e8" text-anchor="middle">23</text>
+<text x="105" y="210" font-size="14" fill="#1a73e8" text-anchor="middle">연휴 전 마지막</text>
+<text x="105" y="228" font-size="14" fill="#1a73e8" text-anchor="middle">영업일</text>
+</g>
+
+<g>
+<rect x="162" y="140" width="106" height="96" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="215" y="180" font-size="34" font-weight="700" fill="#c5221f" text-anchor="middle">24</text>
+<text x="215" y="212" font-size="14" fill="#c5221f" text-anchor="middle">연휴</text>
+</g>
+<g>
+<rect x="272" y="140" width="106" height="96" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="325" y="180" font-size="34" font-weight="700" fill="#c5221f" text-anchor="middle">25</text>
+<text x="325" y="212" font-size="14" fill="#c5221f" text-anchor="middle">추석</text>
+</g>
+<g>
+<rect x="382" y="140" width="106" height="96" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="435" y="180" font-size="34" font-weight="700" fill="#c5221f" text-anchor="middle">26</text>
+<text x="435" y="212" font-size="14" fill="#c5221f" text-anchor="middle">연휴</text>
+</g>
+<g>
+<rect x="492" y="140" width="106" height="96" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="545" y="180" font-size="34" font-weight="700" fill="#c5221f" text-anchor="middle">27</text>
+<text x="545" y="212" font-size="14" fill="#c5221f" text-anchor="middle">일요일</text>
+</g>
+
+<g>
+<rect x="602" y="140" width="106" height="96" rx="12" fill="#fef3e6" stroke="#e8710a" stroke-width="2.5"/>
+<text x="655" y="180" font-size="34" font-weight="700" fill="#b06000" text-anchor="middle">28</text>
+<text x="655" y="210" font-size="14" fill="#b06000" text-anchor="middle">연휴 뒤 첫</text>
+<text x="655" y="228" font-size="14" fill="#b06000" text-anchor="middle">영업일</text>
+</g>
+
+<rect x="52" y="286" width="380" height="62" rx="10" fill="#1a73e8"/>
+<text x="72" y="313" font-size="17" font-weight="700" fill="#ffffff">9월 23일 · 들어옵니다</text>
+<text x="72" y="336" font-size="14" fill="#d7e6fd">국민연금 · 기초연금 · 아동수당 · 공무원연금</text>
+
+<rect x="452" y="286" width="396" height="62" rx="10" fill="#e8710a"/>
+<text x="472" y="313" font-size="17" font-weight="700" fill="#ffffff">9월 28일 · 나갑니다</text>
+<text x="472" y="336" font-size="14" fill="#fde4cc">카드값 · 대출이자 · 보험료 · 통신비 · 관리비</text>
+
+<rect x="52" y="372" width="796" height="62" rx="10" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="72" y="399" font-size="16" font-weight="700" fill="#202124">그 사이가 통째로 추석 연휴입니다</text>
+<text x="72" y="422" font-size="14" fill="#5f6368">23일에 받은 돈을 연휴에 다 쓰면 28일 출금이 막힙니다. 나갈 돈만큼은 미리 옮겨 두세요.</text>
+</svg>
