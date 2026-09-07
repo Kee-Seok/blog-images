@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="470" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">언제 취소하느냐로 위약금이 이만큼 갈립니다</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">추석 연휴 열차는 전부 공휴일 요율 · 서울~부산 KTX 일반실 59,800원 기준</text>
+
+<g>
+<rect x="40" y="104" width="112" height="56" rx="8" fill="#e6f4ea"/>
+<text x="96" y="130" font-size="14" fill="#137333" text-anchor="middle">2일 전까지</text>
+<text x="96" y="152" font-size="17" font-weight="700" fill="#137333" text-anchor="middle">400원</text>
+</g>
+<g>
+<rect x="164" y="104" width="112" height="56" rx="8" fill="#e6f4ea"/>
+<text x="220" y="130" font-size="14" fill="#137333" text-anchor="middle">1일 전 · 5%</text>
+<text x="220" y="152" font-size="17" font-weight="700" fill="#137333" text-anchor="middle">2,990원</text>
+</g>
+<g>
+<rect x="288" y="104" width="132" height="56" rx="8" fill="#fef7e0"/>
+<text x="354" y="130" font-size="14" fill="#b06000" text-anchor="middle">3시간 전까지 · 10%</text>
+<text x="354" y="152" font-size="17" font-weight="700" fill="#b06000" text-anchor="middle">5,980원</text>
+</g>
+<g>
+<rect x="432" y="104" width="132" height="56" rx="8" fill="#fef3e6"/>
+<text x="498" y="130" font-size="14" fill="#b06000" text-anchor="middle">출발 직전 · 20%</text>
+<text x="498" y="152" font-size="17" font-weight="700" fill="#b06000" text-anchor="middle">11,960원</text>
+</g>
+<g>
+<rect x="576" y="104" width="132" height="56" rx="8" fill="#fdeeee"/>
+<text x="642" y="130" font-size="14" fill="#c5221f" text-anchor="middle">출발 후 20분 · 30%</text>
+<text x="642" y="152" font-size="17" font-weight="700" fill="#c5221f" text-anchor="middle">17,940원</text>
+</g>
+
+<text x="40" y="212" font-size="18" font-weight="700" fill="#202124">같은 시점에 평일 열차와 비교하면</text>
+<rect x="40" y="228" width="820" height="86" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="66" y="258" font-size="15" fill="#5f6368">평일(월~목) 출발 열차 · 출발 직전 취소</text>
+<text x="470" y="258" font-size="19" font-weight="700" fill="#1e8e3e">5% · 2,990원</text>
+<text x="66" y="292" font-size="15" fill="#5f6368">연휴(금~일·공휴일) 출발 열차 · 출발 직전 취소</text>
+<text x="470" y="292" font-size="19" font-weight="700" fill="#c5221f">20% · 11,960원</text>
+<text x="700" y="292" font-size="17" font-weight="700" fill="#c5221f">네 배</text>
+
+<rect x="40" y="340" width="820" height="106" rx="12" fill="#fff8f1" stroke="#f5d5ae" stroke-width="2"/>
+<text x="66" y="372" font-size="17" font-weight="700" fill="#b06000">어른 넷이 서울~부산을 왕복하면 (운임 478,400원)</text>
+<text x="66" y="404" font-size="15" fill="#3c4043">출발 2일 전까지 취소</text>
+<text x="330" y="404" font-size="16" font-weight="700" fill="#137333">3,200원</text>
+<text x="66" y="430" font-size="15" fill="#3c4043">출발 3시간 전을 넘겨 취소</text>
+<text x="330" y="430" font-size="16" font-weight="700" fill="#c5221f">95,680원</text>
+<text x="470" y="430" font-size="15" fill="#5f6368">이틀 차이로 9만 원이 갈립니다</text>
+</svg>
