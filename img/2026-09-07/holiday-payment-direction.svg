@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="440" fill="#ffffff"/>
+<text x="40" y="50" font-size="25" font-weight="700" fill="#202124">공휴일을 만나면 방향이 정반대입니다</text>
+
+<rect x="40" y="80" width="820" height="150" rx="14" fill="#f4f8ff" stroke="#c6dafc" stroke-width="2"/>
+<text x="66" y="115" font-size="19" font-weight="700" fill="#1a73e8">들어오는 돈 — 앞으로 당겨진다</text>
+<text x="66" y="146" font-size="15" fill="#3c4043">국민연금 · 기초연금 · 공무원연금 · 아동수당</text>
+<text x="66" y="176" font-size="16" font-weight="700" fill="#202124">매월 25일</text>
+<text x="196" y="176" font-size="20" fill="#1a73e8">&#8592;</text>
+<text x="228" y="176" font-size="16" font-weight="700" fill="#1a73e8">9월 23일 (수)</text>
+<text x="66" y="206" font-size="16" font-weight="700" fill="#202124">매월 20일</text>
+<text x="196" y="206" font-size="20" fill="#1a73e8">&#8592;</text>
+<text x="228" y="206" font-size="16" font-weight="700" fill="#1a73e8">9월 18일 (금)</text>
+<text x="470" y="176" font-size="14" fill="#5f6368">지급일이 공휴일이면</text>
+<text x="470" y="198" font-size="14" fill="#5f6368">직전 영업일로 앞당겨 지급합니다</text>
+
+<rect x="40" y="252" width="820" height="150" rx="14" fill="#fff8f1" stroke="#f5d5ae" stroke-width="2"/>
+<text x="66" y="287" font-size="19" font-weight="700" fill="#b06000">나가는 돈 — 뒤로 밀린다</text>
+<text x="66" y="318" font-size="15" fill="#3c4043">카드값 · 대출이자 · 보험료 · 통신비 · 관리비</text>
+<text x="66" y="348" font-size="16" font-weight="700" fill="#202124">9월 24~27일</text>
+<text x="216" y="348" font-size="20" fill="#e8710a">&#8594;</text>
+<text x="248" y="348" font-size="16" font-weight="700" fill="#b06000">9월 28일 (월)</text>
+<text x="66" y="378" font-size="15" fill="#5f6368">연체로 잡히지 않습니다. 다만 그날 잔고가 없으면 그건 연체입니다.</text>
+<text x="470" y="348" font-size="14" fill="#8a6d3b">출금일이 공휴일이면</text>
+<text x="470" y="370" font-size="14" fill="#8a6d3b">다음 영업일로 미뤄 출금합니다</text>
+</svg>
