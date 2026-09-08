@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="380" viewBox="0 0 880 380" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="880" height="380" fill="#ffffff"/>
+<text x="40" y="50" font-size="27" font-weight="700" fill="#202124">가족이 여럿이면 나눠서 계산하세요</text>
+<text x="40" y="80" font-size="15" fill="#5f6368">환급은 1인 최대 2만원 — 한 사람이 몰아 사면 손해입니다</text>
+
+<rect x="40" y="108" width="390" height="150" rx="14" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2.5"/>
+<text x="66" y="142" font-size="18" font-weight="700" fill="#c5221f">한 사람이 14만원어치</text>
+<text x="66" y="190" font-size="34" font-weight="700" fill="#c5221f">2만원</text>
+<text x="66" y="222" font-size="15" fill="#3c4043">한도에서 멈춥니다</text>
+
+<rect x="450" y="108" width="390" height="150" rx="14" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="3"/>
+<text x="476" y="142" font-size="18" font-weight="700" fill="#137333">두 사람이 7만원씩</text>
+<text x="476" y="190" font-size="34" font-weight="700" fill="#137333">4만원</text>
+<text x="476" y="222" font-size="15" fill="#3c4043">각자 한도를 채웁니다</text>
+
+<rect x="40" y="278" width="800" height="82" rx="12" fill="#fef7e0" stroke="#e8c89a" stroke-width="2"/>
+<text x="66" y="310" font-size="17" font-weight="700" fill="#b06000">같은 14만원을 쓰고 2만원을 더 받습니다</text>
+<text x="66" y="340" font-size="15" fill="#3c4043">계산만 나눠서 하면 되고, 영수증은 각자 챙기시면 됩니다.</text>
+</svg>
