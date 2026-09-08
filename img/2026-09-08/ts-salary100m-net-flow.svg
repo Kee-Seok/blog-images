@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="430" viewBox="0 0 880 430" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="880" height="430" fill="#ffffff"/>
+<text x="40" y="50" font-size="27" font-weight="700" fill="#202124">세전 1억과 통장에 찍히는 돈은 다릅니다</text>
+<text x="40" y="80" font-size="15" fill="#5f6368">4대보험만 떼도 이만큼입니다. 소득세는 아직 시작도 안 했습니다</text>
+
+<rect x="40" y="110" width="800" height="66" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<text x="66" y="151" font-size="19" font-weight="700" fill="#1a73e8">세전 월급</text>
+<text x="814" y="151" font-size="26" font-weight="700" fill="#1a73e8" text-anchor="end">8,333,333원</text>
+
+<rect x="40" y="192" width="800" height="66" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="66" y="233" font-size="19" fill="#c5221f">4대보험이 먼저 나갑니다</text>
+<text x="814" y="233" font-size="26" font-weight="700" fill="#c5221f" text-anchor="end">&#8722; 726,973원</text>
+
+<rect x="40" y="274" width="800" height="66" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="66" y="315" font-size="19" fill="#3c4043">남은 금액</text>
+<text x="814" y="315" font-size="26" font-weight="700" fill="#3c4043" text-anchor="end">7,606,360원</text>
+
+<rect x="40" y="356" width="800" height="60" rx="12" fill="#fef7e0" stroke="#e8c89a" stroke-width="2"/>
+<text x="66" y="393" font-size="17" font-weight="700" fill="#b06000">여기서 소득세와 지방소득세가 또 빠집니다 — 부양가족 수에 따라 다릅니다</text>
+</svg>
