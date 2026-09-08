@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">날짜 순으로 놓으면 단순합니다</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">추석 전날에 장을 보면 세 가지 중 하나도 못 받습니다</text>
+
+<rect x="40" y="104" width="820" height="56" rx="10" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="66" y="139" font-size="17" font-weight="700" fill="#1a73e8">지금 ~ 9월 23일</text>
+<text x="270" y="139" font-size="16" fill="#3c4043">마트 농축산물·수산물 할인 — 오늘 가셔도 됩니다</text>
+
+<rect x="40" y="172" width="820" height="56" rx="10" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="66" y="207" font-size="17" font-weight="700" fill="#137333">9월 14일 (월)</text>
+<text x="270" y="207" font-size="16" fill="#3c4043">농할상품권 일반 구매 시작 — 20% 싸게 사두는 날</text>
+
+<rect x="40" y="240" width="820" height="56" rx="10" fill="#fef3e6" stroke="#e8710a" stroke-width="2.5"/>
+<text x="66" y="275" font-size="17" font-weight="700" fill="#b06000">9월 16일 ~ 20일</text>
+<text x="270" y="275" font-size="16" fill="#3c4043">전통시장 환급행사 — 이 닷새 안에 사야 30%를 돌려받습니다</text>
+
+<rect x="40" y="308" width="820" height="56" rx="10" fill="#fdeeee" stroke="#c5221f" stroke-width="2.5"/>
+<text x="66" y="343" font-size="17" font-weight="700" fill="#c5221f">9월 24일 (목)</text>
+<text x="270" y="343" font-size="16" font-weight="700" fill="#c5221f">추석 전날 — 이때는 할인이 이미 다 끝나 있습니다</text>
+
+<text x="40" y="396" font-size="17" font-weight="700" fill="#202124">늦어도 9월 20일까지 장보기를 끝내는 것이 정답입니다.</text>
+</svg>
