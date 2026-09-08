@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="880" height="420" fill="#ffffff"/>
+<text x="40" y="52" font-size="27" font-weight="700" fill="#202124">임의계속가입은 이 기한을 놓치면 끝입니다</text>
+<text x="40" y="82" font-size="15" fill="#5f6368">되돌릴 방법이 없는 유일한 항목이라 여기부터 날짜를 세셔야 합니다</text>
+
+<rect x="40" y="110" width="230" height="96" rx="14" fill="#f1f3f4" stroke="#dadce0" stroke-width="2"/>
+<text x="64" y="144" font-size="15" fill="#5f6368">퇴사</text>
+<text x="64" y="178" font-size="20" font-weight="700" fill="#3c4043">지역가입자로 전환</text>
+
+<text x="286" y="166" font-size="26" fill="#9aa0a6">&#8594;</text>
+
+<rect x="320" y="110" width="230" height="96" rx="14" fill="#f1f3f4" stroke="#dadce0" stroke-width="2"/>
+<text x="344" y="144" font-size="15" fill="#5f6368">첫 지역가입자 보험료</text>
+<text x="344" y="178" font-size="20" font-weight="700" fill="#3c4043">고지서 도착</text>
+
+<text x="566" y="166" font-size="26" fill="#9aa0a6">&#8594;</text>
+
+<rect x="600" y="110" width="240" height="96" rx="14" fill="#fdeeee" stroke="#c5221f" stroke-width="3"/>
+<text x="624" y="144" font-size="15" font-weight="700" fill="#c5221f">그 납부기한부터</text>
+<text x="624" y="180" font-size="26" font-weight="700" fill="#c5221f">2개월 안에</text>
+
+<rect x="40" y="234" width="800" height="70" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="66" y="264" font-size="18" font-weight="700" fill="#c5221f">2개월이 지나면 신청 자체가 막힙니다</text>
+<text x="66" y="292" font-size="15" fill="#3c4043">사정을 설명해도, 나중에 알았어도 되돌릴 수 없습니다. 고지서를 받으면 바로 세세요.</text>
+
+<rect x="40" y="322" width="800" height="70" rx="12" fill="#fef7e0" stroke="#e8c89a" stroke-width="2"/>
+<text x="66" y="352" font-size="18" font-weight="700" fill="#b06000">36개월이 끝나면 자동으로 지역가입자가 됩니다</text>
+<text x="66" y="380" font-size="15" fill="#3c4043">그때부터는 소득과 재산 기준으로 다시 계산된 보험료를 냅니다.</text>
+</svg>
