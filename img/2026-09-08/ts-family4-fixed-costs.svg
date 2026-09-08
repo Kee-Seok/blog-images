@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="880" height="420" fill="#ffffff"/>
+<text x="40" y="50" font-size="27" font-weight="700" fill="#202124">고정비는 연봉이 올라도 같이 안 줄어듭니다</text>
+<text x="40" y="80" font-size="15" fill="#5f6368">4인 가족에서 매달 반드시 나가는 항목들 — 금액은 가정마다 다릅니다</text>
+
+<rect x="40" y="108" width="390" height="86" rx="14" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<text x="66" y="142" font-size="18" font-weight="700" fill="#3c4043">주거비</text>
+<text x="66" y="172" font-size="15" fill="#5f6368">주담대 원리금 또는 월세 · 관리비</text>
+
+<rect x="450" y="108" width="390" height="86" rx="14" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<text x="476" y="142" font-size="18" font-weight="700" fill="#3c4043">교육비</text>
+<text x="476" y="172" font-size="15" fill="#5f6368">아이 둘이면 여기가 제일 큽니다</text>
+
+<rect x="40" y="210" width="390" height="86" rx="14" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<text x="66" y="244" font-size="18" font-weight="700" fill="#3c4043">보험료</text>
+<text x="66" y="274" font-size="15" fill="#5f6368">실손 · 종신 · 자동차 · 아이들 것까지</text>
+
+<rect x="450" y="210" width="390" height="86" rx="14" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<text x="476" y="244" font-size="18" font-weight="700" fill="#3c4043">식비와 생활비</text>
+<text x="476" y="274" font-size="15" fill="#5f6368">네 식구는 두 식구의 두 배가 아닙니다</text>
+
+<rect x="40" y="312" width="800" height="88" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<text x="66" y="346" font-size="19" font-weight="700" fill="#1a73e8">그래서 "1억인데 남는 게 없다"는 말이 나옵니다</text>
+<text x="66" y="378" font-size="15" fill="#3c4043">세전은 올라도 고정비는 그대로 남고, 세금과 보험료는 오히려 비율이 커집니다.</text>
+</svg>
