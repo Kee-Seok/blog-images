@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">여기까지는 같고, 여기부터는 사람마다 다릅니다</text>
+
+<rect x="40" y="80" width="820" height="104" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<text x="66" y="114" font-size="19" font-weight="700" fill="#1a73e8">정해져 있는 것 &#183; 4대보험</text>
+<text x="66" y="146" font-size="15" fill="#3c4043">월급만 알면 누구나 같은 숫자가 나옵니다. 연봉 1억이면 726,973원.</text>
+<text x="66" y="172" font-size="15" fill="#3c4043">남는 금액은 7,606,360원입니다.</text>
+
+<rect x="40" y="204" width="820" height="104" rx="12" fill="#fef3e6" stroke="#e8710a" stroke-width="2.5"/>
+<text x="66" y="238" font-size="19" font-weight="700" fill="#b06000">사람마다 다른 것 &#183; 소득세와 지방소득세</text>
+<text x="66" y="270" font-size="15" fill="#3c4043">국세청 근로소득 간이세액표를 월급 구간과 공제대상 가족 수로 찾습니다.</text>
+<text x="66" y="296" font-size="15" fill="#3c4043">혼자인 사람과 배우자에 자녀 둘인 사람은 떼는 금액이 다릅니다.</text>
+
+<rect x="40" y="328" width="820" height="70" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="66" y="358" font-size="17" font-weight="700" fill="#202124">간이세액표는 80% / 100% / 120% 중에 고를 수 있습니다</text>
+<text x="66" y="386" font-size="15" fill="#3c4043">총액은 같고 시점만 달라집니다. 덜 떼면 연말에 토해내고, 더 떼면 환급받습니다.</text>
+</svg>
