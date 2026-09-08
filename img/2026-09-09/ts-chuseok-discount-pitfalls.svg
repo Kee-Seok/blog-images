@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="360" viewBox="0 0 880 360" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="880" height="360" fill="#ffffff"/>
+<text x="40" y="50" font-size="27" font-weight="700" fill="#202124">헷갈리기 쉬운 세 가지</text>
+
+<rect x="40" y="82" width="800" height="76" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="66" y="114" font-size="18" font-weight="700" fill="#c5221f">농할상품권이 앱에 안 보인다고요?</text>
+<text x="66" y="142" font-size="16" fill="#3c4043">9월 13일까지는 고령자 우선 기간입니다. 일반은 14일부터 열립니다.</text>
+
+<rect x="40" y="172" width="800" height="76" rx="12" fill="#fef7e0" stroke="#e8c89a" stroke-width="2"/>
+<text x="66" y="204" font-size="18" font-weight="700" fill="#b06000">최대 40%라고 다 깎이는 게 아닙니다</text>
+<text x="66" y="232" font-size="16" fill="#3c4043">정부가 고른 품목에만 붙습니다. 매대의 할인 표시를 품목별로 보세요.</text>
+
+<rect x="40" y="262" width="800" height="76" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="66" y="294" font-size="18" font-weight="700" fill="#1a73e8">우리 동네 시장이 참여하는지 먼저 확인</text>
+<text x="66" y="322" font-size="16" fill="#3c4043">지정된 시장의 지정된 점포만 됩니다. 같은 시장에도 안 되는 점포가 있습니다.</text>
+</svg>
