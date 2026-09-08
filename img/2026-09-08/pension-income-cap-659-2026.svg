@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="440" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">국민연금은 월급 659만원에서 멈춥니다</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">기준소득월액 상한 6,590,000원 (2026년 7월 ~ 2027년 6월)</text>
+
+<rect x="40" y="108" width="400" height="128" rx="12" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<text x="66" y="142" font-size="16" fill="#5f6368">월급 659만원인 사람</text>
+<text x="66" y="186" font-size="32" font-weight="700" fill="#3c4043">313,025원</text>
+<text x="66" y="216" font-size="15" fill="#5f6368">상한에 딱 걸립니다</text>
+
+<rect x="460" y="108" width="400" height="128" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<text x="486" y="142" font-size="16" fill="#1a73e8">월급 833만원인 사람</text>
+<text x="486" y="186" font-size="32" font-weight="700" fill="#1a73e8">313,025원</text>
+<text x="486" y="216" font-size="15" fill="#1a73e8">174만원 더 버는데 같습니다</text>
+
+<rect x="40" y="256" width="820" height="70" rx="12" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="64" y="286" font-size="17" font-weight="700" fill="#137333">상한이 없었다면 395,833원 — 매달 82,808원을 덜 냅니다</text>
+<text x="64" y="314" font-size="15" fill="#3c4043">1년으로 치면 993,696원입니다.</text>
+
+<rect x="40" y="344" width="820" height="70" rx="12" fill="#fef7e0" stroke="#e8c89a" stroke-width="2"/>
+<text x="64" y="374" font-size="17" font-weight="700" fill="#b06000">다만 덜 낸 만큼 나중에 받을 연금도 그 선에서 멈춥니다</text>
+<text x="64" y="402" font-size="15" fill="#3c4043">국민연금은 낸 만큼 받는 구조라, 고소득자일수록 이것 하나로는 노후가 안 됩니다.</text>
+</svg>
