@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="400" viewBox="0 0 880 400" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="880" height="400" fill="#ffffff"/>
+<text x="40" y="52" font-size="27" font-weight="700" fill="#202124">퇴사하고 무엇부터 하면 되나</text>
+<text x="40" y="82" font-size="15" fill="#5f6368">순서를 바꾸면 손해가 납니다. 위에서부터 하나씩 확인하세요</text>
+
+<rect x="40" y="106" width="800" height="62" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<circle cx="76" cy="137" r="18" fill="#1a73e8"/><text x="76" y="144" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="108" y="144" font-size="17" fill="#3c4043">가족 중에 직장 다니는 사람이 있는지 본다 — 피부양자가 제일 유리합니다</text>
+
+<rect x="40" y="180" width="800" height="62" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<circle cx="76" cy="211" r="18" fill="#1a73e8"/><text x="76" y="218" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="108" y="218" font-size="17" fill="#3c4043">안 되면 첫 지역가입자 고지서 납부기한을 확인하고 2개월을 센다</text>
+
+<rect x="40" y="254" width="800" height="62" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<circle cx="76" cy="285" r="18" fill="#1a73e8"/><text x="76" y="292" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="108" y="292" font-size="17" fill="#3c4043">임의계속가입 금액과 지역가입자 금액을 공단에 물어 비교한다</text>
+
+<rect x="40" y="328" width="800" height="62" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<circle cx="76" cy="359" r="18" fill="#1a73e8"/><text x="76" y="366" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="108" y="366" font-size="17" font-weight="700" fill="#1a73e8">더 싼 쪽을 고른다 — 전화 한 통이면 두 금액을 다 알려줍니다</text>
+</svg>
