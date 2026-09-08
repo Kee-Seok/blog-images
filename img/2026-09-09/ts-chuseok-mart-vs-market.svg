@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="400" viewBox="0 0 880 400" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="880" height="400" fill="#ffffff"/>
+<text x="40" y="50" font-size="27" font-weight="700" fill="#202124">장 보러 가기 전에 이것부터 정하세요</text>
+<text x="40" y="80" font-size="15" fill="#5f6368">마트냐 전통시장이냐로 받는 방식이 완전히 다릅니다</text>
+
+<rect x="40" y="108" width="390" height="140" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<text x="66" y="142" font-size="19" font-weight="700" fill="#1a73e8">마트로 간다면</text>
+<text x="66" y="176" font-size="16" fill="#3c4043">값을 미리 깎아줍니다</text>
+<text x="66" y="204" font-size="16" fill="#3c4043">지정된 품목만 해당됩니다</text>
+<text x="66" y="232" font-size="16" font-weight="700" fill="#1a73e8">줄 설 필요 없음</text>
+
+<rect x="450" y="108" width="390" height="140" rx="14" fill="#fef3e6" stroke="#e8710a" stroke-width="2.5"/>
+<text x="476" y="142" font-size="19" font-weight="700" fill="#b06000">전통시장으로 간다면</text>
+<text x="476" y="176" font-size="16" fill="#3c4043">사고 나서 돌려받습니다</text>
+<text x="476" y="204" font-size="16" fill="#3c4043">국산 신선식품이면 품목 무관</text>
+<text x="476" y="232" font-size="16" font-weight="700" fill="#b06000">최대 2만원 · 영수증 필수</text>
+
+<rect x="40" y="268" width="800" height="112" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="66" y="300" font-size="18" font-weight="700" fill="#202124">둘 다 쓰는 게 사실 제일 낫습니다</text>
+<text x="66" y="332" font-size="16" fill="#3c4043">제수용 신선식품은 환급 기간에 전통시장에서,</text>
+<text x="66" y="360" font-size="16" fill="#3c4043">가공식품과 생활용품은 마트 할인으로 나눠 사면 됩니다.</text>
+</svg>
