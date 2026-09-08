@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="430" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">퇴직하셨다면 따져볼 순서가 정해져 있습니다</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">조정신청은 세 번째입니다. 앞의 둘부터 확인하세요</text>
+
+<rect x="40" y="104" width="820" height="86" rx="12" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2.5"/>
+<circle cx="82" cy="147" r="24" fill="#1e8e3e"/>
+<text x="82" y="156" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="124" y="138" font-size="20" font-weight="700" fill="#137333">피부양자 등재</text>
+<text x="124" y="168" font-size="15" fill="#3c4043">배우자나 자녀가 직장가입자면 그 밑으로. 조건이 맞으면 보험료 0원입니다.</text>
+<text x="836" y="152" font-size="26" font-weight="700" fill="#137333" text-anchor="end">0원</text>
+
+<rect x="40" y="206" width="820" height="86" rx="12" fill="#fef3e6" stroke="#e8710a" stroke-width="2.5"/>
+<circle cx="82" cy="249" r="24" fill="#e8710a"/>
+<text x="82" y="258" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="124" y="240" font-size="20" font-weight="700" fill="#b06000">임의계속가입</text>
+<text x="124" y="270" font-size="15" fill="#3c4043">다니던 회사 수준으로 최대 36개월. 기한을 놓치면 되돌릴 수 없습니다.</text>
+<text x="836" y="254" font-size="20" font-weight="700" fill="#b06000" text-anchor="end">36개월</text>
+
+<rect x="40" y="308" width="820" height="86" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<circle cx="82" cy="351" r="24" fill="#1a73e8"/>
+<text x="82" y="360" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="124" y="342" font-size="20" font-weight="700" fill="#1a73e8">지역가입자 + 조정신청</text>
+<text x="124" y="372" font-size="15" fill="#3c4043">앞의 둘이 안 될 때. 소득 부분을 지금 기준으로 다시 계산받습니다.</text>
+</svg>
