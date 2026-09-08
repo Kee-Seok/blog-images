@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="480" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">연 3,600만원 프리랜서가 3월에 계약이 끊겼다면</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">2026년 지역가입자 소득보험료율 7.19% 적용 · 재산분은 별도로 붙습니다</text>
+
+<rect x="40" y="104" width="820" height="82" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="64" y="136" font-size="16" fill="#5f6368">월 소득 300만원 &#215; 7.19%</text>
+<text x="500" y="136" font-size="16" fill="#5f6368">조정 전 소득보험료</text>
+<text x="836" y="160" font-size="30" font-weight="700" fill="#3c4043" text-anchor="end">월 215,700원</text>
+
+<rect x="40" y="204" width="400" height="118" rx="12" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2.5"/>
+<text x="66" y="238" font-size="16" font-weight="700" fill="#137333">조정신청 후 6개월</text>
+<text x="66" y="282" font-size="34" font-weight="700" fill="#137333">1,294,200원</text>
+<text x="66" y="308" font-size="15" fill="#3c4043">덜 냅니다 (215,700 &#215; 6)</text>
+
+<rect x="460" y="204" width="400" height="118" rx="12" fill="#fdeeee" stroke="#c5221f" stroke-width="2.5"/>
+<text x="486" y="238" font-size="16" font-weight="700" fill="#c5221f">소득이 회복되면 다음 해 11월</text>
+<text x="486" y="282" font-size="34" font-weight="700" fill="#c5221f">1,294,200원</text>
+<text x="486" y="308" font-size="15" fill="#3c4043">한 번에 청구됩니다</text>
+
+<rect x="40" y="344" width="820" height="112" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="64" y="376" font-size="17" font-weight="700" fill="#202124">그래서 판단 기준은 하나입니다 — 올해 소득이 정말로 줄 것인가</text>
+<text x="64" y="408" font-size="15" fill="#3c4043">줄 것이 확실하면 신청이 무조건 이득입니다. 나중에 추가로 낼 것이 없습니다.</text>
+<text x="64" y="434" font-size="15" fill="#3c4043">회복될 것 같으면 지금 아끼는 돈이 빚으로 쌓이는 구조라는 걸 알고 결정하셔야 합니다.</text>
+</svg>
