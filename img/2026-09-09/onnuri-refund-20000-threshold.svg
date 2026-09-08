@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">2만원을 다 받으려면 7만원어치를 사면 됩니다</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">전통시장 온누리 환급 · 구매액의 30%, 1인 최대 2만원</text>
+
+<rect x="40" y="106" width="250" height="104" rx="14" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<text x="64" y="140" font-size="15" fill="#5f6368">3만원어치 사면</text>
+<text x="64" y="180" font-size="30" font-weight="700" fill="#3c4043">9,000원</text>
+
+<rect x="326" y="106" width="250" height="104" rx="14" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<text x="350" y="140" font-size="15" fill="#5f6368">5만원어치 사면</text>
+<text x="350" y="180" font-size="30" font-weight="700" fill="#3c4043">15,000원</text>
+
+<rect x="612" y="106" width="248" height="104" rx="14" fill="#fef3e6" stroke="#e8710a" stroke-width="3"/>
+<text x="636" y="140" font-size="15" font-weight="700" fill="#b06000">약 6만 7천원부터</text>
+<text x="636" y="180" font-size="30" font-weight="700" fill="#b06000">20,000원</text>
+
+<text x="40" y="248" font-size="16" fill="#5f6368">여기서 더 사도 환급은 2만원에서 멈춥니다. 4인 가족 차례상이면 대개 넘는 금액입니다.</text>
+
+<rect x="40" y="274" width="820" height="128" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="64" y="306" font-size="18" font-weight="700" fill="#c5221f">받으려면 이 세 가지가 다 맞아야 합니다</text>
+<text x="64" y="338" font-size="15" fill="#3c4043">· 정부가 지정한 참여시장의 참여점포에서 샀을 것 (전국 각 300개 시장)</text>
+<text x="64" y="364" font-size="15" fill="#3c4043">· 국산 신선 농축수산물일 것</text>
+<text x="64" y="390" font-size="15" font-weight="700" fill="#c5221f">· 영수증을 버리지 않았을 것 — 창구에서 영수증을 보고 현장 환급합니다</text>
+</svg>
