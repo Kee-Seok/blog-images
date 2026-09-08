@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="440" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">추석 장보기 할인은 세 갈래입니다</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">겹치는 제도가 아니라 파는 곳이 다릅니다</text>
+
+<rect x="40" y="106" width="270" height="150" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<text x="64" y="140" font-size="17" font-weight="700" fill="#1a73e8">마트 · 온라인몰</text>
+<text x="64" y="176" font-size="28" font-weight="700" fill="#1a73e8">최대 40%</text>
+<text x="64" y="204" font-size="15" fill="#3c4043">수산물은 최대 50%</text>
+<text x="64" y="232" font-size="15" fill="#5f6368">9월 3일 ~ 23일</text>
+
+<rect x="326" y="106" width="248" height="150" rx="14" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2.5"/>
+<text x="350" y="140" font-size="17" font-weight="700" fill="#137333">농할상품권</text>
+<text x="350" y="176" font-size="28" font-weight="700" fill="#137333">20% 할인</text>
+<text x="350" y="204" font-size="15" fill="#3c4043">액면가보다 싸게 구매</text>
+<text x="350" y="232" font-size="15" font-weight="700" fill="#137333">9월 14일 ~ 20일</text>
+
+<rect x="590" y="106" width="270" height="150" rx="14" fill="#fef3e6" stroke="#e8710a" stroke-width="2.5"/>
+<text x="614" y="140" font-size="17" font-weight="700" fill="#b06000">전통시장 환급</text>
+<text x="614" y="176" font-size="28" font-weight="700" fill="#b06000">30% 돌려줌</text>
+<text x="614" y="204" font-size="15" fill="#3c4043">1인 최대 2만원</text>
+<text x="614" y="232" font-size="15" font-weight="700" fill="#b06000">9월 16일 ~ 20일</text>
+
+<rect x="40" y="280" width="820" height="66" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="64" y="310" font-size="17" font-weight="700" fill="#202124">마트는 값을 깎아주고, 전통시장은 산 뒤에 돌려줍니다</text>
+<text x="64" y="336" font-size="15" fill="#3c4043">농할상품권은 그 중간에서 결제 수단을 싸게 사두는 것입니다.</text>
+
+<rect x="40" y="362" width="820" height="60" rx="12" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="64" y="399" font-size="17" font-weight="700" fill="#c5221f">농할상품권은 9월 13일까지 고령자 우선 — 일반은 14일부터 열립니다</text>
+</svg>
