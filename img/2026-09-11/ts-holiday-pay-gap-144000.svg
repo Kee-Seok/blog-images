@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="360" viewBox="0 0 880 360" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="880" height="360" fill="#ffffff"/>
+<text x="40" y="50" font-size="27" font-weight="700" fill="#202124">시급 12,000원 알바가 하루에</text>
+<text x="40" y="86" font-size="27" font-weight="700" fill="#1e8e3e">14만 4천원을 더 받습니다</text>
+
+<rect x="40" y="116" width="390" height="130" rx="14" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="3"/>
+<text x="66" y="150" font-size="17" font-weight="700" fill="#137333">5인 이상에서 8시간</text>
+<text x="66" y="200" font-size="36" font-weight="700" fill="#137333">240,000원</text>
+<text x="66" y="228" font-size="15" fill="#3c4043">250%</text>
+
+<rect x="450" y="116" width="390" height="130" rx="14" fill="#fdeeee" stroke="#c5221f" stroke-width="3"/>
+<text x="476" y="150" font-size="17" font-weight="700" fill="#c5221f">5인 미만에서 8시간</text>
+<text x="476" y="200" font-size="36" font-weight="700" fill="#c5221f">96,000원</text>
+<text x="476" y="228" font-size="15" fill="#3c4043">평소와 같은 100%</text>
+
+<rect x="40" y="266" width="800" height="76" rx="12" fill="#fef7e0" stroke="#e8c89a" stroke-width="2"/>
+<text x="66" y="298" font-size="17" font-weight="700" fill="#b06000">같은 일, 같은 시간인데 사업장 규모 하나로 갈립니다</text>
+<text x="66" y="326" font-size="15" fill="#3c4043">5인에는 아르바이트와 계약직도 포함됩니다. 사장님 본인만 빠집니다.</text>
+</svg>
