@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="sans-serif">
+  <rect width="1200" height="700" fill="#ffffff"/>
+  <text x="600" y="60" text-anchor="middle" font-size="34" font-weight="700" fill="#202124">겨울 준비 비용 3가지 한눈에 보기</text>
+  <text x="600" y="98" text-anchor="middle" font-size="18" fill="#5f6368">2026년 9월 기준 · 4인 가족 기준</text>
+
+  <!-- Card 1 -->
+  <rect x="60" y="140" width="330" height="480" rx="16" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+  <text x="225" y="190" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">김장 비용</text>
+  <text x="225" y="230" text-anchor="middle" font-size="15" fill="#5f6368">2025년 물가협회 조사</text>
+  <text x="225" y="300" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">37만 8,860원</text>
+  <text x="225" y="330" text-anchor="middle" font-size="15" fill="#5f6368">전통시장 기준 (전년比 9.6%↓)</text>
+  <text x="225" y="380" text-anchor="middle" font-size="24" font-weight="700" fill="#5f6368">47만 7,750원</text>
+  <text x="225" y="408" text-anchor="middle" font-size="15" fill="#5f6368">대형마트 기준 (전년比 8.4%↓)</text>
+  <text x="225" y="460" text-anchor="middle" font-size="15" fill="#137333" font-weight="700">시장이 마트보다</text>
+  <text x="225" y="486" text-anchor="middle" font-size="15" fill="#137333" font-weight="700">9만 8,890원(20.7%) 저렴</text>
+
+  <!-- Card 2 -->
+  <rect x="435" y="140" width="330" height="480" rx="16" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+  <text x="600" y="190" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">에너지바우처</text>
+  <text x="600" y="230" text-anchor="middle" font-size="15" fill="#5f6368">2026년 지원금액</text>
+  <text x="600" y="300" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">70만 1,300원</text>
+  <text x="600" y="330" text-anchor="middle" font-size="15" fill="#5f6368">4인 이상 세대 (최대)</text>
+  <text x="600" y="390" text-anchor="middle" font-size="15" fill="#5f6368">신청 6.15~12.31</text>
+  <text x="600" y="416" text-anchor="middle" font-size="15" fill="#5f6368">사용 26.7.1~27.5.31</text>
+  <text x="600" y="470" text-anchor="middle" font-size="15" fill="#b06000" font-weight="700">기초생활수급자 중</text>
+  <text x="600" y="496" text-anchor="middle" font-size="15" fill="#b06000" font-weight="700">세대원 특성기준 충족 시</text>
+
+  <!-- Card 3 -->
+  <rect x="810" y="140" width="330" height="480" rx="16" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+  <text x="975" y="190" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">도시가스 절약캐시백</text>
+  <text x="975" y="230" text-anchor="middle" font-size="15" fill="#5f6368">전년 동기간 대비 절감 시</text>
+  <text x="975" y="300" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">㎥당 최대 200원</text>
+  <text x="975" y="330" text-anchor="middle" font-size="15" fill="#5f6368">절감률 15~30% 구간</text>
+  <text x="975" y="390" text-anchor="middle" font-size="15" fill="#5f6368">3% 이상부터 지급 시작</text>
+  <text x="975" y="416" text-anchor="middle" font-size="15" fill="#5f6368">(12~3월 사용량 비교)</text>
+  <text x="975" y="470" text-anchor="middle" font-size="15" fill="#c5221f" font-weight="700">25년 동절기분은</text>
+  <text x="975" y="496" text-anchor="middle" font-size="15" fill="#c5221f" font-weight="700">이미 접수 종료·지급 중</text>
+
+  <text x="600" y="668" text-anchor="middle" font-size="14" fill="#80868b">자료: 한국물가협회, 한국에너지공단 에너지바우처, K-GAS 캐시백 공지사항 정리</text>
+</svg>
