@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">전통시장 30만 2,500원어치, 실제로 얼마 남나</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">4인 가족 차례상 비용 (한국물가정보 2026년 기준) + 온누리상품권 환급</text>
+
+<rect x="40" y="108" width="220" height="120" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="62" y="140" font-size="14" fill="#5f6368">차례상 장보기</text>
+<text x="62" y="176" font-size="24" font-weight="700" fill="#1a73e8">302,500원</text>
+<text x="62" y="204" font-size="13" fill="#5f6368">전통시장 구매 기준</text>
+
+<text x="288" y="178" font-size="28" fill="#9aa0a6">→</text>
+
+<rect x="330" y="108" width="230" height="120" rx="12" fill="#fef3e6" stroke="#e8710a" stroke-width="2"/>
+<text x="352" y="140" font-size="14" fill="#9a7b3f">30% 환급 계산상</text>
+<text x="352" y="176" font-size="24" font-weight="700" fill="#b06000">90,750원</text>
+<text x="352" y="204" font-size="13" fill="#9a7b3f">이지만 한도에 걸림</text>
+
+<text x="568" y="178" font-size="28" fill="#9aa0a6">→</text>
+
+<rect x="610" y="108" width="250" height="120" rx="12" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2.5"/>
+<text x="632" y="140" font-size="14" fill="#5f6368">실제 환급액 (1인 한도)</text>
+<text x="632" y="176" font-size="24" font-weight="700" fill="#137333">20,000원</text>
+<text x="632" y="204" font-size="13" fill="#5f6368">9월 16일~20일 구매분</text>
+
+<rect x="40" y="256" width="820" height="76" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="64" y="288" font-size="17" font-weight="700" fill="#202124">실질 부담액 282,500원 — 정가 대비 6.6% 할인</text>
+<text x="64" y="314" font-size="14" fill="#3c4043">2만원을 다 받으려면 6만 7천원 이상 사면 되는데, 차례상 비용은 이미 그보다 훨씬 큽니다.</text>
+
+<text x="40" y="360" font-size="13" fill="#80868b">환급은 정부 지정 참여시장에서 국산 신선 농축수산물을 살 때만 적용됩니다. 영수증이 필요합니다.</text>
+</svg>
