@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="440" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">한도 폐지가 실제로 만드는 차이</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">마트에서 성수품 30만원어치를 한 번에 살 때 (할인율 40% 가정)</text>
+
+<text x="64" y="130" font-size="15" fill="#5f6368">9월 8일까지 — 매주 2만원 한도 있을 때</text>
+<rect x="64" y="146" width="400" height="52" rx="10" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<rect x="64" y="146" width="27" height="52" rx="10" fill="#c5221f"/>
+<text x="484" y="180" font-size="20" font-weight="700" fill="#c5221f">할인 2만원 → 28만원 결제</text>
+
+<text x="64" y="240" font-size="15" fill="#5f6368">9월 9일 이후 — 한도 없을 때</text>
+<rect x="64" y="256" width="400" height="52" rx="10" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2.5"/>
+<rect x="64" y="256" width="160" height="52" rx="10" fill="#137333"/>
+<text x="484" y="290" font-size="20" font-weight="700" fill="#137333">할인 12만원 → 18만원 결제</text>
+
+<rect x="40" y="336" width="820" height="76" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="64" y="368" font-size="17" font-weight="700" fill="#202124">같은 40% 할인율인데 실제로 받는 돈은 10만원 차이</text>
+<text x="64" y="394" font-size="14" fill="#3c4043">한 주에 몰아서 큰 품목을 살 계획이라면 9월 9일 이후 규정이 훨씬 유리합니다.</text>
+</svg>
