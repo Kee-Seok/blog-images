@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="880" height="340" fill="#ffffff"/>
+<text x="40" y="50" font-size="27" font-weight="700" fill="#202124">이 두 가지는 완전히 다른 돈입니다</text>
+
+<rect x="40" y="82" width="800" height="100" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2.5"/>
+<text x="66" y="116" font-size="19" font-weight="700" fill="#1a73e8">휴일근로수당 &#183; 법으로 정해진 것</text>
+<text x="66" y="148" font-size="16" fill="#3c4043">5인 이상 사업장에서 공휴일에 일했다면 회사가 반드시 줘야 합니다.</text>
+<text x="66" y="172" font-size="16" fill="#3c4043">안 주면 근로기준법 위반입니다.</text>
+
+<rect x="40" y="196" width="800" height="100" rx="14" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<text x="66" y="230" font-size="19" font-weight="700" fill="#5f6368">명절 상여금 &#183; 회사가 정했을 때만</text>
+<text x="66" y="262" font-size="16" fill="#3c4043">취업규칙이나 단체협약에 있으면 받을 권리가 생깁니다.</text>
+<text x="66" y="286" font-size="16" fill="#3c4043">없으면 안 줘도 법 위반이 아닙니다.</text>
+
+<text x="40" y="326" font-size="17" font-weight="700" fill="#c5221f">"상여금 줬으니 수당은 없다"는 말은 성립하지 않습니다.</text>
+</svg>
