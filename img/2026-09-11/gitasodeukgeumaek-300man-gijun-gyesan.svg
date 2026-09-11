@@ -1,0 +1,30 @@
+<svg viewBox="0 0 1200 560" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+<rect width="1200" height="560" fill="#ffffff"/>
+<text x="600" y="58" text-anchor="middle" font-size="32" font-weight="700" fill="#202124">연 300만원 기준은 '기타소득금액'</text>
+<text x="600" y="94" text-anchor="middle" font-size="19" fill="#5f6368">필요경비 60%가 인정되는 강연료라면 총수입금액은 750만원까지 가능합니다</text>
+
+<rect x="90" y="150" width="300" height="120" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="240" y="200" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">총수입금액</text>
+<text x="240" y="240" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">750만원</text>
+
+<text x="450" y="220" text-anchor="middle" font-size="26" fill="#80868b">－</text>
+
+<rect x="510" y="150" width="300" height="120" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="660" y="200" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">필요경비 60%</text>
+<text x="660" y="240" text-anchor="middle" font-size="30" font-weight="700" fill="#5f6368">450만원</text>
+
+<text x="870" y="220" text-anchor="middle" font-size="26" fill="#80868b">＝</text>
+
+<rect x="930" y="150" width="260" height="120" rx="14" fill="#eaf2ff" stroke="#1a73e8" stroke-width="2.5"/>
+<text x="1060" y="200" text-anchor="middle" font-size="22" font-weight="700" fill="#1a73e8">기타소득금액</text>
+<text x="1060" y="240" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">300만원</text>
+
+<line x1="90" y1="330" x2="1190" y2="330" stroke="#e1e6ee" stroke-width="2"/>
+
+<text x="600" y="380" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">기타소득금액 300만원 이하 → 분리과세와 종합과세 중 선택 가능</text>
+<text x="600" y="420" text-anchor="middle" font-size="20" fill="#c5221f">기타소득금액 300만원 초과 → 선택권 없이 종합과세 대상</text>
+
+<rect x="200" y="460" width="800" height="70" rx="12" fill="#fffaf0" stroke="#f5dfae" stroke-width="2"/>
+<text x="600" y="503" text-anchor="middle" font-size="19" fill="#9a7b3f">분리과세 선택 시 세액 = 기타소득금액 × 22%(지방세 포함)</text>
+
+</svg>
