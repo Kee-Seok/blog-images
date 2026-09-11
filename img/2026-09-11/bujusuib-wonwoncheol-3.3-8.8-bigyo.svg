@@ -1,0 +1,53 @@
+<svg viewBox="0 0 1200 700" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="600" y="60" text-anchor="middle" font-size="34" font-weight="700" fill="#202124">부수입 원천징수, 3.3%와 8.8% 차이</text>
+<text x="600" y="98" text-anchor="middle" font-size="20" fill="#5f6368">같은 100만원을 받아도 소득 종류에 따라 뗴는 금액이 다릅니다</text>
+
+<!-- 기타소득 흐름 -->
+<rect x="70" y="150" width="500" height="480" rx="16" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="320" y="195" text-anchor="middle" font-size="24" font-weight="700" fill="#1a73e8">기타소득 (강연료·원고료)</text>
+
+<rect x="120" y="230" width="400" height="70" rx="10" fill="#ffffff" stroke="#c7d2e0" stroke-width="1.5"/>
+<text x="320" y="260" text-anchor="middle" font-size="20" fill="#202124">받은 금액 100만원</text>
+<text x="320" y="285" text-anchor="middle" font-size="15" fill="#80868b">총수입금액</text>
+
+<text x="320" y="325" text-anchor="middle" font-size="22" fill="#5f6368">↓ 필요경비 60% 인정</text>
+
+<rect x="120" y="345" width="400" height="70" rx="10" fill="#ffffff" stroke="#c7d2e0" stroke-width="1.5"/>
+<text x="320" y="375" text-anchor="middle" font-size="20" fill="#202124">필요경비 60만원 공제</text>
+<text x="320" y="400" text-anchor="middle" font-size="15" fill="#80868b">증빙 없이 자동 인정</text>
+
+<text x="320" y="440" text-anchor="middle" font-size="22" fill="#5f6368">↓ 남은 40만원에 20% 과세</text>
+
+<rect x="120" y="460" width="400" height="70" rx="10" fill="#eaf2ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="320" y="490" text-anchor="middle" font-size="20" font-weight="700" fill="#1a73e8">기타소득금액 40만원</text>
+<text x="320" y="515" text-anchor="middle" font-size="15" fill="#5f6368">지방세 포함 실효세율 8.8%</text>
+
+<rect x="120" y="550" width="400" height="60" rx="10" fill="#1a73e8"/>
+<text x="320" y="588" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">원천징수액 8만8천원</text>
+
+<!-- 사업소득 흐름 -->
+<rect x="630" y="150" width="500" height="480" rx="16" fill="#fff7f0" stroke="#f5dfae" stroke-width="2"/>
+<text x="880" y="195" text-anchor="middle" font-size="24" font-weight="700" fill="#e8710a">사업소득 (프리랜서 외주)</text>
+
+<rect x="680" y="230" width="400" height="70" rx="10" fill="#ffffff" stroke="#e8c896" stroke-width="1.5"/>
+<text x="880" y="260" text-anchor="middle" font-size="20" fill="#202124">받은 금액 100만원</text>
+<text x="880" y="285" text-anchor="middle" font-size="15" fill="#80868b">총수입금액</text>
+
+<text x="880" y="325" text-anchor="middle" font-size="22" fill="#9a7b3f">↓ 필요경비 의제 없음</text>
+
+<rect x="680" y="345" width="400" height="70" rx="10" fill="#ffffff" stroke="#e8c896" stroke-width="1.5"/>
+<text x="880" y="375" text-anchor="middle" font-size="20" fill="#202124">실제 지출 경비만 인정</text>
+<text x="880" y="400" text-anchor="middle" font-size="15" fill="#80868b">영수증·증빙 필요</text>
+
+<text x="880" y="440" text-anchor="middle" font-size="22" fill="#9a7b3f">↓ 100만원 전체에 3.3%</text>
+
+<rect x="680" y="460" width="400" height="70" rx="10" fill="#fff0dc" stroke="#e8710a" stroke-width="2"/>
+<text x="880" y="490" text-anchor="middle" font-size="20" font-weight="700" fill="#e8710a">과세 대상 100만원</text>
+<text x="880" y="515" text-anchor="middle" font-size="15" fill="#9a7b3f">소득세 3% + 지방세 0.3%</text>
+
+<rect x="680" y="550" width="400" height="60" rx="10" fill="#e8710a"/>
+<text x="880" y="588" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">원천징수액 3만3천원</text>
+
+<text x="600" y="670" text-anchor="middle" font-size="16" fill="#80868b">두 세율 모두 최종 세액이 아니라 미리 낸 세금입니다 · 국세청 기준</text>
+</svg>
