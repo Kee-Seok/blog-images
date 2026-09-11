@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="460" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">9월 9일, 900억원이 더 들어왔습니다</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">추석 농축수산물 할인 지원 총 규모 변화</text>
+
+<text x="64" y="128" font-size="15" fill="#5f6368">기존 발표 (9월 1일)</text>
+<rect x="64" y="140" width="300" height="46" rx="8" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="84" y="171" font-size="22" font-weight="700" fill="#1a73e8">1,030억원</text>
+
+<text x="64" y="222" font-size="15" fill="#5f6368">9월 9일 추가 발표 후</text>
+<rect x="64" y="234" width="560" height="46" rx="8" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2.5"/>
+<text x="84" y="265" font-size="22" font-weight="700" fill="#137333">1,930억원 (+900억)</text>
+
+<rect x="40" y="308" width="380" height="120" rx="14" fill="#fef3e6" stroke="#e8710a" stroke-width="2"/>
+<text x="62" y="340" font-size="16" font-weight="700" fill="#b06000">할인 기간</text>
+<text x="62" y="368" font-size="15" fill="#3c4043">농축산물 9월 3일 ~ 23일</text>
+<text x="62" y="392" font-size="17" font-weight="700" fill="#b06000">→ 9월 30일까지 연장</text>
+<text x="62" y="414" font-size="13" fill="#9a7b3f">(추석 연휴 포함)</text>
+
+<rect x="440" y="308" width="420" height="120" rx="14" fill="#fdeeee" stroke="#e0a3a3" stroke-width="2"/>
+<text x="462" y="340" font-size="16" font-weight="700" fill="#c5221f">1인당 할인 한도</text>
+<text x="462" y="368" font-size="15" fill="#3c4043">기존 매주 2만원까지만 할인</text>
+<text x="462" y="392" font-size="17" font-weight="700" fill="#c5221f">→ 농축산물은 한도 폐지</text>
+<text x="462" y="414" font-size="13" fill="#9a7b3f">(수산물은 2만원 한도 유지)</text>
+</svg>
