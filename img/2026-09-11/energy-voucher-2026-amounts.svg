@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" font-family="sans-serif">
+  <rect width="1200" height="620" fill="#ffffff"/>
+  <text x="600" y="55" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">에너지바우처 2026년 가구원수별 지원금액</text>
+  <text x="600" y="88" text-anchor="middle" font-size="16" fill="#5f6368">사용기간 2026.7.1 ~ 2027.5.31 · 계절 구분 없이 자유롭게 사용</text>
+
+  <!-- bars -->
+  <!-- baseline y=520, max value 701300 -> scale -->
+  <line x1="140" y1="520" x2="1080" y2="520" stroke="#dadce0" stroke-width="2"/>
+
+  <!-- bar 1: 1인 295200 -->
+  <rect x="180" y="332" width="160" height="188" fill="#aecbfa" rx="6"/>
+  <text x="260" y="315" text-anchor="middle" font-size="20" font-weight="700" fill="#1a73e8">29만 5,200원</text>
+  <text x="260" y="555" text-anchor="middle" font-size="17" fill="#202124">1인 세대</text>
+
+  <!-- bar 2: 2인 407500 -->
+  <rect x="400" y="260" width="160" height="260" fill="#8ab4f8" rx="6"/>
+  <text x="480" y="243" text-anchor="middle" font-size="20" font-weight="700" fill="#1a73e8">40만 7,500원</text>
+  <text x="480" y="555" text-anchor="middle" font-size="17" fill="#202124">2인 세대</text>
+
+  <!-- bar 3: 3인 532700 -->
+  <rect x="620" y="180" width="160" height="340" fill="#669df6" rx="6"/>
+  <text x="700" y="163" text-anchor="middle" font-size="20" font-weight="700" fill="#1a73e8">53만 2,700원</text>
+  <text x="700" y="555" text-anchor="middle" font-size="17" fill="#202124">3인 세대</text>
+
+  <!-- bar 4: 4인이상 701300 -->
+  <rect x="840" y="80" width="160" height="440" fill="#1a73e8" rx="6"/>
+  <text x="920" y="63" text-anchor="middle" font-size="20" font-weight="700" fill="#1a73e8">70만 1,300원</text>
+  <text x="920" y="555" text-anchor="middle" font-size="17" fill="#202124">4인 이상 세대</text>
+
+  <text x="600" y="600" text-anchor="middle" font-size="14" fill="#80868b">자료: 한국에너지공단 에너지바우처(energyv.or.kr) 2026년 지원금액 안내</text>
+</svg>
