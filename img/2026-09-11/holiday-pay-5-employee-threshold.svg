@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="900" height="430" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">같은 8시간인데 사업장 규모로 갈립니다</text>
+<text x="40" y="78" font-size="15" fill="#5f6368">시급 12,000원 · 추석 당일 8시간 근무 기준</text>
+
+<rect x="40" y="106" width="400" height="150" rx="14" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="3"/>
+<text x="66" y="140" font-size="18" font-weight="700" fill="#137333">상시 5인 이상 사업장</text>
+<text x="66" y="190" font-size="38" font-weight="700" fill="#137333">240,000원</text>
+<text x="66" y="222" font-size="15" fill="#3c4043">평소 임금의 250%</text>
+
+<rect x="460" y="106" width="400" height="150" rx="14" fill="#fdeeee" stroke="#c5221f" stroke-width="3"/>
+<text x="486" y="140" font-size="18" font-weight="700" fill="#c5221f">상시 5인 미만 사업장</text>
+<text x="486" y="190" font-size="38" font-weight="700" fill="#c5221f">96,000원</text>
+<text x="486" y="222" font-size="15" fill="#3c4043">평소와 같은 100%</text>
+
+<rect x="40" y="276" width="820" height="58" rx="10" fill="#fef7e0" stroke="#e8c89a" stroke-width="2"/>
+<text x="66" y="312" font-size="19" font-weight="700" fill="#b06000">하루 차이가 144,000원입니다</text>
+
+<rect x="40" y="348" width="820" height="66" rx="10" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="66" y="378" font-size="16" font-weight="700" fill="#202124">5인은 정규직만 세는 게 아닙니다</text>
+<text x="66" y="402" font-size="15" fill="#3c4043">아르바이트와 계약직을 포함한 직접 고용 인원을 셉니다. 사장님 본인은 빠집니다.</text>
+</svg>
