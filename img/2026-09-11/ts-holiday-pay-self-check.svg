@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="400" viewBox="0 0 880 400" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif">
+<rect width="880" height="400" fill="#ffffff"/>
+<text x="40" y="50" font-size="27" font-weight="700" fill="#202124">내가 받을 수 있는지 30초 자가진단</text>
+<text x="40" y="80" font-size="15" fill="#5f6368">위에서부터 하나씩 내려가 보세요</text>
+
+<rect x="40" y="108" width="800" height="62" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<circle cx="76" cy="139" r="18" fill="#1a73e8"/><text x="76" y="146" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="108" y="146" font-size="17" fill="#3c4043">9월 24~26일 중에 출근했다 &#8594; 법정공휴일 근무입니다</text>
+
+<rect x="40" y="182" width="800" height="62" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<circle cx="76" cy="213" r="18" fill="#1a73e8"/><text x="76" y="220" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="108" y="220" font-size="17" fill="#3c4043">일하는 곳이 상시 5인 이상이다 &#8594; 가산수당 대상입니다</text>
+
+<rect x="40" y="256" width="800" height="62" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<circle cx="76" cy="287" r="18" fill="#1a73e8"/><text x="76" y="294" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="108" y="294" font-size="17" fill="#3c4043">월급제인지 시급제인지 확인 &#8594; 배율이 달라집니다</text>
+
+<rect x="40" y="330" width="800" height="62" rx="12" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2.5"/>
+<circle cx="76" cy="361" r="18" fill="#1e8e3e"/><text x="76" y="368" font-size="17" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="108" y="368" font-size="17" font-weight="700" fill="#137333">급여명세서에 휴일근로수당 항목이 있는지 본다</text>
+</svg>
