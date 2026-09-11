@@ -1,0 +1,44 @@
+<svg viewBox="0 0 1200 680" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+<rect width="1200" height="680" fill="#ffffff"/>
+<text x="600" y="55" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">강연료 500만원, 종합과세로 넘기면 세액 비교</text>
+<text x="600" y="90" text-anchor="middle" font-size="18" fill="#5f6368">기타소득금액 200만원 · 원천징수로 이미 44만원 납부한 경우</text>
+
+<!-- baseline line at 44만원 -->
+<!-- chart area: x 150-1100, y 140-560, baseline y=560 -->
+<line x1="150" y1="560" x2="1100" y2="560" stroke="#202124" stroke-width="2"/>
+
+<!-- reference line for 44만원 withheld -->
+<!-- scale: 77만원 max -> use 400px height, 1만원 = 5.2px -->
+<line x1="150" y1="331" x2="1030" y2="331" stroke="#c5221f" stroke-width="2" stroke-dasharray="8,6"/>
+<text x="1035" y="336" font-size="15" fill="#c5221f">이미 낸 44만원</text>
+
+<!-- bar 1: 6.6% -> 13.2만 -->
+<rect x="210" y="491" width="140" height="69" fill="#1a73e8"/>
+<text x="280" y="480" text-anchor="middle" font-size="20" font-weight="700" fill="#1a73e8">13.2만원</text>
+<text x="280" y="590" text-anchor="middle" font-size="16" fill="#202124">6.6%</text>
+<text x="280" y="612" text-anchor="middle" font-size="14" fill="#80868b">과표 1,400만↓</text>
+<text x="280" y="630" text-anchor="middle" font-size="14" fill="#1e8e3e">30.8만원 환급</text>
+
+<!-- bar 2: 16.5% -> 33만 -->
+<rect x="410" y="388" width="140" height="172" fill="#1a73e8"/>
+<text x="480" y="377" text-anchor="middle" font-size="20" font-weight="700" fill="#1a73e8">33만원</text>
+<text x="480" y="590" text-anchor="middle" font-size="16" fill="#202124">16.5%</text>
+<text x="480" y="612" text-anchor="middle" font-size="14" fill="#80868b">과표 1,400~5,000만</text>
+<text x="480" y="630" text-anchor="middle" font-size="14" fill="#1e8e3e">11만원 환급</text>
+
+<!-- bar 3: 26.4% -> 52.8만 -->
+<rect x="610" y="285" width="140" height="275" fill="#e8710a"/>
+<text x="680" y="274" text-anchor="middle" font-size="20" font-weight="700" fill="#e8710a">52.8만원</text>
+<text x="680" y="590" text-anchor="middle" font-size="16" fill="#202124">26.4%</text>
+<text x="680" y="612" text-anchor="middle" font-size="14" fill="#80868b">과표 5,000~8,800만</text>
+<text x="680" y="630" text-anchor="middle" font-size="14" fill="#c5221f">8.8만원 추가납부</text>
+
+<!-- bar 4: 38.5% -> 77만 -->
+<rect x="810" y="160" width="140" height="400" fill="#c5221f"/>
+<text x="880" y="149" text-anchor="middle" font-size="20" font-weight="700" fill="#c5221f">77만원</text>
+<text x="880" y="590" text-anchor="middle" font-size="16" fill="#202124">38.5%</text>
+<text x="880" y="612" text-anchor="middle" font-size="14" fill="#80868b">과표 8,800만~1억5천</text>
+<text x="880" y="630" text-anchor="middle" font-size="14" fill="#c5221f">33만원 추가납부</text>
+
+<text x="600" y="665" text-anchor="middle" font-size="15" fill="#80868b">세율은 소득세+지방소득세 합산 · 200만원 기준 계산</text>
+</svg>
