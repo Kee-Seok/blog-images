@@ -1,0 +1,36 @@
+<svg viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <rect width="1200" height="500" fill="#ffffff"/>
+  <text x="600" y="55" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">청년미래적금 가입 절차 (1차 기준)</text>
+  <text x="600" y="88" text-anchor="middle" font-size="17" fill="#5f6368">신청 → 심사 → 계좌개설, 2주 만에 끝났습니다</text>
+
+  <!-- timeline line -->
+  <line x1="140" y1="230" x2="1060" y2="230" stroke="#dadce0" stroke-width="6"/>
+
+  <!-- Step 1 -->
+  <circle cx="220" cy="230" r="22" fill="#1a73e8"/>
+  <text x="220" y="237" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">1</text>
+  <text x="220" y="180" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">신청</text>
+  <text x="220" y="285" text-anchor="middle" font-size="16" fill="#3c4043">6.22(월)</text>
+  <text x="220" y="308" text-anchor="middle" font-size="16" fill="#3c4043">~7.3(금)</text>
+  <text x="220" y="335" text-anchor="middle" font-size="14" fill="#80868b">비대면 앱 신청</text>
+
+  <!-- Step 2 -->
+  <circle cx="600" cy="230" r="22" fill="#1a73e8"/>
+  <text x="600" y="237" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">2</text>
+  <text x="600" y="180" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">심사</text>
+  <text x="600" y="285" text-anchor="middle" font-size="16" fill="#3c4043">7.6(월)</text>
+  <text x="600" y="308" text-anchor="middle" font-size="16" fill="#3c4043">~7.24(금)</text>
+  <text x="600" y="335" text-anchor="middle" font-size="14" fill="#80868b">소득·자격 확인</text>
+
+  <!-- Step 3 -->
+  <circle cx="980" cy="230" r="22" fill="#1a73e8"/>
+  <text x="980" y="237" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">3</text>
+  <text x="980" y="180" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">계좌개설</text>
+  <text x="980" y="285" text-anchor="middle" font-size="16" fill="#3c4043">7.27(월)</text>
+  <text x="980" y="308" text-anchor="middle" font-size="16" fill="#3c4043">~8.7(금)</text>
+  <text x="980" y="335" text-anchor="middle" font-size="14" fill="#80868b">가입 통보 후 개설</text>
+
+  <rect x="140" y="400" width="920" height="70" rx="12" fill="#f7f9fc" stroke="#e1e6ee"/>
+  <text x="600" y="430" text-anchor="middle" font-size="15" fill="#3c4043">9월 추가 신청도 이 3단계(신청 → 심사 → 계좌개설) 순서를 그대로 따를 것으로 보입니다</text>
+  <text x="600" y="452" text-anchor="middle" font-size="13" fill="#80868b">금융위원회·서민금융진흥원 발표 (2026년 6월 기준)</text>
+</svg>
