@@ -1,0 +1,24 @@
+<svg viewBox="0 0 1000 560" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <rect width="1000" height="560" fill="#ffffff"/>
+  <text x="500" y="55" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">월 50만원씩 3년 넣으면 어디서 얼마가 붙나</text>
+  <text x="500" y="86" text-anchor="middle" font-size="15" fill="#5f6368">일반형·최고금리(연 8%) 기준, 제가 단리로 계산해본 구성입니다</text>
+
+  <!-- stacked bar horizontal -->
+  <!-- total width 800 for scale, principal 18,000,000 / total 21,300,000 -->
+  <!-- principal share 84.5%, interest 10.4%, contribution 5.1% -->
+  <rect x="100" y="220" width="676" height="90" fill="#1a73e8"/>
+  <rect x="776" y="220" width="83" height="90" fill="#34a853"/>
+  <rect x="859" y="220" width="41" height="90" fill="#f9ab00"/>
+  <rect x="100" y="220" width="800" height="90" fill="none" stroke="#dadce0" stroke-width="2"/>
+
+  <text x="438" y="270" text-anchor="middle" font-size="18" font-weight="700" fill="#ffffff">원금 1,800만원</text>
+  <text x="817" y="200" text-anchor="middle" font-size="14" font-weight="700" fill="#188038">이자</text>
+  <text x="817" y="335" text-anchor="middle" font-size="13" fill="#188038">222만원</text>
+  <text x="879" y="200" text-anchor="middle" font-size="14" font-weight="700" fill="#b06000">기여금</text>
+  <text x="879" y="335" text-anchor="middle" font-size="13" fill="#b06000">108만원</text>
+
+  <rect x="100" y="400" width="800" height="120" rx="14" fill="#f7f9fc" stroke="#e1e6ee"/>
+  <text x="500" y="435" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">3년 뒤 예상 수령액 약 2,130만원</text>
+  <text x="500" y="465" text-anchor="middle" font-size="14" fill="#3c4043">원금 1,800만원 + 이자 약 222만원(비과세) + 정부기여금 약 108만원(일반형 6%)</text>
+  <text x="500" y="490" text-anchor="middle" font-size="13" fill="#80868b">우대형(기여금 12%)이면 정부기여금만 약 216만원으로 늘어 총 약 2,238만원입니다</text>
+</svg>
