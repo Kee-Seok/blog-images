@@ -1,0 +1,29 @@
+<svg viewBox="0 0 1000 560" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+  <rect width="1000" height="560" fill="#ffffff"/>
+  <text x="500" y="55" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">1차 신청자 234만명, 연령대별 비중</text>
+  <text x="500" y="86" text-anchor="middle" font-size="16" fill="#5f6368">30대 초반이 가장 많이 신청했습니다</text>
+
+  <!-- bars -->
+  <!-- 19-24: 24.7% -->
+  <text x="180" y="180" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">만 19~24세</text>
+  <rect x="80" y="200" width="200" height="60" rx="8" fill="#aecbfa"/>
+  <text x="180" y="240" text-anchor="middle" font-size="22" font-weight="700" fill="#1a3e7a">24.7%</text>
+
+  <!-- 25-29: 36.5% -->
+  <text x="500" y="150" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">만 25~29세</text>
+  <rect x="400" y="170" width="200" height="90" rx="8" fill="#7baaf7"/>
+  <text x="500" y="222" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">36.5%</text>
+
+  <!-- 30-34: 38.8% -->
+  <text x="820" y="140" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">만 30~34세</text>
+  <rect x="720" y="160" width="200" height="100" rx="8" fill="#1a73e8"/>
+  <text x="820" y="215" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">38.8%</text>
+
+  <line x1="60" y1="260" x2="940" y2="260" stroke="#dadce0" stroke-width="2"/>
+
+  <rect x="80" y="340" width="840" height="150" rx="14" fill="#f7f9fc" stroke="#e1e6ee"/>
+  <text x="500" y="380" text-anchor="middle" font-size="17" fill="#202124" font-weight="700">1차 신청 총 234만명 · 소상공인 신청 약 8만명(3.4%)</text>
+  <text x="500" y="415" text-anchor="middle" font-size="15" fill="#3c4043">전체 가입 가능 규모의 상당 부분이 1차에서 이미 채워졌습니다</text>
+  <text x="500" y="445" text-anchor="middle" font-size="15" fill="#3c4043">9월 추가 모집 규모는 단순 계산으로 약 90만명 안팎으로 알려져 있습니다</text>
+  <text x="500" y="475" text-anchor="middle" font-size="13" fill="#80868b">금융위원회 청년미래적금 1차 신청 결과 발표 (2026년 7월 기준)</text>
+</svg>
