@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" font-family="sans-serif">
+<rect width="1200" height="630" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">모두의카드, 수도권 일반 국민 · 월 교통비 8만원</text>
+<text x="600" y="115" text-anchor="middle" font-size="24" fill="#5f6368">지하철·시내버스만 이용 (일반형 수단), 월 15회 이상</text>
+<rect x="110" y="165" width="440" height="340" rx="22" fill="#e8f0fe"/>
+<text x="330" y="220" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">9월 (한시 인하)</text>
+<text x="330" y="270" text-anchor="middle" font-size="24" fill="#3c4043">기준금액 3만원</text>
+<text x="330" y="310" text-anchor="middle" font-size="24" fill="#3c4043">8만원 − 3만원</text>
+<text x="330" y="410" text-anchor="middle" font-size="72" font-weight="800" fill="#1a73e8">5만원</text>
+<text x="330" y="465" text-anchor="middle" font-size="22" fill="#5f6368">환급</text>
+<text x="600" y="355" text-anchor="middle" font-size="60" fill="#9aa0a6">→</text>
+<rect x="650" y="165" width="440" height="340" rx="22" fill="#fef7e0"/>
+<text x="870" y="220" text-anchor="middle" font-size="30" font-weight="700" fill="#b06000">원래 기준으로 돌아가면</text>
+<text x="870" y="270" text-anchor="middle" font-size="24" fill="#3c4043">기준금액 6.2만원</text>
+<text x="870" y="310" text-anchor="middle" font-size="24" fill="#3c4043">8만원 − 6.2만원</text>
+<text x="870" y="410" text-anchor="middle" font-size="72" font-weight="800" fill="#b06000">1.8만원</text>
+<text x="870" y="465" text-anchor="middle" font-size="22" fill="#5f6368">환급 (기본형 1.6만원보다 큼)</text>
+<text x="600" y="565" text-anchor="middle" font-size="28" font-weight="700" fill="#d93025">한 달에 3.2만원 차이</text>
+<text x="600" y="605" text-anchor="middle" font-size="18" fill="#80868b">자료: 국토교통부 대도시권광역교통위원회 발표 정리 (2026년 9월 기준)</text>
+</svg>
