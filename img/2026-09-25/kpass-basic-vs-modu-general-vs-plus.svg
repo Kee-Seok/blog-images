@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700" font-family="sans-serif">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="600" y="60" text-anchor="middle" font-size="34" font-weight="700" fill="#202124">한 달이 끝나면 K-패스가 세 가지를 다 계산해 봅니다</text>
+<rect x="420" y="95" width="360" height="80" rx="14" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="600" y="130" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">이번 달 대중교통 이용액</text>
+<text x="600" y="160" text-anchor="middle" font-size="20" fill="#5f6368">월 15회 이상 이용한 달만</text>
+<line x1="600" y1="175" x2="200" y2="245" stroke="#9aa0a6" stroke-width="3"/>
+<line x1="600" y1="175" x2="600" y2="245" stroke="#9aa0a6" stroke-width="3"/>
+<line x1="600" y1="175" x2="1000" y2="245" stroke="#9aa0a6" stroke-width="3"/>
+<rect x="40" y="245" width="320" height="250" rx="16" fill="#e6f4ea" stroke="#81c995"/>
+<text x="200" y="290" text-anchor="middle" font-size="28" font-weight="700" fill="#137333">기본형</text>
+<text x="200" y="330" text-anchor="middle" font-size="21" fill="#3c4043">쓴 돈 × 환급률</text>
+<text x="200" y="375" text-anchor="middle" font-size="19" fill="#3c4043">일반 20% · 청년 30%</text>
+<text x="200" y="405" text-anchor="middle" font-size="19" fill="#3c4043">어르신 30% · 3자녀 50%</text>
+<text x="200" y="435" text-anchor="middle" font-size="19" fill="#3c4043">저소득 53.3%</text>
+<text x="200" y="475" text-anchor="middle" font-size="18" fill="#5f6368">적게 탈 때 유리</text>
+<rect x="440" y="245" width="320" height="250" rx="16" fill="#e8f0fe" stroke="#8ab4f8"/>
+<text x="600" y="290" text-anchor="middle" font-size="28" font-weight="700" fill="#1a73e8">모두의카드 일반형</text>
+<text x="600" y="330" text-anchor="middle" font-size="21" fill="#3c4043">(쓴 돈 − 기준금액) 전부</text>
+<text x="600" y="375" text-anchor="middle" font-size="19" fill="#3c4043">1회 요금 3천원 미만</text>
+<text x="600" y="405" text-anchor="middle" font-size="19" fill="#3c4043">수단만 합산</text>
+<text x="600" y="435" text-anchor="middle" font-size="19" fill="#3c4043">(시내버스·지하철 등)</text>
+<text x="600" y="475" text-anchor="middle" font-size="18" fill="#5f6368">시내 출퇴근을 많이 할 때</text>
+<rect x="840" y="245" width="320" height="250" rx="16" fill="#f3e8fd" stroke="#c58af9"/>
+<text x="1000" y="290" text-anchor="middle" font-size="28" font-weight="700" fill="#8430ce">모두의카드 플러스형</text>
+<text x="1000" y="330" text-anchor="middle" font-size="21" fill="#3c4043">(쓴 돈 − 기준금액) 전부</text>
+<text x="1000" y="375" text-anchor="middle" font-size="19" fill="#3c4043">모든 수단 합산</text>
+<text x="1000" y="405" text-anchor="middle" font-size="19" fill="#3c4043">(GTX·광역버스 포함)</text>
+<text x="1000" y="435" text-anchor="middle" font-size="19" fill="#3c4043">기준금액은 더 높음</text>
+<text x="1000" y="475" text-anchor="middle" font-size="18" fill="#5f6368">광역 통근을 할 때</text>
+<rect x="300" y="560" width="600" height="80" rx="14" fill="#fef7e0" stroke="#f5dfae"/>
+<text x="600" y="598" text-anchor="middle" font-size="26" font-weight="700" fill="#b06000">셋 중 가장 큰 금액이 자동으로 적용</text>
+<text x="600" y="628" text-anchor="middle" font-size="18" fill="#5f6368">미리 고르는 게 아니라 달이 끝난 뒤 계산 (별도 신청 없음)</text>
+<text x="600" y="680" text-anchor="middle" font-size="17" fill="#80868b">자료: 국토교통부 K-패스 모두의 카드 출시 보도자료(2025.12.15) 정리</text>
+</svg>
