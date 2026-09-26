@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" font-family="sans-serif">
+<rect width="1200" height="630" fill="#ffffff"/>
+<text x="60" y="90" font-size="44" font-weight="700" fill="#202124">기후동행카드 → 기후동행패스 전환 일정</text>
+<text x="60" y="140" font-size="26" fill="#5f6368">서울시 발표 기준 · 2026년 9월</text>
+<line x1="120" y1="330" x2="1080" y2="330" stroke="#dadce0" stroke-width="8"/>
+<circle cx="160" cy="330" r="22" fill="#1a73e8"/><text x="160" y="270" font-size="30" font-weight="700" text-anchor="middle" fill="#1a73e8">9월 1일</text>
+<text x="160" y="400" font-size="24" text-anchor="middle" fill="#202124">기후동행패스</text><text x="160" y="435" font-size="24" text-anchor="middle" fill="#202124">출시</text>
+<circle cx="450" cy="330" r="22" fill="#5f6368"/><text x="450" y="270" font-size="30" font-weight="700" text-anchor="middle" fill="#5f6368">9월 29일</text>
+<text x="450" y="400" font-size="24" text-anchor="middle" fill="#202124">선불 30일권</text><text x="450" y="435" font-size="24" text-anchor="middle" fill="#202124">사용 마지막 날</text>
+<circle cx="740" cy="330" r="22" fill="#e8710a"/><text x="740" y="270" font-size="30" font-weight="700" text-anchor="middle" fill="#e8710a">9월 30일</text>
+<text x="740" y="400" font-size="24" text-anchor="middle" fill="#202124">후불 기후동행카드</text><text x="740" y="435" font-size="24" text-anchor="middle" fill="#202124">혜택 마지막 날</text>
+<circle cx="1030" cy="330" r="22" fill="#c5221f"/><text x="1030" y="270" font-size="30" font-weight="700" text-anchor="middle" fill="#c5221f">10월 1일</text>
+<text x="1030" y="400" font-size="24" text-anchor="middle" fill="#202124">후불카드는</text><text x="1030" y="435" font-size="24" text-anchor="middle" fill="#202124">일반 교통카드로</text>
+<rect x="60" y="500" width="1080" height="80" rx="14" fill="#fff4e5"/>
+<text x="600" y="551" font-size="26" text-anchor="middle" fill="#8a4b00">1·2·3·5·7일 단기권은 계속 운영 · 환급은 서울시민만 적용</text>
+</svg>
