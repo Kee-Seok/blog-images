@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="sans-serif">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="60" y="80" font-size="40" font-weight="700" fill="#202124">서울시민 한 달 실제 부담 비교 (10월 이후)</text>
+<text x="60" y="125" font-size="24" fill="#5f6368">기후동행카드 30일권 vs 기후동행패스 환급 뒤 · 서울시 발표 기준금액</text>
+<g font-size="24" fill="#202124">
+<text x="60" y="215">일반 · 월 8만원</text>
+<rect x="400" y="185" width="620" height="36" fill="#9aa0a6"/><text x="1030" y="212">62,000원</text>
+<rect x="400" y="228" width="620" height="36" fill="#1a73e8"/><text x="1030" y="255">62,000원</text>
+<text x="60" y="355">만 37세 · 월 7만원</text>
+<rect x="400" y="325" width="620" height="36" fill="#9aa0a6"/><text x="1030" y="352">62,000원</text>
+<rect x="400" y="368" width="490" height="36" fill="#1a73e8"/><text x="900" y="395">49,000원</text>
+<text x="60" y="495">일반 · 월 5만원</text>
+<rect x="400" y="465" width="620" height="36" fill="#9aa0a6"/><text x="1030" y="492">62,000원</text>
+<rect x="400" y="508" width="400" height="36" fill="#1a73e8"/><text x="810" y="535">40,000원</text>
+</g>
+<rect x="400" y="610" width="30" height="30" fill="#9aa0a6"/><text x="440" y="634" font-size="24" fill="#202124">기후동행카드 30일권(따릉이 미포함)</text>
+<rect x="840" y="610" width="30" height="30" fill="#1a73e8"/><text x="880" y="634" font-size="24" fill="#202124">기후동행패스</text>
+</svg>
