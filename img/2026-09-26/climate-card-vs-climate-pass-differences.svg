@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 660" font-family="sans-serif">
+<rect width="1200" height="660" fill="#ffffff"/>
+<text x="60" y="80" font-size="40" font-weight="700" fill="#202124">무엇이 달라지나</text>
+<rect x="60" y="120" width="520" height="70" rx="10" fill="#f1f3f4"/><text x="320" y="166" font-size="30" font-weight="700" text-anchor="middle" fill="#5f6368">기후동행카드</text>
+<rect x="620" y="120" width="520" height="70" rx="10" fill="#e8f0fe"/><text x="880" y="166" font-size="30" font-weight="700" text-anchor="middle" fill="#1a73e8">기후동행패스</text>
+<g font-size="26" fill="#202124" text-anchor="middle">
+<text x="320" y="260">미리 62,000원 충전</text><text x="880" y="260">쓰고 나서 초과분 환급</text>
+<text x="320" y="340">서울 안 지하철·버스</text><text x="880" y="340">전국 대중교통</text>
+<text x="320" y="420">청년 만 19~34세</text><text x="880" y="420">청년 만 19~39세</text>
+<text x="320" y="500">따릉이 포함 권종 있음</text><text x="880" y="500">따릉이 연계는 연내 예정</text>
+<text x="320" y="580">누구나 구매</text><text x="880" y="580">환급은 서울시민만</text>
+</g>
+<g stroke="#e0e0e0" stroke-width="2"><line x1="60" y1="290" x2="1140" y2="290"/><line x1="60" y1="370" x2="1140" y2="370"/><line x1="60" y1="450" x2="1140" y2="450"/><line x1="60" y1="530" x2="1140" y2="530"/></g>
+</svg>
