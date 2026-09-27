@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="44" font-size="24" font-weight="700" text-anchor="middle" fill="#202124">단독가구 165만원, 무엇 때문에 얼마가 줄어드나</text>
+<g font-size="17" fill="#202124">
+<rect x="60" y="80" width="680" height="70" rx="12" fill="#e8f0fe"/>
+<text x="90" y="112" font-weight="700">기한후 신청 (95% 지급)</text><text x="90" y="138" fill="#5f6368">165만원 → 156만7,500원 · 8만2,500원 감소</text>
+<rect x="60" y="170" width="680" height="70" rx="12" fill="#fef7e0"/>
+<text x="90" y="202" font-weight="700">재산 1억7천만원 이상 2억4천만원 미만 (50% 지급)</text><text x="90" y="228" fill="#5f6368">165만원 → 82만5천원 · 82만5천원 감소</text>
+<rect x="60" y="260" width="680" height="70" rx="12" fill="#fce8e6"/>
+<text x="90" y="292" font-weight="700">국세 체납 충당 (환급금의 30% 한도)</text><text x="90" y="318" fill="#5f6368">156만7,500원 기준 최대 47만250원까지 체납액에 먼저 충당</text>
+</g>
+<text x="400" y="380" font-size="15" text-anchor="middle" fill="#5f6368">신청을 안 하면 0원 — 5% 감액보다 미신청 손해가 훨씬 큽니다</text>
+</svg>
