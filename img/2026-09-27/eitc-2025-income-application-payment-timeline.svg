@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+<rect width="800" height="380" fill="#ffffff"/>
+<text x="400" y="44" font-size="24" font-weight="700" text-anchor="middle" fill="#202124">2025년 소득분 근로장려금 신청·지급 일정</text>
+<line x1="60" y1="170" x2="740" y2="170" stroke="#dadce0" stroke-width="4"/>
+<rect x="60" y="150" width="120" height="40" rx="8" fill="#1a73e8"/>
+<text x="120" y="176" font-size="15" text-anchor="middle" fill="#ffffff" font-weight="700">정기신청</text>
+<text x="120" y="120" font-size="15" text-anchor="middle" fill="#202124">5월 1일~6월 1일</text>
+<text x="120" y="222" font-size="14" text-anchor="middle" fill="#5f6368">9월 말까지 지급</text>
+<rect x="200" y="150" width="380" height="40" rx="8" fill="#f29900"/>
+<text x="390" y="176" font-size="15" text-anchor="middle" fill="#ffffff" font-weight="700">기한후 신청 (95% 지급)</text>
+<text x="390" y="120" font-size="15" text-anchor="middle" fill="#202124">6월 2일~12월 1일</text>
+<text x="390" y="222" font-size="14" text-anchor="middle" fill="#5f6368">신청일로부터 4개월 이내 지급</text>
+<rect x="600" y="150" width="140" height="40" rx="8" fill="#9aa0a6"/>
+<text x="670" y="176" font-size="15" text-anchor="middle" fill="#ffffff" font-weight="700">신청 불가</text>
+<text x="670" y="120" font-size="15" text-anchor="middle" fill="#202124">12월 2일부터</text>
+<g font-size="15" fill="#202124">
+<text x="80" y="290">예) 10월 1일 신청 → 늦어도 2027년 2월 1일 무렵 지급</text>
+<text x="80" y="320">예) 12월 1일 신청 → 늦어도 2027년 4월 1일 무렵 지급</text>
+</g>
+</svg>
