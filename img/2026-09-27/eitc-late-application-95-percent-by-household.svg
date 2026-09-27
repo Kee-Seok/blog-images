@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" font-family="sans-serif">
+<rect width="800" height="450" fill="#ffffff"/>
+<text x="400" y="46" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">근로장려금 기한후 신청하면 95% 지급</text>
+<text x="400" y="78" font-size="16" text-anchor="middle" fill="#5f6368">가구 유형별 최대 지급액 비교 · 2025년 소득분, 12월 1일까지</text>
+<g font-size="17" fill="#202124">
+<text x="40" y="150">단독가구</text>
+<rect x="160" y="128" width="275" height="26" fill="#1a73e8"/><text x="445" y="148">165만원</text>
+<rect x="160" y="158" width="261" height="26" fill="#f29900"/><text x="431" y="178">156만7,500원</text>
+<text x="40" y="250">홑벌이가구</text>
+<rect x="160" y="228" width="475" height="26" fill="#1a73e8"/><text x="645" y="248">285만원</text>
+<rect x="160" y="258" width="451" height="26" fill="#f29900"/><text x="621" y="278">270만7,500원</text>
+<text x="40" y="350">맞벌이가구</text>
+<rect x="160" y="328" width="550" height="26" fill="#1a73e8"/><text x="720" y="348">330만원</text>
+<rect x="160" y="358" width="523" height="26" fill="#f29900"/><text x="693" y="378">313만5,000원</text>
+</g>
+<rect x="160" y="410" width="18" height="14" fill="#1a73e8"/><text x="185" y="422" font-size="14" fill="#5f6368">정기신청 최대액</text>
+<rect x="330" y="410" width="18" height="14" fill="#f29900"/><text x="355" y="422" font-size="14" fill="#5f6368">기한후 신청 최대액(95%)</text>
+</svg>
