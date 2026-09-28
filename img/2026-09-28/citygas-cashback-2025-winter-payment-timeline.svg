@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" font-family="sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">지난 겨울 캐시백, 신청부터 입금까지 걸린 시간</text>
+<line x1="70" y1="180" x2="730" y2="180" stroke="#9aa0a6" stroke-width="3"/>
+<g font-size="15" fill="#202124" text-anchor="middle">
+<circle cx="110" cy="180" r="10" fill="#1a73e8"/><text x="110" y="140" font-weight="700">2025.12.1</text><text x="110" y="216">신청 시작</text><text x="110" y="236" fill="#5f6368" font-size="13">절감기간 시작</text>
+<circle cx="240" cy="180" r="10" fill="#1a73e8"/><text x="240" y="140" font-weight="700">2026.3.31</text><text x="240" y="216">절감기간 끝</text><text x="240" y="236" fill="#5f6368" font-size="13">신청도 마감</text>
+<circle cx="400" cy="180" r="10" fill="#e8710a"/><text x="400" y="140" font-weight="700">7.6 ~ 7.31</text><text x="400" y="216">사용량 조회결과 공개</text><text x="400" y="236" fill="#5f6368" font-size="13">이의신청 4주</text>
+<circle cx="560" cy="180" r="10" fill="#1a73e8"/><text x="560" y="140" font-weight="700">2026.9.11</text><text x="560" y="216">1차 입금 완료</text><text x="560" y="236" fill="#5f6368" font-size="13">당초 8월 예정</text>
+<circle cx="690" cy="180" r="10" fill="#9aa0a6"/><text x="690" y="140" font-weight="700">9.23까지</text><text x="690" y="216">계좌 오류 수정</text><text x="690" y="236" fill="#5f6368" font-size="13">2차 지급 대상</text>
+</g>
+<rect x="110" y="280" width="580" height="60" rx="10" fill="#f1f3f4"/>
+<text x="400" y="317" text-anchor="middle" font-size="17" fill="#202124">절감기간이 끝나고 입금까지 약 5개월 반</text>
+<text x="400" y="380" text-anchor="middle" font-size="13" fill="#80868b">출처: K-가스캐시백 공지사항(2025.12.1 ~ 2026.9.16 게시분) 정리</text>
+</svg>
