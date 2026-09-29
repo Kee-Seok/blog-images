@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="460" viewBox="0 0 800 460" font-family="sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">연금저축·IRP에 넣으면 돌려받는 세금</text>
+<text x="400" y="74" text-anchor="middle" font-size="15" fill="#5f6368">지방소득세 포함 · 국세청 연금계좌 세액공제 기준(2026년 9월 확인)</text>
+<g font-size="17" fill="#202124">
+<text x="40" y="128" font-weight="700">총급여 5,500만원 이하 (16.5%)</text>
+<text x="60" y="165">900만원 납입</text><rect x="240" y="146" width="450" height="28" fill="#1a73e8"/><text x="700" y="166" font-weight="700">1,485,000원</text>
+<text x="60" y="205">600만원 납입</text><rect x="240" y="186" width="300" height="28" fill="#8ab4f8"/><text x="550" y="206" font-weight="700">990,000원</text>
+<text x="40" y="268" font-weight="700">총급여 5,500만원 초과 (13.2%)</text>
+<text x="60" y="305">900만원 납입</text><rect x="240" y="286" width="360" height="28" fill="#e8710a"/><text x="610" y="306" font-weight="700">1,188,000원</text>
+<text x="60" y="345">600만원 납입</text><rect x="240" y="326" width="240" height="28" fill="#fbbc04"/><text x="490" y="346" font-weight="700">792,000원</text>
+</g>
+<text x="400" y="410" text-anchor="middle" font-size="15" fill="#5f6368">600만원은 연금저축만 넣었을 때 한도, 900만원은 IRP를 합친 한도</text>
+</svg>
