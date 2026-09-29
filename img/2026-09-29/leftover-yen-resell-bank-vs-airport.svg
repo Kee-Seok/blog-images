@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="380" viewBox="0 0 800 380" font-family="sans-serif">
+<rect width="800" height="380" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">남은 1만엔, 어디서 되파느냐에 따라</text>
+<text x="400" y="74" text-anchor="middle" font-size="15" fill="#5f6368">매매기준율 100엔당 863.90원 · 우대 없이 계산</text>
+<g font-size="18" fill="#202124" text-anchor="middle">
+<rect x="120" y="110" width="240" height="160" rx="12" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="240" y="150" font-weight="700">일반 영업점</text><text x="240" y="180" fill="#5f6368" font-size="15">파실 때 수수료 1.75%</text><text x="240" y="230" font-size="28" font-weight="700" fill="#1a73e8">84,879원</text>
+<rect x="440" y="110" width="240" height="160" rx="12" fill="#fef7e0" stroke="#f5dfae"/>
+<text x="560" y="150" font-weight="700">인천공항 지점</text><text x="560" y="180" fill="#5f6368" font-size="15">파실 때 수수료 7.00%</text><text x="560" y="230" font-size="28" font-weight="700" fill="#b06000">80,343원</text>
+</g>
+<text x="400" y="320" text-anchor="middle" font-size="18" fill="#202124">1만엔에서만 <tspan font-weight="700">4,536원</tspan> 차이</text>
+</svg>
