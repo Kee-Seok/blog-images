@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" font-family="sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">돌려받은 16.5%, 중간에 빼면 다시 토해내요</text>
+<g font-size="17" fill="#202124" text-anchor="middle">
+<rect x="50" y="100" width="200" height="120" rx="10" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="150" y="145" font-weight="700">900만원 납입</text><text x="150" y="180">148만5천원 공제</text><text x="150" y="205" font-size="14" fill="#5f6368">총급여 5,500만 이하</text>
+<path d="M255 160 L325 160" stroke="#5f6368" stroke-width="3" marker-end="url(#a)"/>
+<rect x="330" y="100" width="200" height="120" rx="10" fill="#fce8e6" stroke="#f4c7c3"/>
+<text x="430" y="145" font-weight="700">연금 외로 인출</text><text x="430" y="180">기타소득세 15%</text><text x="430" y="205" font-size="14" fill="#5f6368">지방세 합쳐 16.5%</text>
+<path d="M535 160 L605 160" stroke="#5f6368" stroke-width="3" marker-end="url(#a)"/>
+<rect x="610" y="100" width="150" height="120" rx="10" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="685" y="145" font-weight="700">148만5천원</text><text x="685" y="180">다시 납부</text><text x="685" y="205" font-size="14" fill="#5f6368">원금 900만원 기준</text>
+</g>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#5f6368"/></marker></defs>
+<text x="400" y="290" text-anchor="middle" font-size="17" fill="#202124">16.5%로 받은 사람은 공제분을 그대로 돌려주는 셈이고</text>
+<text x="400" y="320" text-anchor="middle" font-size="17" fill="#202124">13.2%로 받은 사람은 <tspan font-weight="700">받은 것보다 더</tspan> 내요</text>
+<text x="400" y="370" text-anchor="middle" font-size="14" fill="#5f6368">자료: 국세청 연금계좌 세액공제·연금외수령 과세 안내 정리 (운용수익 제외 계산)</text>
+</svg>
