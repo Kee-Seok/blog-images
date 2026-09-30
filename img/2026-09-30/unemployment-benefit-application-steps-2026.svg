@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" font-family="sans-serif">
+<rect width="1200" height="520" fill="#ffffff"/>
+<text x="60" y="70" font-size="36" font-weight="700" fill="#202124">퇴사 뒤 실업급여 첫 입금까지 순서</text>
+<g font-size="24" text-anchor="middle">
+<rect x="40" y="130" width="250" height="150" rx="16" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="165" y="190" font-weight="700" fill="#202124">1. 이직확인서</text><text x="165" y="230" fill="#5f6368">회사가 처리</text>
+<rect x="330" y="130" width="250" height="150" rx="16" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="455" y="190" font-weight="700" fill="#202124">2. 구직신청</text><text x="455" y="230" fill="#5f6368">고용24에서</text>
+<rect x="620" y="130" width="250" height="150" rx="16" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="745" y="180" font-weight="700" fill="#202124">3. 수급자격</text><text x="745" y="215" font-weight="700" fill="#202124">인정신청</text><text x="745" y="255" fill="#5f6368">거주지 고용센터</text>
+<rect x="910" y="130" width="250" height="150" rx="16" fill="#fef7e0" stroke="#f5dfae"/>
+<text x="1035" y="190" font-weight="700" fill="#202124">4. 대기기간 7일</text><text x="1035" y="230" fill="#b06000">이 7일은 지급 없음</text>
+</g>
+<path d="M290 205 H325 M580 205 H615 M870 205 H905" stroke="#9aa0a6" stroke-width="4"/>
+<rect x="40" y="330" width="1120" height="110" rx="16" fill="#e8f0fe"/>
+<text x="600" y="378" font-size="26" font-weight="700" fill="#202124" text-anchor="middle">받을 수 있는 기간: 이직일 다음 날부터 12개월</text>
+<text x="600" y="418" font-size="22" fill="#1967d2" text-anchor="middle">늦게 신청하면 소정급여일수가 남아 있어도 12개월이 지나면 끊겨요</text>
+<text x="60" y="495" font-size="20" fill="#80868b">자료: 법제처 찾기쉬운 생활법령정보 「실업급여」 (2026년 9월 확인)</text>
+</svg>
