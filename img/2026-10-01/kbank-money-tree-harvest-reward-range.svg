@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#ffffff"/>
+<rect x="0" y="0" width="1200" height="14" fill="#2e7d32"/>
+<text x="80" y="120" font-family="sans-serif" font-size="46" font-weight="700" fill="#202124">케이뱅크 돈나무 키우기</text>
+<text x="80" y="180" font-family="sans-serif" font-size="30" fill="#5f6368">수확 보상은 랜덤 · 2026년 10월 1일 기준 공식 안내</text>
+<rect x="80" y="240" width="1040" height="90" rx="14" fill="#e8f5e9"/>
+<text x="110" y="298" font-family="sans-serif" font-size="34" font-weight="700" fill="#1b5e20">일반 고객: 최소 50원 ~ 최대 10만원</text>
+<rect x="80" y="355" width="1040" height="90" rx="14" fill="#fff3e0"/>
+<text x="110" y="413" font-family="sans-serif" font-size="34" font-weight="700" fill="#b06000">ALPHA(만 14~18세): 5만원 이상 보상 제외</text>
+<text x="80" y="520" font-family="sans-serif" font-size="28" fill="#202124">물 주기 하루 1번 · 자정 초기화 · 대표계좌로 즉시 지급</text>
+<text x="80" y="580" font-family="sans-serif" font-size="22" fill="#80868b">자료: 케이뱅크 브랜드 페이지 돈나무 안내</text>
+</svg>
