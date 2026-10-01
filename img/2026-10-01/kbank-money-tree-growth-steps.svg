@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460">
+<rect width="1200" height="460" fill="#ffffff"/>
+<text x="60" y="70" font-family="sans-serif" font-size="36" font-weight="700" fill="#202124">돈나무가 자라는 순서</text>
+<g font-family="sans-serif">
+<rect x="60" y="120" width="240" height="200" rx="16" fill="#e3f2fd"/>
+<text x="180" y="180" text-anchor="middle" font-size="30" font-weight="700" fill="#0d47a1">① 물 주기</text>
+<text x="180" y="230" text-anchor="middle" font-size="22" fill="#202124">하루 1번</text>
+<text x="180" y="265" text-anchor="middle" font-size="22" fill="#202124">자정에 초기화</text>
+<text x="330" y="230" font-size="40" fill="#9aa0a6">›</text>
+<rect x="360" y="120" width="240" height="200" rx="16" fill="#e8f5e9"/>
+<text x="480" y="180" text-anchor="middle" font-size="30" font-weight="700" fill="#1b5e20">② 영양제</text>
+<text x="480" y="230" text-anchor="middle" font-size="22" fill="#202124">미션 하면 지급</text>
+<text x="480" y="265" text-anchor="middle" font-size="22" fill="#202124">3일 연속 방문 등</text>
+<text x="630" y="230" font-size="40" fill="#9aa0a6">›</text>
+<rect x="660" y="120" width="240" height="200" rx="16" fill="#f3e5f5"/>
+<text x="780" y="180" text-anchor="middle" font-size="30" font-weight="700" fill="#4a148c">③ 레벨업</text>
+<text x="780" y="230" text-anchor="middle" font-size="22" fill="#202124">팔랑초부터</text>
+<text x="780" y="265" text-anchor="middle" font-size="22" fill="#202124">레벨마다 보상</text>
+<text x="930" y="230" font-size="40" fill="#9aa0a6">›</text>
+<rect x="960" y="120" width="200" height="200" rx="16" fill="#fff3e0"/>
+<text x="1060" y="180" text-anchor="middle" font-size="30" font-weight="700" fill="#b06000">④ 수확</text>
+<text x="1060" y="230" text-anchor="middle" font-size="22" fill="#202124">50원~10만원</text>
+<text x="1060" y="265" text-anchor="middle" font-size="22" fill="#202124">랜덤 지급</text>
+</g>
+<text x="60" y="390" font-family="sans-serif" font-size="22" fill="#5f6368">수확 뒤에는 새 나무로 다시 시작 · 다 자랐을 때 팝업 미션을 하면 수확 기회 1번 추가</text>
+<text x="60" y="430" font-family="sans-serif" font-size="20" fill="#80868b">자료: 케이뱅크 브랜드 페이지 (2026년 10월 1일 확인)</text>
+</svg>
