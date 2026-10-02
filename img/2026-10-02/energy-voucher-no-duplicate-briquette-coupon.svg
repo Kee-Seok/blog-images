@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="40" y="50" font-size="26" font-weight="700" fill="#202124">에너지바우처와 같이 못 받는 지원 3가지</text>
+<rect x="290" y="80" width="220" height="70" rx="12" fill="#1a73e8"/>
+<text x="400" y="123" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">에너지바우처</text>
+<g stroke="#d93025" stroke-width="3"><line x1="400" y1="150" x2="150" y2="250"/><line x1="400" y1="150" x2="400" y2="250"/><line x1="400" y1="150" x2="650" y2="250"/></g>
+<g font-size="17" fill="#202124" text-anchor="middle">
+<rect x="40" y="250" width="220" height="90" rx="12" fill="#fce8e6" stroke="#f28b82"/><text x="150" y="288">긴급복지 지원</text><text x="150" y="314">동절기 연료비</text>
+<rect x="290" y="250" width="220" height="90" rx="12" fill="#fce8e6" stroke="#f28b82"/><text x="400" y="288">한국광해광업공단</text><text x="400" y="314">연탄쿠폰</text>
+<rect x="540" y="250" width="220" height="90" rx="12" fill="#fce8e6" stroke="#f28b82"/><text x="650" y="288">연탄전환</text><text x="650" y="314">에너지바우처</text>
+</g>
+<rect x="300" y="182" width="200" height="34" fill="#ffffff"/><text x="400" y="207" font-size="22" font-weight="700" fill="#d93025" text-anchor="middle">✕ 둘 중 하나만</text>
+<text x="40" y="400" font-size="15" fill="#5f6368">출처: 에너지바우처 누리집 중복지원 불가 사업 (2026년 10월 기준)</text>
+</svg>
