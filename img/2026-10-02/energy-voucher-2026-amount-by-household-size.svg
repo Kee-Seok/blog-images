@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" font-family="sans-serif">
+<rect width="800" height="450" fill="#ffffff"/>
+<text x="40" y="52" font-size="26" font-weight="700" fill="#202124">2026 에너지바우처 세대원 수별 지원금</text>
+<text x="40" y="84" font-size="16" fill="#5f6368">동절기 사용 시작 2026년 10월 1일 · 사용 마감 2027년 5월 31일</text>
+<g font-size="18" fill="#202124">
+<text x="40" y="150">1인</text><rect x="120" y="128" width="252" height="32" rx="6" fill="#8ab4f8"/><text x="384" y="151" font-weight="700">295,200원</text>
+<text x="40" y="215">2인</text><rect x="120" y="193" width="348" height="32" rx="6" fill="#669df6"/><text x="480" y="216" font-weight="700">407,500원</text>
+<text x="40" y="280">3인</text><rect x="120" y="258" width="455" height="32" rx="6" fill="#4285f4"/><text x="587" y="281" font-weight="700">532,700원</text>
+<text x="40" y="345">4인 이상</text><rect x="120" y="323" width="599" height="32" rx="6" fill="#1a73e8"/><text x="560" y="346" font-weight="700" fill="#ffffff">701,300원</text>
+</g>
+<text x="40" y="410" font-size="15" fill="#5f6368">출처: 에너지바우처 누리집 지원금액(2026년도 총액) · 하절기만 쓰는 세대는 별도 금액</text>
+</svg>
