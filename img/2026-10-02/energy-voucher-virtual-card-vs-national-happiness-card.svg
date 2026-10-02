@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="40" y="50" font-size="26" font-weight="700" fill="#202124">에너지바우처, 내 난방 연료에 맞는 쓰는 법</text>
+<rect x="40" y="80" width="345" height="320" rx="14" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="62" y="122" font-size="21" font-weight="700" fill="#1a73e8">가상카드 (요금 차감)</text>
+<text x="62" y="162" font-size="17" fill="#202124">대상 연료: 전기·도시가스·지역난방</text>
+<text x="62" y="198" font-size="17" fill="#202124">고지서에서 자동으로 빠져요</text>
+<text x="62" y="234" font-size="17" fill="#202124">따로 결제할 일이 없어요</text>
+<text x="62" y="300" font-size="19" font-weight="700" fill="#202124">시작: 10월 1일</text>
+<text x="62" y="336" font-size="17" fill="#202124">마감: 2027년 5월 31일</text>
+<rect x="415" y="80" width="345" height="320" rx="14" fill="#fef7e0" stroke="#fdd663"/>
+<text x="437" y="122" font-size="21" font-weight="700" fill="#b06000">실물카드 (국민행복카드)</text>
+<text x="437" y="162" font-size="17" fill="#202124">대상 연료: 등유·LPG·연탄 등</text>
+<text x="437" y="198" font-size="17" fill="#202124">판매처에서 카드로 직접 결제</text>
+<text x="437" y="234" font-size="17" fill="#202124">카드가 있어야 써요</text>
+<text x="437" y="300" font-size="19" font-weight="700" fill="#202124">시작: 10월 3일</text>
+<text x="437" y="336" font-size="17" fill="#202124">마감: 2027년 5월 31일</text>
+<text x="40" y="436" font-size="15" fill="#5f6368">한국에너지공단 2026년 동절기 사용 안내 정리 (2026년 10월 기준)</text>
+</svg>
