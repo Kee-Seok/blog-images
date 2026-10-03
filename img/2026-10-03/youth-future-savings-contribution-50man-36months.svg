@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540">
+  <rect width="1200" height="540" fill="#ffffff"/>
+  <style>text{font-family:sans-serif;fill:#1a1a1a}.t{font-size:32px;font-weight:700}.s{font-size:21px;fill:#4a5568}.l{font-size:24px;font-weight:700}.v{font-size:24px}</style>
+  <text x="600" y="58" text-anchor="middle" class="t">매달 50만원씩 3년 넣으면 정부가 얹어 주는 돈</text>
+  <text x="600" y="94" text-anchor="middle" class="s">원금 1,800만원 기준 · 이자는 빼고 기여금만 계산</text>
+  <text x="80" y="185" class="l">일반형 6%</text>
+  <rect x="300" y="150" width="756" height="56" fill="#cbd5e0"/><rect x="1056" y="150" width="45" height="56" fill="#2b6cb0"/>
+  <text x="310" y="245" class="v">원금 1,800만원 + 기여금 <tspan font-weight="700" fill="#2b6cb0">108만원</tspan></text>
+  <text x="80" y="325" class="l">우대형 12%</text>
+  <rect x="300" y="290" width="756" height="56" fill="#cbd5e0"/><rect x="1056" y="290" width="91" height="56" fill="#2b6cb0"/>
+  <text x="310" y="385" class="v">원금 1,800만원 + 기여금 <tspan font-weight="700" fill="#2b6cb0">216만원</tspan></text>
+  <rect x="80" y="430" width="1040" height="70" rx="14" fill="#f7f9fc" stroke="#e2e8f0"/>
+  <text x="600" y="474" text-anchor="middle" font-size="21">예산안이 통과되면 우대형 15%(270만원), 지방 중소기업 25%(450만원) — 소급 적용 예정</text>
+</svg>
