@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+  <rect width="1200" height="560" fill="#ffffff"/>
+  <style>text{font-family:sans-serif;fill:#1a1a1a}.t{font-size:34px;font-weight:700}.s{font-size:22px;fill:#4a5568}.h{font-size:28px;font-weight:700}.b{font-size:21px}</style>
+  <text x="600" y="60" text-anchor="middle" class="t">청년도약계좌 → 청년미래적금 갈아타기 순서</text>
+  <text x="600" y="98" text-anchor="middle" class="s">순서를 바꾸면 갈아타기가 안 됩니다 (2차 모집 기준)</text>
+  <rect x="60" y="150" width="330" height="250" rx="18" fill="#ebf4ff" stroke="#2b6cb0" stroke-width="3"/>
+  <text x="225" y="205" text-anchor="middle" class="h" fill="#2b6cb0">① 가입 신청</text>
+  <text x="225" y="260" text-anchor="middle" class="b">10월 7일 ~ 16일</text>
+  <text x="225" y="300" text-anchor="middle" class="b">취급기관 앱에서</text>
+  <text x="225" y="340" text-anchor="middle" class="b">심사 결과 11월 12~13일</text>
+  <text x="420" y="285" text-anchor="middle" font-size="44" fill="#2b6cb0">›</text>
+  <rect x="435" y="150" width="330" height="250" rx="18" fill="#ebf4ff" stroke="#2b6cb0" stroke-width="3"/>
+  <text x="600" y="205" text-anchor="middle" class="h" fill="#2b6cb0">② 계좌 개설</text>
+  <text x="600" y="260" text-anchor="middle" class="b">11월 16일 ~ 27일</text>
+  <text x="600" y="300" text-anchor="middle" class="b">가입 가능 안내를</text>
+  <text x="600" y="340" text-anchor="middle" class="b">받은 사람만</text>
+  <text x="795" y="285" text-anchor="middle" font-size="44" fill="#2b6cb0">›</text>
+  <rect x="810" y="150" width="330" height="250" rx="18" fill="#fff5eb" stroke="#c05621" stroke-width="3"/>
+  <text x="975" y="205" text-anchor="middle" class="h" fill="#c05621">③ 도약계좌 해지</text>
+  <text x="975" y="260" text-anchor="middle" class="b">'특별중도해지'로</text>
+  <text x="975" y="300" text-anchor="middle" class="b">같은 기간 안에</text>
+  <text x="975" y="340" text-anchor="middle" class="b">(11월 27일까지)</text>
+  <rect x="60" y="440" width="1080" height="80" rx="14" fill="#fdecea"/>
+  <text x="600" y="490" text-anchor="middle" font-size="24" font-weight="700" fill="#b42318">③을 먼저 하면 일반 해지가 되고, ③을 안 하면 미래적금에 돈을 못 넣어요</text>
+</svg>
