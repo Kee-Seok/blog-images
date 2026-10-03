@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="sans-serif">
+<rect width="1200" height="675" fill="#ffffff"/>
+<text x="60" y="80" font-size="38" font-weight="700" fill="#202124">딱 1kWh 차이인데 요금은 이만큼 뜁니다</text>
+<text x="60" y="122" font-size="22" fill="#5f6368">한 달 청구액 예시 · 부가세·전력기금 포함 · 2026년 10월 기준</text>
+<rect x="60" y="170" width="520" height="380" rx="18" fill="#f1f3f4"/>
+<rect x="620" y="170" width="520" height="380" rx="18" fill="#fef7e0"/>
+<g fill="#202124" text-anchor="middle">
+<text x="320" y="230" font-size="28" font-weight="700">200 → 201kWh</text>
+<text x="320" y="300" font-size="26">31,220원 → 32,260원</text>
+<text x="320" y="390" font-size="44" font-weight="700" fill="#1a73e8">+1,040원</text>
+<text x="320" y="460" font-size="22">기본요금 910원 → 1,600원</text>
+<text x="880" y="230" font-size="28" font-weight="700">400 → 401kWh</text>
+<text x="880" y="300" font-size="26">83,530원 → 90,310원</text>
+<text x="880" y="390" font-size="44" font-weight="700" fill="#c5221f">+6,780원</text>
+<text x="880" y="460" font-size="22">기본요금 1,600원 → 7,300원</text>
+</g>
+<text x="60" y="610" font-size="22" fill="#5f6368">기본요금은 그달 마지막에 걸친 단계 금액을 통째로 냅니다</text>
+<text x="60" y="650" font-size="18" fill="#80868b">한국전력공사 주택용 저압 요금표 기준으로 직접 계산 · 실제 고지서와 몇십 원 차이 날 수 있음</text>
+</svg>
