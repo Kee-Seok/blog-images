@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#ffffff"/>
+  <style>text{font-family:sans-serif;fill:#1a1a1a}.t{font-size:32px;font-weight:700}.s{font-size:21px;fill:#4a5568}.d{font-size:22px;font-weight:700}.b{font-size:19px}</style>
+  <text x="600" y="58" text-anchor="middle" class="t">청년미래적금 2차 일정 (2026년)</text>
+  <text x="600" y="94" text-anchor="middle" class="s">금융위원회·서민금융진흥원 안내, 2026년 9월 30일 기준 (심사 결과 안내일은 잠정)</text>
+  <line x1="90" y1="250" x2="1110" y2="250" stroke="#cbd5e0" stroke-width="6"/>
+  <g>
+    <circle cx="140" cy="250" r="16" fill="#2b6cb0"/><text x="140" y="200" text-anchor="middle" class="d">10/7~8</text><text x="140" y="300" text-anchor="middle" class="b">홀·짝제 신청</text><text x="140" y="328" text-anchor="middle" class="b">(출생연도 끝자리)</text>
+    <circle cx="340" cy="250" r="16" fill="#2b6cb0"/><text x="340" y="200" text-anchor="middle" class="d">10/12~16</text><text x="340" y="300" text-anchor="middle" class="b">누구나 신청</text>
+    <circle cx="540" cy="250" r="16" fill="#718096"/><text x="540" y="200" text-anchor="middle" class="d">10/30~11/2</text><text x="540" y="300" text-anchor="middle" class="b">사전심사 결과</text>
+    <circle cx="730" cy="250" r="16" fill="#718096"/><text x="730" y="200" text-anchor="middle" class="d">11/2~5</text><text x="730" y="300" text-anchor="middle" class="b">이의신청</text>
+    <circle cx="900" cy="250" r="16" fill="#718096"/><text x="900" y="200" text-anchor="middle" class="d">11/12~13</text><text x="900" y="300" text-anchor="middle" class="b">최종 결과</text>
+    <circle cx="1070" cy="250" r="16" fill="#c05621"/><text x="1070" y="200" text-anchor="middle" class="d">11/16~27</text><text x="1070" y="300" text-anchor="middle" class="b">계좌 개설</text><text x="1070" y="328" text-anchor="middle" class="b">+ 특별중도해지</text>
+  </g>
+  <rect x="90" y="390" width="1020" height="80" rx="14" fill="#f7f9fc" stroke="#e2e8f0"/>
+  <text x="600" y="440" text-anchor="middle" font-size="22">10월 9일(한글날)부터 11일(주말)까지는 신청 일정이 없어요</text>
+</svg>
