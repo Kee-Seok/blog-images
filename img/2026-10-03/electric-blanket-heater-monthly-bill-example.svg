@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" font-family="sans-serif">
+<rect width="1200" height="675" fill="#ffffff"/>
+<text x="60" y="80" font-size="38" font-weight="700" fill="#202124">평소 300kWh 쓰는 집, 겨울 기기 더하면 한 달 요금</text>
+<text x="60" y="122" font-size="22" fill="#5f6368">예시 계산 · 부가세·전력기금 포함 · TV 수신료 제외 · 2026년 10월 요금 기준</text>
+<g font-size="24" fill="#202124">
+<text x="60" y="210">평소 (300kWh)</text>
+<rect x="420" y="180" width="252" height="44" fill="#8ab4f8"/><text x="690" y="212" font-weight="700">57,760원</text>
+<text x="60" y="310">+ 전기장판 (336kWh)</text>
+<rect x="420" y="280" width="292" height="44" fill="#f6ae2d"/><text x="730" y="312" font-weight="700">67,030원 (+9,270원)</text>
+<text x="60" y="410">+ 전기히터 (480kWh)</text>
+<rect x="420" y="380" width="518" height="44" fill="#e8710a"/><text x="955" y="412" font-weight="700">118,910원</text>
+<text x="60" y="510">+ 둘 다 (516kWh)</text>
+<rect x="420" y="480" width="576" height="44" fill="#c5221f"/><text x="1012" y="512" font-weight="700">131,950원</text>
+</g>
+<text x="60" y="600" font-size="22" fill="#5f6368">전기장판 150W×하루 8시간, 전기히터 2kW×하루 3시간, 30일 가정</text>
+<text x="60" y="645" font-size="18" fill="#80868b">한국전력공사 주택용 저압 요금표와 4분기 연료비조정단가(+5원) 적용해 직접 계산</text>
+</svg>
