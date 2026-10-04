@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" font-family="sans-serif">
+<rect width="1200" height="630" fill="#ffffff"/>
+<text x="600" y="80" text-anchor="middle" font-size="40" font-weight="700" fill="#202124">2026 종합소득세 중간예납, 얼마를 언제까지?</text>
+<rect x="80" y="140" width="420" height="230" rx="20" fill="#f1f3f4"/>
+<text x="290" y="200" text-anchor="middle" font-size="28" fill="#5f6368">작년에 낸 종합소득세</text>
+<text x="290" y="290" text-anchor="middle" font-size="64" font-weight="700" fill="#202124">300만원</text>
+<path d="M530 255 L640 255" stroke="#1a73e8" stroke-width="10"/><path d="M640 230 L680 255 L640 280 Z" fill="#1a73e8"/>
+<text x="605" y="225" text-anchor="middle" font-size="26" font-weight="700" fill="#1a73e8">× 1/2</text>
+<rect x="700" y="140" width="420" height="230" rx="20" fill="#e8f0fe"/>
+<text x="910" y="200" text-anchor="middle" font-size="28" fill="#1a4fa0">11월 중간예납 고지액</text>
+<text x="910" y="290" text-anchor="middle" font-size="64" font-weight="700" fill="#1a73e8">150만원</text>
+<rect x="80" y="410" width="1040" height="80" rx="16" fill="#fffaf0" stroke="#f5dfae"/>
+<text x="600" y="462" text-anchor="middle" font-size="32" font-weight="700" fill="#b06000">납부기한 2026년 11월 30일(월)</text>
+<text x="330" y="560" text-anchor="middle" font-size="26" fill="#202124">50만원 미만 → 고지 안 함</text>
+<text x="870" y="560" text-anchor="middle" font-size="26" fill="#202124">1천만원 초과 → 2027년 2월 1일까지 분납</text>
+<text x="600" y="610" text-anchor="middle" font-size="20" fill="#80868b">국세청 중간예납 안내(2026년 10월 기준) 정리</text>
+</svg>
