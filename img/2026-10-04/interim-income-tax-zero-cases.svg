@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" width="1200" height="640" font-family="sans-serif">
+<rect width="1200" height="640" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">고지서 금액이 0원이 되는 두 가지 길</text>
+<rect x="60" y="120" width="500" height="400" rx="20" fill="#f1f3f4"/>
+<text x="310" y="180" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">처음부터 고지 안 됨</text>
+<text x="310" y="250" text-anchor="middle" font-size="26" fill="#202124">중간예납세액 50만원 미만</text>
+<text x="310" y="300" text-anchor="middle" font-size="24" fill="#5f6368">작년 낸 세금 100만원 미만이면</text>
+<text x="310" y="335" text-anchor="middle" font-size="24" fill="#5f6368">절반이 50만원 미만</text>
+<text x="310" y="430" text-anchor="middle" font-size="28" font-weight="700" fill="#1a73e8">할 일 없음</text>
+<rect x="640" y="120" width="500" height="400" rx="20" fill="#fffaf0" stroke="#f5dfae"/>
+<text x="890" y="180" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">고지 후 추계액 50만원 미만</text>
+<text x="890" y="250" text-anchor="middle" font-size="26" fill="#202124">상반기 소득금액 500만원 예시</text>
+<text x="890" y="300" text-anchor="middle" font-size="24" fill="#5f6368">850만원 × 6% = 51만원</text>
+<text x="890" y="335" text-anchor="middle" font-size="24" fill="#5f6368">÷ 2 = 25만5,000원</text>
+<text x="890" y="410" text-anchor="middle" font-size="26" font-weight="700" fill="#b06000">추계액 신고서는 꼭 제출</text>
+<text x="890" y="450" text-anchor="middle" font-size="24" fill="#b06000">안 내면 고지액이 그대로 남음</text>
+<text x="600" y="580" text-anchor="middle" font-size="26" fill="#202124">신고·납부 기한은 둘 다 2026년 11월 30일(월)</text>
+<text x="600" y="620" text-anchor="middle" font-size="20" fill="#80868b">국세청 중간예납 안내(2026년 10월 기준) 정리</text>
+</svg>
