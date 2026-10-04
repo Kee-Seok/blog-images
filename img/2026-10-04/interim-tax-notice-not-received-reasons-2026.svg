@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" font-family="sans-serif">
+<rect width="1200" height="630" fill="#ffffff"/>
+<text x="600" y="90" text-anchor="middle" font-size="44" font-weight="700" fill="#202124">중간예납 고지서가 안 오는 이유</text>
+<text x="600" y="145" text-anchor="middle" font-size="26" fill="#5f6368">고지서는 11월 초 발송 · 납부기한 2026년 11월 30일(월)</text>
+<rect x="80" y="200" width="490" height="300" rx="20" fill="#e8f0fe"/>
+<text x="325" y="265" text-anchor="middle" font-size="32" font-weight="700" fill="#1a73e8">① 금액이 작아서</text>
+<text x="325" y="330" text-anchor="middle" font-size="26" fill="#202124">중간예납세액 50만원 미만</text>
+<text x="325" y="380" text-anchor="middle" font-size="24" fill="#5f6368">작년 낸 세금 100만원 미만이면</text>
+<text x="325" y="420" text-anchor="middle" font-size="24" fill="#5f6368">절반이 50만원 미만</text>
+<rect x="630" y="200" width="490" height="300" rx="20" fill="#f1f3f4"/>
+<text x="875" y="265" text-anchor="middle" font-size="32" font-weight="700" fill="#202124">② 대상이 아니라서</text>
+<text x="875" y="325" text-anchor="middle" font-size="24" fill="#202124">2026년 새로 개업</text>
+<text x="875" y="365" text-anchor="middle" font-size="24" fill="#202124">6월 30일 전 휴·폐업</text>
+<text x="875" y="405" text-anchor="middle" font-size="24" fill="#202124">근로·연금·이자·배당 소득만</text>
+<text x="875" y="445" text-anchor="middle" font-size="24" fill="#202124">자영 예술가·보험설계사 등</text>
+<text x="600" y="570" text-anchor="middle" font-size="22" fill="#80868b">국세청 중간예납 납부대상자 안내(2026년 10월 확인) 정리</text>
+</svg>
