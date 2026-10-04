@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="sans-serif">
+<rect width="1200" height="560" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">응급의료포털에서 문 연 약국 찾는 4단계</text>
+<g font-size="26" text-anchor="middle" fill="#202124">
+<rect x="40" y="140" width="250" height="230" rx="18" fill="#f1f3f4"/><text x="165" y="200" font-size="40" font-weight="700" fill="#1a73e8">1</text><text x="165" y="260">e-gen.or.kr</text><text x="165" y="300">또는 앱 실행</text>
+<rect x="330" y="140" width="250" height="230" rx="18" fill="#f1f3f4"/><text x="455" y="200" font-size="40" font-weight="700" fill="#1a73e8">2</text><text x="455" y="260">약국 찾기</text><text x="455" y="300">메뉴 선택</text>
+<rect x="620" y="140" width="250" height="230" rx="18" fill="#f1f3f4"/><text x="745" y="200" font-size="40" font-weight="700" fill="#1a73e8">3</text><text x="745" y="260">날짜 10월 9일</text><text x="745" y="300">+ 시·군·구</text>
+<rect x="910" y="140" width="250" height="230" rx="18" fill="#e8f0fe"/><text x="1035" y="200" font-size="40" font-weight="700" fill="#1a73e8">4</text><text x="1035" y="260">운영 시간 확인</text><text x="1035" y="300">→ 전화 후 출발</text>
+</g>
+<text x="600" y="450" text-anchor="middle" font-size="26" fill="#202124">10일(토)·11일(일)은 날짜만 바꿔 다시 조회</text>
+<text x="600" y="510" text-anchor="middle" font-size="20" fill="#80868b">중앙응급의료센터 응급의료포털 이용 순서 정리 (2026년 10월 기준)</text>
+</svg>
