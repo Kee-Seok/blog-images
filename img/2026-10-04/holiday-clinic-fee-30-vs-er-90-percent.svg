@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="sans-serif">
+<rect width="1200" height="560" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">공휴일 진료비, 어디로 가느냐가 갈라요</text>
+<rect x="80" y="120" width="480" height="320" rx="20" fill="#e8f0fe"/>
+<text x="320" y="185" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">문 연 동네 의원</text>
+<text x="320" y="250" text-anchor="middle" font-size="26" fill="#202124">공휴일 진찰료 30% 가산</text>
+<text x="320" y="330" text-anchor="middle" font-size="40" font-weight="700" fill="#202124">2만원 → 2만6천원</text>
+<text x="320" y="390" text-anchor="middle" font-size="22" fill="#5f6368">기본 진찰료 2만원 가정</text>
+<rect x="640" y="120" width="480" height="320" rx="20" fill="#fffaf0" stroke="#f5dfae"/>
+<text x="880" y="185" text-anchor="middle" font-size="30" font-weight="700" fill="#b06000">가벼운 증상으로 응급실</text>
+<text x="880" y="250" text-anchor="middle" font-size="26" fill="#202124">응급도 4·5단계 (경증)</text>
+<text x="880" y="330" text-anchor="middle" font-size="40" font-weight="700" fill="#202124">본인부담 90%</text>
+<text x="880" y="390" text-anchor="middle" font-size="22" fill="#5f6368">2024년 9월부터</text>
+<text x="600" y="500" text-anchor="middle" font-size="24" fill="#202124">진짜 응급(1~3단계)이면 90%가 아니에요 — 참지 말고 119</text>
+</svg>
