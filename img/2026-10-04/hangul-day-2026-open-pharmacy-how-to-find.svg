@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" font-family="sans-serif">
+<rect width="1200" height="630" fill="#ffffff"/>
+<text x="600" y="85" text-anchor="middle" font-size="44" font-weight="700" fill="#202124">한글날 문 여는 약국 찾는 법</text>
+<text x="600" y="140" text-anchor="middle" font-size="28" fill="#5f6368">2026년 10월 9일(금) ~ 11일(일) 사흘 연휴</text>
+<g font-size="30" font-weight="700" text-anchor="middle">
+<rect x="150" y="190" width="260" height="110" rx="16" fill="#fffaf0" stroke="#f5dfae"/><text x="280" y="258" fill="#b06000">10/9 금 한글날</text>
+<rect x="470" y="190" width="260" height="110" rx="16" fill="#f1f3f4"/><text x="600" y="258" fill="#202124">10/10 토</text>
+<rect x="790" y="190" width="260" height="110" rx="16" fill="#f1f3f4"/><text x="920" y="258" fill="#202124">10/11 일</text>
+</g>
+<rect x="100" y="350" width="480" height="170" rx="20" fill="#e8f0fe"/>
+<text x="340" y="415" text-anchor="middle" font-size="32" font-weight="700" fill="#1a73e8">응급의료포털 E-Gen</text>
+<text x="340" y="465" text-anchor="middle" font-size="24" fill="#202124">약국·병원·응급실 한 번에</text>
+<rect x="620" y="350" width="480" height="170" rx="20" fill="#e8f0fe"/>
+<text x="860" y="415" text-anchor="middle" font-size="32" font-weight="700" fill="#1a73e8">휴일지킴이약국</text>
+<text x="860" y="465" text-anchor="middle" font-size="24" fill="#202124">공휴일 문 여는 약국만</text>
+<text x="600" y="580" text-anchor="middle" font-size="26" fill="#202124">전화로는 129 · 119 · 출발 전 약국에 전화 한 통</text>
+</svg>
