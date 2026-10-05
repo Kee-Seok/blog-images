@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="sans-serif">
+<rect width="1200" height="560" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">기초연금은 신청한 달부터 나와요</text>
+<g font-size="24" text-anchor="middle">
+<rect x="60" y="130" width="250" height="150" rx="16" fill="#f1f3f4"/><text x="185" y="195" fill="#5f6368">65세 된 달</text><text x="185" y="240" font-weight="700" fill="#b06000">신청 안 함 → 0원</text>
+<rect x="340" y="130" width="250" height="150" rx="16" fill="#f1f3f4"/><text x="465" y="195" fill="#5f6368">다음 달</text><text x="465" y="240" font-weight="700" fill="#b06000">신청 안 함 → 0원</text>
+<rect x="620" y="130" width="250" height="150" rx="16" fill="#e8f0fe"/><text x="745" y="195" fill="#1a73e8">신청한 달</text><text x="745" y="240" font-weight="700" fill="#1a73e8">여기서부터 지급</text>
+<rect x="900" y="130" width="250" height="150" rx="16" fill="#e8f0fe"/><text x="1025" y="195" fill="#1a73e8">그다음 달</text><text x="1025" y="240" font-weight="700" fill="#1a73e8">계속 지급</text>
+</g>
+<text x="600" y="350" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">지난 달 몫은 몰아서 주지 않아요 — 한 달 최대 34만9,700원</text>
+<text x="600" y="420" text-anchor="middle" font-size="24" fill="#202124">1961년생: 생일이 있는 달의 한 달 전부터 신청</text>
+<text x="600" y="465" text-anchor="middle" font-size="24" fill="#202124">행정복지센터 · 국민연금공단 지사 · 복지로 · 신분증과 통장 사본</text>
+<text x="600" y="530" text-anchor="middle" font-size="20" fill="#80868b">보건복지부 2026년 기초연금 기준 정리</text>
+</svg>
