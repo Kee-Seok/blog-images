@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">응급실 본인부담 90%, 어디서 붙나</text>
+<text x="400" y="74" text-anchor="middle" font-size="15" fill="#5f6368">2024년 9월 13일 시행 · 보건복지부 브리핑 설명 기준</text>
+<rect x="30" y="100" width="240" height="250" rx="12" fill="#fce8e6" stroke="#d93025"/>
+<text x="150" y="138" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">권역응급의료센터</text>
+<text x="150" y="180" text-anchor="middle" font-size="16" fill="#202124">경증(4단계)·비응급(5단계)</text>
+<text x="150" y="204" text-anchor="middle" font-size="16" fill="#202124">둘 다 90%</text>
+<text x="150" y="260" text-anchor="middle" font-size="15" fill="#5f6368">평균 부담</text>
+<text x="150" y="292" text-anchor="middle" font-size="22" font-weight="700" fill="#d93025">13만 → 22만원</text>
+<rect x="280" y="100" width="240" height="250" rx="12" fill="#fef7e0" stroke="#e8710a"/>
+<text x="400" y="138" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">지역응급의료센터</text>
+<text x="400" y="180" text-anchor="middle" font-size="16" fill="#202124">비응급(5단계)만 90%</text>
+<text x="400" y="204" text-anchor="middle" font-size="16" fill="#202124">경증(4단계)은 그대로</text>
+<text x="400" y="260" text-anchor="middle" font-size="15" fill="#5f6368">평균 부담</text>
+<text x="400" y="292" text-anchor="middle" font-size="22" font-weight="700" fill="#b06000">6만 → 10만원</text>
+<rect x="530" y="100" width="240" height="250" rx="12" fill="#e6f4ea" stroke="#188038"/>
+<text x="650" y="138" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">지역응급의료기관</text>
+<text x="650" y="180" text-anchor="middle" font-size="16" fill="#202124">경증·비응급이어도</text>
+<text x="650" y="204" text-anchor="middle" font-size="16" fill="#202124">본인부담 변화 없음</text>
+<text x="650" y="282" text-anchor="middle" font-size="22" font-weight="700" fill="#188038">인상 없음</text>
+<text x="400" y="395" text-anchor="middle" font-size="14" fill="#80868b">1~3단계(응급·긴급·중증)는 어느 곳이든 90%가 붙지 않습니다</text>
+</svg>
