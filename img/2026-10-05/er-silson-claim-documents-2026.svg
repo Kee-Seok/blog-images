@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" font-family="sans-serif">
+<rect width="1200" height="630" fill="#ffffff"/>
+<text x="600" y="85" text-anchor="middle" font-size="44" font-weight="700" fill="#202124">응급실 실손보험 청구 서류</text>
+<text x="600" y="140" text-anchor="middle" font-size="26" fill="#5f6368">2026년 10월 5일 기준</text>
+<rect x="80" y="190" width="480" height="290" rx="20" fill="#e8f0fe"/>
+<text x="320" y="250" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">종이로 낼 때 2장</text>
+<text x="320" y="330" text-anchor="middle" font-size="30" fill="#202124">① 진료비 영수증</text>
+<text x="320" y="390" text-anchor="middle" font-size="30" fill="#202124">② 진료비 세부산정내역서</text>
+<text x="320" y="445" text-anchor="middle" font-size="22" fill="#5f6368">원무과에 따로 말해야 줘요</text>
+<rect x="640" y="190" width="480" height="290" rx="20" fill="#f1f3f4"/>
+<text x="880" y="250" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">실손24 연결 병원</text>
+<text x="880" y="330" text-anchor="middle" font-size="30" fill="#202124">서류 없이 앱에서</text>
+<text x="880" y="390" text-anchor="middle" font-size="30" fill="#202124">병원 → 보험사 전송</text>
+<text x="880" y="445" text-anchor="middle" font-size="22" fill="#5f6368">2025.10.25부터 의원·약국까지</text>
+<text x="600" y="560" text-anchor="middle" font-size="26" fill="#202124">경증 22만원 영수증 → 4세대 약 17만6천원 · 5세대 약 2만2천원</text>
+<text x="600" y="605" text-anchor="middle" font-size="20" fill="#80868b">보험개발원 실손24 · 보건복지부 2024.9 브리핑 · 금융위원회 5세대 실손 자료 정리</text>
+</svg>
