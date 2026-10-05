@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="1200" height="620" font-family="sans-serif">
+<rect width="1200" height="620" fill="#ffffff"/>
+<text x="600" y="72" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">출생연도별 독감 무료접종 시작일 (2026~2027절기)</text>
+<line x1="120" y1="200" x2="1080" y2="200" stroke="#dadce0" stroke-width="8" stroke-linecap="round"/>
+<g text-anchor="middle">
+<circle cx="220" cy="200" r="26" fill="#0B7A75"/><text x="220" y="140" font-size="34" font-weight="700" fill="#0B7A75">10월 6일 (화)</text>
+<rect x="80" y="260" width="280" height="190" rx="18" fill="#e6f4f2"/><text x="220" y="320" font-size="30" font-weight="700" fill="#202124">75세 이상</text><text x="220" y="370" font-size="26" fill="#202124">1951년 이전 출생</text><text x="220" y="415" font-size="22" fill="#5f6368">코로나19는 12일부터</text>
+<circle cx="600" cy="200" r="26" fill="#0B7A75"/><text x="600" y="140" font-size="34" font-weight="700" fill="#0B7A75">10월 12일 (월)</text>
+<rect x="460" y="260" width="280" height="190" rx="18" fill="#e6f4f2"/><text x="600" y="320" font-size="30" font-weight="700" fill="#202124">70~74세</text><text x="600" y="370" font-size="26" fill="#202124">1952~1956년 출생</text><text x="600" y="415" font-size="22" fill="#5f6368">코로나19 같은 날</text>
+<circle cx="980" cy="200" r="26" fill="#e8710a"/><text x="980" y="140" font-size="34" font-weight="700" fill="#e8710a">10월 15일 (목)</text>
+<rect x="840" y="260" width="280" height="190" rx="18" fill="#fff3e6"/><text x="980" y="320" font-size="30" font-weight="700" fill="#202124">65~69세</text><text x="980" y="370" font-size="26" fill="#202124">1957~1961년 출생</text><text x="980" y="415" font-size="22" fill="#5f6368">코로나19 같은 날</text>
+</g>
+<text x="600" y="520" text-anchor="middle" font-size="26" fill="#202124">고위험군은 나이와 상관없이 독감 10월 6일부터 (의사 상담 후)</text>
+<text x="600" y="585" text-anchor="middle" font-size="20" fill="#80868b">질병관리청 발표(정책브리핑 2026.10.2) 정리</text>
+</svg>
