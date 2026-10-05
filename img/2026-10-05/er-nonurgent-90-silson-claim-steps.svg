@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">응급실 비응급 90% 냈을 때 실손 청구 순서</text>
+<text x="400" y="76" text-anchor="middle" font-size="15" fill="#5f6368">2026년 10월 기준 · 보건복지부·금융위원회·보험개발원 안내 정리</text>
+<rect x="30" y="110" width="230" height="220" rx="14" fill="#e8f0fe" stroke="#1a73e8"/>
+<text x="145" y="150" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">1</text>
+<text x="145" y="190" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">영수증 확인</text>
+<text x="145" y="225" text-anchor="middle" font-size="15" fill="#202124">본인부담 90% 인지</text>
+<text x="145" y="250" text-anchor="middle" font-size="15" fill="#202124">세부산정내역서 함께</text>
+<text x="272" y="225" font-size="30" fill="#5f6368">›</text>
+<rect x="285" y="110" width="230" height="220" rx="14" fill="#e8f0fe" stroke="#1a73e8"/>
+<text x="400" y="150" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">2</text>
+<text x="400" y="190" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">실손 세대 확인</text>
+<text x="400" y="225" text-anchor="middle" font-size="15" fill="#202124">2026년 5월 6일 이후</text>
+<text x="400" y="250" text-anchor="middle" font-size="15" fill="#202124">가입이면 5세대</text>
+<text x="527" y="225" font-size="30" fill="#5f6368">›</text>
+<rect x="540" y="110" width="230" height="220" rx="14" fill="#e6f4ea" stroke="#188038"/>
+<text x="655" y="150" text-anchor="middle" font-size="30" font-weight="700" fill="#188038">3</text>
+<text x="655" y="190" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">청구</text>
+<text x="655" y="225" text-anchor="middle" font-size="15" fill="#202124">실손24 연결 병원은</text>
+<text x="655" y="250" text-anchor="middle" font-size="15" fill="#202124">서류 없이 바로</text>
+<text x="400" y="380" text-anchor="middle" font-size="16" fill="#5f6368">90%를 냈어도 청구는 됩니다 — 돌려받는 금액이 세대마다 다를 뿐</text>
+</svg>
