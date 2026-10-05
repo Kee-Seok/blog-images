@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" font-family="sans-serif">
+<rect width="1200" height="600" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">2027년 4월 기초연금 정부안 (혼자 받을 때 월)</text>
+<text x="600" y="115" text-anchor="middle" font-size="24" fill="#5f6368">지금은 소득과 상관없이 최대 34만9,700원</text>
+<g font-size="26" fill="#202124">
+<text x="80" y="210">소득 하위 30%</text><rect x="330" y="180" width="760" height="44" rx="8" fill="#1a73e8"/><text x="1080" y="212" text-anchor="end" font-weight="700" fill="#ffffff">38만원</text>
+<text x="80" y="300">하위 30~45%</text><rect x="330" y="270" width="718" height="44" rx="8" fill="#4a8ff0"/><text x="1038" y="302" text-anchor="end" font-weight="700" fill="#ffffff">35만9,000원</text>
+<text x="80" y="390">하위 45~70%</text><rect x="330" y="360" width="700" height="44" rx="8" fill="#8ab4f8"/><text x="1020" y="392" text-anchor="end" font-weight="700" fill="#202124">35만원</text>
+</g>
+<text x="600" y="480" text-anchor="middle" font-size="26" fill="#202124">하위 45% 부부 감액 20% → 10% · 받는 범위(노인 70%)는 그대로</text>
+<text x="600" y="540" text-anchor="middle" font-size="22" fill="#b06000">국회 심사 전 정부안 — 금액은 바뀔 수 있어요</text>
+<text x="600" y="580" text-anchor="middle" font-size="20" fill="#80868b">보건복지부 2027년 예산안 발표(2026.9.1) 정리</text>
+</svg>
