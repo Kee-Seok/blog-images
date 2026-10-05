@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" font-family="sans-serif">
+<rect width="1200" height="560" fill="#ffffff"/>
+<text x="600" y="72" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">무료접종 병원 가기 전 확인할 것</text>
+<g text-anchor="middle">
+<rect x="60" y="130" width="340" height="300" rx="20" fill="#f1f3f4"/>
+<text x="230" y="200" font-size="30" font-weight="700" fill="#0B7A75">어디서</text>
+<text x="230" y="260" font-size="26" fill="#202124">위탁의료기관·보건소</text>
+<text x="230" y="305" font-size="26" fill="#202124">전국 약 2만3천 곳</text>
+<text x="230" y="370" font-size="24" font-weight="700" fill="#e8710a">주소지 상관없음</text>
+<rect x="430" y="130" width="340" height="300" rx="20" fill="#f1f3f4"/>
+<text x="600" y="200" font-size="30" font-weight="700" fill="#0B7A75">무엇을</text>
+<text x="600" y="260" font-size="26" fill="#202124">신분증 하나</text>
+<text x="600" y="305" font-size="26" fill="#202124">나이 확인용</text>
+<text x="600" y="370" font-size="24" font-weight="700" fill="#e8710a">유료 접종만 하는 곳 주의</text>
+<rect x="800" y="130" width="340" height="300" rx="20" fill="#f1f3f4"/>
+<text x="970" y="200" font-size="30" font-weight="700" fill="#0B7A75">맞은 뒤</text>
+<text x="970" y="260" font-size="26" fill="#202124">그 자리에서</text>
+<text x="970" y="305" font-size="26" fill="#202124">20~30분 쉬기</text>
+<text x="970" y="370" font-size="24" font-weight="700" fill="#e8710a">이상반응 보고 귀가</text>
+</g>
+<text x="600" y="500" text-anchor="middle" font-size="22" fill="#80868b">위탁의료기관 찾기: 질병관리청 예방접종도우미 · 정책브리핑 2026.10.2</text>
+</svg>
