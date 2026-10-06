@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="sans-serif">
+<rect width="900" height="520" fill="#ffffff"/>
+<text x="450" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">총급여 4,000만원 · 1년 카드 사용 1,800만원</text>
+<text x="450" y="85" text-anchor="middle" font-size="19" fill="#5f6368">최저사용금액(총급여 25%) 1,000만원을 넘은 800만원이 어디서 결제됐나</text>
+<line x1="90" y1="430" x2="840" y2="430" stroke="#9aa0a6" stroke-width="2"/>
+<rect x="170" y="310" width="200" height="120" fill="#9aa0a6" rx="6"/>
+<text x="270" y="295" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">공제 120만원</text>
+<text x="270" y="470" text-anchor="middle" font-size="21" fill="#202124">전부 신용카드</text>
+<text x="270" y="498" text-anchor="middle" font-size="17" fill="#5f6368">800만원 × 15%</text>
+<rect x="530" y="190" width="200" height="240" fill="#1a73e8" rx="6"/>
+<text x="630" y="175" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">공제 240만원</text>
+<text x="630" y="470" text-anchor="middle" font-size="21" fill="#202124">신용 1,000 + 체크 800</text>
+<text x="630" y="498" text-anchor="middle" font-size="17" fill="#5f6368">800만원 × 30%</text>
+<text x="450" y="140" text-anchor="middle" font-size="20" fill="#b06000" font-weight="700">세율 15% 구간이면 줄어드는 세금 19만8천원 → 39만6천원 (지방소득세 포함)</text>
+</svg>
