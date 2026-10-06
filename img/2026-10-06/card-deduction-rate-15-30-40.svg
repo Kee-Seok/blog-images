@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="sans-serif">
+<rect width="900" height="460" fill="#ffffff"/>
+<text x="450" y="48" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">문턱을 넘은 돈, 어디로 내느냐에 따른 공제율</text>
+<line x1="100" y1="390" x2="820" y2="390" stroke="#9aa0a6" stroke-width="2"/>
+<rect x="140" y="300" width="160" height="90" fill="#9aa0a6" rx="6"/>
+<text x="220" y="285" text-anchor="middle" font-size="34" font-weight="700" fill="#202124">15%</text>
+<text x="220" y="425" text-anchor="middle" font-size="20" fill="#202124">신용카드</text>
+<rect x="370" y="210" width="160" height="180" fill="#1a73e8" rx="6"/>
+<text x="450" y="195" text-anchor="middle" font-size="34" font-weight="700" fill="#1a73e8">30%</text>
+<text x="450" y="425" text-anchor="middle" font-size="20" fill="#202124">체크카드·현금영수증</text>
+<rect x="600" y="150" width="160" height="240" fill="#e8710a" rx="6"/>
+<text x="680" y="135" text-anchor="middle" font-size="34" font-weight="700" fill="#e8710a">40%</text>
+<text x="680" y="425" text-anchor="middle" font-size="20" fill="#202124">전통시장·대중교통</text>
+</svg>
