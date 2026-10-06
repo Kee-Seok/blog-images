@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" font-family="sans-serif">
+<rect width="900" height="500" fill="#ffffff"/>
+<text x="450" y="48" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">총급여 3,600만원 · 문턱 900만원 · 1년 1,600만원</text>
+<text x="60" y="120" font-size="21" font-weight="700" fill="#202124">A  상반기 체크 → 하반기 신용</text>
+<rect x="60" y="138" width="306" height="56" fill="#1a73e8" rx="4"/>
+<text x="213" y="173" text-anchor="middle" font-size="19" fill="#ffffff" font-weight="700">1~6월 체크 700만원</text>
+<rect x="370" y="138" width="394" height="56" fill="#9aa0a6" rx="4"/>
+<text x="567" y="173" text-anchor="middle" font-size="19" fill="#202124" font-weight="700">7~12월 신용 900만원</text>
+<text x="60" y="270" font-size="21" font-weight="700" fill="#202124">B  상반기 신용 → 하반기 체크</text>
+<rect x="60" y="288" width="394" height="56" fill="#9aa0a6" rx="4"/>
+<text x="257" y="323" text-anchor="middle" font-size="19" fill="#202124" font-weight="700">1~6월 신용 900만원</text>
+<rect x="458" y="288" width="306" height="56" fill="#1a73e8" rx="4"/>
+<text x="611" y="323" text-anchor="middle" font-size="19" fill="#ffffff" font-weight="700">7~12월 체크 700만원</text>
+<rect x="150" y="390" width="600" height="70" rx="12" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="450" y="434" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">둘 다 공제 210만원 (체크 700만원 × 30%)</text>
+</svg>
