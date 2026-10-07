@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" font-family="sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="500" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">친환경 보일러 보조금, 어떻게 바뀌었나</text>
+<line x1="90" y1="250" x2="910" y2="250" stroke="#9aa0a6" stroke-width="4"/>
+<circle cx="170" cy="250" r="16" fill="#1a73e8"/><circle cx="500" cy="250" r="16" fill="#1a73e8"/><circle cx="830" cy="250" r="16" fill="#e8710a"/>
+<text x="170" y="130" text-anchor="middle" font-size="26" font-weight="700" fill="#1a73e8">2020년 4월 3일</text>
+<text x="170" y="170" text-anchor="middle" font-size="21" fill="#202124">대기관리권역법 시행</text>
+<text x="170" y="200" text-anchor="middle" font-size="21" fill="#202124">친환경 보일러 설치 의무</text>
+<text x="500" y="130" text-anchor="middle" font-size="26" font-weight="700" fill="#1a73e8">2025년까지</text>
+<text x="500" y="170" text-anchor="middle" font-size="21" fill="#202124">저소득층 1대당 60만원</text>
+<text x="500" y="200" text-anchor="middle" font-size="21" fill="#202124">(서울시 2025년 3,310대)</text>
+<text x="830" y="130" text-anchor="middle" font-size="26" font-weight="700" fill="#e8710a">2026년</text>
+<text x="830" y="170" text-anchor="middle" font-size="21" fill="#202124">국비 지원 종료</text>
+<text x="830" y="200" text-anchor="middle" font-size="21" fill="#202124">구리시 등 사업 중지</text>
+<rect x="590" y="300" width="380" height="150" rx="16" fill="#fff4e5" stroke="#f5c27a"/>
+<text x="780" y="340" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">그래도 남은 곳</text>
+<text x="780" y="378" text-anchor="middle" font-size="20" fill="#202124">동작구: 구 예산 6,000만원</text>
+<text x="780" y="408" text-anchor="middle" font-size="20" fill="#202124">100대 × 1대당 60만원, 선착순</text>
+<text x="500" y="495" text-anchor="middle" font-size="17" fill="#80868b">자료: 구리시청 사업안내(2026.9.21 수정), 서울시 미디어허브(2025.1.17), 시정일보(2026.6.30)</text>
+</svg>
