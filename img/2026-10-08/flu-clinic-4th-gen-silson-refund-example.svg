@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" font-family="sans-serif"><rect width="900" height="560" fill="#fff"/>
+<text x="450" y="50" font-size="28" font-weight="700" text-anchor="middle" fill="#202124">4세대 실손, 의원 영수증 7만원이면 얼마 돌려받나</text>
+<text x="450" y="84" font-size="18" text-anchor="middle" fill="#5f6368">가정: 급여 본인부담 2만원 + 비급여 5만원 · 비급여 특약 가입 · 금융위원회 4세대 기준</text>
+<text x="60" y="150" font-size="22" font-weight="700" fill="#202124">급여 2만원</text>
+<rect x="60" y="165" width="400" height="56" fill="#dadce0"/><rect x="60" y="165" width="200" height="56" fill="#f28b82"/><rect x="260" y="165" width="200" height="56" fill="#81c995"/>
+<text x="160" y="201" font-size="19" text-anchor="middle" fill="#202124">공제 1만원</text><text x="360" y="201" font-size="19" text-anchor="middle" fill="#202124">받는 돈 1만원</text>
+<text x="480" y="190" font-size="17" fill="#5f6368">20%(4천원)보다 최소 공제</text><text x="480" y="213" font-size="17" fill="#5f6368">1만원이 커서 1만원을 뗌</text>
+<text x="60" y="290" font-size="22" font-weight="700" fill="#202124">비급여 5만원</text>
+<rect x="60" y="305" width="400" height="56" fill="#dadce0"/><rect x="60" y="305" width="240" height="56" fill="#f28b82"/><rect x="300" y="305" width="160" height="56" fill="#81c995"/>
+<text x="180" y="341" font-size="19" text-anchor="middle" fill="#202124">공제 3만원</text><text x="380" y="341" font-size="19" text-anchor="middle" fill="#202124">받는 돈 2만원</text>
+<text x="480" y="330" font-size="17" fill="#5f6368">30%(1만5천원)보다 최소 공제</text><text x="480" y="353" font-size="17" fill="#5f6368">3만원이 커서 3만원을 뗌</text>
+<rect x="60" y="410" width="780" height="100" rx="14" fill="#e8f0fe"/>
+<text x="450" y="452" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">7만원 낸 영수증 → 돌려받는 돈 3만원</text>
+<text x="450" y="488" font-size="18" text-anchor="middle" fill="#5f6368">약국 약값은 따로 청구 · 5세대·옛 실손은 계산이 다름</text>
+</svg>
