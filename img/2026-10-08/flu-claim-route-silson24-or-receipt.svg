@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" font-family="sans-serif"><rect width="900" height="560" fill="#fff"/>
+<text x="450" y="50" font-size="28" font-weight="700" text-anchor="middle" fill="#202124">독감 진료 후 실비 청구, 어느 길로 갈까</text>
+<rect x="250" y="80" width="400" height="80" rx="14" fill="#fef7e0" stroke="#e8710a" stroke-width="2.5"/>
+<text x="450" y="115" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">다녀온 의원·약국이</text><text x="450" y="145" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">실손24에 연계돼 있나?</text>
+<text x="450" y="190" font-size="17" text-anchor="middle" fill="#5f6368">네이버지도·카카오맵에서 '실손24' 검색으로 확인</text>
+<path d="M330 205 L210 260" stroke="#9aa0a6" stroke-width="3"/><path d="M570 205 L690 260" stroke="#9aa0a6" stroke-width="3"/>
+<text x="230" y="228" font-size="20" font-weight="700" fill="#1a73e8">예</text><text x="650" y="228" font-size="20" font-weight="700" fill="#c5221f">아니요</text>
+<rect x="40" y="265" width="380" height="230" rx="14" fill="#e8f0fe"/>
+<text x="230" y="305" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">실손24 앱·웹에서 청구</text>
+<text x="230" y="345" font-size="19" text-anchor="middle" fill="#202124">서류는 병원이 보험사로</text><text x="230" y="372" font-size="19" text-anchor="middle" fill="#202124">전자 전송</text>
+<text x="230" y="415" font-size="18" text-anchor="middle" fill="#5f6368">앱에서 7단계를</text><text x="230" y="440" font-size="18" text-anchor="middle" fill="#5f6368">직접 거쳐야 청구 완료</text>
+<rect x="480" y="265" width="380" height="230" rx="14" fill="#fce8e6"/>
+<text x="670" y="305" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">보험사 앱에 서류 사진</text>
+<text x="670" y="345" font-size="19" text-anchor="middle" fill="#202124">진료비 영수증</text><text x="670" y="372" font-size="19" text-anchor="middle" fill="#202124">+ 비급여 있으면 세부내역서</text>
+<text x="670" y="415" font-size="18" text-anchor="middle" fill="#5f6368">약값은 약국 영수증 따로</text><text x="670" y="440" font-size="18" text-anchor="middle" fill="#5f6368">필요 서류는 보험사 안내 기준</text>
+<text x="450" y="535" font-size="17" text-anchor="middle" fill="#5f6368">실손24 대상: 의원·약국 96,719곳(2025년 10월 25일~) · 금융위원회</text>
+</svg>
