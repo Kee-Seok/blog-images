@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="380" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">클로드 사용량 초기화, 두 개의 시계</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="80" width="340" height="230" rx="16" fill="#e8f0fe"/>
+<text x="210" y="125" text-anchor="middle" font-weight="700" font-size="24">세션 한도</text>
+<text x="210" y="170" text-anchor="middle">5시간마다 초기화</text>
+<text x="210" y="210" text-anchor="middle" font-size="17">걸리면: 기다리거나</text>
+<text x="210" y="238" text-anchor="middle" font-size="17">리셋 뒤 자동 이어가기</text>
+<rect x="420" y="80" width="340" height="230" rx="16" fill="#fef7e0"/>
+<text x="590" y="125" text-anchor="middle" font-weight="700" font-size="24">주간 한도</text>
+<text x="590" y="170" text-anchor="middle">일주일마다 초기화</text>
+<text x="590" y="210" text-anchor="middle" font-size="17">모델을 바꿔도</text>
+<text x="590" y="238" text-anchor="middle" font-size="17">같은 한도를 나눠 쓴다</text>
+</g>
+<text x="400" y="350" text-anchor="middle" font-size="16" fill="#5f6368">claude.ai · Claude Code · 데스크톱 앱이 한 한도를 같이 씀 (Claude 고객센터, 2026년 10월 확인)</text>
+</svg>
