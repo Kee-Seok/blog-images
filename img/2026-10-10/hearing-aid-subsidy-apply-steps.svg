@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640"><rect width="1000" height="640" fill="#ffffff"/>
+<text x="40" y="58" font-family="sans-serif" font-size="30" font-weight="700" fill="#202124">보청기 지원금 신청 순서 — 사기 전에 1·2번부터</text>
+<circle cx="80" cy="130" r="32" fill="#e8551f"/><text x="80" y="141" font-family="sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#fff">1</text>
+<text x="135" y="123" font-family="sans-serif" font-size="26" font-weight="700" fill="#202124">청각장애 등록</text><text x="135" y="156" font-family="sans-serif" font-size="20" fill="#5f6368">이비인후과 청력 검사 → 주민센터 신청</text>
+<circle cx="80" cy="235" r="32" fill="#e8551f"/><text x="80" y="246" font-family="sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#fff">2</text>
+<text x="135" y="228" font-family="sans-serif" font-size="26" font-weight="700" fill="#202124">보장구 처방전</text><text x="135" y="261" font-family="sans-serif" font-size="20" fill="#5f6368">전문의 처방 (서류 ①)</text>
+<circle cx="80" cy="340" r="32" fill="#1546c8"/><text x="80" y="351" font-family="sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#fff">3</text>
+<text x="135" y="333" font-family="sans-serif" font-size="26" font-weight="700" fill="#202124">공단 등록업소에서 구입</text><text x="135" y="366" font-family="sans-serif" font-size="20" fill="#5f6368">세금계산서 받기 (서류 ③)</text>
+<circle cx="80" cy="445" r="32" fill="#1546c8"/><text x="80" y="456" font-family="sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#fff">4</text>
+<text x="135" y="438" font-family="sans-serif" font-size="26" font-weight="700" fill="#202124">처방 의사 검수</text><text x="135" y="471" font-family="sans-serif" font-size="20" fill="#5f6368">검수확인서 (서류 ②)</text>
+<circle cx="80" cy="550" r="32" fill="#1546c8"/><text x="80" y="561" font-family="sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="#fff">5</text>
+<text x="135" y="543" font-family="sans-serif" font-size="26" font-weight="700" fill="#202124">공단 지사에 청구</text><text x="135" y="576" font-family="sans-serif" font-size="20" fill="#5f6368">지급 청구서 + 서류 3가지 · 방문·우편·팩스</text>
+<text x="40" y="628" font-family="sans-serif" font-size="17" fill="#80868b">자료: 정부24 건강보험 장애인보조기기 처리 절차, 국민건강보험공단 안내 (2026년 10월 10일 확인)</text></svg>
