@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="sans-serif">
+<rect width="900" height="600" fill="#ffffff"/>
+<text x="450" y="48" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">검진대상 조회 순서 (공단 누리집)</text>
+<rect x="200" y="80" width="500" height="70" rx="12" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="450" y="112" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">① nhis.or.kr 접속</text>
+<text x="450" y="138" text-anchor="middle" font-size="16" fill="#5f6368">또는 The건강보험 앱 · 고객센터 1577-1000</text>
+<line x1="450" y1="150" x2="450" y2="185" stroke="#5f6368" stroke-width="3"/>
+<rect x="200" y="185" width="500" height="70" rx="12" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="450" y="217" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">② 건강모아 → 나의 건강 → 검진대상 조회</text>
+<text x="450" y="243" text-anchor="middle" font-size="16" fill="#5f6368">메뉴 이름은 2026년 10월 개편 기준</text>
+<line x1="450" y1="255" x2="450" y2="290" stroke="#5f6368" stroke-width="3"/>
+<rect x="200" y="290" width="500" height="70" rx="12" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="450" y="322" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">③ 간편인증 또는 공동인증서로 본인 확인</text>
+<text x="450" y="348" text-anchor="middle" font-size="16" fill="#5f6368">카카오·네이버·통신사 인증 등</text>
+<line x1="450" y1="360" x2="450" y2="395" stroke="#5f6368" stroke-width="3"/>
+<rect x="200" y="395" width="500" height="80" rx="12" fill="#fffaf0" stroke="#f5dfae"/>
+<text x="450" y="430" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">④ 올해 받을 검진 종류·기간 확인</text>
+<text x="450" y="458" text-anchor="middle" font-size="16" fill="#5f6368">일반검진 · 암검진, 기간은 12월 31일까지</text>
+<line x1="450" y1="475" x2="450" y2="510" stroke="#5f6368" stroke-width="3"/>
+<rect x="200" y="510" width="500" height="70" rx="12" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="450" y="542" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">⑤ [검진대상 확인서 출력]</text>
+<text x="450" y="566" text-anchor="middle" font-size="16" fill="#5f6368">검진표를 못 받았어도 이걸로 충분해요</text>
+</svg>
