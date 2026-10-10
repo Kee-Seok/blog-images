@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600"><rect width="1000" height="600" fill="#ffffff"/>
+<text x="40" y="58" font-family="sans-serif" font-size="30" font-weight="700" fill="#202124">돌아가신 분 본인부담상한제 환급금, 금액에 따라 서류가 달라요</text>
+<rect x="330" y="90" width="340" height="70" rx="14" fill="#0b7a75"/><text x="500" y="135" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#fff">환급 예정 금액은?</text>
+<line x1="420" y1="160" x2="230" y2="215" stroke="#5f6368" stroke-width="3"/><line x1="580" y1="160" x2="770" y2="215" stroke="#5f6368" stroke-width="3"/>
+<rect x="30" y="215" width="440" height="330" rx="14" fill="#f6f8fc" stroke="#1546c8" stroke-width="3"/>
+<rect x="30" y="215" width="440" height="62" rx="14" fill="#1546c8"/><text x="250" y="256" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#fff">100만원 이하</text>
+<text x="54" y="315" font-family="sans-serif" font-size="22" fill="#202124">· 지급신청서</text>
+<text x="54" y="355" font-family="sans-serif" font-size="22" fill="#202124">· 가족관계증명서(상세)</text>
+<text x="54" y="395" font-family="sans-serif" font-size="22" fill="#202124">· 동의서는 생략 가능</text>
+<text x="54" y="435" font-family="sans-serif" font-size="22" fill="#202124">  (대표를 정하면 제출)</text>
+<text x="54" y="475" font-family="sans-serif" font-size="22" fill="#202124">· 전화·팩스·우편·방문</text>
+<rect x="530" y="215" width="440" height="330" rx="14" fill="#f6f8fc" stroke="#b06000" stroke-width="3"/>
+<rect x="530" y="215" width="440" height="62" rx="14" fill="#b06000"/><text x="750" y="256" font-family="sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#fff">100만원 초과</text>
+<text x="554" y="315" font-family="sans-serif" font-size="22" fill="#202124">· 지급신청서</text>
+<text x="554" y="355" font-family="sans-serif" font-size="22" fill="#202124">· 가족관계증명서(상세)</text>
+<text x="554" y="395" font-family="sans-serif" font-size="22" fill="#202124">· 상속대표 선정 동의서</text>
+<text x="554" y="435" font-family="sans-serif" font-size="22" fill="#202124">· 팩스·우편·방문</text>
+<text x="554" y="475" font-family="sans-serif" font-size="22" fill="#202124">  (전화 신청은 안 됨)</text>
+<text x="40" y="585" font-family="sans-serif" font-size="17" fill="#80868b">가족관계증명서는 신청일 기준 3개월 안에 뗀 것 · 자료: 국민건강보험공단 본인부담상한제 안내 (2026년 10월 10일 확인)</text></svg>
