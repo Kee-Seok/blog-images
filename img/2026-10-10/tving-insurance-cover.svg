@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" font-family="sans-serif">
+<rect width="900" height="560" fill="#ffffff"/>
+<text x="450" y="46" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">티빙 안심보험, 돈이 나오는 경우와 안 나오는 경우</text>
+<text x="450" y="78" text-anchor="middle" font-size="16" fill="#5f6368">DB손해보험 단체보험 · 보장 2026.10.6 ~ 2027.10.5 · 한도 1인 300만원</text>
+<rect x="40" y="105" width="400" height="420" rx="14" fill="#e6f4ea" stroke="#a8dab5"/>
+<text x="240" y="145" text-anchor="middle" font-size="23" font-weight="700" fill="#137333">나와요 (실제 돈을 잃었을 때)</text>
+<text x="70" y="200" font-size="19" fill="#202124">· 피싱·해킹으로 계좌에서 돈이 빠져나감</text>
+<text x="70" y="245" font-size="19" fill="#202124">· 내 카드가 남에게 부당하게 쓰임</text>
+<text x="70" y="290" font-size="19" fill="#202124">· 인터넷 쇼핑몰 사기</text>
+<text x="70" y="335" font-size="19" fill="#202124">· 개인 간 직거래 사기</text>
+<text x="70" y="400" font-size="16" fill="#5f6368">손해액 = 경찰 조사·판결·금융거래 내역으로</text>
+<text x="70" y="425" font-size="16" fill="#5f6368">확인된 실제 손실</text>
+<rect x="460" y="105" width="400" height="420" rx="14" fill="#fce8e6" stroke="#f4b4ae"/>
+<text x="660" y="145" text-anchor="middle" font-size="23" font-weight="700" fill="#c5221f">안 나와요</text>
+<text x="490" y="200" font-size="19" fill="#202124">· 피싱 문자·전화를 받기만 함</text>
+<text x="490" y="245" font-size="19" fill="#202124">· 정보가 유출됐다는 사실만으로</text>
+<text x="490" y="290" font-size="19" fill="#202124">· 직접 만나서 한 거래의 사기</text>
+<text x="490" y="335" font-size="19" fill="#202124">· 은행 등에서 이미 돌려받은 금액</text>
+<text x="490" y="400" font-size="16" fill="#5f6368">출처: 티빙 보상 안내(2026.10.10 확인),</text>
+<text x="490" y="425" font-size="16" fill="#5f6368">비즈워치 2026.9.12 약관 정리 기사</text>
+</svg>
