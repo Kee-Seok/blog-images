@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520"><rect width="1000" height="520" fill="#ffffff"/>
+<text x="40" y="58" font-family="sans-serif" font-size="30" font-weight="700" fill="#202124">보청기 지원금 금액 — 세 값 중 가장 낮은 것 × 90%</text>
+<text x="40" y="95" font-family="sans-serif" font-size="20" fill="#5f6368">기준액 131만원 · 제품 고시금액 · 실제 구입가 중 최저 · 단위 만 원</text>
+<text x="40" y="140" font-family="sans-serif" font-size="23" font-weight="700" fill="#202124">고시금액 131만원 이상 제품 (일반 90%)</text>
+<rect x="40" y="154" width="655.0" height="50" fill="#e8eaed"/><rect x="40" y="154" width="589.5" height="50" fill="#1e8e4e"/>
+<text x="641.5" y="188" font-family="sans-serif" font-size="24" font-weight="700" fill="#1e8e4e">117.9만 원 지원</text>
+<text x="40" y="255" font-family="sans-serif" font-size="23" font-weight="700" fill="#202124">80만원 제품 (일반 90%)</text>
+<rect x="40" y="269" width="400.0" height="50" fill="#e8eaed"/><rect x="40" y="269" width="360.0" height="50" fill="#1e8e4e"/>
+<text x="412.0" y="303" font-family="sans-serif" font-size="24" font-weight="700" fill="#1e8e4e">72만 원 지원</text>
+<text x="40" y="370" font-family="sans-serif" font-size="23" font-weight="700" fill="#202124">차상위 경감 대상 (100%)</text>
+<rect x="40" y="384" width="655.0" height="50" fill="#e8eaed"/><rect x="40" y="384" width="655.0" height="50" fill="#1e8e4e"/>
+<text x="707.0" y="418" font-family="sans-serif" font-size="24" font-weight="700" fill="#1e8e4e">131만 원 지원</text>
+<text x="40" y="505" font-family="sans-serif" font-size="17" fill="#80868b">자료: 국민건강보험법 시행규칙 별표 7, 국민건강보험공단 장애인보조기기 급여 안내</text></svg>
