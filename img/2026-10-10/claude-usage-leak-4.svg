@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">클로드 사용량이 새는 곳 4가지</text>
+<text x="400" y="80" text-anchor="middle" font-size="16" fill="#5f6368">Claude Code 공식 문서 '비용 관리' (2026년 10월 확인)</text>
+<g font-size="19" fill="#202124">
+<rect x="40" y="110" width="350" height="140" rx="14" fill="#e8f0fe"/><text x="60" y="150" font-weight="700">① 오래 열어 둔 대화</text><text x="60" y="185">질문 한 줄에도 앞 대화 전체를</text><text x="60" y="212">다시 보낸다 → /clear</text>
+<rect x="410" y="110" width="350" height="140" rx="14" fill="#fef7e0"/><text x="430" y="150" font-weight="700">② 1시간 넘게 쉬고 돌아옴</text><text x="430" y="185">저장(캐시)이 식어 전체를</text><text x="430" y="212">처음부터 다시 처리</text>
+<rect x="40" y="270" width="350" height="140" rx="14" fill="#fce8e6"/><text x="60" y="310" font-weight="700">③ 같은 세션의 반복 작업</text><text x="60" y="345">쉬는 중에도 돌 때마다</text><text x="60" y="372">대화 전체를 함께 보낸다</text>
+<rect x="410" y="270" width="350" height="140" rx="14" fill="#e6f4ea"/><text x="430" y="310" font-weight="700">④ 늘 켜 둔 도구·긴 메모</text><text x="430" y="345">CLAUDE.md 는 매번 읽힌다</text><text x="430" y="372">200줄 아래로, 안 쓰는 MCP 끄기</text>
+</g></svg>
