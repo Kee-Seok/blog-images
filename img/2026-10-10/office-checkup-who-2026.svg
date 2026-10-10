@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="sans-serif">
+<rect width="900" height="520" fill="#ffffff"/>
+<text x="450" y="48" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">2026년 일반건강검진, 나는 대상일까</text>
+<rect x="40" y="85" width="400" height="190" rx="14" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="240" y="125" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">비사무직 직장인</text>
+<text x="240" y="175" text-anchor="middle" font-size="40" font-weight="800" fill="#1a73e8">매년</text>
+<text x="240" y="220" text-anchor="middle" font-size="17" fill="#5f6368">출생연도와 상관없이</text>
+<text x="240" y="248" text-anchor="middle" font-size="17" fill="#5f6368">올해도 대상</text>
+<rect x="460" y="85" width="400" height="190" rx="14" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="660" y="125" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">사무직 직장인</text>
+<text x="660" y="175" text-anchor="middle" font-size="40" font-weight="800" fill="#1a73e8">2년마다</text>
+<text x="660" y="220" text-anchor="middle" font-size="17" fill="#5f6368">올해 대상인지는</text>
+<text x="660" y="248" text-anchor="middle" font-size="17" fill="#5f6368">회사 명단·조회로 확인</text>
+<rect x="40" y="300" width="820" height="90" rx="14" fill="#fffaf0" stroke="#f5dfae"/>
+<text x="450" y="337" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">피부양자·지역 세대원: 만 20세 이상 짝수년도 출생자</text>
+<text x="450" y="368" text-anchor="middle" font-size="17" fill="#5f6368">1986·1996·2000년생처럼 끝자리가 짝수면 올해</text>
+<rect x="40" y="410" width="820" height="80" rx="14" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="450" y="445" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">작년에 대상이었는데 못 받았다면 → 올해 추가 신청</text>
+<text x="450" y="473" text-anchor="middle" font-size="17" fill="#5f6368">신청 12월 31일까지 · 공단 누리집 검진신청 메뉴</text>
+</svg>
