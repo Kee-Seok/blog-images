@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="sans-serif">
+<rect width="900" height="520" fill="#ffffff"/>
+<text x="450" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">어느 이가 빠졌나 — 전통 해몽의 자리 풀이</text>
+<path d="M200 150 Q450 70 700 150" fill="none" stroke="#dadce0" stroke-width="40" stroke-linecap="round"/>
+<path d="M200 370 Q450 450 700 370" fill="none" stroke="#dadce0" stroke-width="40" stroke-linecap="round"/>
+<rect x="395" y="92" width="110" height="46" rx="12" fill="#fbbc04"/>
+<text x="450" y="123" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">윗 앞니</text>
+<rect x="395" y="382" width="110" height="46" rx="12" fill="#fbbc04"/>
+<text x="450" y="413" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">아래 앞니</text>
+<rect x="150" y="128" width="100" height="44" rx="12" fill="#a8c7fa"/>
+<text x="200" y="157" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">어금니</text>
+<rect x="650" y="348" width="100" height="44" rx="12" fill="#a8c7fa"/>
+<text x="700" y="377" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">어금니</text>
+<text x="450" y="200" text-anchor="middle" font-size="21" fill="#202124">윗니 = 부모·어른·윗사람</text>
+<text x="450" y="236" text-anchor="middle" font-size="21" fill="#202124">앞니 = 가까운 가족·형제</text>
+<text x="450" y="300" text-anchor="middle" font-size="21" fill="#202124">아랫니 = 자녀·동생·아랫사람</text>
+<text x="450" y="336" text-anchor="middle" font-size="21" fill="#202124">어금니 = 집안의 기둥·오래 함께한 사람</text>
+<text x="450" y="495" text-anchor="middle" font-size="16" fill="#5f6368">흔히 전해지는 풀이일 뿐, 실제 일을 예언하지 않아요</text>
+</svg>
