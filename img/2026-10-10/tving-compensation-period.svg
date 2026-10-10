@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="sans-serif">
+<rect width="900" height="470" fill="#ffffff"/>
+<text x="450" y="46" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">티빙 보상 신청 기간과 지급 날짜</text>
+<line x1="80" y1="190" x2="820" y2="190" stroke="#5f6368" stroke-width="4"/>
+<circle cx="120" cy="190" r="14" fill="#1a73e8"/><circle cx="330" cy="190" r="14" fill="#1a73e8"/><circle cx="560" cy="190" r="14" fill="#c5221f"/><circle cx="780" cy="190" r="14" fill="#137333"/>
+<text x="120" y="140" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">9월 7일~30일</text>
+<text x="120" y="240" text-anchor="middle" font-size="17" fill="#5f6368">1차 신청</text>
+<text x="330" y="140" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">10월 6일</text>
+<text x="330" y="240" text-anchor="middle" font-size="17" fill="#5f6368">연장 신청 시작</text>
+<text x="330" y="265" text-anchor="middle" font-size="17" fill="#5f6368">1차 신청분 지급 시작</text>
+<text x="330" y="290" text-anchor="middle" font-size="17" fill="#5f6368">보험 보장 시작</text>
+<text x="560" y="140" text-anchor="middle" font-size="21" font-weight="700" fill="#c5221f">10월 30일 23:59</text>
+<text x="560" y="240" text-anchor="middle" font-size="17" fill="#5f6368">연장 신청 마감</text>
+<text x="560" y="265" text-anchor="middle" font-size="17" fill="#5f6368">연락처 변경도 이날까지</text>
+<text x="780" y="140" text-anchor="middle" font-size="21" font-weight="700" fill="#137333">11월 4일</text>
+<text x="780" y="240" text-anchor="middle" font-size="17" fill="#5f6368">연장 신청분 지급</text>
+<rect x="80" y="335" width="740" height="95" rx="12" fill="#fffaf0" stroke="#f5dfae"/>
+<text x="450" y="372" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">연장 기간엔 보상 4가지 중 여러 개를 같이 고를 수 있어요</text>
+<text x="450" y="405" text-anchor="middle" font-size="16" fill="#5f6368">CGV 쿠폰은 연장 기간에 없음 · 신청 뒤 취소·변경 불가 (티빙 공지, 2026.10.10 확인)</text>
+</svg>
