@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" font-family="sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="500" y="50" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">형제 중 누가 요양원 비용을 공제받나</text>
+<rect x="250" y="80" width="500" height="80" rx="14" fill="#e8f0fe"/>
+<text x="500" y="130" text-anchor="middle" font-size="24" fill="#202124">요양원비를 실제로 낸 사람이 나인가?</text>
+<line x1="380" y1="160" x2="230" y2="230" stroke="#5f6368" stroke-width="3"/><line x1="620" y1="160" x2="770" y2="230" stroke="#5f6368" stroke-width="3"/>
+<text x="270" y="200" font-size="20" fill="#5f6368">예</text><text x="700" y="200" font-size="20" fill="#5f6368">아니오</text>
+<rect x="40" y="230" width="400" height="100" rx="14" fill="#f1f3f4"/>
+<text x="240" y="272" text-anchor="middle" font-size="22" fill="#202124">다른 형제가 부모님을</text><text x="240" y="306" text-anchor="middle" font-size="22" fill="#202124">기본공제로 올렸나?</text>
+<rect x="560" y="230" width="400" height="100" rx="14" fill="#fdecea"/>
+<text x="760" y="288" text-anchor="middle" font-size="24" font-weight="700" fill="#c5221f">나는 공제 못 받아요</text>
+<line x1="160" y1="330" x2="120" y2="400" stroke="#5f6368" stroke-width="3"/><line x1="320" y1="330" x2="380" y2="400" stroke="#5f6368" stroke-width="3"/>
+<text x="95" y="372" font-size="20" fill="#5f6368">아니오</text><text x="360" y="372" font-size="20" fill="#5f6368">예</text>
+<rect x="20" y="400" width="260" height="90" rx="14" fill="#e6f4ea"/>
+<text x="150" y="440" text-anchor="middle" font-size="22" font-weight="700" fill="#137333">공제 가능</text><text x="150" y="472" text-anchor="middle" font-size="18" fill="#202124">부모님 소득·나이 무관</text>
+<rect x="300" y="400" width="300" height="90" rx="14" fill="#fdecea"/>
+<text x="450" y="440" text-anchor="middle" font-size="22" font-weight="700" fill="#c5221f">공제 불가</text><text x="450" y="472" text-anchor="middle" font-size="18" fill="#202124">기본공제 받은 형제 몫</text>
+</svg>
