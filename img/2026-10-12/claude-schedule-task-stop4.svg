@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">예약 작업이 안 돌거나 멈추는 4가지</text>
+<text x="400" y="76" text-anchor="middle" font-size="15" fill="#5f6368">①~③ 공식 문서 · ④ 이 블로그 예약 작업 10월 11일 실제 기록</text>
+<g font-size="18" fill="#202124">
+<rect x="40" y="100" width="350" height="140" rx="14" fill="#fce8e6"/><text x="60" y="140" font-weight="700">① 앱이 꺼져 있음</text><text x="60" y="175">앱이 열려 있을 때만</text><text x="60" y="202">매분 일정을 확인</text>
+<rect x="410" y="100" width="350" height="140" rx="14" fill="#fef7e0"/><text x="430" y="140" font-weight="700">② 컴퓨터가 잠듦</text><text x="430" y="175">그 시각은 건너뜀, 깨면</text><text x="430" y="202">가장 최근 1번만 따라잡기</text>
+<rect x="40" y="260" width="350" height="140" rx="14" fill="#e8f0fe"/><text x="60" y="300" font-weight="700">③ 권한 묻는 창</text><text x="60" y="335">승인할 때까지 그대로</text><text x="60" y="362">멈춰 기다림</text>
+<rect x="410" y="260" width="350" height="140" rx="14" fill="#e6f4ea"/><text x="430" y="300" font-weight="700">④ 사이트 로그인 풀림</text><text x="430" y="335">비밀번호 화면에서 멈추고</text><text x="430" y="362">막힌 곳만 보고하게 지시</text>
+</g>
+<text x="400" y="440" text-anchor="middle" font-size="16" fill="#5f6368">잠들기 방지: Settings → This computer → System → Keep computer awake</text>
+</svg>
