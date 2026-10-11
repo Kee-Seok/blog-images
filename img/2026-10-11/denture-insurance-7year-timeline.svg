@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="sans-serif">
+<rect width="900" height="430" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">노인 틀니 건강보험, 장착한 날부터 7년</text>
+<text x="450" y="74" text-anchor="middle" font-size="16" fill="#5f6368">위턱·아래턱(1악)마다 따로 계산 · 국민건강보험공단 노인틀니 안내</text>
+<line x1="70" y1="190" x2="830" y2="190" stroke="#dadce0" stroke-width="8" stroke-linecap="round"/>
+<circle cx="90" cy="190" r="16" fill="#e8551f"/>
+<circle cx="250" cy="190" r="16" fill="#1a73e8"/>
+<circle cx="520" cy="190" r="16" fill="#1e8e4e"/>
+<circle cx="810" cy="190" r="16" fill="#e8551f"/>
+<text x="90" y="150" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">장착</text>
+<text x="250" y="150" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">3개월</text>
+<text x="520" y="150" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">1년 ~ 7년</text>
+<text x="810" y="150" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">7년 뒤</text>
+<rect x="40" y="235" width="250" height="150" rx="12" fill="#e8f0fe"/>
+<text x="165" y="270" text-anchor="middle" font-size="17" font-weight="700" fill="#1a73e8">무상 점검</text>
+<text x="165" y="302" text-anchor="middle" font-size="16" fill="#202124">장착 후 3개월 안</text>
+<text x="165" y="328" text-anchor="middle" font-size="16" fill="#202124">최대 6회</text>
+<text x="165" y="354" text-anchor="middle" font-size="16" fill="#202124">진찰료만 냄</text>
+<rect x="315" y="235" width="380" height="150" rx="12" fill="#e6f4ea"/>
+<text x="505" y="270" text-anchor="middle" font-size="17" font-weight="700" fill="#1e8e4e">유지관리 (본인 30%)</text>
+<text x="505" y="302" text-anchor="middle" font-size="16" fill="#202124">수리·조정 연 2회 · 첨상 연 1회</text>
+<text x="505" y="328" text-anchor="middle" font-size="16" fill="#202124">잃어버리거나 부주의로 깨져서</text>
+<text x="505" y="354" text-anchor="middle" font-size="16" font-weight="700" fill="#c5221f">새로 만들면 전액 본인 부담</text>
+<rect x="715" y="235" width="160" height="150" rx="12" fill="#fde7dd"/>
+<text x="795" y="270" text-anchor="middle" font-size="17" font-weight="700" fill="#e8551f">다시 보험</text>
+<text x="795" y="302" text-anchor="middle" font-size="16" fill="#202124">같은 쪽 틀니</text>
+<text x="795" y="328" text-anchor="middle" font-size="16" fill="#202124">새로 30%로</text>
+<text x="795" y="354" text-anchor="middle" font-size="16" fill="#202124">제작 가능</text>
+</svg>
