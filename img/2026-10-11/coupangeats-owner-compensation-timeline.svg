@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">쿠팡이츠 사장님 보상금, 언제 무엇이</text>
+<line x1="100" y1="200" x2="700" y2="200" stroke="#dadce0" stroke-width="6"/>
+<g font-size="20" text-anchor="middle">
+<circle cx="130" cy="200" r="18" fill="#d93025"/><text x="130" y="150" font-weight="700" fill="#d93025">10월 9일</text><text x="130" y="250" fill="#202124">0시 30분~2시 31분</text><text x="130" y="278" fill="#202124">장애로 주문 취소</text>
+<circle cx="400" cy="200" r="18" fill="#1a73e8"/><text x="400" y="150" font-weight="700" fill="#1a73e8">10월 11일</text><text x="400" y="250" fill="#202124">보상안 발표</text><text x="400" y="278" fill="#202124">신청·증빙 없음</text>
+<circle cx="670" cy="200" r="18" fill="#188038"/><text x="670" y="150" font-weight="700" fill="#188038">10월 16일까지</text><text x="670" y="250" fill="#202124">정산금 100% 일괄 지급</text><text x="670" y="278" fill="#202124">광고비 부과 안 함</text>
+</g>
+<rect x="100" y="320" width="600" height="70" rx="12" fill="#fef7e0" stroke="#f9ab00"/>
+<text x="400" y="352" text-anchor="middle" font-size="19" fill="#202124">정산된 돈은 사장님 포털 '정산관리'에서</text>
+<text x="400" y="378" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">출금하기를 눌러야 통장으로 옮겨져요</text>
+</svg>
