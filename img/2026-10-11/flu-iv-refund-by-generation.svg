@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" font-family="sans-serif">
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="500" y="50" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">독감 수액 비급여 15만원, 실손 가입 시기별 돌려받는 돈</text>
+<g font-size="23" fill="#202124">
+<rect x="50" y="85" width="900" height="82" rx="14" fill="#f1f3f4"/>
+<text x="80" y="122">2017년 3월 이전 가입 (1·2세대)</text><text x="80" y="152" font-size="19" fill="#5f6368">비급여 주사도 기본 보장 · 약관의 통원 공제만 빠짐</text><text x="920" y="138" text-anchor="end" font-weight="700">약관 확인</text>
+<rect x="50" y="180" width="900" height="82" rx="14" fill="#e6f4ea"/>
+<text x="80" y="217">2017년 4월~2021년 6월 (3세대) 특약 있음</text><text x="80" y="247" font-size="19" fill="#5f6368">15만원 × 30% = 4만5천원 빼고</text><text x="920" y="233" text-anchor="end" font-weight="700">105,000원</text>
+<rect x="50" y="275" width="900" height="82" rx="14" fill="#fdecea"/>
+<text x="80" y="312">3세대인데 비급여 주사 특약 없음</text><text x="80" y="342" font-size="19" fill="#5f6368">기본형은 비급여 주사를 보장하지 않음</text><text x="920" y="328" text-anchor="end" font-weight="700" fill="#c5221f">0원</text>
+<rect x="50" y="370" width="900" height="82" rx="14" fill="#e6f4ea"/>
+<text x="80" y="407">2021년 7월~2026년 5월 5일 (4세대)</text><text x="80" y="437" font-size="19" fill="#5f6368">30%(4만5천원)와 3만원 중 큰 금액 빼고</text><text x="920" y="423" text-anchor="end" font-weight="700">105,000원</text>
+<rect x="50" y="465" width="900" height="82" rx="14" fill="#fef7e0"/>
+<text x="80" y="502">2026년 5월 6일 이후 (5세대)</text><text x="80" y="532" font-size="19" fill="#5f6368">비중증 비급여 자기부담 50% (보도 기준)</text><text x="920" y="518" text-anchor="end" font-weight="700">75,000원</text>
+</g>
+<text x="500" y="582" text-anchor="middle" font-size="18" fill="#5f6368">치료 목적으로 인정된 경우 · 금융위원회 2021.6.29 보도자료, 2016.12 실손 개선안 보도 기준</text>
+</svg>
