@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="sans-serif">
+<rect width="900" height="600" fill="#ffffff"/>
+<text x="450" y="48" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">65세 독감 무료접종 병원 찾기 순서</text>
+<rect x="190" y="80" width="520" height="70" rx="12" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="450" y="112" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">① 예방접종도우미(nip.kdca.go.kr)</text>
+<text x="450" y="138" text-anchor="middle" font-size="16" fill="#5f6368">로그인 없이 바로 검색돼요</text>
+<line x1="450" y1="150" x2="450" y2="185" stroke="#5f6368" stroke-width="3"/>
+<rect x="190" y="185" width="520" height="70" rx="12" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="450" y="217" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">② 위탁의료기관 찾기 → [인플루엔자 예방접종]</text>
+<text x="450" y="243" text-anchor="middle" font-size="16" fill="#5f6368">위쪽 칸에서 '어르신(65세 이상)' 선택</text>
+<line x1="450" y1="255" x2="450" y2="290" stroke="#5f6368" stroke-width="3"/>
+<rect x="190" y="290" width="520" height="70" rx="12" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="450" y="322" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">③ 시/도 → 시/군/구 → 읍/면/동 고르고 검색</text>
+<text x="450" y="348" text-anchor="middle" font-size="16" fill="#5f6368">또는 '현재와 가까운 의료기관 지도 보기'</text>
+<line x1="450" y1="360" x2="450" y2="395" stroke="#5f6368" stroke-width="3"/>
+<rect x="190" y="395" width="520" height="80" rx="12" fill="#fffaf0" stroke="#f5dfae"/>
+<text x="450" y="430" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">④ 병원 이름·전화번호 확인 → 전화로 재고 묻기</text>
+<text x="450" y="458" text-anchor="middle" font-size="16" fill="#5f6368">병원마다 백신 보유 상황이 달라요</text>
+<line x1="450" y1="475" x2="450" y2="510" stroke="#5f6368" stroke-width="3"/>
+<rect x="190" y="510" width="520" height="70" rx="12" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="450" y="542" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">⑤ 같은 동네로 [코로나19 예방접종사업] 검색</text>
+<text x="450" y="566" text-anchor="middle" font-size="16" fill="#5f6368">두 목록에 다 있으면 한 번에 동시접종</text>
+</svg>
