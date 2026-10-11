@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" font-family="sans-serif">
+<rect width="900" height="440" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">틀니 값은 단계마다 나눠서 내요</text>
+<text x="450" y="74" text-anchor="middle" font-size="16" fill="#5f6368">단계별 비용 비율(%) · 국민건강보험공단 노인틀니 안내</text>
+<text x="40" y="128" font-size="18" font-weight="700" fill="#202124">레진상 완전틀니 (5단계)</text>
+<g font-size="16" font-weight="700" fill="#202124" text-anchor="middle">
+<rect x="40" y="142" width="123" height="64" fill="#fde7dd" stroke="#fff" stroke-width="3"/><text x="101" y="181">1단계 15%</text>
+<rect x="163" y="142" width="205" height="64" fill="#fbd0bd" stroke="#fff" stroke-width="3"/><text x="265" y="181">2단계 25%</text>
+<rect x="368" y="142" width="123" height="64" fill="#fde7dd" stroke="#fff" stroke-width="3"/><text x="429" y="181">3단계 15%</text>
+<rect x="491" y="142" width="164" height="64" fill="#fbd0bd" stroke="#fff" stroke-width="3"/><text x="573" y="181">4단계 20%</text>
+<rect x="655" y="142" width="205" height="64" fill="#fde7dd" stroke="#fff" stroke-width="3"/><text x="757" y="181">5단계 25%</text>
+</g>
+<text x="40" y="262" font-size="18" font-weight="700" fill="#202124">클라스프 부분틀니 (6단계)</text>
+<g font-size="15" font-weight="700" fill="#202124" text-anchor="middle">
+<rect x="40" y="276" width="98" height="64" fill="#e8f0fe" stroke="#fff" stroke-width="3"/><text x="89" y="314">1단계 12%</text>
+<rect x="138" y="276" width="115" height="64" fill="#d2e3fc" stroke="#fff" stroke-width="3"/><text x="195" y="314">2단계 14%</text>
+<rect x="253" y="276" width="246" height="64" fill="#e8f0fe" stroke="#fff" stroke-width="3"/><text x="376" y="314">3단계 30%</text>
+<rect x="499" y="276" width="74" height="64" fill="#d2e3fc" stroke="#fff" stroke-width="3"/><text x="536" y="314">4단계 9%</text>
+<rect x="573" y="276" width="66" height="64" fill="#e8f0fe" stroke="#fff" stroke-width="3"/><text x="606" y="314">5단계 8%</text>
+<rect x="639" y="276" width="221" height="64" fill="#d2e3fc" stroke="#fff" stroke-width="3"/><text x="749" y="314">6단계 27%</text>
+</g>
+<text x="450" y="390" text-anchor="middle" font-size="17" fill="#202124">1단계를 시작한 치과에서 끝까지 · 중간에 그만두면 진행한 단계까지 냄</text>
+</svg>
