@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" font-family="sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="500" y="50" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">같은 '독감 수액'인데 갈리는 곳</text>
+<rect x="50" y="90" width="430" height="330" rx="16" fill="#e6f4ea"/>
+<rect x="520" y="90" width="430" height="330" rx="16" fill="#fdecea"/>
+<g font-size="24" fill="#202124">
+<text x="265" y="140" text-anchor="middle" font-weight="700">항바이러스 주사</text>
+<text x="80" y="200">· 독감 치료제로 허가된 약</text>
+<text x="80" y="245">· 검사로 독감 확인 뒤 처방</text>
+<text x="80" y="290">· 세부내역서에 약 이름</text>
+<text x="265" y="380" text-anchor="middle" font-weight="700" fill="#137333">치료 목적으로 보기 쉬움</text>
+<text x="735" y="140" text-anchor="middle" font-weight="700">비타민·영양 수액</text>
+<text x="550" y="200">· 기운 회복용으로 추가</text>
+<text x="550" y="245">· 4세대: 허가사항대로</text>
+<text x="550" y="280">  투여됐을 때만 보장</text>
+<text x="735" y="380" text-anchor="middle" font-weight="700" fill="#c5221f">거절·추가 서류 요구 잦음</text>
+</g>
+<text x="500" y="470" text-anchor="middle" font-size="19" fill="#5f6368">4세대 기준 문구: 금융위원회 2021.6.29 "약사법령에 따른 허가·신고 사항대로 투여된 경우 보장"</text>
+</svg>
