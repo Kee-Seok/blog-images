@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="sans-serif">
+<rect width="900" height="520" fill="#ffffff"/>
+<text x="450" y="50" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">출생연도별 무료접종 시작일 (2026~2027절기)</text>
+<rect x="60" y="85" width="780" height="60" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="200" y="123" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">출생연도</text>
+<text x="480" y="123" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">독감</text>
+<text x="710" y="123" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">코로나19</text>
+<rect x="60" y="145" width="780" height="80" fill="#ffffff" stroke="#dadce0"/>
+<text x="200" y="193" text-anchor="middle" font-size="21" fill="#202124">1951년 이전 (75세 이상)</text>
+<text x="480" y="193" text-anchor="middle" font-size="21" fill="#202124">10월 6일(화)</text>
+<text x="710" y="193" text-anchor="middle" font-size="21" fill="#202124">10월 12일(월)</text>
+<rect x="60" y="225" width="780" height="80" fill="#ffffff" stroke="#dadce0"/>
+<text x="200" y="273" text-anchor="middle" font-size="21" fill="#202124">1952~1956년 (70~74세)</text>
+<text x="480" y="273" text-anchor="middle" font-size="21" fill="#202124">10월 12일(월)</text>
+<text x="710" y="273" text-anchor="middle" font-size="21" fill="#202124">10월 12일(월)</text>
+<rect x="60" y="305" width="780" height="80" fill="#fffaf0" stroke="#f5dfae"/>
+<text x="200" y="353" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">1957~1961년 (65~69세)</text>
+<text x="480" y="353" text-anchor="middle" font-size="21" font-weight="700" fill="#b06000">10월 15일(목)</text>
+<text x="710" y="353" text-anchor="middle" font-size="21" font-weight="700" fill="#b06000">10월 15일(목)</text>
+<text x="450" y="430" text-anchor="middle" font-size="18" fill="#5f6368">독감은 2027년 4월 30일까지, 코로나19는 2027년 6월 30일까지</text>
+<text x="450" y="465" text-anchor="middle" font-size="16" fill="#5f6368">주민등록상 출생연도 기준 · 질병관리청 예방접종도우미 (2026년 10월 11일 확인)</text>
+</svg>
