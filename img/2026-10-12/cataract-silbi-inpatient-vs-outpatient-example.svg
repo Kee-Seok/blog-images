@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="40" y="50" font-size="26" font-weight="700" fill="#202124">영수증 내 몫 80만원(예시·급여만) · 4세대 실손</text>
+<text x="40" y="82" font-size="17" fill="#5f6368">같은 영수증이라도 입원으로 보느냐, 통원으로 보느냐에 따라 갈려요</text>
+<text x="40" y="150" font-size="20" fill="#202124">입원 필요성 인정</text>
+<rect x="230" y="125" width="480" height="40" rx="6" fill="#1a73e8"/>
+<text x="245" y="152" font-size="19" font-weight="700" fill="#ffffff">64만원 (자기부담 20% 16만원 뺌)</text>
+<text x="40" y="240" font-size="20" fill="#202124">통원으로 처리</text>
+<rect x="230" y="215" width="188" height="40" rx="6" fill="#e8710a"/>
+<text x="430" y="242" font-size="19" font-weight="700" fill="#202124">25만원 안팎 (통원 한도)</text>
+<line x1="230" y1="300" x2="710" y2="300" stroke="#dadce0"/>
+<text x="40" y="340" font-size="17" fill="#5f6368">25만원 안팎: 금융위원회 2023년 12월 28일 자료의 통원보험금 수준</text>
+<text x="40" y="370" font-size="17" fill="#5f6368">20%: 4세대 급여 자기부담률(금융위원회 2021년 6월 29일). 세대마다 다름</text>
+<text x="40" y="400" font-size="15" fill="#80868b">표: 금융위원회 자료로 정리한 예시 계산</text>
+</svg>
