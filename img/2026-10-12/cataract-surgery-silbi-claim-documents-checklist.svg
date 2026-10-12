@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="40" y="50" font-size="26" font-weight="700" fill="#202124">백내장 수술 실비보험 청구서류, 두 묶음</text>
+<rect x="40" y="80" width="345" height="320" rx="12" fill="#e8f0fe" stroke="#1a73e8"/>
+<text x="60" y="118" font-size="21" font-weight="700" fill="#202124">모두 내는 것</text>
+<text x="60" y="160" font-size="18" fill="#202124">□ 보험금 청구서</text>
+<text x="60" y="195" font-size="18" fill="#202124">□ 진료비 영수증</text>
+<text x="60" y="230" font-size="18" fill="#202124">□ 진료비 세부산정내역서</text>
+<text x="60" y="265" font-size="18" fill="#202124">□ 백내장 진단 확인 서류</text>
+<text x="60" y="310" font-size="15" fill="#5f6368">65세 이상·단초점·종합병원이면</text>
+<text x="60" y="333" font-size="15" fill="#5f6368">세극등현미경 검사결과 같은</text>
+<text x="60" y="356" font-size="15" fill="#5f6368">세부 기록은 안 내도 돼요</text>
+<rect x="415" y="80" width="345" height="320" rx="12" fill="#fef7e0" stroke="#e8710a"/>
+<text x="435" y="118" font-size="21" font-weight="700" fill="#202124">입원으로 받을 때 더</text>
+<text x="435" y="160" font-size="18" fill="#202124">□ 기저질환 → 진단서</text>
+<text x="435" y="195" font-size="18" fill="#202124">□ 합병증 → 의무기록지</text>
+<text x="435" y="230" font-size="18" fill="#202124">□ 다른 수술 → 수술확인서</text>
+<text x="435" y="275" font-size="15" fill="#5f6368">경미한 합병증이면 서류를 내도</text>
+<text x="435" y="298" font-size="15" fill="#5f6368">입원보험금이 안 나올 수 있어요</text>
+<text x="40" y="440" font-size="15" fill="#80868b">정리: 금융위원회 2023년 12월 28일 자료 · 보험사마다 추가 요구 서류가 있을 수 있음</text>
+</svg>
