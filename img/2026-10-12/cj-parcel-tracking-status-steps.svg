@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="40" y="50" font-size="25" font-weight="700" fill="#202124">CJ택배 조회 화면, 단계 이름으로 읽는 법</text>
+<g font-size="16" fill="#202124">
+<rect x="40" y="85" width="135" height="120" rx="12" fill="#f1f3f4"/><text x="107" y="125" text-anchor="middle" font-weight="700">집화처리</text><text x="107" y="155" text-anchor="middle">택배 기사가</text><text x="107" y="177" text-anchor="middle">물건을 받음</text>
+<rect x="190" y="85" width="135" height="120" rx="12" fill="#f1f3f4"/><text x="257" y="125" text-anchor="middle" font-weight="700">간선상차</text><text x="257" y="155" text-anchor="middle">큰 트럭에 실려</text><text x="257" y="177" text-anchor="middle">지역 간 이동</text>
+<rect x="340" y="85" width="135" height="120" rx="12" fill="#f1f3f4"/><text x="407" y="125" text-anchor="middle" font-weight="700">간선하차</text><text x="407" y="155" text-anchor="middle">우리 지역</text><text x="407" y="177" text-anchor="middle">터미널 도착</text>
+<rect x="490" y="85" width="135" height="120" rx="12" fill="#fef7e0"/><text x="557" y="125" text-anchor="middle" font-weight="700">배송출발</text><text x="557" y="155" text-anchor="middle">기사 차에 실림</text><text x="557" y="177" text-anchor="middle">보통 그날 도착</text>
+<rect x="640" y="85" width="120" height="120" rx="12" fill="#e6f4ea"/><text x="700" y="125" text-anchor="middle" font-weight="700">배송완료</text><text x="700" y="155" text-anchor="middle">문 앞·경비실</text><text x="700" y="177" text-anchor="middle">등에 둠</text>
+</g>
+<text x="40" y="255" font-size="17" fill="#202124">• 화면의 '위치'는 지도 좌표가 아니라 거쳐 간 터미널·대리점 이름입니다</text>
+<text x="40" y="290" font-size="17" fill="#202124">• 같은 단계에 하루 넘게 멈춰 있으면 고객센터 1588-1255로 문의</text>
+<text x="40" y="325" font-size="17" fill="#202124">• 오네 앱은 운송장 없이 전화번호로도 조회되고 단계마다 알림이 옵니다</text>
+<text x="40" y="375" font-size="13" fill="#5f6368">출처: CJ대한통운 배송조회 화면·오네 앱 안내 (2026년 10월 12일 확인). 단계 설명은 이해를 돕기 위한 풀이입니다.</text>
+</svg>
