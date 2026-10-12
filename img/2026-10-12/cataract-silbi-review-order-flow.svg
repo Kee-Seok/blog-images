@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="sans-serif">
+<rect width="800" height="520" fill="#ffffff"/>
+<text x="40" y="48" font-size="26" font-weight="700" fill="#202124">백내장 실비 청구, 보험사가 보는 순서</text>
+<rect x="40" y="80" width="720" height="110" rx="12" fill="#e8f0fe" stroke="#1a73e8"/>
+<text x="62" y="115" font-size="21" font-weight="700" fill="#202124">1. 수술이 필요했나</text>
+<text x="62" y="148" font-size="17" fill="#202124">수술일 만 65세 이상 · 단초점(건강보험 급여) 렌즈 · 종합·상급종합병원</text>
+<text x="62" y="175" font-size="17" fill="#202124">→ 진단 확인되면 세극등현미경 검사결과 같은 세부 기록 없이 인정</text>
+<path d="M400 190 L400 222" stroke="#5f6368" stroke-width="3"/><path d="M390 214 L400 228 L410 214" fill="#5f6368"/>
+<rect x="40" y="230" width="720" height="140" rx="12" fill="#fef7e0" stroke="#e8710a"/>
+<text x="62" y="265" font-size="21" font-weight="700" fill="#202124">2. 입원이 필요했나</text>
+<text x="62" y="298" font-size="17" fill="#202124">기저질환 → 진단서</text>
+<text x="62" y="324" font-size="17" fill="#202124">합병증·사후조치 → 의무기록지</text>
+<text x="62" y="350" font-size="17" fill="#202124">다른 수술 같이 함 → 수술확인서</text>
+<path d="M220 370 L220 402" stroke="#5f6368" stroke-width="3"/><path d="M210 394 L220 408 L230 394" fill="#5f6368"/>
+<path d="M580 370 L580 402" stroke="#5f6368" stroke-width="3"/><path d="M570 394 L580 408 L590 394" fill="#5f6368"/>
+<rect x="40" y="410" width="340" height="62" rx="10" fill="#1a73e8"/>
+<text x="210" y="448" font-size="19" font-weight="700" fill="#ffffff" text-anchor="middle">증빙 인정 → 입원보험금</text>
+<rect x="420" y="410" width="340" height="62" rx="10" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="590" y="448" font-size="19" font-weight="700" fill="#202124" text-anchor="middle">없으면 → 통원 25만원 안팎</text>
+<text x="40" y="502" font-size="15" fill="#80868b">도식: 금융위원회·금융감독원 백내장 실손보험금 지급기준 정비(2023년 12월 28일) 정리</text>
+</svg>
