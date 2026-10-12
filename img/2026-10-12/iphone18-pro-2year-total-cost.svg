@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="40" y="50" font-size="25" font-weight="700" fill="#202124">아이폰18 프로 256GB, 2년 동안 내는 돈</text>
+<text x="40" y="80" font-size="15" fill="#5f6368">출고가 199만원 · 월 10만9천원 요금제 24개월 기준 (애플·통신사 공지, 2026년 9월)</text>
+<g font-size="17" fill="#202124">
+<text x="40" y="145">통신사 공통지원금 45만원</text>
+<rect x="290" y="123" width="415" height="32" rx="6" fill="#ea4335"/>
+<text x="700" y="145" text-anchor="end" fill="#fff" font-weight="700">4,156,000원</text>
+<text x="40" y="215">선택약정 25% (자급제도 가능)</text>
+<rect x="290" y="193" width="395" height="32" rx="6" fill="#1a73e8"/>
+<text x="680" y="215" text-anchor="end" fill="#fff" font-weight="700">3,952,000원</text>
+<text x="40" y="285">자급제 + 월 3만원 요금제 (예시)</text>
+<rect x="290" y="263" width="271" height="32" rx="6" fill="#34a853"/>
+<text x="571" y="285">2,710,000원</text>
+</g>
+<text x="40" y="345" font-size="16" fill="#202124">선택약정으로 2년 동안 아끼는 돈 = 월 요금 × 6</text>
+<text x="40" y="375" font-size="16" fill="#202124">→ 월 7만5천원 넘는 요금제면 지원금 45만원보다 선택약정이 유리</text>
+<text x="40" y="415" font-size="13" fill="#5f6368">월 3만원 요금제는 비교용 가정입니다. 데이터 양이 다르니 같은 조건이 아닙니다.</text>
+</svg>
