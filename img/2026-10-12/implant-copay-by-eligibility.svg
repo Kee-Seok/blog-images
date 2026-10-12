@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="40" y="52" font-size="26" font-weight="700" fill="#202124">임플란트 1개, 자격별 본인부담금</text>
+<text x="40" y="84" font-size="16" fill="#5f6368">치과의원 총진료비 1,196,150~1,299,780원 기준 (공단 Q&amp;A, 2018년 수가)</text>
+<g font-size="18" fill="#202124">
+<text x="40" y="150">건강보험 가입자 30%</text>
+<rect x="300" y="128" width="390" height="32" rx="6" fill="#1a73e8"/>
+<text x="700" y="150" text-anchor="end" fill="#ffffff" font-weight="700">약 35.9만~39.0만원</text>
+<text x="40" y="220">차상위 만성질환 20%</text>
+<rect x="300" y="198" width="260" height="32" rx="6" fill="#34a853"/>
+<text x="570" y="220">약 23.9만~26.0만원</text>
+<text x="40" y="290">의료급여 2종 20%</text>
+<rect x="300" y="268" width="260" height="32" rx="6" fill="#34a853"/>
+<text x="570" y="290">약 23.9만~26.0만원</text>
+<text x="40" y="360">차상위 희귀난치·의료급여 1종 10%</text>
+<rect x="400" y="338" width="130" height="32" rx="6" fill="#fbbc04"/>
+<text x="540" y="360">약 12.0만~13.0만원</text>
+</g>
+<text x="40" y="420" font-size="15" fill="#5f6368">뼈이식·상악동 거상술 같은 부가수술은 비급여라 위 금액에 따로 붙습니다</text>
+</svg>
