@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" font-family="sans-serif">
+<rect width="900" height="500" fill="#ffffff"/>
+<text x="450" y="52" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">물고기 잡는 꿈 — 무엇으로 잡았나</text>
+<rect x="40" y="100" width="260" height="300" rx="18" fill="#e8f0fe" stroke="#1a73e8" stroke-width="3"/>
+<text x="170" y="160" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">맨손</text>
+<text x="170" y="215" text-anchor="middle" font-size="20" fill="#202124">내 힘으로</text>
+<text x="170" y="245" text-anchor="middle" font-size="20" fill="#202124">직접 얻는 것</text>
+<text x="170" y="330" text-anchor="middle" font-size="17" fill="#5f6368">놓치면 아쉬움도 큼</text>
+<rect x="320" y="100" width="260" height="300" rx="18" fill="#e6f4ea" stroke="#34a853" stroke-width="3"/>
+<text x="450" y="160" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">낚시</text>
+<text x="450" y="215" text-anchor="middle" font-size="20" fill="#202124">기다린 끝에</text>
+<text x="450" y="245" text-anchor="middle" font-size="20" fill="#202124">돌아오는 결과</text>
+<text x="450" y="330" text-anchor="middle" font-size="17" fill="#5f6368">준비한 일이 풀림</text>
+<rect x="600" y="100" width="260" height="300" rx="18" fill="#fef7e0" stroke="#fbbc04" stroke-width="3"/>
+<text x="730" y="160" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">그물</text>
+<text x="730" y="215" text-anchor="middle" font-size="20" fill="#202124">한꺼번에 여럿</text>
+<text x="730" y="245" text-anchor="middle" font-size="20" fill="#202124">들어오는 것</text>
+<text x="730" y="330" text-anchor="middle" font-size="17" fill="#5f6368">사람·일도 함께 늘어남</text>
+<text x="450" y="455" text-anchor="middle" font-size="17" fill="#5f6368">전통 해몽에서 흔히 전해지는 풀이 · 예언이 아님</text>
+</svg>
