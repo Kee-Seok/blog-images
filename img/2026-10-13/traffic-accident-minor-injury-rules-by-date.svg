@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" width="960" height="500" font-family="sans-serif">
+<rect width="960" height="500" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">사고 날짜에 따라 달라지는 경상환자(12~14급) 규칙</text>
+<line x1="80" y1="170" x2="900" y2="170" stroke="#5f6368" stroke-width="4"/>
+<circle cx="260" cy="170" r="14" fill="#e8710a"/><circle cx="700" cy="170" r="14" fill="#1a73e8"/>
+<text x="260" y="130" font-size="22" font-weight="700" fill="#202124" text-anchor="middle">2023년 1월 1일 사고부터</text>
+<text x="700" y="130" font-size="22" font-weight="700" fill="#202124" text-anchor="middle">2026년 9월 10일 사고부터</text>
+<rect x="60" y="210" width="400" height="230" rx="14" fill="#fff4e5" stroke="#f5dfae"/>
+<text x="84" y="252" font-size="20" fill="#202124" font-weight="700">치료비 과실 처리</text>
+<text x="84" y="290" font-size="18" fill="#202124">치료비 중 내 과실 부분은</text>
+<text x="84" y="318" font-size="18" fill="#202124">내 보험이나 내 돈으로</text>
+<text x="84" y="364" font-size="20" fill="#202124" font-weight="700">4주 넘게 치료하면</text>
+<text x="84" y="400" font-size="18" fill="#202124">진단서 필요</text>
+<rect x="500" y="210" width="400" height="230" rx="14" fill="#e8f0fe" stroke="#c6dafc"/>
+<text x="524" y="252" font-size="20" fill="#202124" font-weight="700">8주 넘게 치료하면</text>
+<text x="524" y="290" font-size="18" fill="#202124">자동차손해배상진흥원 심사</text>
+<text x="524" y="336" font-size="20" fill="#202124" font-weight="700">향후치료비</text>
+<text x="524" y="374" font-size="18" fill="#202124">1~11급만, 12~14급은</text>
+<text x="524" y="402" font-size="18" fill="#202124">치료 끝날 때까지 실제 치료비</text>
+<text x="40" y="480" font-size="14" fill="#80868b">출처: 금융위원회 자동차보험 제도개선(2021.9.30), 금융감독원 표준약관 개정 안내(2026.9) · 2026년 10월 확인</text>
+</svg>
