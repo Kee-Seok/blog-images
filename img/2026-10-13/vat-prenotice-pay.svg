@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="48" font-size="28" font-weight="700" fill="#202124" text-anchor="middle">홈택스에서 예정고지 세금 내는 순서</text>
+<g font-size="19" fill="#202124">
+<rect x="40" y="80" width="720" height="62" rx="12" fill="#eef3fd"/><circle cx="80" cy="111" r="20" fill="#1a73e8"/><text x="80" y="118" fill="#ffffff" font-weight="700" text-anchor="middle">1</text>
+<text x="118" y="118">홈택스 로그인 (공동·간편인증서)</text>
+<rect x="40" y="156" width="720" height="62" rx="12" fill="#eef3fd"/><circle cx="80" cy="187" r="20" fill="#1a73e8"/><text x="80" y="194" fill="#ffffff" font-weight="700" text-anchor="middle">2</text>
+<text x="118" y="194">메뉴에서 [납부할 세액 조회·납부] 찾기</text>
+<rect x="40" y="232" width="720" height="62" rx="12" fill="#eef3fd"/><circle cx="80" cy="263" r="20" fill="#1a73e8"/><text x="80" y="270" fill="#ffffff" font-weight="700" text-anchor="middle">3</text>
+<text x="118" y="270">세목 '부가가치세' · 고지 금액 확인 후 체크</text>
+<rect x="40" y="308" width="720" height="62" rx="12" fill="#eef3fd"/><circle cx="80" cy="339" r="20" fill="#1a73e8"/><text x="80" y="346" fill="#ffffff" font-weight="700" text-anchor="middle">4</text>
+<text x="118" y="346">계좌이체 또는 카드 납부 (카드는 수수료 있음)</text>
+</g>
+<rect x="40" y="388" width="720" height="58" rx="12" fill="#fff4cc"/>
+<text x="400" y="424" font-size="18" fill="#202124" text-anchor="middle">고지서에 적힌 가상계좌로 이체해도 같은 납부입니다</text>
+</svg>
