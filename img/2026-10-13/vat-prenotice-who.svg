@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<rect width="800" height="520" fill="#ffffff"/>
+<text x="400" y="48" font-size="28" font-weight="700" fill="#202124" text-anchor="middle">2026년 10월 부가세, 나는 언제까지?</text>
+<text x="400" y="80" font-size="17" fill="#5f6368" text-anchor="middle">국세청 10월 5일 발표 기준 (7~9월분)</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="110" width="720" height="80" rx="14" fill="#fff4cc" stroke="#f2c200"/>
+<text x="64" y="145" font-weight="700">개인 일반과세자 · 소규모 법인</text>
+<text x="64" y="175" font-size="17" fill="#5f6368">고지서 금액만 내면 끝 (신고 없음)</text>
+<text x="736" y="160" text-anchor="end" font-size="26" font-weight="700" fill="#b06000">11월 2일(월)</text>
+<rect x="40" y="206" width="720" height="80" rx="14" fill="#eef3fd" stroke="#1a73e8"/>
+<text x="64" y="241" font-weight="700">예정신고 대상 법인</text>
+<text x="64" y="271" font-size="17" fill="#5f6368">직접 신고하고 납부</text>
+<text x="736" y="256" text-anchor="end" font-size="26" font-weight="700" fill="#1a73e8">10월 26일(월)</text>
+<rect x="40" y="302" width="720" height="80" rx="14" fill="#eaf6ee" stroke="#1e8e4e"/>
+<text x="64" y="337" font-weight="700">호우 피해지역 · 홈플러스 관련 사업자</text>
+<text x="64" y="367" font-size="17" fill="#5f6368">납부만 2개월 직권 연장 (신청 안 해도 됨)</text>
+<text x="736" y="352" text-anchor="end" font-size="26" font-weight="700" fill="#1e8e4e">12월 28일(월)</text>
+<rect x="40" y="398" width="720" height="80" rx="14" fill="#f1f3f4" stroke="#9aa0a6"/>
+<text x="64" y="433" font-weight="700">고지할 금액이 50만원 미만</text>
+<text x="64" y="463" font-size="17" fill="#5f6368">예정고지 자체가 나오지 않음</text>
+<text x="736" y="448" text-anchor="end" font-size="26" font-weight="700" fill="#5f6368">낼 것 없음</text>
+</g>
+<text x="400" y="506" font-size="15" fill="#80868b" text-anchor="middle">출처: 국세청 발표(2026.10.5) · 부가가치세법 제48조</text>
+</svg>
