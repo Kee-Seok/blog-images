@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="720" height="400" fill="#ffffff"/>
+<text x="360" y="44" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">건강보험료 환급금 조회 순서</text>
+<g font-size="17" fill="#202124">
+<rect x="40" y="80" width="300" height="80" rx="12" fill="#e8f0fe"/><text x="60" y="113" font-weight="700">1. 환급금 조회/신청 화면</text><text x="60" y="142">공단 홈페이지·The건강보험 앱</text>
+<rect x="380" y="80" width="300" height="80" rx="12" fill="#e8f0fe"/><text x="400" y="113" font-weight="700">2. 간편인증 로그인</text><text x="400" y="142">카카오·네이버·금융인증서 등</text>
+<rect x="40" y="200" width="300" height="80" rx="12" fill="#e8f0fe"/><text x="60" y="233" font-weight="700">3. 금액 확인</text><text x="60" y="262">밀린 보험료 있으면 먼저 빠짐</text>
+<rect x="380" y="200" width="300" height="80" rx="12" fill="#e6f4ea"/><text x="400" y="233" font-weight="700">4. 계좌 넣고 신청</text><text x="400" y="262">사전계좌 등록하면 다음엔 자동</text>
+</g>
+<path d="M340 120 H372" stroke="#5f6368" stroke-width="3" marker-end="url(#a)"/>
+<path d="M530 162 V180 H190 V192" stroke="#5f6368" stroke-width="3" fill="none" marker-end="url(#a)"/>
+<path d="M340 240 H372" stroke="#5f6368" stroke-width="3" marker-end="url(#a)"/>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#5f6368"/></marker></defs>
+<rect x="40" y="310" width="640" height="56" rx="10" fill="#fce8e6"/>
+<text x="360" y="345" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">공단 안내 문자·메일엔 인터넷 주소가 없어요 — 링크 오면 누르지 마세요</text>
+</svg>
