@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="900" height="600" fill="#ffffff"/>
+<text x="450" y="50" text-anchor="middle" font-size="28" font-weight="800" fill="#0B1B3A">이 계정에서 매일·매주 도는 예약 작업 13개</text>
+<g font-size="20" fill="#222">
+<rect x="40" y="80" width="400" height="230" rx="14" fill="#EEF2FA"/>
+<text x="64" y="118" font-size="24" font-weight="800" fill="#1D3366">글 쓰기 6개</text>
+<text x="64" y="156">· 블로그스팟 새 글 (초안까지)</text>
+<text x="64" y="188">· 티스토리 메인 오후 글</text>
+<text x="64" y="220">· 정보·코드리뷰·이슈·꿈 해몽</text>
+<text x="64" y="252">  블로그 하루 1편씩</text>
+<rect x="460" y="80" width="400" height="230" rx="14" fill="#EEF2FA"/>
+<text x="484" y="118" font-size="24" font-weight="800" fill="#1D3366">글 손보기 3개</text>
+<text x="484" y="156">· 낡은 글 1편 갱신 (매일)</text>
+<text x="484" y="188">· 옛 글에 요약·FAQ 채우기</text>
+<text x="484" y="220">  (하루 3편)</text>
+<text x="484" y="252">· 색인 확인 (이틀에 한 번)</text>
+<rect x="40" y="330" width="400" height="190" rx="14" fill="#EEF2FA"/>
+<text x="64" y="368" font-size="24" font-weight="800" fill="#1D3366">SNS 2개</text>
+<text x="64" y="406">· 스레드 운영 (하루 2번)</text>
+<text x="64" y="438">· 인스타 카드뉴스 2개 작성</text>
+<text x="64" y="470">  (매일 아침)</text>
+<rect x="460" y="330" width="400" height="190" rx="14" fill="#EEF2FA"/>
+<text x="484" y="368" font-size="24" font-weight="800" fill="#1D3366">점검·만들기 2개</text>
+<text x="484" y="406">· 주간 자기점검 (월요일)</text>
+<text x="484" y="438">· 블로그 계산기 만들기</text>
+<text x="484" y="470">  (월·목)</text>
+</g>
+<text x="450" y="565" text-anchor="middle" font-size="19" fill="#555">비밀번호 입력·블로그스팟 새 글 공개 승인은 사람 몫으로 남겼어요 (2026년 10월 13일 기준)</text>
+</svg>
