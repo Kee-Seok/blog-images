@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="40" y="50" font-size="25" font-weight="700" fill="#202124">대상포진 실비 서류, 어디서 받았나로 갈립니다</text>
+<g font-size="17" fill="#202124">
+<rect x="40" y="80" width="340" height="230" rx="12" fill="#e6f4ea"/>
+<text x="60" y="115" font-weight="700">실손24 연계 의원·약국</text>
+<text x="60" y="150">• 앱에서 진료 내역 고르기</text>
+<text x="60" y="180">• 병원이 서류를 보험사로 전송</text>
+<text x="60" y="210">• 종이 챙길 것 없음</text>
+<text x="60" y="250" font-size="15" fill="#5f6368">연계율 47.7%, 약 5만 곳</text>
+<text x="60" y="275" font-size="15" fill="#5f6368">(금융위·복지부 2026.9.30)</text>
+<rect x="420" y="80" width="340" height="230" rx="12" fill="#fef7e0"/>
+<text x="440" y="115" font-weight="700">연계 안 된 곳</text>
+<text x="440" y="150">• 진료비 영수증</text>
+<text x="440" y="180">• 약제비 영수증</text>
+<text x="440" y="210">• 처방전(질병분류기호 B02)</text>
+<text x="440" y="240">• 비급여 있으면 세부내역서</text>
+<text x="440" y="275" font-size="15" fill="#5f6368">사진 찍어 보험사 앱에 올리기</text>
+</g>
+<text x="40" y="355" font-size="16" fill="#202124">• 진료일부터 3년 안이면 지난 진료비도 청구됩니다</text>
+<text x="40" y="385" font-size="16" fill="#202124">• 금액이 크면 보험사가 진단서를 더 달라고 할 수 있어요</text>
+<text x="40" y="415" font-size="14" fill="#5f6368">2026년 10월 13일 확인</text>
+</svg>
