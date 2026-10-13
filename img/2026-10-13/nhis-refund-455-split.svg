@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="720" height="420" fill="#ffffff"/>
+<text x="360" y="44" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">아직 안 돌려준 건강보험료 455억원</text>
+<text x="360" y="74" text-anchor="middle" font-size="15" fill="#5f6368">2021~2025년 과오납 중 미반환 (백종헌 의원실 자료, 2026-10-13 보도)</text>
+<rect x="60" y="110" width="400" height="70" rx="10" fill="#1a73e8"/>
+<text x="80" y="153" font-size="20" font-weight="700" fill="#ffffff">아직 찾아갈 수 있는 돈 382억원</text>
+<rect x="470" y="110" width="190" height="70" rx="10" fill="#9aa0a6"/>
+<text x="565" y="143" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">3년 지나 사라짐</text>
+<text x="565" y="167" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">73억원</text>
+<text x="60" y="235" font-size="19" font-weight="700" fill="#202124">누가 못 찾아갔나</text>
+<rect x="60" y="255" width="290" height="120" rx="12" fill="#e8f0fe" stroke="#1a73e8"/>
+<text x="205" y="292" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">직장가입자</text>
+<text x="205" y="324" text-anchor="middle" font-size="17" fill="#202124">약 13만4천 건</text>
+<text x="205" y="354" text-anchor="middle" font-size="17" fill="#202124">286억원</text>
+<rect x="370" y="255" width="290" height="120" rx="12" fill="#fef7e0" stroke="#f9ab00"/>
+<text x="515" y="292" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">지역가입자</text>
+<text x="515" y="324" text-anchor="middle" font-size="17" fill="#202124">약 41만 건</text>
+<text x="515" y="354" text-anchor="middle" font-size="17" fill="#202124">169억원</text>
+<text x="360" y="405" text-anchor="middle" font-size="13" fill="#80868b">출처: SBS Biz·매일경제 2026-10-13</text>
+</svg>
