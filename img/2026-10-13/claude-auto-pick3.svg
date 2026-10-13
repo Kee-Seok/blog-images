@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="900" height="560" fill="#ffffff"/>
+<text x="450" y="52" text-anchor="middle" font-size="30" font-weight="800" fill="#0B1B3A">클로드에 맡길 일 고르는 기준</text>
+<rect x="60" y="90" width="780" height="110" rx="16" fill="#EEF2FA" stroke="#1D3366" stroke-width="2"/>
+<text x="90" y="135" font-size="26" font-weight="800" fill="#1D3366">① 일주일에 3번 이상, 같은 순서로 하나요?</text>
+<text x="90" y="174" font-size="21" fill="#333">한 번뿐인 일은 지시서 쓰는 시간이 더 걸려요</text>
+<rect x="60" y="220" width="780" height="110" rx="16" fill="#EEF2FA" stroke="#1D3366" stroke-width="2"/>
+<text x="90" y="265" font-size="26" font-weight="800" fill="#1D3366">② 결과가 맞는지 1분 안에 볼 수 있나요?</text>
+<text x="90" y="304" font-size="21" fill="#333">확인이 길면 아낀 시간이 검사로 다시 나가요</text>
+<rect x="60" y="350" width="780" height="110" rx="16" fill="#EEF2FA" stroke="#1D3366" stroke-width="2"/>
+<text x="90" y="395" font-size="26" font-weight="800" fill="#1D3366">③ 잘못돼도 되돌릴 수 있나요?</text>
+<text x="90" y="434" font-size="21" fill="#333">돈 보내기·지우기·남에게 보내기는 사람 몫으로</text>
+<rect x="210" y="482" width="480" height="56" rx="28" fill="#FFD43B"/>
+<text x="450" y="519" text-anchor="middle" font-size="24" font-weight="800" fill="#0B1B3A">셋 다 O → 자동화 후보</text>
+</svg>
