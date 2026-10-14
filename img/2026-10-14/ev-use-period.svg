@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="400" y="48" font-size="27" font-weight="700" fill="#202124" text-anchor="middle">에너지 바우처 사용기간 — 받는 방식에 따라 달라요</text>
+<g font-size="18" fill="#202124">
+<rect x="40" y="82" width="350" height="250" rx="14" fill="#eef3fd"/>
+<text x="215" y="122" font-size="21" font-weight="700" text-anchor="middle">요금차감(고지서)</text>
+<text x="215" y="166" text-anchor="middle">여름분 7월 1일 ~ 9월 30일</text>
+<text x="215" y="200" text-anchor="middle">겨울분 10월 1일 ~ 내년 5월 31일</text>
+<text x="215" y="244" text-anchor="middle">전기·도시가스·지역난방 중 하나</text>
+<text x="215" y="278" text-anchor="middle">신청 다음 달 고지서부터 차감</text>
+<rect x="410" y="82" width="350" height="250" rx="14" fill="#fdf0e9"/>
+<text x="585" y="122" font-size="21" font-weight="700" text-anchor="middle">국민행복카드</text>
+<text x="585" y="166" text-anchor="middle">10월 3일 ~ 내년 5월 31일</text>
+<text x="585" y="210" text-anchor="middle">등유·LPG·연탄 가맹점 결제</text>
+<text x="585" y="244" text-anchor="middle">전기(한전 123)·도시가스도 결제</text>
+<text x="585" y="278" text-anchor="middle">은행 창구·공과금 수납기는 안 됨</text>
+</g>
+<rect x="40" y="350" width="720" height="50" rx="12" fill="#fff4cc"/>
+<text x="400" y="382" font-size="17" fill="#202124" text-anchor="middle">잔액조회는 사용기간 안에서만 됩니다 (한국에너지공단 안내)</text>
+</svg>
