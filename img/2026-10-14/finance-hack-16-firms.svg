@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="960" height="560" font-family="sans-serif">
+<rect width="960" height="560" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">해킹이 확인된 금융회사 16곳 (10월 14일 기준)</text>
+<g font-size="22" fill="#202124">
+<rect x="40" y="90" width="430" height="120" rx="12" fill="#e8f0fe"/><text x="60" y="128" font-weight="700" fill="#1a73e8">은행 4곳</text><text x="60" y="168">신한 · KB국민 · 하나 · BNK부산</text>
+<rect x="490" y="90" width="430" height="120" rx="12" fill="#e8f0fe"/><text x="510" y="128" font-weight="700" fill="#1a73e8">저축은행 4곳</text><text x="510" y="168">예가람 · 웰컴 · DB · OK</text>
+<rect x="40" y="230" width="430" height="120" rx="12" fill="#fef7e0"/><text x="60" y="268" font-weight="700" fill="#b06000">캐피탈 2곳</text><text x="60" y="308">현대캐피탈 · 산은캐피탈</text>
+<rect x="490" y="230" width="430" height="120" rx="12" fill="#fef7e0"/><text x="510" y="268" font-weight="700" fill="#b06000">온라인투자연계(P2P) 2곳</text><text x="510" y="308">PFCT · 모우다</text>
+<rect x="40" y="370" width="430" height="120" rx="12" fill="#fce8e6"/><text x="60" y="408" font-weight="700" fill="#c5221f">가상자산 2곳</text><text x="60" y="448">스트리미(고팍스) · 프라뱅</text>
+<rect x="490" y="370" width="430" height="120" rx="12" fill="#e6f4ea"/><text x="510" y="408" font-weight="700" fill="#137333">전자금융 1곳 · 상호금융 1곳</text><text x="510" y="448">브라이트픽스 · 새마을금고중앙회</text>
+</g>
+<text x="40" y="530" font-size="18" fill="#5f6368">자료: 금융위원회·금융감독원 긴급 대응회의(2026.10.14) 보도 정리 — 디지털데일리·서울경제</text>
+</svg>
