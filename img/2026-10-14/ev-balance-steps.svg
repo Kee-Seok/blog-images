@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="48" font-size="28" font-weight="700" fill="#202124" text-anchor="middle">에너지 바우처 잔액조회 순서 (2026)</text>
+<g font-size="19" fill="#202124">
+<rect x="40" y="80" width="720" height="62" rx="12" fill="#fdf0e9"/><circle cx="80" cy="111" r="20" fill="#e8551f"/><text x="80" y="118" fill="#ffffff" font-weight="700" text-anchor="middle">1</text>
+<text x="118" y="118">복지로(bokjiro.go.kr) 접속</text>
+<rect x="40" y="156" width="720" height="62" rx="12" fill="#fdf0e9"/><circle cx="80" cy="187" r="20" fill="#e8551f"/><text x="80" y="194" fill="#ffffff" font-weight="700" text-anchor="middle">2</text>
+<text x="118" y="194">로그인 — 간편인증 · 공동인증서 · 금융인증서</text>
+<rect x="40" y="232" width="720" height="62" rx="12" fill="#fdf0e9"/><circle cx="80" cy="263" r="20" fill="#e8551f"/><text x="80" y="270" fill="#ffffff" font-weight="700" text-anchor="middle">3</text>
+<text x="118" y="270">[복지지갑] → [나의 복지지갑]에서 잔액 확인</text>
+</g>
+<rect x="40" y="318" width="720" height="58" rx="12" fill="#fff4cc"/>
+<text x="400" y="354" font-size="18" fill="#202124" text-anchor="middle">어디에 썼는지 상세 내역은 챗봇 또는 1600-3190</text>
+<text x="400" y="420" font-size="15" fill="#5f6368" text-anchor="middle">출처: 한국에너지공단 에너지바우처 누리집 잔액조회 안내 (2026년 10월 14일 확인)</text>
+</svg>
