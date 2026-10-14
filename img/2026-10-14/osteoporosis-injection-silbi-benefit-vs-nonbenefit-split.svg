@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="960" height="560" font-family="sans-serif">
+<rect width="960" height="560" fill="#ffffff"/>
+<text x="40" y="54" font-size="30" font-weight="700" fill="#202124">골다공증 주사 실비, 영수증 한 칸에서 갈려요</text>
+<text x="40" y="88" font-size="18" fill="#5f6368">주사비가 영수증 '급여' 칸에 있나, '비급여' 칸에 있나</text>
+<rect x="40" y="120" width="420" height="190" rx="14" fill="#e8f0fe" stroke="#1a73e8"/>
+<text x="64" y="160" font-size="24" font-weight="700" fill="#1a73e8">급여 칸</text>
+<text x="64" y="196" font-size="18" fill="#202124">건강보험 기준에 맞아 공단이 함께 낸 주사</text>
+<text x="64" y="232" font-size="18" fill="#202124">→ 1~4세대 실손 기본계약에서</text>
+<text x="64" y="260" font-size="18" fill="#202124">    내가 낸 몫의 일부가 돌아와요</text>
+<text x="64" y="292" font-size="16" fill="#5f6368">4세대: 급여 자기부담 20% (의원 최소 1만원)</text>
+<rect x="500" y="120" width="420" height="190" rx="14" fill="#fef7e0" stroke="#e8710a"/>
+<text x="524" y="160" font-size="24" font-weight="700" fill="#b06000">비급여 칸</text>
+<text x="524" y="196" font-size="18" fill="#202124">기준 밖이라 약값을 내가 다 낸 주사</text>
+<text x="524" y="232" font-size="18" fill="#202124">→ 가입 시기에 따라 갈려요</text>
+<text x="524" y="292" font-size="16" fill="#5f6368">3·4세대: 자기부담 30% (2만·3만원 중 큰 쪽)</text>
+<g font-size="18" fill="#202124">
+<rect x="500" y="340" width="420" height="58" rx="10" fill="#ffffff" stroke="#dadce0"/>
+<text x="520" y="376">2017년 3월까지 가입(1·2세대) → 기본 보장</text>
+<rect x="500" y="410" width="420" height="58" rx="10" fill="#ffffff" stroke="#dadce0"/>
+<text x="520" y="446">2017년 4월 이후 가입 + 주사 특약 → 나와요</text>
+<rect x="500" y="480" width="420" height="58" rx="10" fill="#fce8e6" stroke="#d93025"/>
+<text x="520" y="516" fill="#d93025" font-weight="700">2017년 4월 이후 가입 + 특약 없음 → 0원</text>
+</g>
+<text x="40" y="380" font-size="18" fill="#202124">비급여 주사 중 항암제·항생제·희귀의약품만</text>
+<text x="40" y="408" font-size="18" fill="#202124">3세대 기본형에서 예외로 보장돼요.</text>
+<text x="40" y="436" font-size="18" fill="#202124">골다공증 주사는 이 셋에 들지 않아요.</text>
+<text x="40" y="540" font-size="14" fill="#80868b">출처: 금융위원회 2017.3.30·2021.6.29 보도자료 · 2026년 10월 14일 확인</text>
+</svg>
