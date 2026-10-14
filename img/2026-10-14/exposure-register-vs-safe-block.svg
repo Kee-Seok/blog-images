@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">무엇을 막아 주나 — 세 가지 비교</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="90" width="280" height="380" rx="12" fill="#e8f0fe"/>
+<text x="60" y="130" font-size="23" font-weight="700" fill="#1a73e8">개인정보노출자 등록</text>
+<text x="60" y="175">금융회사에 '노출자'로</text><text x="60" y="203">실시간 공유</text>
+<text x="60" y="250">새 계좌 · 신용카드 발급</text><text x="60" y="278">· 휴대폰 할부 보증보험</text><text x="60" y="306">· 오픈뱅킹 제한될 수 있음</text>
+<text x="60" y="360" font-weight="700">신청: 온라인</text><text x="60" y="388">해제: 온라인 가능</text>
+<rect x="340" y="90" width="280" height="380" rx="12" fill="#fef7e0"/>
+<text x="360" y="130" font-size="23" font-weight="700" fill="#b06000">안심차단 3종</text>
+<text x="360" y="175">여신거래(대출·카드론</text><text x="360" y="203">· 카드 발급)</text>
+<text x="360" y="250">비대면 계좌개설</text><text x="360" y="298">오픈뱅킹</text>
+<text x="360" y="360" font-weight="700">신청: 은행앱·내계좌한눈에</text><text x="360" y="388">해제: 영업점 방문만</text>
+<rect x="640" y="90" width="280" height="380" rx="12" fill="#e6f4ea"/>
+<text x="660" y="130" font-size="23" font-weight="700" fill="#137333">엠세이퍼(Msafer)</text>
+<text x="660" y="175">내 이름으로 개통된</text><text x="660" y="203">휴대폰 있는지 확인</text>
+<text x="660" y="250">휴대폰 가입제한</text><text x="660" y="278">서비스 신청</text>
+<text x="660" y="360" font-weight="700">운영: 한국정보통신</text><text x="660" y="388">진흥협회</text>
+</g>
+<text x="40" y="500" font-size="18" fill="#5f6368">자료: 금감원 개인정보노출자 사고예방시스템 안내, 금융위원회 보도자료(2026.10.6)·카드뉴스(2025.4.29)</text>
+</svg>
