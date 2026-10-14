@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<text x="40" y="54" font-size="30" font-weight="700" fill="#202124">퇴원 수납 창구에서 한 번에 받을 종이</text>
+<text x="40" y="88" font-size="18" fill="#5f6368">병원이 실손24에 연계돼 있으면 실비용 서류는 병원이 보험사로 보내요</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="116" width="880" height="68" rx="12" fill="#f1f3f4"/>
+<text x="64" y="158" font-weight="700">① 진료비 계산서·영수증</text><text x="420" y="158" font-size="17" fill="#5f6368">급여·비급여 칸이 나뉜 원무과 영수증 (카드 전표 X)</text>
+<rect x="40" y="196" width="880" height="68" rx="12" fill="#f1f3f4"/>
+<text x="64" y="238" font-weight="700">② 진료비 세부산정내역서</text><text x="420" y="238" font-size="17" fill="#5f6368">로봇 사용료 같은 비급여 항목 이름이 찍힌 종이</text>
+<rect x="40" y="276" width="880" height="68" rx="12" fill="#f1f3f4"/>
+<text x="64" y="318" font-weight="700">③ 진단서 또는 입퇴원확인서</text><text x="420" y="318" font-size="17" fill="#5f6368">질병분류기호 M17(무릎관절증) 적힌 것</text>
+<rect x="40" y="356" width="880" height="68" rx="12" fill="#fef7e0"/>
+<text x="64" y="398" font-weight="700" fill="#b06000">④ 수술확인서</text><text x="420" y="398" font-size="17" fill="#5f6368">수술비 특약(정액)이 있을 때만 · 수술명·수술일</text>
+</g>
+<text x="40" y="470" font-size="16" fill="#80868b">실손 청구 기한은 진료일부터 3년 · 서류 범위는 보험사마다 조금씩 달라요</text>
+</svg>
