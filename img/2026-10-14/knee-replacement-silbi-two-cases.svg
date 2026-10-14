@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" font-family="sans-serif">
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="40" y="54" font-size="30" font-weight="700" fill="#202124">같은 무릎 수술, 실비가 갈리는 곳</text>
+<text x="40" y="88" font-size="18" fill="#5f6368">한쪽 무릎 급여 진료비 945만원 · 입원 본인부담 20% = 189만원 (예시, 4세대 실손)</text>
+<rect x="40" y="120" width="420" height="400" rx="14" fill="#fef7e0" stroke="#e8710a"/>
+<text x="64" y="162" font-size="24" font-weight="700" fill="#b06000">어머니 · 2~3분위</text>
+<text x="64" y="196" font-size="17" fill="#5f6368">2026년 상한액 112만원</text>
+<text x="64" y="244" font-size="19" fill="#202124">병원에 낸 돈 189만원</text>
+<text x="64" y="284" font-size="19" fill="#202124">상한제로 공단이 77만원</text>
+<text x="64" y="312" font-size="16" fill="#5f6368">(이듬해 8월 말쯤 정산)</text>
+<text x="64" y="360" font-size="19" fill="#202124">실비 계산 기준 112만원</text>
+<text x="64" y="388" font-size="16" fill="#5f6368">112만원 × 80%</text>
+<text x="64" y="448" font-size="28" font-weight="700" fill="#b06000">실비 89만6천원</text>
+<text x="64" y="492" font-size="17" fill="#202124">최종 내 돈 22만4천원</text>
+<rect x="500" y="120" width="420" height="400" rx="14" fill="#e8f0fe" stroke="#1a73e8"/>
+<text x="524" y="162" font-size="24" font-weight="700" fill="#1a73e8">아버지 · 8분위</text>
+<text x="524" y="196" font-size="17" fill="#5f6368">2026년 상한액 446만원</text>
+<text x="524" y="244" font-size="19" fill="#202124">병원에 낸 돈 189만원</text>
+<text x="524" y="284" font-size="19" fill="#202124">상한제 환급 0원</text>
+<text x="524" y="312" font-size="16" fill="#5f6368">(상한액에 못 미침)</text>
+<text x="524" y="360" font-size="19" fill="#202124">실비 계산 기준 189만원</text>
+<text x="524" y="388" font-size="16" fill="#5f6368">189만원 × 80%</text>
+<text x="524" y="448" font-size="28" font-weight="700" fill="#1a73e8">실비 151만2천원</text>
+<text x="524" y="492" font-size="17" fill="#202124">최종 내 돈 37만8천원</text>
+<text x="40" y="566" font-size="15" fill="#80868b">표: 국민건강보험공단 2023년 주요수술 통계연보·2026년도 본인부담상한액, 대법원 2023다283913 정리 · 식대·비급여 제외</text>
+</svg>
