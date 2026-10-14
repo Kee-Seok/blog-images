@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">호랑이 꿈, 누가 꿨는지로 먼저 가른다</text>
+<rect x="290" y="72" width="220" height="56" rx="12" fill="#4C2A9E"/>
+<text x="400" y="108" text-anchor="middle" font-size="22" font-weight="700" fill="#fff">호랑이 꿈을 꿨다</text>
+<line x1="400" y1="128" x2="200" y2="190" stroke="#888" stroke-width="3"/>
+<line x1="400" y1="128" x2="600" y2="190" stroke="#888" stroke-width="3"/>
+<rect x="40" y="190" width="320" height="200" rx="14" fill="#F1ECFB" stroke="#4C2A9E" stroke-width="2"/>
+<text x="200" y="230" text-anchor="middle" font-size="21" font-weight="700" fill="#4C2A9E">임신 중·아이를 기다리는 집</text>
+<text x="200" y="272" text-anchor="middle" font-size="19" fill="#202124">본인 · 배우자 · 양가 부모님</text>
+<text x="200" y="306" text-anchor="middle" font-size="19" fill="#202124">→ 태몽으로 보는 풀이가 많음</text>
+<text x="200" y="352" text-anchor="middle" font-size="17" fill="#5f6368">품에 안기거나 집에 들어오면 더 강하게</text>
+<rect x="440" y="190" width="320" height="200" rx="14" fill="#FFF7E0" stroke="#E0A800" stroke-width="2"/>
+<text x="600" y="230" text-anchor="middle" font-size="21" font-weight="700" fill="#8a6100">아이 계획이 없는 경우</text>
+<text x="600" y="272" text-anchor="middle" font-size="19" fill="#202124">일 · 자리 · 힘 있는 사람</text>
+<text x="600" y="306" text-anchor="middle" font-size="19" fill="#202124">→ 권세·귀인 꿈으로 풀이</text>
+<text x="600" y="352" text-anchor="middle" font-size="17" fill="#5f6368">시험·승진 앞이면 그쪽으로 읽음</text>
+</svg>
