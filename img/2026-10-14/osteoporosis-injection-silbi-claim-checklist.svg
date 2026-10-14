@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<text x="40" y="54" font-size="30" font-weight="700" fill="#202124">골다공증 주사 실비청구, 병원 나서기 전 체크</text>
+<text x="40" y="88" font-size="18" fill="#5f6368">수납 창구에서 한 번에 받아 두면 다시 안 가도 돼요</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="120" width="880" height="80" rx="12" fill="#e8f0fe"/>
+<text x="70" y="168" font-weight="700" fill="#1a73e8">1</text><text x="110" y="158" font-weight="700">진료비 영수증</text><text x="110" y="186" font-size="17" fill="#5f6368">주사비가 급여 칸인지 비급여 칸인지 여기서 확인</text>
+<rect x="40" y="215" width="880" height="80" rx="12" fill="#e8f0fe"/>
+<text x="70" y="263" font-weight="700" fill="#1a73e8">2</text><text x="110" y="253" font-weight="700">진료비 세부산정내역서</text><text x="110" y="281" font-size="17" fill="#5f6368">어떤 약을 맞았는지 약 이름과 금액이 찍힌 종이</text>
+<rect x="40" y="310" width="880" height="80" rx="12" fill="#fef7e0"/>
+<text x="70" y="358" font-weight="700" fill="#b06000">+</text><text x="110" y="348" font-weight="700">골밀도검사 결과지 또는 진단서</text><text x="110" y="376" font-size="17" fill="#5f6368">비급여로 처음 맞았을 때 보험사가 요청할 수 있어요</text>
+<rect x="40" y="405" width="880" height="70" rx="12" fill="#f1f3f4"/>
+<text x="70" y="448" font-size="18">병원이 실손24 연계면 종이 없이 병원이 보험사로 바로 전송 · 청구는 진료일부터 3년 안</text>
+</g>
+<text x="40" y="505" font-size="14" fill="#80868b">출처: 금융위원회·보건복지부 2026.9.30 실손24 안내, 금융위원회 실손 보도자료 · 2026년 10월 14일 확인</text>
+</svg>
