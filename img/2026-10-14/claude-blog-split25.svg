@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="520" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">이 계정 블로그·SNS 자동화 25개, 둘로 나눈 모습</text>
+<rect x="300" y="70" width="200" height="54" rx="12" fill="#202124"/>
+<text x="400" y="104" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">매일 도는 일 25개</text>
+<path d="M360 124 L200 170 M440 124 L600 170" stroke="#9aa0a6" stroke-width="3"/>
+<rect x="30" y="170" width="350" height="320" rx="16" fill="#eaf2ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="205" y="208" text-anchor="middle" font-size="22" font-weight="700" fill="#1a73e8">판단이 필요한 일 14개</text>
+<text x="205" y="236" text-anchor="middle" font-size="16" fill="#3c4043">→ 클로드 예약 작업</text>
+<g font-size="17" fill="#202124">
+<text x="56" y="280">· 블로그 새 글 쓰기·발행</text>
+<text x="56" y="312">· 옛 글 최신 정보로 고치기</text>
+<text x="56" y="344">· 스레드 답글 고르기·쓰기</text>
+<text x="56" y="376">· 인스타 카드뉴스 문구 쓰기</text>
+<text x="56" y="408">· 주간 점검·규칙 고치기</text>
+<text x="56" y="440">· 계산기 만들기</text>
+</g>
+<rect x="420" y="170" width="350" height="320" rx="16" fill="#f1f3f4" stroke="#5f6368" stroke-width="2"/>
+<text x="595" y="208" text-anchor="middle" font-size="22" font-weight="700" fill="#3c4043">순서가 정해진 일 11개</text>
+<text x="595" y="236" text-anchor="middle" font-size="16" fill="#3c4043">→ AI 없이 그냥 프로그램</text>
+<g font-size="17" fill="#202124">
+<text x="446" y="280">· 만든 글·릴스 정해진 시각에 올리기</text>
+<text x="446" y="312">· 블로그 숫자 매시간 모으기</text>
+<text x="446" y="344">· 색인 됐는지 추적</text>
+<text x="446" y="376">· 발행 빠졌는지 감시</text>
+<text x="446" y="408">· 로그인 토큰 갱신</text>
+<text x="446" y="440">· 검색엔진에 주소 제출</text>
+</g>
+</svg>
