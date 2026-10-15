@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500" y="56" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">10월 6일, 최근 글 16편에서 굳어 있던 곳</text>
+<g font-size="22" fill="#202124">
+<rect x="60" y="100" width="880" height="96" rx="12" fill="#FEF3E2"/>
+<text x="90" y="140" font-weight="700">첫 문장</text><text x="90" y="176" fill="#5f6368">"[주제]는 [숫자]이에요." 한 꼴 — 티스토리 5편 중 3~4편</text>
+<rect x="60" y="212" width="880" height="96" rx="12" fill="#E8F0FE"/>
+<text x="90" y="252" font-weight="700">마지막 소제목</text><text x="90" y="288" fill="#5f6368">블로그스팟 5편 중 4편이 '용어 설명'</text>
+<rect x="60" y="324" width="880" height="96" rx="12" fill="#E6F4EA"/>
+<text x="90" y="364" font-weight="700">제목</text><text x="90" y="400" fill="#5f6368">거의 전부 "A — B" 꼴</text>
+<rect x="60" y="436" width="880" height="96" rx="12" fill="#FCE8E6"/>
+<text x="90" y="476" font-weight="700">도입</text><text x="90" y="512" fill="#5f6368">'아침저녁 공기가…' 같은 계절 인사가 연달아</text>
+</g></svg>
