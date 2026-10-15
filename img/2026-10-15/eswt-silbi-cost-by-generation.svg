@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" font-family="sans-serif">
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="40" y="54" font-size="30" font-weight="700" fill="#202124">체외충격파 1회 7만원, 실비로 돌아오는 돈</text>
+<text x="40" y="88" font-size="18" fill="#5f6368">7만원 = 2026년 공개 의원급 중간값(복지부·심평원) · 통원 1회 · 예시</text>
+<g font-size="20" fill="#202124">
+<text x="40" y="160" font-weight="700">3세대 (2017.4~2021.6)</text>
+<rect x="300" y="132" width="490" height="40" rx="8" fill="#1a73e8"/><text x="806" y="160" font-weight="700">4만9천원</text>
+<text x="40" y="190" font-size="15" fill="#5f6368">특약 30% 공제 → 2만1천원 내 돈</text>
+<text x="40" y="260" font-weight="700">4세대 (2021.7~2026.5.5)</text>
+<rect x="300" y="232" width="400" height="40" rx="8" fill="#1a73e8"/><text x="716" y="260" font-weight="700">4만원</text>
+<text x="40" y="290" font-size="15" fill="#5f6368">30%와 3만원 중 큰 쪽 → 3만원 내 돈</text>
+<text x="40" y="360" font-weight="700">5세대 (2026.5.6~)</text>
+<rect x="300" y="332" width="6" height="40" fill="#d93025"/><text x="322" y="360" font-weight="700" fill="#d93025">0원</text>
+<text x="40" y="390" font-size="15" fill="#5f6368">비중증 비급여에서 체외충격파 제외</text>
+</g>
+<rect x="40" y="430" width="880" height="130" rx="14" fill="#fce8e6" stroke="#d93025"/>
+<text x="64" y="470" font-size="21" font-weight="700" fill="#b3261e">13번째부터는 세대와 상관없이 7만원 전부 내 돈</text>
+<text x="64" y="504" font-size="18" fill="#202124">1년 12회를 채우면 4세대는 48만원, 3세대는 58만8천원이 돌아온 셈이에요.</text>
+<text x="64" y="534" font-size="18" fill="#202124">1년은 7월 1일 이후 첫 치료일부터 셉니다.</text>
+<text x="40" y="588" font-size="14" fill="#80868b">공제 기준: 금융위원회 3세대(2017)·4세대(2021) 실손 개편, 조선비즈(2026.5.5) 5세대 보도 · 상품별 최소 공제액은 약관 확인</text>
+</svg>
