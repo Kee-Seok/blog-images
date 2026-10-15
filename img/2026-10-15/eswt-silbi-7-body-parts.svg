@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" font-family="sans-serif">
+<rect width="960" height="640" fill="#ffffff"/>
+<text x="40" y="54" font-size="30" font-weight="700" fill="#202124">체외충격파 실비가 인정되는 7개 부위</text>
+<text x="40" y="88" font-size="18" fill="#5f6368">2026년 7월 1일부터 · 부위당 6회(주 1회) · 1년 합쳐 12회</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="116" width="430" height="66" rx="12" fill="#e8f0fe"/><text x="62" y="148" font-weight="700">어깨</text><text x="62" y="172" font-size="16" fill="#5f6368">석회성 건염 · 회전근개 건병증</text>
+<rect x="490" y="116" width="430" height="66" rx="12" fill="#e8f0fe"/><text x="512" y="148" font-weight="700">팔꿈치</text><text x="512" y="172" font-size="16" fill="#5f6368">외측상과염 · 내측상과염</text>
+<rect x="40" y="196" width="430" height="66" rx="12" fill="#e8f0fe"/><text x="62" y="228" font-weight="700">고관절(엉덩이)</text><text x="62" y="252" font-size="16" fill="#5f6368">대전자 통증 증후군</text>
+<rect x="490" y="196" width="430" height="66" rx="12" fill="#e8f0fe"/><text x="512" y="228" font-weight="700">무릎</text><text x="512" y="252" font-size="16" fill="#5f6368">슬개건염</text>
+<rect x="40" y="276" width="430" height="66" rx="12" fill="#e8f0fe"/><text x="62" y="308" font-weight="700">발목</text><text x="62" y="332" font-size="16" fill="#5f6368">아킬레스건염</text>
+<rect x="490" y="276" width="430" height="66" rx="12" fill="#e8f0fe"/><text x="512" y="308" font-weight="700">발바닥</text><text x="512" y="332" font-size="16" fill="#5f6368">족저근막염</text>
+<rect x="40" y="356" width="880" height="66" rx="12" fill="#e8f0fe"/><text x="62" y="388" font-weight="700">목·허리</text><text x="62" y="412" font-size="16" fill="#5f6368">경추·요추부 근막통증증후군</text>
+</g>
+<rect x="40" y="446" width="880" height="150" rx="14" fill="#fef7e0" stroke="#e8710a"/>
+<text x="64" y="484" font-size="21" font-weight="700" fill="#b06000">이렇게 되면 1개 부위만, 또는 인정이 어려워요</text>
+<text x="64" y="520" font-size="18" fill="#202124">· 같은 날 두 부위를 맞아도 보상은 1개 부위분</text>
+<text x="64" y="550" font-size="18" fill="#202124">· 왼쪽·오른쪽 양쪽이어도 부위별 6회는 그대로</text>
+<text x="64" y="580" font-size="18" fill="#202124">· 위 목록에 없는 진단(예: 손목)은 실손 적용이 제한될 수 있음</text>
+<text x="40" y="626" font-size="14" fill="#80868b">출처: 보건복지부 비급여관리정책협의체(2026.6.17), 금융감독원 체외충격파 분쟁조정기준(2026.6.24 보도)</text>
+</svg>
