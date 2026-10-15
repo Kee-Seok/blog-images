@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="sans-serif">
+<rect width="900" height="460" fill="#ffffff"/>
+<text x="450" y="52" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">주고받은 것이 있었나요</text>
+<rect x="60" y="95" width="370" height="290" rx="18" fill="#e6f4ea" stroke="#34a853" stroke-width="3"/>
+<text x="245" y="150" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">아버지가 주심</text>
+<text x="245" y="205" text-anchor="middle" font-size="20" fill="#202124">밥·용돈·옷을 받음</text>
+<text x="245" y="245" text-anchor="middle" font-size="20" fill="#202124">도움·재물이 들어오는 쪽</text>
+<text x="245" y="320" text-anchor="middle" font-size="17" fill="#5f6368">길몽으로 보는 풀이가 많음</text>
+<rect x="470" y="95" width="370" height="290" rx="18" fill="#fce8e6" stroke="#ea4335" stroke-width="3"/>
+<text x="655" y="150" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">내가 드림 · 따라감</text>
+<text x="655" y="205" text-anchor="middle" font-size="20" fill="#202124">물건을 드리거나 함께 떠남</text>
+<text x="655" y="245" text-anchor="middle" font-size="20" fill="#202124">기운이 빠질 수 있다는 당부</text>
+<text x="655" y="320" text-anchor="middle" font-size="17" fill="#5f6368">몸을 한 번 챙기라는 뜻 정도</text>
+<text x="450" y="425" text-anchor="middle" font-size="17" fill="#5f6368">전통 해몽에서 흔히 전해지는 풀이 · 예언이 아님</text>
+</svg>
