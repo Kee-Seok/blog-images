@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="960" height="560" font-family="sans-serif">
+<rect width="960" height="560" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">내 경우는 어디? 보상금이 갈리는 세 사람</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="90" width="280" height="420" rx="12" fill="#e8f0fe"/>
+<text x="60" y="130" font-size="23" font-weight="700" fill="#1a73e8">A · 이름·전화만</text>
+<text x="60" y="178">돈이 빠져나간 일 없음</text>
+<text x="60" y="226">은행 '전액 보상'</text><text x="60" y="254">→ 대상 아님</text>
+<text x="60" y="302">받을 길: 위자료</text><text x="60" y="330">(분쟁조정·소송)</text>
+<text x="60" y="400" font-weight="700">과거 판결</text><text x="60" y="430" font-weight="700">1인 10만원 안팎</text>
+<rect x="340" y="90" width="280" height="420" rx="12" fill="#fef7e0"/>
+<text x="360" y="130" font-size="23" font-weight="700" fill="#b06000">B · 주민번호까지</text>
+<text x="360" y="178">아직 돈 피해 없음</text>
+<text x="360" y="226">은행 '전액 보상'</text><text x="360" y="254">→ 대상 아님</text>
+<text x="360" y="302">받을 길: 위자료</text><text x="360" y="330">(분쟁조정·소송)</text>
+<text x="360" y="400" font-weight="700">2006년 국민은행</text><text x="360" y="430" font-weight="700">판결 1인 20만원</text>
+<rect x="640" y="90" width="280" height="420" rx="12" fill="#e6f4ea"/>
+<text x="660" y="130" font-size="23" font-weight="700" fill="#188038">C · 실제 돈 피해</text>
+<text x="660" y="178">명의도용 대출·이체</text>
+<text x="660" y="226">은행 '전액 보상'</text><text x="660" y="254">→ 여기에 해당</text>
+<text x="660" y="302">사고와 이어진 게</text><text x="660" y="330">확인돼야 함</text>
+<text x="660" y="400" font-weight="700">피해 금액 전부</text><text x="660" y="430" font-weight="700">(은행 발표 기준)</text>
+</g>
+<text x="40" y="540" font-size="16" fill="#5f6368">출처: 법률방송뉴스 10-15 · 이투데이 10-07 보도, 각 은행 발표</text>
+</svg>
