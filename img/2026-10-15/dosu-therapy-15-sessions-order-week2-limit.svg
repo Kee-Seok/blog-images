@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="sans-serif">
+<rect width="1200" height="640" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="40" font-weight="700" fill="#202124">1년 15회가 쓰이는 순서</text>
+<text x="600" y="112" text-anchor="middle" font-size="24" fill="#5f6368">주 2회씩 받으면 15회는 8주째에 끝나요</text>
+<rect x="50" y="170" width="250" height="230" rx="20" fill="#f1f3f4"/>
+<text x="175" y="225" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">먼저</text>
+<text x="175" y="275" text-anchor="middle" font-size="24" fill="#202124">기본 물리치료·</text>
+<text x="175" y="310" text-anchor="middle" font-size="24" fill="#202124">단순 재활치료</text>
+<text x="175" y="355" text-anchor="middle" font-size="24" font-weight="700" fill="#0b7a75">2주 이상·4회 이상</text>
+<polygon points="312,270 340,285 312,300" fill="#9aa0a6"/>
+<rect x="350" y="170" width="440" height="230" rx="20" fill="#e6f4f3" stroke="#0b7a75" stroke-width="3"/>
+<text x="570" y="225" text-anchor="middle" font-size="28" font-weight="700" fill="#0b7a75">도수치료 1~15회</text>
+<g fill="#0b7a75">
+<rect x="378" y="250" width="22" height="40" rx="4"/><rect x="404" y="250" width="22" height="40" rx="4"/><rect x="430" y="250" width="22" height="40" rx="4"/><rect x="456" y="250" width="22" height="40" rx="4"/><rect x="482" y="250" width="22" height="40" rx="4"/><rect x="508" y="250" width="22" height="40" rx="4"/><rect x="534" y="250" width="22" height="40" rx="4"/><rect x="560" y="250" width="22" height="40" rx="4"/><rect x="586" y="250" width="22" height="40" rx="4"/><rect x="612" y="250" width="22" height="40" rx="4"/><rect x="638" y="250" width="22" height="40" rx="4"/><rect x="664" y="250" width="22" height="40" rx="4"/><rect x="690" y="250" width="22" height="40" rx="4"/><rect x="716" y="250" width="22" height="40" rx="4"/><rect x="742" y="250" width="22" height="40" rx="4"/></g>
+<text x="570" y="335" text-anchor="middle" font-size="24" fill="#202124">주 2회까지 · 1회 43,850원 중 95% 내 몫</text>
+<text x="570" y="372" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">15회 내 몫 합계 약 62만원</text>
+<polygon points="802,270 830,285 802,300" fill="#9aa0a6"/>
+<rect x="840" y="170" width="310" height="230" rx="20" fill="#fce8e6" stroke="#c5221f" stroke-width="3"/>
+<text x="995" y="225" text-anchor="middle" font-size="28" font-weight="700" fill="#c5221f">16회째부터</text>
+<text x="995" y="275" text-anchor="middle" font-size="24" fill="#202124">건강보험에도, 환자에게도</text>
+<text x="995" y="310" text-anchor="middle" font-size="24" fill="#202124">비용을 청구할 수 없음</text>
+<text x="995" y="355" text-anchor="middle" font-size="22" fill="#5f6368">(관리급여 도수치료 기준)</text>
+<rect x="350" y="440" width="800" height="110" rx="20" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+<text x="750" y="488" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">예외: 수술·골절로 관절이 굳은 소견이 뚜렷하면</text>
+<text x="750" y="526" text-anchor="middle" font-size="24" fill="#202124">의사 판단으로 최대 24회 (기본 15회 포함)</text>
+<text x="600" y="610" text-anchor="middle" font-size="22" fill="#80868b">도식: 보건복지부 2026년 7월 도수치료 관리급여 기준</text>
+</svg>
