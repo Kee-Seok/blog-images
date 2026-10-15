@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="sans-serif">
+<rect width="1200" height="720" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="40" font-weight="700" fill="#202124">도수치료 횟수, 무엇이 바뀌었나</text>
+<text x="600" y="112" text-anchor="middle" font-size="24" fill="#5f6368">보건복지부 2026년 7월 1일 보도자료 · 금융위원회 실손 특약 기준</text>
+<rect x="60" y="150" width="520" height="500" rx="22" fill="#f1f3f4" stroke="#dadce0" stroke-width="2"/>
+<text x="320" y="210" text-anchor="middle" font-size="32" font-weight="700" fill="#5f6368">2026년 6월까지</text>
+<text x="320" y="250" text-anchor="middle" font-size="22" fill="#5f6368">비급여 · 3·4세대 실손 특약 기준</text>
+<text x="100" y="330" font-size="28" fill="#202124">횟수 한도</text><text x="540" y="330" text-anchor="end" font-size="34" font-weight="700" fill="#202124">연 50회</text>
+<text x="100" y="410" font-size="28" fill="#202124">금액 한도</text><text x="540" y="410" text-anchor="end" font-size="34" font-weight="700" fill="#202124">연 350만원</text>
+<text x="100" y="490" font-size="28" fill="#202124">1회 값</text><text x="540" y="490" text-anchor="end" font-size="34" font-weight="700" fill="#202124">평균 약 11만원</text>
+<text x="100" y="570" font-size="28" fill="#202124">값 정하는 곳</text><text x="540" y="570" text-anchor="end" font-size="34" font-weight="700" fill="#202124">병원마다</text>
+<path d="M592 400 L620 400" stroke="#0b7a75" stroke-width="8"/><polygon points="620,384 648,400 620,416" fill="#0b7a75"/>
+<rect x="660" y="150" width="480" height="500" rx="22" fill="#e6f4f3" stroke="#0b7a75" stroke-width="3"/>
+<text x="900" y="210" text-anchor="middle" font-size="32" font-weight="700" fill="#0b7a75">2026년 7월 1일부터</text>
+<text x="900" y="250" text-anchor="middle" font-size="22" fill="#0b7a75">건강보험 관리급여</text>
+<text x="690" y="330" font-size="28" fill="#202124">횟수 한도</text><text x="1110" y="330" text-anchor="end" font-size="34" font-weight="700" fill="#c5221f">연 15회</text>
+<text x="690" y="372" font-size="22" fill="#5f6368">수술·골절로 관절이 굳으면 최대 24회</text>
+<text x="690" y="440" font-size="28" fill="#202124">속도</text><text x="1110" y="440" text-anchor="end" font-size="34" font-weight="700" fill="#202124">주 2회까지</text>
+<text x="690" y="510" font-size="28" fill="#202124">1회 값</text><text x="1110" y="510" text-anchor="end" font-size="34" font-weight="700" fill="#202124">43,850원</text>
+<text x="690" y="580" font-size="28" fill="#202124">내가 내는 몫</text><text x="1110" y="580" text-anchor="end" font-size="34" font-weight="700" fill="#202124">95%</text>
+<text x="600" y="695" text-anchor="middle" font-size="22" fill="#80868b">표: 보건복지부(2026.7.1)·금융위원회 실손 특약 기준을 현명한 부자가 되는 길이 정리</text>
+</svg>
