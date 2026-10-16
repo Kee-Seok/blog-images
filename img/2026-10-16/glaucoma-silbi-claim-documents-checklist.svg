@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" font-family="sans-serif">
+<rect width="1200" height="680" fill="#ffffff"/>
+<text x="60" y="80" font-size="40" font-weight="700" fill="#202124">녹내장 실비 청구 서류, 안과 창구에서 받을 것</text>
+<rect x="60" y="130" width="340" height="400" rx="16" fill="#e8f0fe"/>
+<text x="90" y="200" font-size="30" font-weight="700" fill="#202124">① 진료비 영수증</text>
+<text x="90" y="260" font-size="24" fill="#202124">낸 돈 합계</text>
+<text x="90" y="300" font-size="24" fill="#202124">급여·비급여 칸</text>
+<rect x="430" y="130" width="340" height="400" rx="16" fill="#e8f0fe"/>
+<text x="460" y="200" font-size="30" font-weight="700" fill="#202124">② 세부산정내역서</text>
+<text x="460" y="260" font-size="24" fill="#202124">시야검사·OCT 등</text>
+<text x="460" y="300" font-size="24" fill="#202124">검사별 금액</text>
+<rect x="800" y="130" width="340" height="400" rx="16" fill="#fef7e0"/>
+<text x="830" y="200" font-size="30" font-weight="700" fill="#202124">③ 처방전·소견서</text>
+<text x="830" y="260" font-size="24" fill="#202124">검진 뒤 첫 방문이면</text>
+<text x="830" y="300" font-size="24" fill="#202124">질병코드 H40.0 확인</text>
+<text x="60" y="590" font-size="28" font-weight="700" fill="#202124">실손24 연계 병원이면 병원이 바로 전송 · 청구는 진료일부터 3년 안</text>
+<text x="60" y="650" font-size="20" fill="#80868b">자료: 금융위원회·보건복지부(2026년 9월 30일), 건강보험심사평가원 심사사례(2024년 3월 29일)</text>
+</svg>
