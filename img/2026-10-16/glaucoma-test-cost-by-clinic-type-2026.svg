@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="sans-serif">
+<rect width="1200" height="720" fill="#ffffff"/>
+<text x="60" y="80" font-size="40" font-weight="700" fill="#202124">녹내장 검사비용, 어디서 받느냐에 따라 내 몫</text>
+<text x="60" y="128" font-size="26" fill="#5f6368">시야검사 양쪽 + OCT 양쪽 + 안압 정밀측정 · 2026년 건강보험 수가 · 진찰료 제외</text>
+<g font-size="30" fill="#202124">
+<text x="60" y="250" font-weight="700">동네 안과(의원)</text>
+<rect x="360" y="212" width="436" height="56" rx="8" fill="#0B7A75"/>
+<text x="812" y="252" font-weight="700">약 35,560원</text>
+<text x="360" y="300" font-size="22" fill="#5f6368">총액 118,520원 × 30%</text>
+<text x="60" y="410" font-weight="700">병원</text>
+<rect x="360" y="372" width="534" height="56" rx="8" fill="#14A39C"/>
+<text x="910" y="412" font-weight="700">약 43,600원</text>
+<text x="360" y="460" font-size="22" fill="#5f6368">총액 약 10만 9천원 × 40%</text>
+<text x="60" y="570" font-weight="700">종합병원</text>
+<rect x="360" y="532" width="700" height="56" rx="8" fill="#e8710a"/>
+<text x="1044" y="572" font-weight="700" fill="#ffffff" text-anchor="end">약 57,150원</text>
+<text x="360" y="620" font-size="22" fill="#5f6368">총액 약 11만 4천원 × 50%</text>
+</g>
+<text x="60" y="690" font-size="20" fill="#80868b">자료: 건강보험심사평가원 「건강보험요양급여비용의 내역」 2026년 2월판, 동 지역 외래 기준</text>
+</svg>
