@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="sans-serif">
+<rect width="900" height="520" fill="#ffffff"/>
+<text x="450" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">남의집에 불나는 꿈 — 깨자마자 떠올릴 네 가지</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="90" width="400" height="180" rx="16" fill="#fce8e6" stroke="#ea4335" stroke-width="3"/>
+<text x="240" y="135" text-anchor="middle" font-weight="700" font-size="24">① 불길의 크기</text>
+<text x="240" y="180" text-anchor="middle">활활 크게 → 그 집에 좋은 일</text>
+<text x="240" y="215" text-anchor="middle">금방 꺼짐 → 기운이 약함</text>
+<rect x="460" y="90" width="400" height="180" rx="16" fill="#f1f3f4" stroke="#5f6368" stroke-width="3"/>
+<text x="660" y="135" text-anchor="middle" font-weight="700" font-size="24">② 연기 색</text>
+<text x="660" y="180" text-anchor="middle">연기 적고 불꽃이 밝음 → 길한 쪽</text>
+<text x="660" y="215" text-anchor="middle">검은 연기만 가득 → 근심 쪽</text>
+<rect x="40" y="295" width="400" height="180" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="3"/>
+<text x="240" y="340" text-anchor="middle" font-weight="700" font-size="24">③ 내가 한 일</text>
+<text x="240" y="385" text-anchor="middle">구경만 함 → 남의 덕을 봄</text>
+<text x="240" y="420" text-anchor="middle">끄러 감 → 남 일에 힘을 씀</text>
+<rect x="460" y="295" width="400" height="180" rx="16" fill="#fef7e0" stroke="#fbbc04" stroke-width="3"/>
+<text x="660" y="340" text-anchor="middle" font-weight="700" font-size="24">④ 불이 간 곳</text>
+<text x="660" y="385" text-anchor="middle">우리 집으로 옮겨붙음 → 복이 옴</text>
+<text x="660" y="420" text-anchor="middle">그 집에서 꺼짐 → 그 집 일</text>
+</g>
+<text x="450" y="505" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽에서 흔히 하는 풀이 · 앞일을 정하는 말은 아님</text>
+</svg>
