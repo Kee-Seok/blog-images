@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="300" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">숫자 하나가 공개되기까지 거치는 세 곳</text>
+<rect x="25" y="80" width="230" height="140" rx="14" fill="#eaf2ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="140" y="118" text-anchor="middle" font-size="19" font-weight="700" fill="#1a73e8">① 쓸 때</text>
+<text x="140" y="150" text-anchor="middle" font-size="16" fill="#202124">숫자 옆에 기관·날짜</text>
+<text x="140" y="176" text-anchor="middle" font-size="16" fill="#202124">못 찾으면 문장째 빼기</text>
+<path d="M255 150 L295 150" stroke="#5f6368" stroke-width="3" marker-end="url(#a)"/>
+<rect x="300" y="80" width="200" height="140" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="400" y="118" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">② 쓴 뒤 기계</text>
+<text x="400" y="150" text-anchor="middle" font-size="16" fill="#202124">그림 속 금액이</text>
+<text x="400" y="176" text-anchor="middle" font-size="16" fill="#202124">본문에 있는지 대조</text>
+<path d="M500 150 L540 150" stroke="#5f6368" stroke-width="3" marker-end="url(#a)"/>
+<rect x="545" y="80" width="230" height="140" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="660" y="118" text-anchor="middle" font-size="19" font-weight="700" fill="#188038">③ 사람 승인</text>
+<text x="660" y="150" text-anchor="middle" font-size="16" fill="#202124">새 글은 초안으로 저장</text>
+<text x="660" y="176" text-anchor="middle" font-size="16" fill="#202124">'승인' 답장 뒤 공개</text>
+<text x="400" y="262" text-anchor="middle" font-size="16" fill="#5f6368">지시문 경고는 ①에만 닿는다 — ②·③은 AI가 어겨도 걸린다</text>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10z" fill="#5f6368"/></marker></defs>
+</svg>
