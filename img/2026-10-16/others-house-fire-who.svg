@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 460" font-family="sans-serif">
+<rect width="900" height="460" fill="#ffffff"/>
+<text x="450" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">불난 집이 누구네 집이었나요</text>
+<g font-size="20" fill="#202124">
+<rect x="30" y="95" width="265" height="290" rx="16" fill="#e6f4ea" stroke="#34a853" stroke-width="3"/>
+<text x="162" y="145" text-anchor="middle" font-weight="700" font-size="24">옆집</text>
+<text x="162" y="200" text-anchor="middle">가까운 사람의</text>
+<text x="162" y="230" text-anchor="middle">좋은 소식이</text>
+<text x="162" y="260" text-anchor="middle">내 쪽까지 닿는 꿈</text>
+<rect x="317" y="95" width="265" height="290" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="3"/>
+<text x="450" y="145" text-anchor="middle" font-weight="700" font-size="24">모르는 다른 집</text>
+<text x="450" y="200" text-anchor="middle">주변이 술렁이고</text>
+<text x="450" y="230" text-anchor="middle">새 소식·기회가</text>
+<text x="450" y="260" text-anchor="middle">들어오는 꿈</text>
+<rect x="604" y="95" width="265" height="290" rx="16" fill="#fce8e6" stroke="#ea4335" stroke-width="3"/>
+<text x="737" y="145" text-anchor="middle" font-weight="700" font-size="24">아파트 한 동</text>
+<text x="737" y="200" text-anchor="middle">여러 사람이 얽힌</text>
+<text x="737" y="230" text-anchor="middle">일에서 이름이</text>
+<text x="737" y="260" text-anchor="middle">오르내리는 꿈</text>
+</g>
+<text x="450" y="430" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽에서 흔히 하는 풀이 · 불길이 클수록 뜻이 커진다고 봄</text>
+</svg>
