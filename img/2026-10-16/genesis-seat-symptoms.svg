@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">하나라도 있으면 운행 멈추고 점검</text>
+<g font-size="22" fill="#202124">
+<rect x="40" y="90" width="430" height="160" rx="12" fill="#fce8e6"/>
+<text x="64" y="140" font-weight="700" fill="#c5221f">① 타는 냄새</text><text x="64" y="185">시트 주변에서 탄내가 남</text>
+<rect x="490" y="90" width="430" height="160" rx="12" fill="#fef7e0"/>
+<text x="514" y="140" font-weight="700" fill="#b06000">② 스위치가 안 먹힘</text><text x="514" y="185">눌러도 시트가 제대로 안 움직임</text>
+<rect x="40" y="270" width="430" height="160" rx="12" fill="#fef7e0"/>
+<text x="64" y="320" font-weight="700" fill="#b06000">③ 스위치가 눌린 채</text><text x="64" y="365">손을 떼도 제자리로 안 돌아옴</text>
+<rect x="490" y="270" width="430" height="160" rx="12" fill="#fce8e6"/>
+<text x="514" y="320" font-weight="700" fill="#c5221f">④ 저절로 도는 모터</text><text x="514" y="365">안 만졌는데 시트 모터가 계속 돎</text>
+</g>
+<text x="40" y="475" font-size="20" fill="#202124">수리 전까지는 건물·다른 차와 떨어진 바깥에 주차 (미국 리콜 권고)</text>
+<text x="40" y="505" font-size="16" fill="#5f6368">출처: 아이뉴스24 10-16, KPI뉴스 10-15 보도</text>
+</svg>
