@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<rect width="800" height="520" fill="#ffffff"/>
+<text x="400" y="46" font-size="27" font-weight="700" fill="#202124" text-anchor="middle">시험장에서 받아 주는 신분증 / 안 받는 것</text>
+<rect x="40" y="80" width="345" height="370" rx="16" fill="#eef7f0" stroke="#2e7d4f" stroke-width="2"/>
+<rect x="415" y="80" width="345" height="370" rx="16" fill="#fdeeee" stroke="#d93025" stroke-width="2"/>
+<text x="212" y="120" font-size="22" font-weight="700" fill="#2e7d4f" text-anchor="middle">○ 됩니다</text>
+<text x="587" y="120" font-size="22" font-weight="700" fill="#d93025" text-anchor="middle">✕ 안 됩니다</text>
+<g font-size="18" fill="#202124">
+<text x="65" y="165">주민등록증 · 운전면허증</text>
+<text x="65" y="205">여권 · 공무원증</text>
+<text x="65" y="245">장애인등록증(복지카드)</text>
+<text x="65" y="285">국가기술자격증</text>
+<text x="65" y="325">모바일 주민등록증·운전면허증</text>
+<text x="65" y="352" font-size="15" fill="#5f6368">(모바일신분증앱·삼성월렛·네이버·토스 등)</text>
+<text x="65" y="392">모바일 장애인등록증</text>
+<text x="65" y="419" font-size="15" fill="#5f6368">(모바일신분증앱, 2026.3.14부터)</text>
+<text x="440" y="165">신분증 화면 캡처·사진</text>
+<text x="440" y="205">신분증 복사본</text>
+<text x="440" y="245">건강보험증</text>
+<text x="440" y="285">대학 학생증 · 사원증</text>
+<text x="440" y="325">주민등록초본</text>
+<text x="440" y="365">민간자격증 · 신용카드</text>
+<text x="440" y="405">운전경력증명서</text>
+</g>
+<text x="400" y="490" font-size="14" fill="#80868b" text-anchor="middle">출처: 큐넷 국가자격검정 인정신분증 안내 (2026-10-16 확인) · 신분증 없으면 응시 불가</text>
+</svg>
