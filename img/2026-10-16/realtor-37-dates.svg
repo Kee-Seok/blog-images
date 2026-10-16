@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<rect width="800" height="520" fill="#ffffff"/>
+<text x="400" y="46" font-size="27" font-weight="700" fill="#202124" text-anchor="middle">제37회 공인중개사 수험표·시험 날짜 (2026)</text>
+<line x1="110" y1="95" x2="110" y2="445" stroke="#d6e4d9" stroke-width="4"/>
+<g font-size="19" fill="#202124">
+<circle cx="110" cy="100" r="13" fill="#2e7d4f"/><text x="140" y="94" font-weight="700">접수한 날부터 · 수험표 출력 가능</text><text x="140" y="120" fill="#5f6368" font-size="17">정기 8월 3~7일, 빈자리 10월 1~2일 접수자 모두</text>
+<circle cx="110" cy="190" r="13" fill="#2e7d4f"/><text x="140" y="184" font-weight="700">시험 전 · 수험표에서 시험장 위치 확인</text><text x="140" y="210" fill="#5f6368" font-size="17">입실 시각도 수험표 기준 (출력 장애 대비 미리 출력)</text>
+<circle cx="110" cy="280" r="15" fill="#d93025"/><text x="140" y="274" font-weight="700" fill="#d93025">10월 31일(토) · 1차·2차 같은 날 시험</text><text x="140" y="300" fill="#5f6368" font-size="17">수험표 출력도 이날까지만, 이후엔 조회 안 됨</text>
+<circle cx="110" cy="370" r="13" fill="#2e7d4f"/><text x="140" y="364" font-weight="700">10월 31일 18:00 ~ 11월 6일 18:00</text><text x="140" y="390" fill="#5f6368" font-size="17">가답안 공개 · 의견 제시</text>
+<circle cx="110" cy="445" r="13" fill="#2e7d4f"/><text x="140" y="451" font-weight="700">12월 2일(수) 09:00 · 합격자 발표</text>
+</g>
+<text x="400" y="500" font-size="14" fill="#80868b" text-anchor="middle">출처: 큐넷 공인중개사 시험일정·원서접수안내 (2026-10-16 확인)</text>
+</svg>
