@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" font-family="sans-serif">
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">제네시스 전동시트 리콜, 여기까지 왔어요</text>
+<line x1="110" y1="100" x2="110" y2="540" stroke="#dadce0" stroke-width="4"/>
+<g font-size="20" fill="#202124">
+<circle cx="110" cy="110" r="10" fill="#80868b"/><text x="140" y="117" font-weight="700">2021년 12월</text><text x="320" y="117">2018년형 G80 시트 문제 첫 인지</text>
+<circle cx="110" cy="180" r="10" fill="#80868b"/><text x="140" y="187" font-weight="700">2026년 7월 2일</text><text x="320" y="187">한국에서 스위치 이상·과열 정보 접수</text>
+<circle cx="110" cy="250" r="10" fill="#1a73e8"/><text x="140" y="257" font-weight="700">9월 30일</text><text x="320" y="257">현대차, 국토교통부에 신고</text>
+<circle cx="110" cy="320" r="10" fill="#1a73e8"/><text x="140" y="327" font-weight="700">10월 8일</text><text x="320" y="327">미국 9만4622대 리콜 보고서 제출</text>
+<circle cx="110" cy="390" r="10" fill="#1a73e8"/><text x="140" y="397" font-weight="700">10월 14일</text><text x="320" y="397">국내 고객에게 안내</text>
+<circle cx="110" cy="460" r="12" fill="#e8710a"/><text x="140" y="467" font-weight="700" fill="#b06000">지금</text><text x="320" y="467" fill="#b06000" font-weight="700">국내는 리콜인지 무상수리인지 미정</text>
+<circle cx="110" cy="530" r="10" fill="#80868b"/><text x="140" y="537" font-weight="700">12월 7일까지</text><text x="320" y="537">미국 소유자 안내문 발송 예정</text>
+</g>
+<text x="40" y="585" font-size="16" fill="#5f6368">출처: 아이뉴스24 10-16 · 미국 도로교통안전국(NHTSA) 리콜 보고서 보도</text>
+</svg>
