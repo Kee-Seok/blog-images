@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<text x="40" y="54" font-size="30" font-weight="700" fill="#202124">노인 고관절 수술비용, 소득분위별로 결국 내는 돈</text>
+<text x="40" y="88" font-size="18" fill="#5f6368">급여 본인부담 192만5,600원 · 그해 다른 병원비 없음 · 2026년 상한액</text>
+<g font-size="20" fill="#202124">
+<text x="40" y="150" font-weight="700">1분위 (상한 90만원)</text>
+<rect x="330" y="128" width="270" height="30" fill="#1a73e8"/><rect x="600" y="128" width="308" height="30" fill="#81c995"/>
+<text x="340" y="150" fill="#ffffff" font-size="17">90만원</text><text x="610" y="150" font-size="17">환급 102만5,600원</text>
+<text x="40" y="230" font-weight="700">2~3분위 (112만원)</text>
+<rect x="330" y="208" width="336" height="30" fill="#1a73e8"/><rect x="666" y="208" width="242" height="30" fill="#81c995"/>
+<text x="340" y="230" fill="#ffffff" font-size="17">112만원</text><text x="676" y="230" font-size="17">환급 80만5,600원</text>
+<text x="40" y="310" font-weight="700">4~5분위 (173만원)</text>
+<rect x="330" y="288" width="519" height="30" fill="#1a73e8"/><rect x="849" y="288" width="59" height="30" fill="#81c995"/>
+<text x="340" y="310" fill="#ffffff" font-size="17">173만원</text><text x="700" y="345" font-size="17">환급 19만5,600원</text>
+<text x="40" y="400" font-weight="700">6~7분위 이상</text>
+<rect x="330" y="378" width="578" height="30" fill="#1a73e8"/>
+<text x="340" y="400" fill="#ffffff" font-size="17">192만5,600원 · 환급 없음</text>
+</g>
+<rect x="40" y="440" width="18" height="18" fill="#1a73e8"/><text x="66" y="455" font-size="16" fill="#202124">결국 내는 급여 본인부담</text>
+<rect x="290" y="440" width="18" height="18" fill="#81c995"/><text x="316" y="455" font-size="16" fill="#202124">이듬해 공단이 돌려주는 돈</text>
+<text x="40" y="500" font-size="14" fill="#80868b">표: 국민건강보험공단 2026년도 본인부담상한액·2023년 주요수술 통계연보 정리 · 실손 보험금 받기 전 금액</text>
+</svg>
