@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<rect width="800" height="520" fill="#ffffff"/>
+<text x="400" y="46" font-size="26" font-weight="700" fill="#202124" text-anchor="middle">사전심사 결과를 받으면, 세 갈래</text>
+<rect x="250" y="72" width="300" height="56" rx="12" fill="#fff3ec" stroke="#e8551f" stroke-width="2"/>
+<text x="400" y="108" font-size="20" font-weight="700" fill="#202124" text-anchor="middle">심사 진행현황 확인</text>
+<path d="M400 128 L400 150 M130 150 L670 150 M130 150 L130 175 M400 150 L400 175 M670 150 L670 175" stroke="#9aa0a6" stroke-width="3" fill="none"/>
+<g font-size="17" fill="#202124" text-anchor="middle">
+<rect x="20" y="178" width="225" height="290" rx="14" fill="#eef7f0" stroke="#2e7d4f" stroke-width="2"/>
+<text x="132" y="215" font-size="20" font-weight="700" fill="#2e7d4f">고른 유형 그대로</text>
+<text x="132" y="255">할 일 없음</text>
+<text x="132" y="285">11월 12~13일</text>
+<text x="132" y="310">최종 안내 기다리기</text>
+<text x="132" y="350">→ 11월 16~27일</text>
+<text x="132" y="375">앱에서 계좌 열기</text>
+<rect x="287" y="178" width="225" height="290" rx="14" fill="#fff8e1" stroke="#b06000" stroke-width="2"/>
+<text x="400" y="215" font-size="20" font-weight="700" fill="#b06000">유형이 바뀜</text>
+<text x="400" y="255">예: 우대형(12%)으로</text>
+<text x="400" y="280">냈는데 일반형(6%)</text>
+<text x="400" y="320">→ 11월 2~5일</text>
+<text x="400" y="345">이의신청</text>
+<text x="400" y="385">1개월 안에 뗀</text>
+<text x="400" y="410">증빙서류 준비</text>
+<rect x="555" y="178" width="225" height="290" rx="14" fill="#fdeeee" stroke="#d93025" stroke-width="2"/>
+<text x="667" y="215" font-size="20" font-weight="700" fill="#d93025">가입 불가</text>
+<text x="667" y="255">사유부터 확인</text>
+<text x="667" y="295">가구원·소득 정보가</text>
+<text x="667" y="320">틀렸다면</text>
+<text x="667" y="345">→ 11월 2~5일 이의신청</text>
+<text x="667" y="385">맞는 결과라면</text>
+<text x="667" y="410">도약계좌 해지 금지</text>
+</g>
+<text x="400" y="502" font-size="14" fill="#80868b" text-anchor="middle">출처: 서민금융진흥원 청년미래적금 누리집·금융위원회 2차 일정 (2026-10-17 확인)</text>
+</svg>
