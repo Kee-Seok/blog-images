@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif">
+<rect width="800" height="560" fill="#ffffff"/>
+<text x="400" y="46" font-size="26" font-weight="700" fill="#202124" text-anchor="middle">청년미래적금 2차, 신청 다음 일정 (2026)</text>
+<line x1="110" y1="95" x2="110" y2="480" stroke="#f3d3c4" stroke-width="4"/>
+<g font-size="19" fill="#202124">
+<circle cx="110" cy="100" r="13" fill="#9aa0a6"/><text x="140" y="94" font-weight="700">10월 16일(금) 18:30 · 신청 마감</text><text x="140" y="120" fill="#5f6368" font-size="17">지금은 새로 신청할 수 없어요</text>
+<circle cx="110" cy="180" r="13" fill="#e8551f"/><text x="140" y="174" font-weight="700">10월 19일(월) ~ 11월 13일(금) · 가입 심사</text><text x="140" y="200" fill="#5f6368" font-size="17">소득 요건·우대형 자격 확인</text>
+<circle cx="110" cy="260" r="15" fill="#d93025"/><text x="140" y="254" font-weight="700" fill="#d93025">10월 30일(금) ~ 11월 2일(월) · 사전심사 결과</text><text x="140" y="280" fill="#5f6368" font-size="17">내가 고른 유형과 심사 결과를 맞춰 보는 단계</text>
+<circle cx="110" cy="340" r="15" fill="#d93025"/><text x="140" y="334" font-weight="700" fill="#d93025">11월 2일(월) ~ 5일(목) · 이의신청</text><text x="140" y="360" fill="#5f6368" font-size="17">결과가 다르면 이때 서류로 바로잡기</text>
+<circle cx="110" cy="420" r="13" fill="#e8551f"/><text x="140" y="414" font-weight="700">11월 12일(목) ~ 13일(금) · 최종 결과 안내</text>
+<circle cx="110" cy="480" r="13" fill="#e8551f"/><text x="140" y="474" font-weight="700">11월 16일(월) ~ 27일(금) · 계좌 개설</text><text x="140" y="500" fill="#5f6368" font-size="17">토·일 제외, 기간 지나면 개설 불가</text>
+</g>
+<text x="400" y="545" font-size="14" fill="#80868b" text-anchor="middle">출처: 금융위원회 발표(정책브리핑·SBS Biz 2026-10-15 보도) · 사전심사·이의신청 날짜는 예정</text>
+</svg>
