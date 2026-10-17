@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" font-family="sans-serif">
+<rect width="1000" height="440" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">1,000만원 백내장 수술, 입원으로 인정되느냐에 따라</text>
+<text x="40" y="92" font-size="19" fill="#5f6368">금융감독원 판례 안내(2025년 3월) 예시 · 실제 금액은 약관마다 다름</text>
+<rect x="60" y="140" width="410" height="250" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="265" y="195" font-size="24" font-weight="700" text-anchor="middle" fill="#1a73e8">입원 필요성 인정</text>
+<text x="265" y="265" font-size="44" font-weight="700" text-anchor="middle" fill="#202124">800~900만원</text>
+<text x="265" y="320" font-size="19" text-anchor="middle" fill="#202124">수술비의 80~90%</text>
+<text x="265" y="355" font-size="17" text-anchor="middle" fill="#5f6368">합병증·처치 기록이 있어야</text>
+<rect x="530" y="140" width="410" height="250" rx="16" fill="#fef7e0" stroke="#b06000" stroke-width="2"/>
+<text x="735" y="195" font-size="24" font-weight="700" text-anchor="middle" fill="#b06000">입원 인정 안 됨</text>
+<text x="735" y="265" font-size="44" font-weight="700" text-anchor="middle" fill="#202124">20~30만원</text>
+<text x="735" y="320" font-size="19" text-anchor="middle" fill="#202124">통원 한도 안에서만</text>
+<text x="735" y="355" font-size="17" text-anchor="middle" fill="#5f6368">6시간 체류만으로는 부족</text>
+</svg>
