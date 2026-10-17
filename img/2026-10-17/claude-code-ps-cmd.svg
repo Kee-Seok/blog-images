@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="330" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">윈도우 설치 명령, 창 종류부터 맞추기</text>
+<rect x="30" y="64" width="740" height="40" fill="#f1f3f4"/>
+<text x="140" y="90" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">구분</text>
+<text x="400" y="90" text-anchor="middle" font-size="17" font-weight="700" fill="#1a73e8">파워쉘</text>
+<text x="650" y="90" text-anchor="middle" font-size="17" font-weight="700" fill="#b06000">명령 프롬프트(CMD)</text>
+<g font-size="16" fill="#202124">
+<text x="140" y="142" text-anchor="middle">줄 앞 표시</text><text x="400" y="142" text-anchor="middle">PS C:\Users\이름&gt;</text><text x="650" y="142" text-anchor="middle">C:\Users\이름&gt; (PS 없음)</text>
+<line x1="30" y1="162" x2="770" y2="162" stroke="#dadce0"/>
+<text x="140" y="200" text-anchor="middle">설치 명령</text><text x="400" y="200" text-anchor="middle">irm …/install.ps1 | iex</text><text x="650" y="200" text-anchor="middle">curl … install.cmd …</text>
+<line x1="30" y1="220" x2="770" y2="220" stroke="#dadce0"/>
+<text x="140" y="258" text-anchor="middle">반대로 쳤을 때</text><text x="400" y="258" text-anchor="middle">'&amp;&amp;' … not a valid …</text><text x="650" y="258" text-anchor="middle">'irm' is not recognized …</text>
+</g>
+<text x="400" y="305" text-anchor="middle" font-size="15" fill="#5f6368">오류 문구가 뜨면 명령이 틀린 게 아니라 창이 바뀐 것 · 출처 code.claude.com 빠른 시작 문서</text>
+</svg>
