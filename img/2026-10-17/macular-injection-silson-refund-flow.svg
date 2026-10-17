@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" font-family="sans-serif">
+<rect width="1000" height="470" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">4세대 실손, 큰 병원에서 주사 한 번 맞으면</text>
+<text x="40" y="96" font-size="20" fill="#5f6368">아일리아 2mg · 산정특례 10% · 상급종합/종합병원 통원 공제 2만원</text>
+<rect x="40" y="150" width="280" height="190" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="180" y="215" font-size="23" text-anchor="middle" fill="#202124">병원에 낸 약값 몫</text>
+<text x="180" y="285" font-size="38" font-weight="700" text-anchor="middle" fill="#1a73e8">49,354원</text>
+<text x="340" y="258" font-size="34" text-anchor="middle" fill="#5f6368">−</text>
+<rect x="360" y="150" width="280" height="190" rx="16" fill="#fce8e6" stroke="#d93025" stroke-width="2"/>
+<text x="500" y="215" font-size="23" text-anchor="middle" fill="#202124">실손이 빼는 돈</text>
+<text x="500" y="285" font-size="38" font-weight="700" text-anchor="middle" fill="#d93025">20,000원</text>
+<text x="660" y="258" font-size="34" text-anchor="middle" fill="#5f6368">=</text>
+<rect x="680" y="150" width="280" height="190" rx="16" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="820" y="215" font-size="23" text-anchor="middle" fill="#202124">돌려받는 돈</text>
+<text x="820" y="285" font-size="38" font-weight="700" text-anchor="middle" fill="#188038">29,354원</text>
+<text x="40" y="395" font-size="20" fill="#3c4043">공제는 급여 본인부담의 20%(9,871원)와 2만원 중 큰 쪽 → 2만원</text>
+<text x="40" y="450" font-size="17" fill="#80868b">자료: 금융위원회 4세대 실손(2021.6.29) · 의약품안전나라 보험약가 · 시술료·진찰료 별도</text>
+</svg>
