@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" font-family="sans-serif">
+<rect width="1000" height="460" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">다초점 렌즈값, 실손 가입일이 가릅니다</text>
+<text x="40" y="92" font-size="19" fill="#5f6368">2016년 1월 표준약관 개정 · 수술(수정체 제거) 자체의 급여 본인부담은 별개</text>
+<line x1="60" y1="200" x2="940" y2="200" stroke="#9aa0a6" stroke-width="4"/>
+<circle cx="500" cy="200" r="14" fill="#d93025"/>
+<text x="500" y="160" font-size="24" font-weight="700" text-anchor="middle" fill="#d93025">2016년 1월</text>
+<rect x="60" y="240" width="410" height="180" rx="16" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="265" y="290" font-size="24" font-weight="700" text-anchor="middle" fill="#188038">이전 계약</text>
+<text x="265" y="335" font-size="20" text-anchor="middle" fill="#202124">약관에 렌즈 제외 문구 없음</text>
+<text x="265" y="370" font-size="20" text-anchor="middle" fill="#202124">렌즈값도 청구해 볼 수 있음</text>
+<text x="265" y="403" font-size="17" text-anchor="middle" fill="#5f6368">(보험사가 다투는 경우는 있음)</text>
+<rect x="530" y="240" width="410" height="180" rx="16" fill="#fce8e6" stroke="#d93025" stroke-width="2"/>
+<text x="735" y="290" font-size="24" font-weight="700" text-anchor="middle" fill="#d93025">이후 계약</text>
+<text x="735" y="335" font-size="20" text-anchor="middle" fill="#202124">다초점 렌즈값은 보장 제외</text>
+<text x="735" y="370" font-size="20" text-anchor="middle" fill="#202124">수술비·검사비 몫만 청구</text>
+<text x="735" y="403" font-size="17" text-anchor="middle" fill="#5f6368">2세대 실손도 이 날짜로 갈림</text>
+</svg>
