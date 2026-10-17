@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="sans-serif">
+<rect width="960" height="540" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">조회 순서, 세 칸이면 끝나요</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="95" width="270" height="330" rx="14" fill="#e8f0fe"/>
+<text x="64" y="145" font-size="40" font-weight="700" fill="#1a73e8">1</text>
+<text x="64" y="195" font-weight="700">내 거래 금융사</text><text x="64" y="232">어카운트인포에서</text><text x="64" y="264">계좌 있는 곳 확인</text>
+<rect x="345" y="95" width="270" height="330" rx="14" fill="#fef7e0"/>
+<text x="369" y="145" font-size="40" font-weight="700" fill="#b06000">2</text>
+<text x="369" y="195" font-weight="700">명단과 맞춰 보기</text><text x="369" y="232">침해 확인 16곳에</text><text x="369" y="264">겹치는 곳이 있나</text>
+<rect x="650" y="95" width="270" height="330" rx="14" fill="#e6f4ea"/>
+<text x="674" y="145" font-size="40" font-weight="700" fill="#137333">3</text>
+<text x="674" y="195" font-weight="700">그 회사 창구로</text><text x="674" y="232">앱·홈페이지 조회</text><text x="674" y="264">또는 대표번호 문의</text>
+</g>
+<text x="40" y="480" font-size="19" fill="#202124">아이디·비밀번호 유출은 따로: 털린 내 정보 찾기 서비스</text>
+<text x="40" y="515" font-size="16" fill="#5f6368">16곳 명단: 금융위원회 10-14 발표(파이낸셜뉴스·노컷뉴스 보도)</text>
+</svg>
