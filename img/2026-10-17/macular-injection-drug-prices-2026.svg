@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="708" viewBox="0 0 1000 708" font-family="sans-serif">
+<rect width="1000" height="708" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">황반변성 주사 1회 약값과 내 몫(산정특례)</text>
+<text x="40" y="98" font-size="20" fill="#5f6368">보험 상한금액 기준 · 지금 10% / 2026년 12월부터 7%</text>
+<text x="40" y="180" font-size="21" fill="#202124">아필리부(바이오시밀러)</text>
+<rect x="330" y="158" width="107" height="30" rx="6" fill="#c5d5f7"/>
+<text x="447" y="181" font-size="19" fill="#3c4043">198,000원</text>
+<text x="330" y="214" font-size="19" font-weight="700" fill="#1a73e8">내 몫 19,800원 → 12월부터 13,860원</text>
+<text x="40" y="258" font-size="21" fill="#202124">아이덴젤트(바이오시밀러)</text>
+<rect x="330" y="236" width="178" height="30" rx="6" fill="#c5d5f7"/>
+<text x="518" y="259" font-size="19" fill="#3c4043">330,000원</text>
+<text x="330" y="292" font-size="19" font-weight="700" fill="#1a73e8">내 몫 33,000원 → 12월부터 23,100원</text>
+<text x="40" y="336" font-size="21" fill="#202124">아일리아 2mg</text>
+<rect x="330" y="314" width="267" height="30" rx="6" fill="#c5d5f7"/>
+<text x="607" y="337" font-size="19" fill="#3c4043">493,543원</text>
+<text x="330" y="370" font-size="19" font-weight="700" fill="#1a73e8">내 몫 49,354원 → 12월부터 34,548원</text>
+<text x="40" y="414" font-size="21" fill="#202124">루센티스</text>
+<rect x="330" y="392" width="312" height="30" rx="6" fill="#c5d5f7"/>
+<text x="652" y="415" font-size="19" fill="#3c4043">576,879원</text>
+<text x="330" y="448" font-size="19" font-weight="700" fill="#1a73e8">내 몫 57,688원 → 12월부터 40,382원</text>
+<text x="40" y="492" font-size="21" fill="#202124">바비스모</text>
+<rect x="330" y="470" width="376" height="30" rx="6" fill="#c5d5f7"/>
+<text x="716" y="493" font-size="19" fill="#3c4043">695,857원</text>
+<text x="330" y="526" font-size="19" font-weight="700" fill="#1a73e8">내 몫 69,586원 → 12월부터 48,710원</text>
+<text x="40" y="570" font-size="21" fill="#202124">아일리아 8mg</text>
+<rect x="330" y="548" width="430" height="30" rx="6" fill="#c5d5f7"/>
+<text x="770" y="571" font-size="19" fill="#3c4043">795,000원</text>
+<text x="330" y="604" font-size="19" font-weight="700" fill="#1a73e8">내 몫 79,500원 → 12월부터 55,650원</text>
+<text x="40" y="678" font-size="17" fill="#80868b">자료: 식품의약품안전처 의약품안전나라 보험약가(2026년 10월 확인) · 보건복지부 2026.9.8 발표. 시술료·진찰료 별도</text>
+</svg>
