@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" font-family="sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">아일리아 2mg 한 번, 내가 내는 약값</text>
+<text x="40" y="96" font-size="20" fill="#5f6368">약값 493,543원 기준 · 본인부담률만 바꿔 계산</text>
+<rect x="80" y="150" width="130" height="280" rx="8" fill="#d93025" opacity=".85"/>
+<text x="145" y="138" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">296,126원</text>
+<text x="145" y="462" font-size="19" text-anchor="middle" fill="#3c4043">산정특례 없이</text>
+<text x="145" y="488" font-size="19" text-anchor="middle" fill="#3c4043">상급종합병원(60%)</text>
+<rect x="305" y="383" width="130" height="47" rx="8" fill="#1a73e8" opacity=".85"/>
+<text x="370" y="371" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">49,354원</text>
+<text x="370" y="462" font-size="19" text-anchor="middle" fill="#3c4043">산정특례 지금</text>
+<text x="370" y="488" font-size="19" text-anchor="middle" fill="#3c4043">(10%)</text>
+<rect x="530" y="397" width="130" height="33" rx="8" fill="#188038" opacity=".85"/>
+<text x="595" y="385" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">34,548원</text>
+<text x="595" y="462" font-size="19" text-anchor="middle" fill="#3c4043">2026년 12월부터</text>
+<text x="595" y="488" font-size="19" text-anchor="middle" fill="#3c4043">(7%)</text>
+<rect x="755" y="407" width="130" height="23" rx="8" fill="#188038" opacity=".85"/>
+<text x="820" y="395" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">24,677원</text>
+<text x="820" y="462" font-size="19" text-anchor="middle" fill="#3c4043">2028년 예정</text>
+<text x="820" y="488" font-size="19" text-anchor="middle" fill="#3c4043">(5%)</text>
+<text x="40" y="506" font-size="17" fill="#80868b">자료: 의약품안전나라 보험약가 · 국민건강보험공단 산정특례 안내 · 보건복지부 2026.9.8 발표</text>
+</svg>
