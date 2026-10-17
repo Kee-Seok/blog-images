@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="340" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">클로드 코드를 켜는 곳 세 군데</text>
+<rect x="20" y="70" width="240" height="200" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="140" y="108" text-anchor="middle" font-size="19" font-weight="700" fill="#188038">① 데스크톱 앱 Code 탭</text>
+<text x="140" y="145" text-anchor="middle" font-size="16" fill="#202124">명령어 0줄</text>
+<text x="140" y="172" text-anchor="middle" font-size="16" fill="#202124">폴더 고르고 말로 시킴</text>
+<text x="140" y="199" text-anchor="middle" font-size="16" fill="#202124">Node.js 설치 필요 없음</text>
+<text x="140" y="240" text-anchor="middle" font-size="16" font-weight="700" fill="#188038">처음이면 여기</text>
+<rect x="280" y="70" width="240" height="200" rx="14" fill="#eaf2ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="400" y="108" text-anchor="middle" font-size="19" font-weight="700" fill="#1a73e8">② 파워쉘·맥 터미널</text>
+<text x="400" y="145" text-anchor="middle" font-size="16" fill="#202124">설치 명령 한 줄</text>
+<text x="400" y="172" text-anchor="middle" font-size="16" fill="#202124">폴더로 이동 → claude</text>
+<text x="400" y="199" text-anchor="middle" font-size="16" fill="#202124">글자만 오가는 화면</text>
+<text x="400" y="240" text-anchor="middle" font-size="16" font-weight="700" fill="#1a73e8">명령어가 익숙하면</text>
+<rect x="540" y="70" width="240" height="200" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="660" y="108" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">③ VS Code 확장</text>
+<text x="660" y="145" text-anchor="middle" font-size="16" fill="#202124">VS Code 1.94.0 이상</text>
+<text x="660" y="172" text-anchor="middle" font-size="16" fill="#202124">편집기 오른쪽 창에서</text>
+<text x="660" y="199" text-anchor="middle" font-size="16" fill="#202124">바뀐 줄을 바로 확인</text>
+<text x="660" y="240" text-anchor="middle" font-size="16" font-weight="700" fill="#b06000">이미 VS Code를 쓰면</text>
+<text x="400" y="312" text-anchor="middle" font-size="15" fill="#5f6368">셋 다 같은 유료 계정(Pro·Max·Team·Enterprise)으로 로그인 · 출처 code.claude.com 문서, 2026-10-17 확인</text>
+</svg>
