@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" width="960" height="620" font-family="sans-serif">
+<rect width="960" height="620" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">어디서 확인하나 — 금융사마다 창구가 달라요</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="90" width="880" height="80" rx="12" fill="#e8f0fe"/>
+<text x="64" y="140" font-weight="700">신한은행</text><text x="300" y="140">SOL뱅크 앱·홈페이지에서 직접 조회</text>
+<rect x="40" y="185" width="880" height="80" rx="12" fill="#e8f0fe"/>
+<text x="64" y="235" font-weight="700">KB국민은행</text><text x="300" y="235">홈페이지 조회창 + 대상자 MMS</text>
+<rect x="40" y="280" width="880" height="80" rx="12" fill="#fef7e0"/>
+<text x="64" y="330" font-weight="700">하나은행</text><text x="300" y="330">피해 고객 89명에게 개별 통보</text>
+<rect x="40" y="375" width="880" height="80" rx="12" fill="#fef7e0"/>
+<text x="64" y="425" font-weight="700">예가람저축은행</text><text x="300" y="425">홈페이지 공지 + 문자 (약 4만 명 추정)</text>
+<rect x="40" y="470" width="880" height="80" rx="12" fill="#fce8e6"/>
+<text x="64" y="520" font-weight="700">OK저축은행</text><text x="300" y="520">대상자 문자 · 상담 1899-7979 (518명)</text>
+</g>
+<text x="40" y="595" font-size="16" fill="#5f6368">출처: 서울신문 10-05, 뉴데일리·신아일보 10-16 보도 / 문자 속 링크 말고 앱·홈페이지에 직접 접속</text>
+</svg>
