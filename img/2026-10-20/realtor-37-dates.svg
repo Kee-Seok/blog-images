@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" font-family="sans-serif">
+<rect width="1000" height="470" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">37회 시험 날부터 합격 발표까지</text>
+<text x="40" y="96" font-size="20" fill="#5f6368">큐넷 공인중개사 일정 (2026년 10월 20일 확인)</text>
+<line x1="110" y1="210" x2="890" y2="210" stroke="#dadce0" stroke-width="6"/>
+<g text-anchor="middle">
+<circle cx="110" cy="210" r="18" fill="#1a73e8"/><text x="110" y="160" font-size="22" font-weight="700" fill="#202124">10월 31일(토)</text>
+<text x="110" y="262" font-size="18" fill="#3c4043">1차 09:30</text><text x="110" y="290" font-size="18" fill="#3c4043">2차 13:00·15:30</text>
+<circle cx="370" cy="210" r="18" fill="#e8710a"/><text x="370" y="160" font-size="22" font-weight="700" fill="#202124">같은 날 오후 6시</text>
+<text x="370" y="262" font-size="18" fill="#3c4043">큐넷 가답안 공개</text><text x="370" y="290" font-size="18" fill="#3c4043">→ 가채점</text>
+<circle cx="630" cy="210" r="18" fill="#d93025"/><text x="630" y="160" font-size="22" font-weight="700" fill="#202124">11월 6일(금) 오후 6시</text>
+<text x="630" y="262" font-size="18" fill="#3c4043">가답안 의견제시 마감</text>
+<circle cx="890" cy="210" r="18" fill="#188038"/><text x="890" y="160" font-size="22" font-weight="700" fill="#202124">12월 2일(수)</text>
+<text x="890" y="262" font-size="18" fill="#3c4043">오전 9시 최종정답</text><text x="890" y="290" font-size="18" fill="#3c4043">·합격자 발표</text>
+</g>
+<rect x="60" y="340" width="880" height="90" rx="12" fill="#fef7e0"/>
+<text x="500" y="378" font-size="21" font-weight="700" text-anchor="middle" fill="#202124">1·2차를 같이 봤다면 1차 점수부터</text>
+<text x="500" y="412" font-size="19" text-anchor="middle" fill="#3c4043">1차가 불합격이면 2차는 점수와 상관없이 무효 (시행령 제5조 제3항)</text>
+</svg>
