@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="38" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">티스토리 저품질 확인, 다음에서 이 순서로</text>
+<g font-size="17" fill="#202124">
+<rect x="30" y="62" width="740" height="66" rx="12" fill="#eaf2ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="52" y="92" font-weight="700" fill="#1a73e8">① 글 제목 그대로 검색</text>
+<text x="52" y="116">내 글이 나오면 → 그 글은 색인됨 (통째로 빠진 건 아님)</text>
+<rect x="30" y="140" width="740" height="66" rx="12" fill="#eaf2ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="52" y="170" font-weight="700" fill="#1a73e8">② site:내주소 검색</text>
+<text x="52" y="194">최근 글 번호가 보이면 → 블로그 전체가 막힌 건 아님</text>
+<rect x="30" y="218" width="740" height="66" rx="12" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="52" y="248" font-weight="700" fill="#b06000">③ 노린 검색어로 순위 보기</text>
+<text x="52" y="272">1쪽인데 유입 0 → 그 말을 치는 사람이 없음 (검색어 문제)</text>
+<rect x="30" y="296" width="740" height="66" rx="12" fill="#fce8e6" stroke="#d93025" stroke-width="2"/>
+<text x="52" y="326" font-weight="700" fill="#d93025">④ 관리 → 통계 → 유입 경로</text>
+<text x="52" y="350">①②가 안 나오고 다음 유입도 뚝 끊겼으면 → 그때 누락을 의심</text>
+</g>
+<text x="400" y="390" text-anchor="middle" font-size="14" fill="#5f6368">크라우드 이슈 블로그 실측 · 2026-10-14 진단, 10-20 재확인</text>
+</svg>
