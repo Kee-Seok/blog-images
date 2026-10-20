@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+<rect width="800" height="380" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">교통사고 한의원 청구, 사고일부터 세는 날짜</text>
+<text x="400" y="68" text-anchor="middle" font-size="15" fill="#5f6368">예: 10월 1일 사고 · 염좌 14급 · 2026년 9월 10일 이후 사고</text>
+<line x1="70" y1="170" x2="730" y2="170" stroke="#5f6368" stroke-width="3"/>
+<circle cx="70" cy="170" r="10" fill="#1a73e8"/>
+<text x="70" y="140" text-anchor="middle" font-size="16" font-weight="700" fill="#202124">사고일</text>
+<text x="70" y="205" text-anchor="middle" font-size="15" fill="#202124">10/1</text>
+<circle cx="330" cy="170" r="10" fill="#1a73e8"/>
+<text x="330" y="140" text-anchor="middle" font-size="16" font-weight="700" fill="#202124">4주</text>
+<text x="330" y="205" text-anchor="middle" font-size="15" fill="#202124">10/29</text>
+<circle cx="590" cy="170" r="12" fill="#e8710a"/>
+<text x="590" y="140" text-anchor="middle" font-size="16" font-weight="700" fill="#b06000">7주 · 서류 마감</text>
+<text x="590" y="205" text-anchor="middle" font-size="15" fill="#202124">11/19</text>
+<circle cx="730" cy="170" r="10" fill="#d93025"/>
+<text x="730" y="140" text-anchor="middle" font-size="16" font-weight="700" fill="#202124">8주</text>
+<text x="730" y="205" text-anchor="middle" font-size="15" fill="#202124">11/26</text>
+<rect x="40" y="240" width="340" height="110" rx="10" fill="#e8f0fe"/>
+<text x="210" y="272" text-anchor="middle" font-size="16" fill="#1a3d8f">~4주: 진단서 없이 치료비 지급</text>
+<text x="210" y="300" text-anchor="middle" font-size="16" fill="#1a3d8f">4주 넘으면: 진단서에 적힌</text>
+<text x="210" y="326" text-anchor="middle" font-size="16" fill="#1a3d8f">기간만큼 (2023년 사고부터)</text>
+<rect x="420" y="240" width="340" height="110" rx="10" fill="#fef7e0"/>
+<text x="590" y="272" text-anchor="middle" font-size="16" fill="#202124">7주 안: 진단서·진료기록부 사본</text>
+<text x="590" y="300" text-anchor="middle" font-size="16" fill="#202124">보험사에 제출 → 자배원 검토</text>
+<text x="590" y="326" text-anchor="middle" font-size="16" fill="#202124">요청일부터 7일 안 결과 통보</text>
+</svg>
