@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" font-family="sans-serif">
+<rect width="800" height="340" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">내 과실 20%일 때 한의원 치료비 100만원은</text>
+<text x="400" y="68" text-anchor="middle" font-size="15" fill="#5f6368">상해 14급(염좌) 예시 · 2023년 이후 사고 · 경상환자 기준</text>
+<rect x="60" y="100" width="340" height="80" rx="8" fill="#e8f0fe"/>
+<text x="230" y="134" text-anchor="middle" font-size="18" font-weight="700" fill="#1a3d8f">책임보험 한도 50만원</text>
+<text x="230" y="160" text-anchor="middle" font-size="15" fill="#1a3d8f">과실과 상관없이 상대 보험</text>
+<rect x="400" y="100" width="272" height="80" rx="8" fill="#e6f4ea"/>
+<text x="536" y="134" text-anchor="middle" font-size="18" font-weight="700" fill="#137333">40만원</text>
+<text x="536" y="160" text-anchor="middle" font-size="15" fill="#137333">상대 보험 (80%)</text>
+<rect x="672" y="100" width="68" height="80" rx="8" fill="#fbbc04"/>
+<text x="706" y="134" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">10만</text>
+<text x="706" y="160" text-anchor="middle" font-size="13" fill="#202124">내 보험</text>
+<text x="230" y="215" text-anchor="middle" font-size="15" fill="#5f6368">↑ 대인1 (14급 한도)</text>
+<text x="570" y="215" text-anchor="middle" font-size="15" fill="#5f6368">↑ 넘는 50만원을 과실대로 나눔</text>
+<rect x="60" y="245" width="680" height="64" rx="10" fill="#fce8e6"/>
+<text x="400" y="273" text-anchor="middle" font-size="16" fill="#202124">내 과실이 0%면 100만원 모두 상대 보험 · 과실 몫은 내 자동차보험</text>
+<text x="400" y="297" text-anchor="middle" font-size="16" fill="#202124">(자기신체사고·자동차상해 담보)에서 처리</text>
+</svg>
