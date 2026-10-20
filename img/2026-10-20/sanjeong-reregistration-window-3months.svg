@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="sans-serif">
+<rect width="800" height="360" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">산정특례 재등록, 언제 신청하나</text>
+<rect x="60" y="120" width="680" height="44" rx="8" fill="#e8f0fe"/>
+<text x="250" y="149" text-anchor="middle" font-size="18" fill="#1a3d8f">등록 기간 5년 (본인부담 10%)</text>
+<rect x="560" y="112" width="180" height="60" rx="8" fill="#fbbc04"/>
+<text x="650" y="139" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">재등록 신청 창</text>
+<text x="650" y="161" text-anchor="middle" font-size="14" fill="#202124">종료 3개월 전 ~ 종료일</text>
+<line x1="60" y1="190" x2="60" y2="210" stroke="#5f6368" stroke-width="2"/>
+<text x="60" y="232" text-anchor="middle" font-size="15" fill="#5f6368">등록 시작</text>
+<line x1="740" y1="190" x2="740" y2="210" stroke="#5f6368" stroke-width="2"/>
+<text x="740" y="232" text-anchor="middle" font-size="15" fill="#5f6368">종료일</text>
+<rect x="60" y="262" width="680" height="64" rx="10" fill="#fce8e6"/>
+<text x="400" y="290" text-anchor="middle" font-size="16" fill="#202124">종료일을 넘기면: 재등록도 확진일 30일 안 신청이면 확진일부터,</text>
+<text x="400" y="314" text-anchor="middle" font-size="16" fill="#202124">30일이 지나면 신청한 날부터 다시 적용</text>
+</svg>
