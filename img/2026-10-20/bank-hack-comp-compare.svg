@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" font-family="sans-serif">
+<rect width="960" height="600" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">은행마다 다른 해킹 보상 (10월 20일 보도 기준)</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="90" width="280" height="430" rx="14" fill="#e8f0fe"/>
+<text x="60" y="130" font-size="24" font-weight="700" fill="#1a73e8">신한은행</text>
+<text x="60" y="170">유출 약 2만 5천 명 전원</text>
+<text x="60" y="215" font-weight="700">금융범죄 보상 보험</text>
+<text x="60" y="245">1년간 1인당 1,000만원</text>
+<text x="60" y="275">보험료는 은행이 냄</text>
+<text x="60" y="320">수수료 면제·환율 우대</text>
+<text x="60" y="350">전담 창구·직원</text>
+<text x="60" y="400" font-weight="700" fill="#b06000">현금 보상 없음</text>
+<rect x="340" y="90" width="280" height="430" rx="14" fill="#e6f4ea"/>
+<text x="360" y="130" font-size="24" font-weight="700" fill="#188038">하나은행</text>
+<text x="360" y="170">유출 89명 전원</text>
+<text x="360" y="215" font-weight="700">VIP 등급으로 올림</text>
+<text x="360" y="245">송금·ATM·OTP 발급</text>
+<text x="360" y="275">수수료 면제</text>
+<text x="360" y="320">금융명의보호 서비스</text>
+<text x="360" y="350">가입 지원</text>
+<text x="360" y="400" font-weight="700" fill="#b06000">현금 보상 없음</text>
+<rect x="640" y="90" width="280" height="430" rx="14" fill="#f1f3f4"/>
+<text x="660" y="130" font-size="24" font-weight="700" fill="#5f6368">국민·부산은행</text>
+<text x="660" y="170">국민: 보상안 검토 중</text>
+<text x="660" y="215" font-weight="700">지금은 '사후 배상'</text>
+<text x="660" y="245">실제 돈 피해가</text>
+<text x="660" y="275">확인돼야 배상</text>
+<text x="660" y="320">부산: 인과관계 따져</text>
+<text x="660" y="350">배상 원칙 유지</text>
+</g>
+<text x="40" y="575" font-size="16" fill="#5f6368">출처: 국민일보·아주경제·뉴스저널리즘 2026-10-20 보도</text>
+</svg>
