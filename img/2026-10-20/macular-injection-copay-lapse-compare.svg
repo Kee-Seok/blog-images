@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="38" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">아일리아 2mg 한 번(약값 493,543원), 내 몫은</text>
+<g font-size="16" fill="#202124">
+<text x="40" y="100">산정특례 유지 · 지금 10%</text>
+<rect x="300" y="82" width="49" height="28" fill="#1a73e8"/><text x="360" y="102">49,354원</text>
+<text x="40" y="160">산정특례 유지 · 12월부터 7%</text>
+<rect x="300" y="142" width="35" height="28" fill="#34a853"/><text x="346" y="162">34,548원</text>
+<text x="40" y="220">끊김 · 동네 의원 외래 30%</text>
+<rect x="300" y="202" width="148" height="28" fill="#f29900"/><text x="458" y="222">148,063원</text>
+<text x="40" y="280">끊김 · 상급종합병원 외래 60%</text>
+<rect x="300" y="262" width="296" height="28" fill="#d93025"/><text x="606" y="282">296,126원</text>
+</g>
+<text x="400" y="340" text-anchor="middle" font-size="15" fill="#5f6368">약값만 계산, 진찰료·시술료·검사비 별도</text>
+<text x="400" y="366" text-anchor="middle" font-size="14" fill="#5f6368">약가: 식약처 의약품안전나라 2026.1.1 / 본인부담률: 국민건강보험법 시행령</text>
+</svg>
