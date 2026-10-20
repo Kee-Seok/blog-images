@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="sans-serif">
+<rect width="900" height="430" fill="#ffffff"/>
+<text x="450" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">돈이 어느 쪽으로 건너갔나요</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="90" width="390" height="270" rx="16" fill="#e6f4ea" stroke="#34a853" stroke-width="3"/>
+<text x="235" y="140" text-anchor="middle" font-weight="700" font-size="24">엄마 → 나</text>
+<text x="235" y="190" text-anchor="middle">엄마가 쥐여 준 돈</text>
+<text x="235" y="225" text-anchor="middle">도와줄 사람·재물이</text>
+<text x="235" y="260" text-anchor="middle">들어오는 꿈으로 봄</text>
+<text x="235" y="320" text-anchor="middle" font-size="18" fill="#137333">지폐 뭉치일수록 좋게 봄</text>
+<rect x="470" y="90" width="390" height="270" rx="16" fill="#fce8e6" stroke="#d93025" stroke-width="3"/>
+<text x="665" y="140" text-anchor="middle" font-weight="700" font-size="24">나 → 엄마</text>
+<text x="665" y="190" text-anchor="middle">내가 엄마께 드린 돈</text>
+<text x="665" y="225" text-anchor="middle">나갈 돈이 생기니</text>
+<text x="665" y="260" text-anchor="middle">씀씀이를 살피라는 꿈</text>
+<text x="665" y="320" text-anchor="middle" font-size="18" fill="#c5221f">못다 한 효도 마음이기도</text>
+</g>
+<text x="450" y="400" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽 풀이 · 꿈으로 돈 일을 정하지 마세요</text>
+</svg>
