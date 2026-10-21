@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="sans-serif">
+<rect width="900" height="520" fill="#ffffff"/>
+<text x="450" y="48" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">교통사고 치료비, 돈이 오가는 순서</text>
+<g font-size="19" fill="#202124">
+<rect x="90" y="80" width="720" height="70" rx="12" fill="#f1f3f4"/>
+<text x="450" y="123" text-anchor="middle">① 상대 보험사가 병원에 치료비 전액을 먼저 냄 (지급보증)</text>
+<rect x="90" y="180" width="720" height="70" rx="12" fill="#f1f3f4"/>
+<text x="450" y="223" text-anchor="middle">② 치료가 4주를 넘으면 진단서를 보험사에 냄</text>
+<rect x="90" y="280" width="720" height="70" rx="12" fill="#fce8e6"/>
+<text x="450" y="323" text-anchor="middle">③ 끝나고 정산: 책임보험 한도 넘은 몫 × 내 과실 = 돌려달라는 돈</text>
+<rect x="90" y="380" width="720" height="70" rx="12" fill="#e6f4ea"/>
+<text x="450" y="423" text-anchor="middle">④ 내 자동차상해·자기신체사고로 처리 (없으면 내 돈)</text>
+</g>
+<g stroke="#5f6368" stroke-width="3" fill="#5f6368">
+<line x1="450" y1="150" x2="450" y2="172"/><polygon points="442,170 458,170 450,180"/>
+<line x1="450" y1="250" x2="450" y2="272"/><polygon points="442,270 458,270 450,280"/>
+<line x1="450" y1="350" x2="450" y2="372"/><polygon points="442,370 458,370 450,380"/>
+</g>
+<text x="450" y="495" text-anchor="middle" font-size="16" fill="#80868b">도식: 금융위원회 2021년 9월 30일 자동차보험 제도개선 보도자료 정리 (2023년 1월 1일 사고부터)</text>
+</svg>
