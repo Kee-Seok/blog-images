@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="sans-serif">
+<rect width="900" height="520" fill="#ffffff"/>
+<text x="450" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">내 경우 향후치료비, 두 번만 물어보면 갈려요</text>
+<rect x="250" y="76" width="400" height="66" rx="12" fill="#e8f0fe"/>
+<text x="450" y="117" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">① 진단 급수가 12~14급인가?</text>
+<line x1="350" y1="142" x2="200" y2="196" stroke="#5f6368" stroke-width="3"/>
+<line x1="550" y1="142" x2="700" y2="196" stroke="#5f6368" stroke-width="3"/>
+<text x="250" y="178" font-size="17" fill="#5f6368">아니요(1~11급)</text>
+<text x="600" y="178" font-size="17" fill="#5f6368">예(경상)</text>
+<rect x="40" y="200" width="340" height="120" rx="12" fill="#f1f3f4"/>
+<text x="210" y="246" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">장래 치료가 필요하다고</text>
+<text x="210" y="276" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">서류로 입증된 비용</text>
+<rect x="500" y="200" width="380" height="90" rx="12" fill="#e8f0fe"/>
+<text x="690" y="236" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">② 상대 차 보험이 시작된 날이</text>
+<text x="690" y="266" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">2026년 10월 25일 이후인가?</text>
+<line x1="600" y1="290" x2="560" y2="350" stroke="#5f6368" stroke-width="3"/>
+<line x1="780" y1="290" x2="820" y2="350" stroke="#5f6368" stroke-width="3"/>
+<text x="520" y="330" font-size="17" fill="#5f6368">아니요</text>
+<text x="800" y="330" font-size="17" fill="#5f6368">예</text>
+<rect x="420" y="356" width="230" height="110" rx="12" fill="#f1f3f4"/>
+<text x="535" y="400" text-anchor="middle" font-size="17" fill="#202124">바뀐 기준 적용 전 계약</text>
+<text x="535" y="430" text-anchor="middle" font-size="17" fill="#202124">(합의 때 협의)</text>
+<rect x="670" y="356" width="210" height="110" rx="12" fill="#fff4e5"/>
+<text x="775" y="400" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">향후치료비 대신</text>
+<text x="775" y="430" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">실제 치료비 보장</text>
+<text x="450" y="506" text-anchor="middle" font-size="15" fill="#5f6368">급수는 자동차손해배상 보장법 시행령 별표1 · 기준일은 금감원 FAQ(2026.9.3)</text>
+</svg>
