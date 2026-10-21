@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="sans-serif">
+<rect width="900" height="470" fill="#ffffff"/>
+<text x="450" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">바뀐 날짜는 두 개, 세는 기준이 달라요</text>
+<rect x="40" y="80" width="400" height="350" rx="14" fill="#f1f3f4"/>
+<text x="240" y="126" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">2026년 9월 10일</text>
+<text x="240" y="166" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">8주 넘는 치료 심사</text>
+<text x="240" y="220" text-anchor="middle" font-size="18" fill="#202124">기준: 사고가 난 날</text>
+<text x="240" y="262" text-anchor="middle" font-size="18" fill="#202124">12~14급 염좌·단순 타박상</text>
+<text x="240" y="304" text-anchor="middle" font-size="18" fill="#202124">7주 안에 서류 → 7일 안에 결과</text>
+<text x="240" y="346" text-anchor="middle" font-size="18" fill="#202124">임산부·영유아는 제외</text>
+<rect x="460" y="80" width="400" height="350" rx="14" fill="#fff4e5"/>
+<text x="660" y="126" text-anchor="middle" font-size="30" font-weight="700" fill="#b06000">2026년 10월 25일</text>
+<text x="660" y="166" text-anchor="middle" font-size="20" font-weight="700" fill="#202124">향후치료비 기준 변경</text>
+<text x="660" y="220" text-anchor="middle" font-size="18" fill="#202124">기준: 보험기간이 시작된 날</text>
+<text x="660" y="262" text-anchor="middle" font-size="18" fill="#202124">9월 10일 개정 약관 계약부터</text>
+<text x="660" y="304" text-anchor="middle" font-size="18" fill="#202124">12~14급: 실제 치료비만</text>
+<text x="660" y="346" text-anchor="middle" font-size="18" fill="#202124">1~11급: 입증된 비용만</text>
+<text x="450" y="458" text-anchor="middle" font-size="15" fill="#5f6368">출처: 금융감독원 보도자료(2026.9.3) 시행 시기·FAQ</text>
+</svg>
