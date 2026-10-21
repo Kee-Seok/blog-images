@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="sans-serif">
+<rect width="900" height="430" fill="#ffffff"/>
+<text x="450" y="50" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">8:2 쌍방과실 · 12급 척추 염좌 · 치료비 300만원</text>
+<rect x="60" y="100" width="312" height="110" fill="#d2e3fc"/>
+<rect x="372" y="100" width="374" height="110" fill="#e6f4ea"/>
+<rect x="746" y="100" width="94" height="110" fill="#fce8e6"/>
+<text x="216" y="148" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">120만원</text>
+<text x="216" y="180" text-anchor="middle" font-size="17" fill="#202124">상대 책임보험(12급 한도)</text>
+<text x="559" y="148" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">144만원</text>
+<text x="559" y="180" text-anchor="middle" font-size="17" fill="#202124">초과 180만원의 80%</text>
+<text x="793" y="148" text-anchor="middle" font-size="22" font-weight="700" fill="#c5221f">36만원</text>
+<text x="793" y="180" text-anchor="middle" font-size="15" fill="#202124">내 몫 20%</text>
+<text x="450" y="270" text-anchor="middle" font-size="22" fill="#202124">상대 보험 264만원 · 내 자동차상해·자기신체사고 36만원</text>
+<text x="450" y="315" text-anchor="middle" font-size="19" fill="#5f6368">과실이 0이면 300만원 전부 상대 보험 · 보행자는 이 나눔이 없음</text>
+<text x="450" y="395" text-anchor="middle" font-size="16" fill="#80868b">도식: 자동차손해배상 보장법 시행령 별표1(12급 120만원), 금융위원회 2021년 9월 30일 발표 정리</text>
+</svg>
