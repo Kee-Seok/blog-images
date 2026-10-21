@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="sans-serif">
+<rect width="900" height="430" fill="#ffffff"/>
+<text x="450" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">바퀴벌레 나오는 꿈, 어디서 나왔나</text>
+<g font-size="21" fill="#202124">
+<rect x="60" y="90" width="780" height="70" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="90" y="133" font-weight="700">방바닥·벽</text><text x="330" y="133">집안 잔걱정, 손볼 일이 생긴다는 풀이</text>
+<rect x="60" y="175" width="780" height="70" rx="14" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+<text x="90" y="218" font-weight="700">부엌·밥상</text><text x="330" y="218">먹고사는 일, 나갈 돈을 살피라는 풀이</text>
+<rect x="60" y="260" width="780" height="70" rx="14" fill="#fce8e6" stroke="#d93025" stroke-width="2"/>
+<text x="90" y="303" font-weight="700">내 몸 위</text><text x="330" y="303">나를 귀찮게 하는 사람·일에 대한 풀이</text>
+<rect x="60" y="345" width="780" height="70" rx="14" fill="#e6f4ea" stroke="#34a853" stroke-width="2"/>
+<text x="90" y="388" font-weight="700">집 밖으로 나감</text><text x="330" y="388">근심이 빠져나가는 좋은 쪽 풀이</text>
+</g>
+</svg>
