@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" font-family="sans-serif">
+<rect width="1000" height="470" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">2027학년도 유치원 우선모집, 날짜 다섯 개</text>
+<text x="40" y="96" font-size="20" fill="#5f6368">교육청 보도자료 기준 (2026년 10월 21일 확인)</text>
+<line x1="100" y1="210" x2="900" y2="210" stroke="#dadce0" stroke-width="6"/>
+<g text-anchor="middle">
+<circle cx="100" cy="210" r="18" fill="#5f6368"/><text x="100" y="160" font-size="22" font-weight="700" fill="#202124">10월 28일(수)</text>
+<text x="100" y="262" font-size="18" fill="#3c4043">오전 9시</text><text x="100" y="290" font-size="18" fill="#3c4043">모집요강 공개</text>
+<circle cx="300" cy="210" r="18" fill="#1a73e8"/><text x="300" y="160" font-size="22" font-weight="700" fill="#202124">11월 2~4일</text>
+<text x="300" y="262" font-size="18" fill="#3c4043">우선모집 접수</text><text x="300" y="290" font-size="18" fill="#3c4043">(월~수)</text>
+<circle cx="500" cy="210" r="18" fill="#e8710a"/><text x="500" y="160" font-size="22" font-weight="700" fill="#202124">11월 9일(월)</text>
+<text x="500" y="262" font-size="18" fill="#3c4043">오후 3시</text><text x="500" y="290" font-size="18" fill="#3c4043">추첨 결과 발표</text>
+<circle cx="700" cy="210" r="18" fill="#d93025"/><text x="700" y="160" font-size="22" font-weight="700" fill="#202124">11월 10~11일</text>
+<text x="700" y="262" font-size="18" fill="#3c4043">등록 (화~수)</text><text x="700" y="290" font-size="18" fill="#3c4043">이틀뿐</text>
+<circle cx="900" cy="210" r="18" fill="#188038"/><text x="900" y="160" font-size="22" font-weight="700" fill="#202124">11월 17~23일</text>
+<text x="900" y="262" font-size="18" fill="#3c4043">일반모집 접수</text><text x="900" y="290" font-size="18" fill="#3c4043">결과 26일</text>
+</g>
+<rect x="60" y="340" width="880" height="90" rx="12" fill="#fef7e0"/>
+<text x="500" y="378" font-size="21" font-weight="700" text-anchor="middle" fill="#202124">결과 화면에 '선발'이 떠도 아직 입학이 아니에요</text>
+<text x="500" y="412" font-size="19" text-anchor="middle" fill="#3c4043">등록 기간 안에 유보통합포털에서 등록까지 마쳐야 확정</text>
+</svg>
