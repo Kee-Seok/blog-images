@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="38" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">자동화가 조용히 멈춘 날 (2026년)</text>
+<line x1="120" y1="70" x2="120" y2="440" stroke="#dadce0" stroke-width="4"/>
+<g font-size="17" fill="#202124">
+<circle cx="120" cy="88" r="9" fill="#d93025"/><text x="30" y="94" font-weight="700">8월 23일</text><text x="145" y="94">비용 한도에 막혀 AI가 시작도 못 함 → 알림 0건</text>
+<circle cx="120" cy="148" r="9" fill="#d93025"/><text x="30" y="154" font-weight="700">8월 24일</text><text x="145" y="154">상태는 '실패'인데 오류 문구가 빈 칸 → 알림이 빈 줄</text>
+<circle cx="120" cy="208" r="9" fill="#f9ab00"/><text x="30" y="214" font-weight="700">8월 26일</text><text x="145" y="214">작업은 정상 종료(exit 0)인데 글이 안 올라감</text>
+<circle cx="120" cy="268" r="9" fill="#f9ab00"/><text x="30" y="274" font-weight="700">8월 27일</text><text x="145" y="274">텔레그램 연결 끊김 → 승인 요청 하나가 사라짐</text>
+<circle cx="120" cy="328" r="9" fill="#d93025"/><text x="30" y="334" font-weight="700">8월 29일</text><text x="145" y="334">구글 토큰 만료 → 발행·색인 작업이 소리 없이 실패</text>
+<circle cx="120" cy="388" r="9" fill="#1a73e8"/><text x="22" y="394" font-weight="700">10월 18·19일</text><text x="145" y="394">클로드 주간 사용 한도가 차서 예약 작업이 안 돎</text>
+</g>
+<text x="400" y="440" text-anchor="middle" font-size="15" fill="#5f6368">출처: 이 블로그 자동화의 감시 스크립트(blog_watchdog.py) 기록</text>
+</svg>
