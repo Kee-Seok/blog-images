@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="sans-serif">
+<rect width="900" height="470" fill="#ffffff"/>
+<text x="450" y="50" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">13급 흉부 타박상 · 치료비 160만원 · 내 과실 30%</text>
+<text x="450" y="86" text-anchor="middle" font-size="19" fill="#5f6368">2023년 1월 1일 이후 사고, 경상환자(12~14급) 기준</text>
+<rect x="60" y="130" width="390" height="110" fill="#d2e3fc"/>
+<rect x="450" y="130" width="273" height="110" fill="#e6f4ea"/>
+<rect x="723" y="130" width="117" height="110" fill="#fce8e6"/>
+<text x="255" y="178" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">80만원</text>
+<text x="255" y="210" text-anchor="middle" font-size="17" fill="#202124">상대 책임보험(대인1)</text>
+<text x="586" y="178" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">56만원</text>
+<text x="586" y="210" text-anchor="middle" font-size="17" fill="#202124">상대 대인2 (70%)</text>
+<text x="781" y="178" text-anchor="middle" font-size="24" font-weight="700" fill="#c5221f">24만원</text>
+<text x="781" y="210" text-anchor="middle" font-size="16" fill="#202124">내 보험 (30%)</text>
+<line x1="450" y1="262" x2="840" y2="262" stroke="#5f6368" stroke-width="2"/>
+<text x="645" y="292" text-anchor="middle" font-size="18" fill="#5f6368">한도를 넘은 80만원만 과실로 나눔</text>
+<line x1="60" y1="262" x2="450" y2="262" stroke="#1a73e8" stroke-width="2"/>
+<text x="255" y="292" text-anchor="middle" font-size="18" fill="#1a73e8">13급 한도까지는 과실 상관없이 전액</text>
+<text x="450" y="360" text-anchor="middle" font-size="22" fill="#202124">상대 보험이 내는 돈 136만원 · 내 보험(자동차상해·자기신체사고) 24만원</text>
+<text x="450" y="430" text-anchor="middle" font-size="16" fill="#80868b">도식: 자동차손해배상 보장법 시행령 별표1(13급 80만원), 금융위원회 2021년 9월 30일 제도개선 정리</text>
+</svg>
