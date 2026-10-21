@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="40" y="52" font-size="26" font-weight="700" fill="#202124">수도요금 감면 신청, 화면 순서</text>
+<text x="40" y="82" font-size="16" fill="#5f6368">아리수 요금고객센터(i121.seoul.go.kr) · 2026-10-21 개편 기준</text>
+<g font-size="18" fill="#202124">
+<circle cx="70" cy="132" r="20" fill="#1a73e8"/><text x="70" y="139" text-anchor="middle" fill="#ffffff" font-weight="700">1</text>
+<text x="108" y="128" font-weight="700">고지서에서 고객번호 9자리 찾기</text><text x="108" y="152" font-size="15" fill="#5f6368">종이 고지서 왼쪽 위, 전자고지는 오른쪽 위</text>
+<circle cx="70" cy="207" r="20" fill="#1a73e8"/><text x="70" y="214" text-anchor="middle" fill="#ffffff" font-weight="700">2</text>
+<text x="108" y="203" font-weight="700">회원가입은 한 번만</text><text x="108" y="227" font-size="15" fill="#5f6368">다음부터는 카카오·은행 인증서 간편인증으로 로그인</text>
+<circle cx="70" cy="282" r="20" fill="#1a73e8"/><text x="70" y="289" text-anchor="middle" fill="#ffffff" font-weight="700">3</text>
+<text x="108" y="278" font-weight="700">민원신청 → 요금 감면 신청</text><text x="108" y="302" font-size="15" fill="#5f6368">대상인지 화면에서 바로 확인, 증빙서류 안 올림</text>
+<circle cx="70" cy="357" r="20" fill="#1a73e8"/><text x="70" y="364" text-anchor="middle" fill="#ffffff" font-weight="700">4</text>
+<text x="108" y="353" font-weight="700">마이페이지 → 세대별 감면내역 조회</text><text x="108" y="377" font-size="15" fill="#5f6368">들어갔는지 수도사업소에 전화 안 하고 확인</text>
+</g>
+</svg>
