@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="360" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">언제 결정을 받았는지가 기한을 가릅니다</text>
+<rect x="30" y="70" width="355" height="250" rx="14" fill="#fff4e5" stroke="#e8710a" stroke-width="2"/>
+<text x="207" y="108" text-anchor="middle" font-size="19" font-weight="700" fill="#b06000">2025.10.23. 전에 결정받음</text>
+<text x="207" y="146" text-anchor="middle" font-size="16" fill="#202124">옛 감염병예방법으로 심의</text>
+<text x="207" y="176" text-anchor="middle" font-size="16" fill="#202124">이의신청 2번 다 썼어도 가능</text>
+<text x="207" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#e8710a">2026.10.23.까지</text>
+<text x="207" y="266" text-anchor="middle" font-size="16" fill="#202124">딱 1번 · 지나면 끝</text>
+<text x="207" y="298" text-anchor="middle" font-size="14" fill="#5f6368">법원 확정판결 받은 경우는 제외</text>
+<rect x="415" y="70" width="355" height="250" rx="14" fill="#eaf2ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="592" y="108" text-anchor="middle" font-size="19" font-weight="700" fill="#1a73e8">2025.10.23. 뒤에 결정받음</text>
+<text x="592" y="146" text-anchor="middle" font-size="16" fill="#202124">특별법 기준으로 이미 심의</text>
+<text x="592" y="176" text-anchor="middle" font-size="16" fill="#202124">결과가 마음에 안 들면</text>
+<text x="592" y="232" text-anchor="middle" font-size="26" font-weight="700" fill="#1a73e8">통지 후 90일 안</text>
+<text x="592" y="266" text-anchor="middle" font-size="16" fill="#202124">1번 · 내일 마감과 무관</text>
+<text x="592" y="298" text-anchor="middle" font-size="14" fill="#5f6368">결과 통지 받은 날부터 셈</text>
+<text x="400" y="348" text-anchor="middle" font-size="13" fill="#80868b">자료: 질병관리청 보도자료(2026.10.20), 부산시 안내(2026.10.2)</text>
+</svg>
