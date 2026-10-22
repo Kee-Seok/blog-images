@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" font-family="sans-serif">
+<rect width="900" height="470" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">요양병원 영수증, 어느 보험에 내나</text>
+<rect x="30" y="80" width="270" height="250" rx="14" fill="#e8f0fe"/>
+<text x="165" y="122" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">① 병원 진료비 영수증</text>
+<text x="165" y="168" text-anchor="middle" font-size="17" fill="#202124">입원실료·검사·약값</text>
+<text x="165" y="226" text-anchor="middle" font-size="19" font-weight="700" fill="#1a73e8">→ 실손(실비)</text>
+<text x="165" y="276" text-anchor="middle" font-size="15" fill="#5f6368">간병인 비용은</text>
+<text x="165" y="300" text-anchor="middle" font-size="15" fill="#5f6368">여기에 안 들어가요</text>
+<rect x="315" y="80" width="270" height="250" rx="14" fill="#fef7e0"/>
+<text x="450" y="122" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">② 간병인 영수증</text>
+<text x="450" y="168" text-anchor="middle" font-size="17" fill="#202124">+ 돈을 준 증빙</text>
+<text x="450" y="226" text-anchor="middle" font-size="19" font-weight="700" fill="#b06000">→ 간병인 사용일당 특약</text>
+<text x="450" y="276" text-anchor="middle" font-size="15" fill="#5f6368">계약서·확인서·근무일지·</text>
+<text x="450" y="300" text-anchor="middle" font-size="15" fill="#5f6368">계좌이체 내역을 더 달라기도</text>
+<rect x="600" y="80" width="270" height="250" rx="14" fill="#f1f3f4"/>
+<text x="735" y="122" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">③ 2027년부터 (계획)</text>
+<text x="735" y="168" text-anchor="middle" font-size="17" fill="#202124">급여 간병 본인부담</text>
+<text x="735" y="226" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">→ 30% 안팎만 내요</text>
+<text x="735" y="276" text-anchor="middle" font-size="15" fill="#5f6368">100병상 이상 의료중심</text>
+<text x="735" y="300" text-anchor="middle" font-size="15" fill="#5f6368">요양병원·중증 환자부터</text>
+<text x="450" y="380" text-anchor="middle" font-size="17" fill="#202124">지금은 간병비에 건강보험이 안 돼서 100% 본인부담</text>
+<text x="450" y="420" text-anchor="middle" font-size="14" fill="#80868b">출처: 보건복지부 2026.7.28 토론회 발표(서울신문·뉴스핌 보도), 금융감독원 2025.4.9 안내(헤럴드경제)</text>
+</svg>
