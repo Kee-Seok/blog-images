@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="sans-serif">
+<rect width="900" height="400" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">요양병원 간병비 건강보험 적용, 언제 누구부터</text>
+<line x1="90" y1="160" x2="810" y2="160" stroke="#dadce0" stroke-width="6"/>
+<circle cx="120" cy="160" r="14" fill="#1a73e8"/>
+<circle cx="350" cy="160" r="14" fill="#1a73e8"/>
+<circle cx="580" cy="160" r="14" fill="#e8710a"/>
+<circle cx="790" cy="160" r="14" fill="#5f6368"/>
+<text x="120" y="118" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">2026.7.28</text>
+<text x="120" y="210" text-anchor="middle" font-size="16" fill="#202124">복지부 방안 발표</text>
+<text x="350" y="118" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">2026년 안</text>
+<text x="350" y="210" text-anchor="middle" font-size="16" fill="#202124">건정심에서 확정</text>
+<text x="580" y="118" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">2027 상반기</text>
+<text x="580" y="210" text-anchor="middle" font-size="16" fill="#202124">시범사업 시작</text>
+<text x="580" y="236" text-anchor="middle" font-size="16" fill="#202124">본인부담 30% 안팎</text>
+<text x="790" y="118" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">2030년까지</text>
+<text x="790" y="210" text-anchor="middle" font-size="16" fill="#202124">약 8만5천 명</text>
+<text x="790" y="236" text-anchor="middle" font-size="16" fill="#202124">병원 500곳 안팎</text>
+<rect x="90" y="280" width="720" height="62" rx="12" fill="#e8f0fe"/>
+<text x="450" y="318" text-anchor="middle" font-size="17" font-weight="700" fill="#202124">우선 대상: 장기요양 1·2등급, 희귀난치·중증 질환, 치매·파킨슨병 환자</text>
+<text x="450" y="378" text-anchor="middle" font-size="14" fill="#80868b">출처: 보건복지부 2026.7.28 '요양병원 의료혁신 및 간병서비스 제도화 추진방향' 토론회(서울신문·머니투데이 보도)</text>
+</svg>
