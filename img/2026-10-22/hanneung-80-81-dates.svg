@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" font-family="sans-serif">
+<rect width="1000" height="470" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">80회 결과부터 81회 결과까지, 날짜 여섯 개</text>
+<text x="40" y="96" font-size="19" fill="#5f6368">국사편찬위원회 공지 기준 (2026년 10월 22일 확인)</text>
+<line x1="90" y1="210" x2="910" y2="210" stroke="#dadce0" stroke-width="6"/>
+<g text-anchor="middle">
+<circle cx="90" cy="210" r="17" fill="#5f6368"/><text x="90" y="160" font-size="21" font-weight="700" fill="#202124">10월 30일</text><text x="90" y="260" font-size="17" fill="#3c4043">80회 결과</text><text x="90" y="286" font-size="17" fill="#3c4043">오전 10시</text>
+<circle cx="254" cy="210" r="17" fill="#1a73e8"/><text x="254" y="160" font-size="21" font-weight="700" fill="#202124">11월 3~10일</text><text x="254" y="260" font-size="17" fill="#3c4043">81회 정기접수</text><text x="254" y="286" font-size="17" fill="#3c4043">시도별 순서</text>
+<circle cx="418" cy="210" r="17" fill="#e8710a"/><text x="418" y="160" font-size="21" font-weight="700" fill="#202124">11월 17일</text><text x="418" y="260" font-size="17" fill="#3c4043">100% 환불</text><text x="418" y="286" font-size="17" fill="#3c4043">마감 17시</text>
+<circle cx="582" cy="210" r="17" fill="#d93025"/><text x="582" y="160" font-size="21" font-weight="700" fill="#202124">11월 20일</text><text x="582" y="260" font-size="17" fill="#3c4043">50% 환불·</text><text x="582" y="286" font-size="17" fill="#3c4043">시험장 변경 끝</text>
+<circle cx="746" cy="210" r="17" fill="#188038"/><text x="746" y="160" font-size="21" font-weight="700" fill="#202124">11월 24일</text><text x="746" y="260" font-size="17" fill="#3c4043">수험표 출력</text><text x="746" y="286" font-size="17" fill="#3c4043">시작 10시</text>
+<circle cx="910" cy="210" r="17" fill="#9334e6"/><text x="910" y="160" font-size="21" font-weight="700" fill="#202124">11월 28일</text><text x="910" y="260" font-size="17" fill="#3c4043">시험(심화)</text><text x="910" y="286" font-size="17" fill="#3c4043">결과 12월 11일</text>
+</g>
+<rect x="60" y="340" width="880" height="90" rx="12" fill="#fef7e0"/>
+<text x="500" y="378" font-size="21" font-weight="700" text-anchor="middle" fill="#202124">80회 결과를 보고 정해도 접수 첫날(11월 3일)보다 나흘 빨라요</text>
+<text x="500" y="412" font-size="19" text-anchor="middle" fill="#3c4043">81회는 심화(1~3급)만, 응시료 27,000원</text>
+</svg>
