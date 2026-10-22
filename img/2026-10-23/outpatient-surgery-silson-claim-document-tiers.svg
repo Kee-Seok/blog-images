@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">통원 수술 실손 청구, 영수증 합계로 서류가 갈려요</text>
+<rect x="40" y="80" width="230" height="270" rx="14" fill="#e6f4ea"/>
+<text x="155" y="122" text-anchor="middle" font-size="22" font-weight="700" fill="#137333">3만원 이하</text>
+<text x="155" y="180" text-anchor="middle" font-size="17" fill="#202124">청구서</text>
+<text x="155" y="210" text-anchor="middle" font-size="17" fill="#202124">+ 영수증</text>
+<text x="155" y="300" text-anchor="middle" font-size="14" fill="#5f6368">청구서에 진단명 적기</text>
+<rect x="285" y="80" width="230" height="270" rx="14" fill="#fef7e0"/>
+<text x="400" y="122" text-anchor="middle" font-size="22" font-weight="700" fill="#b06000">3만~10만원</text>
+<text x="400" y="180" text-anchor="middle" font-size="17" fill="#202124">청구서 + 영수증</text>
+<text x="400" y="210" text-anchor="middle" font-size="17" fill="#202124">+ 질병분류기호가</text>
+<text x="400" y="240" text-anchor="middle" font-size="17" fill="#202124">적힌 처방전</text>
+<rect x="530" y="80" width="230" height="270" rx="14" fill="#fce8e6"/>
+<text x="645" y="122" text-anchor="middle" font-size="22" font-weight="700" fill="#c5221f">10만원 초과</text>
+<text x="645" y="180" text-anchor="middle" font-size="17" fill="#202124">위 서류에 더해</text>
+<text x="645" y="210" text-anchor="middle" font-size="17" fill="#202124">진단서·진료확인서 등</text>
+<text x="645" y="240" text-anchor="middle" font-size="17" fill="#202124">추가 요청될 수 있음</text>
+<text x="400" y="384" text-anchor="middle" font-size="14" fill="#5f6368">산부인과·항문외과·비뇨기과·피부과는 이 간소화 기준에서 빠져요</text>
+</svg>
