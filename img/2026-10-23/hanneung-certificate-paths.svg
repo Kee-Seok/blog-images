@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540" font-family="sans-serif">
+<rect width="1000" height="540" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">한능검 인증서 발급, 들어가는 길 세 갈래</text>
+<text x="40" y="96" font-size="20" fill="#5f6368">정부24 민원 안내·국사편찬위원회 자주하는 질문 (2026년 10월 23일 확인)</text>
+<rect x="40" y="130" width="290" height="300" rx="14" fill="#e6f4ea"/>
+<text x="185" y="180" font-size="23" font-weight="700" text-anchor="middle" fill="#202124">① 누리집 메뉴</text>
+<text x="185" y="240" font-size="20" text-anchor="middle" fill="#3c4043">로그인</text>
+<text x="185" y="280" font-size="20" text-anchor="middle" fill="#3c4043">↓ 나의 시험 정보</text>
+<text x="185" y="320" font-size="20" text-anchor="middle" fill="#3c4043">↓ 나의 응시 결과</text>
+<text x="185" y="370" font-size="22" font-weight="700" text-anchor="middle" fill="#137333">↓ 인증서 버튼</text>
+<rect x="355" y="130" width="290" height="300" rx="14" fill="#e8f0fe"/>
+<text x="500" y="180" font-size="23" font-weight="700" text-anchor="middle" fill="#202124">② 오른쪽 바로가기</text>
+<text x="500" y="240" font-size="20" text-anchor="middle" fill="#3c4043">로그인</text>
+<text x="500" y="280" font-size="20" text-anchor="middle" fill="#3c4043">↓ 화면 오른쪽</text>
+<text x="500" y="320" font-size="20" text-anchor="middle" fill="#3c4043">'인증서 출력'</text>
+<text x="500" y="370" font-size="22" font-weight="700" text-anchor="middle" fill="#1a73e8">↓ 인증서 버튼</text>
+<rect x="670" y="130" width="290" height="300" rx="14" fill="#fef7e0"/>
+<text x="815" y="180" font-size="23" font-weight="700" text-anchor="middle" fill="#202124">③ 정부24</text>
+<text x="815" y="240" font-size="20" text-anchor="middle" fill="#3c4043">'한국사능력검정시험'</text>
+<text x="815" y="280" font-size="20" text-anchor="middle" fill="#3c4043">검색</text>
+<text x="815" y="320" font-size="20" text-anchor="middle" fill="#3c4043">↓ 인증서 발급 서비스</text>
+<text x="815" y="370" font-size="22" font-weight="700" text-anchor="middle" fill="#b06000">↓ 누리집으로 이동</text>
+<rect x="40" y="455" width="920" height="60" rx="12" fill="#f1f3f4"/>
+<text x="500" y="494" font-size="20" text-anchor="middle" fill="#202124">따로 낼 서류 없음 · 합격(심화 60점 이상) 회차만 버튼이 생김 · 문의 1577-8322</text>
+</svg>
