@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+<rect width="800" height="380" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">수술 보험 청구, 퇴원부터 입금까지 날짜 순서</text>
+<line x1="80" y1="170" x2="720" y2="170" stroke="#dadce0" stroke-width="6"/>
+<circle cx="100" cy="170" r="20" fill="#0B7A75"/><circle cx="300" cy="170" r="20" fill="#1a73e8"/><circle cx="500" cy="170" r="20" fill="#e8710a"/><circle cx="700" cy="170" r="20" fill="#c5221f"/>
+<text x="100" y="122" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">퇴원 날</text>
+<text x="300" y="122" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">접수 후</text>
+<text x="500" y="122" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">조사 필요 시</text>
+<text x="700" y="122" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">마지막 날</text>
+<text x="100" y="230" text-anchor="middle" font-size="16" fill="#202124">원무과에서</text>
+<text x="100" y="254" text-anchor="middle" font-size="16" fill="#202124">서류 한 번에</text>
+<text x="300" y="230" text-anchor="middle" font-size="22" font-weight="700" fill="#1a73e8">3영업일</text>
+<text x="300" y="258" text-anchor="middle" font-size="16" fill="#202124">안에 지급 원칙</text>
+<text x="500" y="230" text-anchor="middle" font-size="22" font-weight="700" fill="#e8710a">10영업일</text>
+<text x="500" y="258" text-anchor="middle" font-size="16" fill="#202124">안에 지급</text>
+<text x="700" y="230" text-anchor="middle" font-size="22" font-weight="700" fill="#c5221f">3년</text>
+<text x="700" y="258" text-anchor="middle" font-size="16" fill="#202124">지나면 청구권 소멸</text>
+<text x="400" y="340" text-anchor="middle" font-size="14" fill="#5f6368">3년은 보험사고가 생긴 때부터 · 금융감독원 보험금 청구 안내 (2026년 10월 확인)</text>
+</svg>
