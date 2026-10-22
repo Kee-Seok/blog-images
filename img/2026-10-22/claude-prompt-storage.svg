@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 340" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="340" fill="#ffffff"/>
+<text x="400" y="38" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">클로드 프롬프트 저장, 세 군데로 나눈다</text>
+<g font-size="16" fill="#202124">
+<rect x="30" y="70" width="230" height="230" rx="14" fill="#eaf2ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="145" y="104" text-anchor="middle" font-size="18" font-weight="700" fill="#1a73e8">① 작업 지시서</text>
+<text x="145" y="140" text-anchor="middle">무엇을 · 언제까지</text>
+<text x="145" y="168" text-anchor="middle">멈출 곳 · 보고 형식</text>
+<text x="145" y="210" text-anchor="middle" font-size="14" fill="#5f6368">예약 작업마다 1개</text>
+<text x="145" y="234" text-anchor="middle" font-size="14" fill="#5f6368">SKILL.md</text>
+<rect x="285" y="70" width="230" height="230" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="400" y="104" text-anchor="middle" font-size="18" font-weight="700" fill="#b06000">② 규칙 파일</text>
+<text x="400" y="140" text-anchor="middle">말투 · 금지 · 발행 순서</text>
+<text x="400" y="168" text-anchor="middle">여러 작업이 같이 읽음</text>
+<text x="400" y="210" text-anchor="middle" font-size="14" fill="#5f6368">blog-rules 폴더</text>
+<text x="400" y="234" text-anchor="middle" font-size="14" fill="#5f6368">고치면 다음 회차부터 반영</text>
+<rect x="540" y="70" width="230" height="230" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="655" y="104" text-anchor="middle" font-size="18" font-weight="700" fill="#137333">③ 기록 파일</text>
+<text x="655" y="140" text-anchor="middle">오늘 한 일 한 줄</text>
+<text x="655" y="168" text-anchor="middle">다음 회차가 먼저 읽음</text>
+<text x="655" y="210" text-anchor="middle" font-size="14" fill="#5f6368">topic_log.txt</text>
+<text x="655" y="234" text-anchor="middle" font-size="14" fill="#5f6368">날짜 | 제목 | 블로그</text>
+</g>
+</svg>
