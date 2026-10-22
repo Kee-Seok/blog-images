@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="400" y="38" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">같은 일을 시킨 두 지시문</text>
+<rect x="30" y="66" width="350" height="340" rx="14" fill="#fce8e6" stroke="#d93025" stroke-width="2"/>
+<text x="205" y="100" text-anchor="middle" font-size="19" font-weight="700" fill="#a50e0e">한 줄 지시</text>
+<text x="205" y="138" text-anchor="middle" font-size="17" fill="#202124">"블로그 글 하나 써서 올려줘"</text>
+<g font-size="16" fill="#202124">
+<text x="55" y="190">· 어디까지 하면 끝인지 모름</text>
+<text x="55" y="230">· 어떤 기준으로 쓸지 모름</text>
+<text x="55" y="270">· 오늘 이미 했는지 모름</text>
+<text x="55" y="310">· 어디서 멈춰야 할지 모름</text>
+<text x="55" y="350">· 결과를 어떻게 알릴지 모름</text>
+</g>
+<rect x="420" y="66" width="350" height="340" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="595" y="100" text-anchor="middle" font-size="19" font-weight="700" fill="#137333">예약 작업 지시서</text>
+<text x="595" y="138" text-anchor="middle" font-size="17" fill="#202124">이 블로그 기준 22줄</text>
+<g font-size="16" fill="#202124">
+<text x="445" y="190">① 끝 = 공개 발행 + 주소 확인</text>
+<text x="445" y="230">② 먼저 규칙 파일을 읽어라</text>
+<text x="445" y="270">③ 오늘 글이 있으면 끝낸다</text>
+<text x="445" y="310">④ 비밀번호 화면이면 멈춘다</text>
+<text x="445" y="350">⑤ 보고는 다섯 줄</text>
+</g>
+</svg>
