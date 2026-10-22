@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">한능검 81회 접수 시간, 사는 곳마다 달라요</text>
+<text x="40" y="94" font-size="19" fill="#5f6368">국사편찬위원회 제81회 안내 공지(2026년 10월 19일 등록) 기준</text>
+<g font-size="21">
+<rect x="40" y="120" width="920" height="70" rx="10" fill="#e8f0fe"/>
+<text x="64" y="164" font-weight="700" fill="#202124">11월 3일(화) 10시 ~ 4일 9시</text><text x="560" y="164" fill="#202124">인천 · 경기</text>
+<rect x="40" y="200" width="920" height="70" rx="10" fill="#f1f3f4"/>
+<text x="64" y="244" font-weight="700" fill="#202124">11월 4일(수) 10시 ~ 5일 9시</text><text x="560" y="244" fill="#202124">대전·세종·충남·충북·전남광주·전북</text>
+<rect x="40" y="280" width="920" height="70" rx="10" fill="#e8f0fe"/>
+<text x="64" y="324" font-weight="700" fill="#202124">11월 5일(목) 10시 ~ 6일 9시</text><text x="560" y="324" fill="#202124">부산 · 대구 · 울산 · 경남 · 경북</text>
+<rect x="40" y="360" width="920" height="70" rx="10" fill="#f1f3f4"/>
+<text x="64" y="404" font-weight="700" fill="#202124">11월 6일(금) 10시 ~ 12시</text><text x="560" y="404" fill="#202124">서울 · 강원 · 제주 (2시간)</text>
+<rect x="40" y="440" width="920" height="70" rx="10" fill="#fef7e0"/>
+<text x="64" y="484" font-weight="700" fill="#202124">11월 6일(금) 13시 ~ 10일(화) 17시</text><text x="560" y="484" fill="#202124">전 지역 (남은 자리)</text>
+</g>
+<text x="40" y="540" font-size="17" fill="#5f6368">각 구간 사이 1시간은 접수 불가 · 내 지역 날이 아니면 접수 버튼이 안 열려요</text>
+</svg>
