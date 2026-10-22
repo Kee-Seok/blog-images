@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" font-family="sans-serif">
+<rect width="900" height="430" fill="#ffffff"/>
+<text x="450" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">개한테 물리는 꿈, 물린 곳마다 다른 이야기</text>
+<g font-size="20" fill="#202124">
+<rect x="30" y="85" width="200" height="300" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="3"/>
+<text x="130" y="135" text-anchor="middle" font-weight="700" font-size="26">손</text>
+<text x="130" y="190" text-anchor="middle">일·계약·돈을</text>
+<text x="130" y="220" text-anchor="middle">다루는 자리</text>
+<text x="130" y="310" text-anchor="middle" font-size="18" fill="#174ea6">일로 얽힐 사람</text>
+<rect x="250" y="85" width="200" height="300" rx="16" fill="#fef7e0" stroke="#f9ab00" stroke-width="3"/>
+<text x="350" y="135" text-anchor="middle" font-weight="700" font-size="26">다리·발</text>
+<text x="350" y="190" text-anchor="middle">가려던 길과</text>
+<text x="350" y="220" text-anchor="middle">계획</text>
+<text x="350" y="310" text-anchor="middle" font-size="18" fill="#b06000">잠깐 붙잡힘</text>
+<rect x="470" y="85" width="200" height="300" rx="16" fill="#e6f4ea" stroke="#34a853" stroke-width="3"/>
+<text x="570" y="135" text-anchor="middle" font-weight="700" font-size="26">팔</text>
+<text x="570" y="190" text-anchor="middle">곁에서 돕는</text>
+<text x="570" y="220" text-anchor="middle">사람·형제</text>
+<text x="570" y="310" text-anchor="middle" font-size="18" fill="#137333">도움 또는 다툼</text>
+<rect x="690" y="85" width="180" height="300" rx="16" fill="#fce8e6" stroke="#d93025" stroke-width="3"/>
+<text x="780" y="135" text-anchor="middle" font-weight="700" font-size="26">엉덩이</text>
+<text x="780" y="190" text-anchor="middle">등 뒤에서</text>
+<text x="780" y="220" text-anchor="middle">오가는 말</text>
+<text x="780" y="310" text-anchor="middle" font-size="18" fill="#a50e0e">말조심</text>
+</g>
+</svg>
