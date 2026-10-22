@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="sans-serif">
+<rect width="900" height="400" fill="#ffffff"/>
+<text x="450" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">물려서 피가 났나, 안 났나</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="85" width="390" height="270" rx="16" fill="#f1f3f4" stroke="#5f6368" stroke-width="3"/>
+<text x="235" y="140" text-anchor="middle" font-weight="700" font-size="25">아프기만 하고 피는 없음</text>
+<text x="235" y="200" text-anchor="middle">가까운 사람과의 다툼,</text>
+<text x="235" y="232" text-anchor="middle">서운한 일로 풀이하는 쪽</text>
+<text x="235" y="310" text-anchor="middle" font-size="18" fill="#3c4043">말을 아끼라는 꿈</text>
+<rect x="470" y="85" width="390" height="270" rx="16" fill="#fce8e6" stroke="#d93025" stroke-width="3"/>
+<text x="665" y="140" text-anchor="middle" font-weight="700" font-size="25">물린 곳에서 피가 남</text>
+<text x="665" y="200" text-anchor="middle">피를 재물로 보아</text>
+<text x="665" y="232" text-anchor="middle">이득이 생기는 꿈으로 풀이</text>
+<text x="665" y="310" text-anchor="middle" font-size="18" fill="#a50e0e">많이 날수록 크게 봄</text>
+</g>
+</svg>
