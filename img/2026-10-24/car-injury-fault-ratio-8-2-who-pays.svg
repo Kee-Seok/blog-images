@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="sans-serif">
+<rect width="800" height="500" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">과실 8:2 사고, 같은 손해 220만원이면 누가 얼마를 내나</text>
+<text x="400" y="68" text-anchor="middle" font-size="16" fill="#5f6368">치료비 150 + 휴업손해 55 + 위자료 15 (12급), 내 과실 20%</text>
+<rect x="40" y="95" width="720" height="70" rx="10" fill="#e8f0fe"/>
+<text x="60" y="125" font-size="18" font-weight="700" fill="#202124">상대 보험(대인배상)이 내는 돈 200만원</text>
+<text x="60" y="152" font-size="15" fill="#3c4043">치료비 150만원 중 144만원 + 위자료·휴업손해 70만원의 80%인 56만원</text>
+<rect x="40" y="185" width="720" height="70" rx="10" fill="#fce8e6"/>
+<text x="60" y="215" font-size="18" font-weight="700" fill="#202124">빈칸으로 남는 내 몫 20만원</text>
+<text x="60" y="242" font-size="15" fill="#3c4043">12급 한도 120만원 넘은 치료비 30만원 × 20% = 6만원 + 위자료·휴업손해 14만원</text>
+<rect x="40" y="285" width="345" height="130" rx="10" fill="#e6f4ea"/>
+<text x="212" y="320" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">자동차상해</text>
+<text x="212" y="360" text-anchor="middle" font-size="26" font-weight="700" fill="#137333">20만원 채움</text>
+<text x="212" y="395" text-anchor="middle" font-size="14" fill="#3c4043">치료비 6만원 + 위자료·휴업 14만원</text>
+<rect x="415" y="285" width="345" height="130" rx="10" fill="#f1f3f4"/>
+<text x="587" y="320" text-anchor="middle" font-size="19" font-weight="700" fill="#202124">자기신체사고</text>
+<text x="587" y="360" text-anchor="middle" font-size="26" font-weight="700" fill="#5f6368">6만원만</text>
+<text x="587" y="395" text-anchor="middle" font-size="14" fill="#3c4043">치료비만, 위자료·휴업 14만원은 못 받음</text>
+<text x="400" y="452" text-anchor="middle" font-size="14" fill="#80868b">약관 공식대로 따라간 계산 · 실제 금액은 보험사 손해사정으로 정해짐</text>
+<text x="400" y="476" text-anchor="middle" font-size="14" fill="#80868b">근거: 롯데손해보험 자동차상해Ⅰ 특별약관 제1조, 보통약관 별표3 과실상계 (2025년 5월 1일판)</text>
+</svg>
