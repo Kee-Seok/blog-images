@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">망막 레이저 한 번, 보험은 두 갈래</text>
+<rect x="290" y="70" width="220" height="54" rx="12" fill="#5b3fa8"/>
+<text x="400" y="105" text-anchor="middle" font-size="21" font-weight="700" fill="#ffffff">망막 레이저 시술</text>
+<line x1="400" y1="124" x2="200" y2="170" stroke="#5f6368" stroke-width="3"/>
+<line x1="400" y1="124" x2="600" y2="170" stroke="#5f6368" stroke-width="3"/>
+<rect x="40" y="170" width="320" height="270" rx="14" fill="#f4f1fb" stroke="#5b3fa8" stroke-width="2"/>
+<text x="200" y="208" text-anchor="middle" font-size="21" font-weight="700" fill="#5b3fa8">실손보험(실비)</text>
+<text x="64" y="250" font-size="17" fill="#202124">· 건강보험 급여 진료라 청구 대상</text>
+<text x="64" y="282" font-size="17" fill="#202124">· 진료비 영수증 + 세부내역서</text>
+<text x="64" y="314" font-size="17" fill="#202124">· 4세대: 20%와 1만·2만원 중</text>
+<text x="80" y="340" font-size="17" fill="#202124">큰 금액을 빼고 돌려줌</text>
+<text x="64" y="388" font-size="15" fill="#b06000">진료일부터 3년 안에 청구</text>
+<rect x="440" y="170" width="320" height="270" rx="14" fill="#f7f9fc" stroke="#1a73e8" stroke-width="2"/>
+<text x="600" y="208" text-anchor="middle" font-size="21" font-weight="700" fill="#1a73e8">수술비 특약</text>
+<text x="464" y="250" font-size="17" fill="#202124">· 약관의 '수술' 정의가 갈림</text>
+<text x="464" y="282" font-size="17" fill="#202124">· 2016년 1월 이후 가입한</text>
+<text x="480" y="308" font-size="17" fill="#202124">눈 질환 상품은 레이저 포함</text>
+<text x="464" y="340" font-size="17" fill="#202124">· 그 전 계약은 법원도 엇갈림</text>
+<text x="464" y="388" font-size="15" fill="#b06000">진단서·수술확인서에</text>
+<text x="464" y="412" font-size="15" fill="#b06000">수술명과 코드가 있어야 해요</text>
+</svg>
