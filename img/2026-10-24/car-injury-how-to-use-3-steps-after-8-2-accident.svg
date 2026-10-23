@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">자동차상해 사용하는법, 8:2 사고 뒤 세 걸음</text>
+<g>
+<rect x="30" y="80" width="230" height="230" rx="14" fill="#e8f0fe"/>
+<text x="145" y="120" text-anchor="middle" font-size="30" font-weight="700" fill="#1a73e8">1</text>
+<text x="145" y="160" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">과실비율 확인</text>
+<text x="145" y="195" text-anchor="middle" font-size="14" fill="#3c4043">과실비율정보포털에서</text>
+<text x="145" y="217" text-anchor="middle" font-size="14" fill="#3c4043">내 사고 유형 도표 찾기</text>
+<rect x="285" y="80" width="230" height="230" rx="14" fill="#fef7e0"/>
+<text x="400" y="120" text-anchor="middle" font-size="30" font-weight="700" fill="#e37400">2</text>
+<text x="400" y="160" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">합의 안내서 보기</text>
+<text x="400" y="195" text-anchor="middle" font-size="14" fill="#3c4043">위자료·휴업손해가</text>
+<text x="400" y="217" text-anchor="middle" font-size="14" fill="#3c4043">내 과실만큼 깎였는지</text>
+<rect x="540" y="80" width="230" height="230" rx="14" fill="#e6f4ea"/>
+<text x="655" y="120" text-anchor="middle" font-size="30" font-weight="700" fill="#137333">3</text>
+<text x="655" y="160" text-anchor="middle" font-size="18" font-weight="700" fill="#202124">내 보험사에 접수</text>
+<text x="655" y="195" text-anchor="middle" font-size="14" fill="#3c4043">같은 사고로 자동차상해</text>
+<text x="655" y="217" text-anchor="middle" font-size="14" fill="#3c4043">청구 · 건수 할증 1번</text>
+</g>
+<text x="400" y="360" text-anchor="middle" font-size="15" fill="#5f6368">자기신체사고만 들어 있으면 3단계에서 받는 건 급수 한도 안의 치료비뿐</text>
+<text x="400" y="395" text-anchor="middle" font-size="13" fill="#80868b">근거: 롯데손해보험 자동차보험 약관(2025.5.1판) · 금융위원회 2021.9.30 · 손해보험협회 과실비율정보포털</text>
+</svg>
