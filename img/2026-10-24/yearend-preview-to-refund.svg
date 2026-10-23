@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" font-family="sans-serif">
+<rect width="1000" height="470" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">미리보기 숫자가 진짜 돈이 되기까지</text>
+<text x="40" y="96" font-size="20" fill="#5f6368">2025년 귀속분 실제 날짜 기준 · 2026년 귀속분 날짜는 국세청 공지 전</text>
+<line x1="90" y1="200" x2="910" y2="200" stroke="#dadce0" stroke-width="6"/>
+<circle cx="150" cy="200" r="18" fill="#1a73e8"/>
+<circle cx="500" cy="200" r="18" fill="#1a73e8"/>
+<circle cx="850" cy="200" r="18" fill="#34a853"/>
+<text x="150" y="160" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">11월 5일</text>
+<text x="500" y="160" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">이듬해 1월 15일</text>
+<text x="850" y="160" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">회사 정산 뒤</text>
+<rect x="40" y="250" width="280" height="170" rx="14" fill="#e8f0fe"/>
+<text x="180" y="295" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">미리보기 개통</text>
+<text x="180" y="333" font-size="18" text-anchor="middle" fill="#3c4043">1~9월 카드 사용액으로</text>
+<text x="180" y="360" font-size="18" text-anchor="middle" fill="#3c4043">예상 세액 계산</text>
+<text x="180" y="395" font-size="18" text-anchor="middle" fill="#3c4043">아직 돈은 안 움직임</text>
+<rect x="360" y="250" width="280" height="170" rx="14" fill="#e8f0fe"/>
+<text x="500" y="295" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">간소화 서비스</text>
+<text x="500" y="333" font-size="18" text-anchor="middle" fill="#3c4043">12월까지 실제 자료가</text>
+<text x="500" y="360" font-size="18" text-anchor="middle" fill="#3c4043">모여서 열림</text>
+<text x="500" y="395" font-size="18" text-anchor="middle" fill="#3c4043">회사에 낼 자료 내려받기</text>
+<rect x="680" y="250" width="280" height="170" rx="14" fill="#e6f4ea"/>
+<text x="820" y="295" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">환급 또는 추가 납부</text>
+<text x="820" y="333" font-size="18" text-anchor="middle" fill="#3c4043">회사가 정한 달</text>
+<text x="820" y="360" font-size="18" text-anchor="middle" fill="#3c4043">월급에서 더하거나 뺌</text>
+<text x="820" y="395" font-size="18" text-anchor="middle" fill="#3c4043">지급 달은 회사마다 다름</text>
+</svg>
