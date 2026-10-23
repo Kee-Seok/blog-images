@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="38" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">클로드 mcp 설정, 두 군데로 나뉜다</text>
+<rect x="30" y="64" width="350" height="330" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="205" y="98" text-anchor="middle" font-size="19" font-weight="700" fill="#137333">앱에 이미 붙어 있는 것</text>
+<text x="205" y="128" text-anchor="middle" font-size="15" fill="#5f6368">따로 연결 안 함 · 허용만</text>
+<g font-size="16" fill="#202124">
+<text x="55" y="178">· 예약 작업 (scheduled-tasks)</text>
+<text x="55" y="218">· 앱 안 브라우저 (Claude_Browser)</text>
+<text x="55" y="258">· 크롬 확장 (claude-in-chrome)</text>
+<text x="55" y="298">· 터미널 탭 (terminal)</text>
+<text x="55" y="350" fill="#137333" font-weight="700">우리 허용 목록에 15개</text>
+</g>
+<rect x="420" y="64" width="350" height="330" rx="14" fill="#f1f3f4" stroke="#80868b" stroke-width="2"/>
+<text x="595" y="98" text-anchor="middle" font-size="19" font-weight="700" fill="#3c4043">내가 따로 붙이는 것</text>
+<text x="595" y="128" text-anchor="middle" font-size="15" fill="#5f6368">claude mcp add</text>
+<g font-size="16" fill="#202124">
+<text x="445" y="178">· 회사·서비스가 주는 MCP 주소</text>
+<text x="445" y="218">· 내 PC에서 도는 MCP 프로그램</text>
+<text x="445" y="258">· 확인: claude mcp list</text>
+<text x="445" y="350" fill="#3c4043" font-weight="700">우리 계정: 0개</text>
+</g>
+</svg>
