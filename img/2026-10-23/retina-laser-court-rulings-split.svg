@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">같은 레이저 광응고술, 법원 판단이 갈렸어요</text>
+<rect x="40" y="80" width="340" height="300" rx="14" fill="#fdf2f2" stroke="#c5221f" stroke-width="2"/>
+<text x="210" y="118" text-anchor="middle" font-size="20" font-weight="700" fill="#c5221f">인천지법 항소심 (2024년 보도)</text>
+<text x="64" y="160" font-size="17" fill="#202124">· 당뇨망막병증 레이저 7회분</text>
+<text x="64" y="192" font-size="17" fill="#202124">· 3,150만원 청구 → 기각</text>
+<text x="64" y="234" font-size="17" fill="#202124">· 이유: 조직을 자르거나</text>
+<text x="80" y="260" font-size="17" fill="#202124">떼어내지 않는다</text>
+<text x="64" y="292" font-size="17" fill="#202124">· 신경차단처럼 수술에서</text>
+<text x="80" y="318" font-size="17" fill="#202124">빠지는 처치와 비슷하다</text>
+<rect x="420" y="80" width="340" height="300" rx="14" fill="#f1f8f4" stroke="#188038" stroke-width="2"/>
+<text x="590" y="118" text-anchor="middle" font-size="20" font-weight="700" fill="#188038">서울중앙지법 항소심 (2025년 보도)</text>
+<text x="444" y="160" font-size="17" fill="#202124">· 당뇨망막병증 레이저</text>
+<text x="444" y="192" font-size="17" fill="#202124">· 3,150만원 청구 → 인정</text>
+<text x="444" y="234" font-size="17" fill="#202124">· 이유: 기구로 병변 조직에</text>
+<text x="460" y="260" font-size="17" fill="#202124">직접 작용한다</text>
+<text x="444" y="292" font-size="17" fill="#202124">· 약관이 애매하면 가입자에게</text>
+<text x="460" y="318" font-size="17" fill="#202124">유리하게 읽는다</text>
+<text x="400" y="412" text-anchor="middle" font-size="15" fill="#5f6368">둘 다 개별 사건 판결이라 내 약관 문구와 가입일을 먼저 봐야 해요</text>
+</svg>
