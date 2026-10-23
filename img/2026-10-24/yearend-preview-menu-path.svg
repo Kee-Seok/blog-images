@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" font-family="sans-serif">
+<rect width="1000" height="460" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">홈택스 연말정산 미리보기 들어가는 길</text>
+<text x="40" y="96" font-size="20" fill="#5f6368">정책브리핑 국세청 안내(2025년 11월 10일 게시) 기준</text>
+<rect x="40" y="140" width="210" height="130" rx="14" fill="#e8f0fe"/>
+<text x="145" y="195" font-size="24" font-weight="700" text-anchor="middle" fill="#202124">① 로그인</text>
+<text x="145" y="232" font-size="18" text-anchor="middle" fill="#3c4043">홈택스 회원</text>
+<text x="262" y="215" font-size="30" fill="#1a73e8">›</text>
+<rect x="280" y="140" width="210" height="130" rx="14" fill="#e8f0fe"/>
+<text x="385" y="190" font-size="21" font-weight="700" text-anchor="middle" fill="#202124">② 장려금·</text>
+<text x="385" y="220" font-size="21" font-weight="700" text-anchor="middle" fill="#202124">연말정산·기부금</text>
+<text x="385" y="252" font-size="18" text-anchor="middle" fill="#3c4043">위쪽 메뉴</text>
+<text x="502" y="215" font-size="30" fill="#1a73e8">›</text>
+<rect x="520" y="140" width="210" height="130" rx="14" fill="#e8f0fe"/>
+<text x="625" y="195" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">③ 편리한</text>
+<text x="625" y="228" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">연말정산</text>
+<text x="742" y="215" font-size="30" fill="#1a73e8">›</text>
+<rect x="760" y="140" width="200" height="130" rx="14" fill="#e6f4ea"/>
+<text x="860" y="195" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">④ 연말정산</text>
+<text x="860" y="228" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">미리보기</text>
+<rect x="40" y="310" width="920" height="110" rx="14" fill="#fef7e0"/>
+<text x="70" y="355" font-size="21" fill="#202124">들어가면 1~9월 신용·체크카드 사용액과 지난 연말정산 공제액이 미리 채워져 있어요.</text>
+<text x="70" y="392" font-size="21" fill="#202124">10~12월 예상 지출, 올해 예상 연봉은 내가 직접 넣어야 합니다.</text>
+</svg>
