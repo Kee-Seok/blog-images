@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="38" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">브라우저 MCP에 발행을 맡기는 순서</text>
+<g font-size="16" fill="#202124">
+<rect x="30" y="70" width="170" height="90" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="115" y="108" text-anchor="middle" font-weight="700">① 관리 화면 열기</text>
+<text x="115" y="134" text-anchor="middle" font-size="14">앱 안 브라우저 그 탭</text>
+<rect x="225" y="70" width="170" height="90" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="310" y="108" text-anchor="middle" font-weight="700">② 로그인 확인</text>
+<text x="310" y="134" text-anchor="middle" font-size="14">간편로그인만 누름</text>
+<rect x="420" y="70" width="170" height="90" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="505" y="108" text-anchor="middle" font-weight="700">③ 제목·본문 넣기</text>
+<text x="505" y="134" text-anchor="middle" font-size="14">넣고 나서 저장 호출</text>
+<rect x="615" y="70" width="160" height="90" rx="12" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="695" y="108" text-anchor="middle" font-weight="700">④ 공개 주소 열기</text>
+<text x="695" y="134" text-anchor="middle" font-size="14">제목·그림 눈으로</text>
+<rect x="225" y="230" width="365" height="120" rx="12" fill="#fce8e6" stroke="#d93025" stroke-width="2"/>
+<text x="407" y="270" text-anchor="middle" font-weight="700" fill="#a50e0e">여기서 멈춤</text>
+<text x="407" y="300" text-anchor="middle" font-size="15">비밀번호 칸 · 결제 · 삭제 버튼이 보이면</text>
+<text x="407" y="326" text-anchor="middle" font-size="15">누르지 말고 화면 이름만 보고</text>
+<line x1="310" y1="160" x2="310" y2="228" stroke="#d93025" stroke-width="2" stroke-dasharray="6 5"/>
+</g>
+</svg>
