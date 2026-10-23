@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="44" font-size="26" font-weight="700" fill="#202124" text-anchor="middle">장애일시보상금을 받은 뒤 진료비, 대법원은 이렇게 갈랐어요</text>
+<rect x="30" y="80" width="230" height="300" rx="16" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="145" y="122" font-size="21" font-weight="700" fill="#1e7e34" text-anchor="middle">보상금 받기 전</text>
+<text x="145" y="150" font-size="21" font-weight="700" fill="#1e7e34" text-anchor="middle">쓴 진료비</text>
+<text x="145" y="215" font-size="40" font-weight="800" fill="#1e7e34" text-anchor="middle">지급 대상</text>
+<text x="145" y="275" font-size="17" fill="#202124" text-anchor="middle">이번 사건에선</text>
+<text x="145" y="300" font-size="17" fill="#202124" text-anchor="middle">2014.10~2021.6</text>
+<text x="145" y="325" font-size="17" fill="#202124" text-anchor="middle">못 받은 진료비</text>
+<rect x="285" y="80" width="230" height="300" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="400" y="122" font-size="21" font-weight="700" fill="#1a56c4" text-anchor="middle">받은 뒤 재발·악화로</text>
+<text x="400" y="150" font-size="21" font-weight="700" fill="#1a56c4" text-anchor="middle">쓴 적극적 치료비</text>
+<text x="400" y="215" font-size="40" font-weight="800" fill="#1a56c4" text-anchor="middle">청구 가능</text>
+<text x="400" y="275" font-size="17" fill="#202124" text-anchor="middle">병이 다시 나빠져</text>
+<text x="400" y="300" font-size="17" fill="#202124" text-anchor="middle">새로 받은 치료</text>
+<rect x="540" y="80" width="230" height="300" rx="16" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+<text x="655" y="122" font-size="21" font-weight="700" fill="#b06000" text-anchor="middle">받은 뒤 상태를</text>
+<text x="655" y="150" font-size="21" font-weight="700" fill="#b06000" text-anchor="middle">유지·관리하는 치료</text>
+<text x="655" y="215" font-size="40" font-weight="800" fill="#b06000" text-anchor="middle">제한 가능</text>
+<text x="655" y="275" font-size="17" fill="#202124" text-anchor="middle">시행령 단서가</text>
+<text x="655" y="300" font-size="17" fill="#202124" text-anchor="middle">여기엔 적용돼요</text>
+<text x="400" y="425" font-size="16" fill="#5f6368" text-anchor="middle">대법원 2024두49339(2026.10.1 확정, 법률신문·머니투데이 2026.10.23 보도)</text>
+</svg>
