@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" font-family="sans-serif">
+<rect width="1000" height="420" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">청년미래적금 이의신청 기간, 앞뒤로 보면</text>
+<text x="40" y="92" font-size="19" fill="#5f6368">결과 안내·이의신청은 금융위원회 잠정 일정(2026-10-15 발표) · 계좌 개설은 누리집 확정 일정</text>
+<line x1="110" y1="190" x2="890" y2="190" stroke="#dadce0" stroke-width="6"/>
+<circle cx="130" cy="190" r="16" fill="#9aa0a6"/>
+<circle cx="370" cy="190" r="16" fill="#1a73e8"/>
+<circle cx="610" cy="190" r="18" fill="#e8710a"/>
+<circle cx="860" cy="190" r="16" fill="#34a853"/>
+<g text-anchor="middle">
+<text x="130" y="152" font-size="22" font-weight="700" fill="#202124">지금</text>
+<text x="370" y="152" font-size="22" font-weight="700" fill="#202124">10월 30일~11월 2일</text>
+<text x="610" y="152" font-size="22" font-weight="700" fill="#b06000">11월 2일~5일</text>
+<text x="860" y="152" font-size="22" font-weight="700" fill="#202124">11월 16일~27일</text>
+<text x="130" y="240" font-size="19" fill="#3c4043">내 경우 서류</text>
+<text x="130" y="266" font-size="19" fill="#3c4043">미리 떼 두기</text>
+<text x="370" y="240" font-size="19" fill="#3c4043">사전심사 결과 안내</text>
+<text x="370" y="266" font-size="19" fill="#3c4043">고른 유형과 비교</text>
+<text x="610" y="240" font-size="19" fill="#3c4043">이의신청 + 서류 제출</text>
+<text x="610" y="266" font-size="19" fill="#3c4043">나흘뿐</text>
+<text x="860" y="240" font-size="19" fill="#3c4043">은행 앱 계좌 개설</text>
+<text x="860" y="266" font-size="19" fill="#3c4043">토·일 제외</text>
+</g>
+<rect x="40" y="310" width="920" height="80" rx="12" fill="#fef7e0"/>
+<text x="64" y="345" font-size="19" fill="#202124">가입 심사는 11월 13일까지 이어지고, 통과하면 개별 안내를 받은 뒤 계좌를 엽니다.</text>
+<text x="64" y="373" font-size="19" fill="#202124">이의신청 나흘 안에 서류를 처음 떼려 하면 주말·방문 발급에 걸릴 수 있어요.</text>
+</svg>
