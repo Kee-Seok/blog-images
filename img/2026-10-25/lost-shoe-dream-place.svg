@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="sans-serif">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="450" y="46" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">어디서 잃었는지로 보는 갈래</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="80" width="400" height="140" rx="14" fill="#fce8e6" stroke="#d93025" stroke-width="2"/>
+<text x="240" y="122" text-anchor="middle" font-weight="700" font-size="22">식당·잔칫집 신발장</text>
+<text x="240" y="160" text-anchor="middle">여러 사람 사이의 관계,</text>
+<text x="240" y="190" text-anchor="middle">모임에서 생길 손해에 마음 씀</text>
+<rect x="460" y="80" width="400" height="140" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="660" y="122" text-anchor="middle" font-weight="700" font-size="22">회사·학교 현관</text>
+<text x="660" y="160" text-anchor="middle">맡은 자리나 역할이</text>
+<text x="660" y="190" text-anchor="middle">바뀔 수 있다는 풀이</text>
+<rect x="40" y="245" width="400" height="140" rx="14" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+<text x="240" y="287" text-anchor="middle" font-weight="700" font-size="22">우리 집 현관</text>
+<text x="240" y="325" text-anchor="middle">가족·배우자와의 사이,</text>
+<text x="240" y="355" text-anchor="middle">집안일에 대한 신경 쓰임</text>
+<rect x="460" y="245" width="400" height="140" rx="14" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="660" y="287" text-anchor="middle" font-weight="700" font-size="22">길이나 물가</text>
+<text x="660" y="325" text-anchor="middle">가던 방향을 다시 고르는 때,</text>
+<text x="660" y="355" text-anchor="middle">이사·이직 이야기로도 봄</text>
+</g>
+</svg>
