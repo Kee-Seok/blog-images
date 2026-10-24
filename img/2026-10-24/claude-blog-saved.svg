@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">클로드 블로그 작성, 화면과 서버가 따로 놀 때</text>
+<rect x="30" y="70" width="350" height="300" rx="14" fill="#fce8e6" stroke="#d93025" stroke-width="2"/>
+<text x="205" y="108" text-anchor="middle" font-size="19" font-weight="700" fill="#a50e0e">setContent() 만 부름</text>
+<text x="205" y="150" text-anchor="middle" font-size="16" fill="#202124">편집기 화면: 새 본문 보임</text>
+<text x="205" y="180" text-anchor="middle" font-size="16" fill="#202124">저장된 내용: 옛 본문 그대로</text>
+<text x="205" y="230" text-anchor="middle" font-size="40" fill="#d93025">✕</text>
+<text x="205" y="290" text-anchor="middle" font-size="15" fill="#5f6368">클로드는 "넣었어요"라고 보고</text>
+<text x="205" y="316" text-anchor="middle" font-size="15" fill="#5f6368">발행된 글은 빈 글·옛 글</text>
+<rect x="420" y="70" width="350" height="300" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="595" y="108" text-anchor="middle" font-size="19" font-weight="700" fill="#0d652d">innerHTML 넣고 save()</text>
+<text x="595" y="150" text-anchor="middle" font-size="16" fill="#202124">편집기 화면: 새 본문 보임</text>
+<text x="595" y="180" text-anchor="middle" font-size="16" fill="#202124">저장된 내용: 새 본문</text>
+<text x="595" y="230" text-anchor="middle" font-size="40" fill="#188038">✓</text>
+<text x="595" y="290" text-anchor="middle" font-size="15" fill="#5f6368">발행 뒤 공개 주소를 열어</text>
+<text x="595" y="316" text-anchor="middle" font-size="15" fill="#5f6368">본문이 실제로 있는지 확인</text>
+<text x="400" y="402" text-anchor="middle" font-size="13" fill="#80868b">티스토리 글쓰기 화면(TinyMCE 편집기) 기준 · 크라우드의 코드리뷰</text>
+</svg>
