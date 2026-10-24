@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="sans-serif">
+<rect width="960" height="540" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">예약번호 하나로 열리는 것, 안 열리는 것</text>
+<rect x="40" y="96" width="420" height="330" rx="16" fill="#fdecea" stroke="#f3b5ae"/>
+<text x="64" y="140" font-size="23" font-weight="700" fill="#b3261e">지금까지 확인된 유출 항목</text>
+<rect x="64" y="170" width="372" height="64" rx="10" fill="#ffffff" stroke="#f3b5ae"/>
+<text x="88" y="211" font-size="24" font-weight="700" fill="#202124">예약번호 (예: A1B2C3)</text>
+<text x="64" y="282" font-size="19" fill="#5f6368">그 밖의 항목은 아마데우스가</text>
+<text x="64" y="310" font-size="19" fill="#5f6368">아직 확인 중 → 나오면 대상자에게</text>
+<text x="64" y="338" font-size="19" fill="#5f6368">다시 통지한다고 공지</text>
+<text x="64" y="396" font-size="18" fill="#5f6368">결제 정보: 포함 안 된 것으로 보도</text>
+<rect x="500" y="96" width="420" height="330" rx="16" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="524" y="140" font-size="23" font-weight="700" fill="#1a56c4">대한항공 '예약 조회'에 넣는 칸</text>
+<g font-size="21" fill="#202124">
+<rect x="524" y="166" width="372" height="48" rx="10" fill="#fff" stroke="#aecbfa"/><text x="544" y="198">① 예약번호 또는 항공권번호</text>
+<rect x="524" y="224" width="372" height="48" rx="10" fill="#fff" stroke="#aecbfa"/><text x="544" y="256">② 출발일</text>
+<rect x="524" y="282" width="372" height="48" rx="10" fill="#fff" stroke="#aecbfa"/><text x="544" y="314">③ 성</text>
+<rect x="524" y="340" width="372" height="48" rx="10" fill="#fff" stroke="#aecbfa"/><text x="544" y="372">④ 이름</text>
+</g>
+<text x="40" y="478" font-size="19" fill="#202124">네 칸이 다 맞아야 비회원 예약 조회가 열립니다. 추가 항목이 나오면 위험도가 달라져요.</text>
+<text x="40" y="516" font-size="16" fill="#5f6368">출처: 대한항공·아시아나항공 공지(2026-10-23), 대한항공 예약 조회 화면(2026-10-24 확인)</text>
+</svg>
