@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<text x="40" y="56" font-size="29" font-weight="700" fill="#202124">과실로 깎인 치료비 6만원, 누가 채우나</text>
+<rect x="340" y="84" width="280" height="64" rx="12" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="480" y="124" font-size="22" font-weight="700" fill="#202124" text-anchor="middle">내 자동차보험에</text>
+<path d="M480 148 L480 176 M180 176 L780 176 M180 176 L180 200 M480 176 L480 200 M780 176 L780 200" stroke="#9aa0a6" stroke-width="3" fill="none"/>
+<rect x="40" y="204" width="280" height="230" rx="14" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="64" y="246" font-size="23" font-weight="700" fill="#1a56c4">자동차상해 있음</text>
+<text x="64" y="290" font-size="20" fill="#202124">6만원을 자동차상해가</text>
+<text x="64" y="318" font-size="20" fill="#202124">채움</text>
+<text x="64" y="396" font-size="24" font-weight="700" fill="#b3261e">실비 청구 X</text>
+<rect x="340" y="204" width="280" height="230" rx="14" fill="#fff4e5" stroke="#f5cf8f"/>
+<text x="364" y="246" font-size="23" font-weight="700" fill="#b06000">자기신체사고만</text>
+<text x="364" y="290" font-size="20" fill="#202124">급수 한도 안에서</text>
+<text x="364" y="318" font-size="20" fill="#202124">치료비를 채움</text>
+<text x="364" y="396" font-size="24" font-weight="700" fill="#b3261e">채운 만큼 X</text>
+<rect x="640" y="204" width="280" height="230" rx="14" fill="#e6f4ea" stroke="#a8dab5"/>
+<text x="664" y="246" font-size="23" font-weight="700" fill="#137333">둘 다 없음</text>
+<text x="664" y="290" font-size="20" fill="#202124">6만원이 내 몫으로</text>
+<text x="664" y="318" font-size="20" fill="#202124">남음(본인부담의료비)</text>
+<text x="664" y="396" font-size="24" font-weight="700" fill="#137333">실비 청구 O</text>
+<text x="40" y="482" font-size="18" fill="#5f6368">예시: 과실 8:2 · 12급 · 치료비 150만원 · 2023년 1월 이후 사고 · 실손 4세대·5세대 약관 문구 기준</text>
+</svg>
