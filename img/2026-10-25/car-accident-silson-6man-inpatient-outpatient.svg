@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="960" height="560" font-family="sans-serif">
+<rect width="960" height="560" fill="#ffffff"/>
+<text x="40" y="56" font-size="29" font-weight="700" fill="#202124">과실로 깎인 6만원, 실손에서는 얼마?</text>
+<text x="40" y="92" font-size="19" fill="#5f6368">자동차상해·자기신체사고로 채우지 않았을 때 · 4세대 약관 상해급여 계산식</text>
+<rect x="40" y="120" width="280" height="300" rx="14" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="64" y="164" font-size="24" font-weight="700" fill="#1a56c4">입원</text>
+<text x="64" y="208" font-size="20" fill="#202124">본인부담의 80%</text>
+<text x="64" y="300" font-size="40" font-weight="700" fill="#202124">4만8천원</text>
+<text x="64" y="340" font-size="18" fill="#5f6368">6만원 × 80%</text>
+<rect x="340" y="120" width="280" height="300" rx="14" fill="#e6f4ea" stroke="#a8dab5"/>
+<text x="364" y="164" font-size="24" font-weight="700" fill="#137333">통원 · 의원</text>
+<text x="364" y="208" font-size="20" fill="#202124">1만원과 20% 중 큰 것 공제</text>
+<text x="364" y="300" font-size="40" font-weight="700" fill="#202124">4만8천원</text>
+<text x="364" y="340" font-size="18" fill="#5f6368">6만원 − 1만2천원 (1회 기준)</text>
+<rect x="640" y="120" width="280" height="300" rx="14" fill="#fff4e5" stroke="#f5cf8f"/>
+<text x="664" y="164" font-size="24" font-weight="700" fill="#b06000">통원 · 종합병원</text>
+<text x="664" y="208" font-size="20" fill="#202124">2만원과 20% 중 큰 것 공제</text>
+<text x="664" y="300" font-size="40" font-weight="700" fill="#202124">4만원</text>
+<text x="664" y="340" font-size="18" fill="#5f6368">6만원 − 2만원 (1회 기준)</text>
+<rect x="40" y="444" width="880" height="76" rx="12" fill="#fdecea" stroke="#f3b5ae"/>
+<text x="64" y="478" font-size="20" font-weight="700" fill="#b3261e">통원은 1회마다 공제가 붙어요</text>
+<text x="64" y="506" font-size="18" fill="#5f6368">6만원이 세 번 방문에 나뉘어 있으면 공제도 세 번 빠져 받는 돈이 줄어듦</text>
+</svg>
