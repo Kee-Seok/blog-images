@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">완료 버튼 뒤 발행 창에서 두 가지</text>
+<rect x="30" y="72" width="350" height="250" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="205" y="110" text-anchor="middle" font-size="19" font-weight="700" fill="#174ea6">① 대표이미지</text>
+<text x="205" y="150" text-anchor="middle" font-size="16" fill="#202124">본문 속 바깥 주소 그림: 안 잡힘</text>
+<text x="205" y="180" text-anchor="middle" font-size="16" fill="#202124">→ 공유 카드가 기본 그림</text>
+<text x="205" y="225" text-anchor="middle" font-size="16" fill="#202124">jpg를 대표이미지 칸에 직접 올림</text>
+<text x="205" y="255" text-anchor="middle" font-size="16" fill="#202124">→ 미리보기 칸이 생기면 통과</text>
+<text x="205" y="300" text-anchor="middle" font-size="14" fill="#5f6368">안 생기면 발행하지 않는다</text>
+<rect x="420" y="72" width="350" height="250" rx="14" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+<text x="595" y="110" text-anchor="middle" font-size="19" font-weight="700" fill="#b06000">② 공개 범위</text>
+<text x="595" y="150" text-anchor="middle" font-size="16" fill="#202124">처음 값은 '비공개'</text>
+<text x="595" y="180" text-anchor="middle" font-size="16" fill="#202124">그대로 누르면 나만 보는 글</text>
+<text x="595" y="225" text-anchor="middle" font-size="16" fill="#202124">'공개'를 누른 뒤</text>
+<text x="595" y="255" text-anchor="middle" font-size="16" fill="#202124">'공개 발행' 버튼</text>
+<text x="595" y="300" text-anchor="middle" font-size="14" fill="#5f6368">발행 뒤 로그아웃 창에서 열어 보기</text>
+<text x="400" y="370" text-anchor="middle" font-size="13" fill="#80868b">티스토리 발행 창 기준 · 크라우드의 코드리뷰</text>
+</svg>
