@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="500" y="58" text-anchor="middle" font-size="34" font-weight="800" fill="#202124">로봇 사용료 1,000만원, 4세대 실비로 청구하면</text>
+<g fill="#202124">
+<rect x="50" y="100" width="430" height="440" rx="18" fill="#eef4ff" stroke="#c6d8ff"/>
+<text x="265" y="150" text-anchor="middle" font-size="30" font-weight="800">갑상선암 수술</text>
+<text x="265" y="210" text-anchor="middle" font-size="25">본인 30% = 300만원</text>
+<text x="265" y="260" text-anchor="middle" font-size="25">돌려받는 돈</text>
+<text x="265" y="318" text-anchor="middle" font-size="46" font-weight="900" fill="#1546c8">700만원</text>
+<text x="265" y="390" text-anchor="middle" font-size="25">다음 갱신 보험료</text>
+<text x="265" y="446" text-anchor="middle" font-size="36" font-weight="900" fill="#1e8e4e">할증 없음</text>
+<text x="265" y="500" text-anchor="middle" font-size="21" fill="#5f6368">암 산정특례 대상이라 빠짐</text>
+<rect x="520" y="100" width="430" height="440" rx="18" fill="#fff4f2" stroke="#f5c6bf"/>
+<text x="735" y="150" text-anchor="middle" font-size="30" font-weight="800">자궁근종 수술</text>
+<text x="735" y="210" text-anchor="middle" font-size="25">본인 30% = 300만원</text>
+<text x="735" y="260" text-anchor="middle" font-size="25">돌려받는 돈</text>
+<text x="735" y="318" text-anchor="middle" font-size="46" font-weight="900" fill="#1546c8">700만원</text>
+<text x="735" y="390" text-anchor="middle" font-size="25">다음 갱신 보험료</text>
+<text x="735" y="446" text-anchor="middle" font-size="36" font-weight="900" fill="#c5221f">비급여 +300%</text>
+<text x="735" y="500" text-anchor="middle" font-size="21" fill="#5f6368">산정특례 아님 · 1년 뒤 다시 계산</text>
+</g>
+<text x="500" y="580" text-anchor="middle" font-size="20" fill="#5f6368">예시 금액 · 4세대 비급여 자기부담 30%, 연 한도 안 · 다른 비급여 청구 없다고 가정</text>
+</svg>
