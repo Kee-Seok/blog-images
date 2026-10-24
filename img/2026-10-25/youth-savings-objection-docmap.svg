@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">결과가 어긋난 칸 → 뗄 서류 → 떼는 곳</text>
+<text x="40" y="92" font-size="19" fill="#5f6368">서민금융진흥원 '신청 전 준비서류 안내' 기준 · 2026년 10월 25일 확인</text>
+<g font-size="20">
+<rect x="40" y="120" width="920" height="76" rx="12" fill="#e8f0fe"/>
+<text x="64" y="166" font-weight="700" fill="#202124">나이가 넘었다고 나옴(군 복무)</text>
+<text x="430" y="166" fill="#202124">병적증명서 · 군경력증명서(전체 쪽)</text>
+<text x="800" y="166" fill="#1a73e8">정부24·병무청</text>
+<rect x="40" y="206" width="920" height="76" rx="12" fill="#fef7e0"/>
+<text x="64" y="252" font-weight="700" fill="#202124">소득 없음으로 나옴(육아휴직)</text>
+<text x="430" y="252" fill="#202124">육아휴직급여 지급결정 통지서</text>
+<text x="800" y="252" fill="#1a73e8">고용24</text>
+<rect x="40" y="292" width="920" height="76" rx="12" fill="#e6f4ea"/>
+<text x="64" y="338" font-weight="700" fill="#202124">가구원이 잘못 잡힘</text>
+<text x="430" y="338" fill="#202124">가족관계증명서(PDF 저장)</text>
+<text x="800" y="338" fill="#1a73e8">전자가족관계등록</text>
+<rect x="40" y="378" width="920" height="76" rx="12" fill="#fce8e6"/>
+<text x="64" y="424" font-weight="700" fill="#202124">우대형인데 일반형으로 나옴</text>
+<text x="430" y="424" fill="#202124">중소기업(소상공인) 확인서</text>
+<text x="800" y="424" fill="#1a73e8">중소기업현황정보</text>
+</g>
+<text x="40" y="500" font-size="19" fill="#3c4043">공통: 이의신청일 기준 1개월 안에 뗀 서류만 인정, 사진보다 발급받은 PDF 원본</text>
+<text x="40" y="532" font-size="17" fill="#80868b">소상공인 확인서 말고는 동의만으로 전산 확인되는 게 원칙 — 전산에 안 잡힐 때만 내는 서류예요</text>
+</svg>
