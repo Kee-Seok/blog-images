@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="sans-serif">
+<rect width="960" height="540" fill="#ffffff"/>
+<text x="40" y="56" font-size="29" font-weight="700" fill="#202124">8:2 사고·12급·치료비 150만원, 내 과실 몫은 6만원</text>
+<rect x="40" y="100" width="880" height="70" rx="12" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="64" y="145" font-size="24" font-weight="700" fill="#1a56c4">치료비 150만원 — 상대 보험사가 병원에 먼저 다 냄</text>
+<rect x="40" y="200" width="560" height="96" rx="12" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="64" y="240" font-size="22" font-weight="700" fill="#202124">12급 대인배상Ⅰ 한도 120만원</text>
+<text x="64" y="274" font-size="19" fill="#5f6368">이 안의 치료비는 과실과 상관없이 상대가 부담</text>
+<rect x="620" y="200" width="300" height="96" rx="12" fill="#fff4e5" stroke="#f5cf8f"/>
+<text x="644" y="240" font-size="22" font-weight="700" fill="#b06000">한도 넘은 30만원</text>
+<text x="644" y="274" font-size="19" fill="#5f6368">여기에만 내 과실 20%</text>
+<path d="M770 300 L770 340" stroke="#b06000" stroke-width="4"/><path d="M758 330 L770 348 L782 330" fill="none" stroke="#b06000" stroke-width="4"/>
+<rect x="560" y="352" width="360" height="80" rx="12" fill="#fdecea" stroke="#f3b5ae"/>
+<text x="584" y="390" font-size="24" font-weight="700" fill="#b3261e">30만원 × 20% = 6만원</text>
+<text x="584" y="418" font-size="18" fill="#5f6368">합의금(위자료·휴업손해)에서 공제</text>
+<rect x="40" y="352" width="490" height="80" rx="12" fill="#e6f4ea" stroke="#a8dab5"/>
+<text x="64" y="390" font-size="22" font-weight="700" fill="#137333">상대 보험이 실제로 낸 치료비 144만원</text>
+<text x="64" y="418" font-size="18" fill="#5f6368">실손에서는 빠지는 돈(자동차보험에서 보상)</text>
+<text x="40" y="490" font-size="18" fill="#5f6368">2023년 1월 1일 이후 사고, 경상(12~14급) 기준 · 약관 문구를 따라간 예시이며 실제 금액은 손해사정에서 정해짐</text>
+</svg>
