@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">대한항공·아시아나 유출, 지금 어디까지 왔나</text>
+<line x1="90" y1="110" x2="90" y2="440" stroke="#dadce0" stroke-width="4"/>
+<g font-size="21" fill="#202124">
+<circle cx="90" cy="120" r="14" fill="#9aa0a6"/>
+<text x="130" y="116" font-weight="700">2023년 8월 ~ 2026년 9월 (추정)</text>
+<text x="130" y="146" fill="#5f6368">아마데우스 계정 로그인 정보로 비인가 접근</text>
+<circle cx="90" cy="215" r="14" fill="#1a73e8"/>
+<text x="130" y="211" font-weight="700">10월 20일 밤 10시 44분·49분</text>
+<text x="130" y="241" fill="#5f6368">아마데우스가 두 항공사에 공식 통보 → 개인정보위 신고</text>
+<circle cx="90" cy="310" r="14" fill="#1a73e8"/>
+<text x="130" y="306" font-weight="700">10월 23일</text>
+<text x="130" y="336" fill="#5f6368">홈페이지 긴급공지 · 확인된 대상자에게 이메일 안내</text>
+<circle cx="90" cy="405" r="14" fill="#f9ab00"/>
+<text x="130" y="401" font-weight="700">다음 단계 (날짜 미정)</text>
+<text x="130" y="431" fill="#5f6368">다른 유출 항목 확인되면 대상 고객에게 다시 통지</text>
+</g>
+<text x="40" y="498" font-size="16" fill="#5f6368">출처: 대한항공·아시아나항공 '일부 고객 개인정보(예약번호) 유출 안내'(2026-10-23)</text>
+</svg>
