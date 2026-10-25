@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" font-family="sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="500" y="50" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">안심상속 원스톱 조회 결과 전후 기한</text>
+<line x1="80" y1="150" x2="920" y2="150" stroke="#9aa0a6" stroke-width="4"/>
+<g font-size="22" fill="#202124">
+<circle cx="120" cy="150" r="14" fill="#1a73e8"/>
+<text x="120" y="110" text-anchor="middle" font-weight="700">신청</text>
+<text x="120" y="200" text-anchor="middle">사망일이 속한 달</text>
+<text x="120" y="230" text-anchor="middle">말일부터 1년 안</text>
+<circle cx="370" cy="150" r="14" fill="#1a73e8"/>
+<text x="370" y="110" text-anchor="middle" font-weight="700">결과 열람</text>
+<text x="370" y="200" text-anchor="middle">접수일부터 3개월</text>
+<text x="370" y="230" text-anchor="middle">지나면 삭제</text>
+<circle cx="630" cy="150" r="14" fill="#e8710a"/>
+<text x="630" y="110" text-anchor="middle" font-weight="700">포기·한정승인</text>
+<text x="630" y="200" text-anchor="middle">상속 시작을 안 날부터</text>
+<text x="630" y="230" text-anchor="middle">3개월 안</text>
+<circle cx="880" cy="150" r="14" fill="#5f6368"/>
+<text x="880" y="110" text-anchor="middle" font-weight="700">상속세 신고</text>
+<text x="880" y="200" text-anchor="middle">상속 시작일이 속한 달</text>
+<text x="880" y="230" text-anchor="middle">말일부터 6개월</text>
+</g>
+<rect x="80" y="290" width="840" height="150" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="500" y="340" text-anchor="middle" font-size="23" fill="#202124" font-weight="700">결과 열람 3개월과 포기 판단 3개월이 거의 겹쳐요</text>
+<text x="500" y="385" text-anchor="middle" font-size="21" fill="#202124">결과 문자를 받은 주에 열어서 캡처·인쇄해 두기</text>
+<text x="500" y="420" text-anchor="middle" font-size="19" fill="#5f6368">결과 열람은 윈도우 PC에서만</text>
+<text x="500" y="495" text-anchor="middle" font-size="18" fill="#80868b">정부24 · 금융감독원 · 민법 제1019조 · 상속세 및 증여세법 제67조 정리 (2026년 10월)</text>
+</svg>
