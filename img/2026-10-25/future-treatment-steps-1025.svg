@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500" y="56" text-anchor="middle" font-size="32" font-weight="700" fill="#202124">경상환자(12~14급) 치료비 받는 순서</text>
+<text x="500" y="92" text-anchor="middle" font-size="20" fill="#5f6368">9월 10일 이후 사고 · 염좌·단순 타박상 기준</text>
+<line x1="80" y1="250" x2="920" y2="250" stroke="#c7d2e0" stroke-width="6"/>
+<g font-size="20" fill="#202124" text-anchor="middle">
+<circle cx="120" cy="250" r="22" fill="#1a73e8"/><text x="120" y="200" font-weight="700">사고 접수</text><text x="120" y="310">보험사가</text><text x="120" y="336">병원에 지급보증</text>
+<circle cx="320" cy="250" r="22" fill="#1a73e8"/><text x="320" y="200" font-weight="700">3~4주차</text><text x="320" y="310">보험사 1차</text><text x="320" y="336">추가 안내</text>
+<circle cx="520" cy="250" r="22" fill="#e8710a"/><text x="520" y="200" font-weight="700">7주 안</text><text x="520" y="310">8주 넘길 거면</text><text x="520" y="336">진단서·진료기록 제출</text>
+<circle cx="720" cy="250" r="22" fill="#1a73e8"/><text x="720" y="200" font-weight="700">요청 뒤 7일</text><text x="720" y="310">자배원 검토</text><text x="720" y="336">결과 통보</text>
+<circle cx="880" cy="250" r="22" fill="#188038"/><text x="880" y="200" font-weight="700">치료 종료</text><text x="880" y="310">실제 든 치료비</text><text x="880" y="336">끝까지 보장</text>
+</g>
+<rect x="80" y="400" width="840" height="110" rx="14" fill="#f7f9fc" stroke="#e1e6ee"/>
+<text x="500" y="445" text-anchor="middle" font-size="21" fill="#202124">결과가 마음에 안 들면 통보받은 날부터 7일 안에 이의제기</text>
+<text x="500" y="482" text-anchor="middle" font-size="21" fill="#202124">공제분쟁조정분과위원회가 14일 안에 결과를 알려줘요</text>
+<text x="500" y="545" text-anchor="middle" font-size="15" fill="#80868b">자료: 금융감독원 2026.9.2 발표 보도(SBS Biz·이투데이), KB 씽크 정리</text>
+</svg>
