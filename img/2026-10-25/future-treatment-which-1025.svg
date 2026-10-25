@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" font-family="sans-serif">
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="500" y="56" text-anchor="middle" font-size="32" font-weight="700" fill="#202124">내 사고는 어느 기준? 두 번만 물어보기</text>
+<rect x="300" y="90" width="400" height="80" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="500" y="140" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">① 진단 급수가 12~14급?</text>
+<line x1="400" y1="170" x2="230" y2="240" stroke="#9aa0a6" stroke-width="3"/><line x1="600" y1="170" x2="770" y2="240" stroke="#9aa0a6" stroke-width="3"/>
+<text x="290" y="215" font-size="20" fill="#5f6368">아니요(1~11급)</text><text x="640" y="215" font-size="20" fill="#5f6368">예</text>
+<rect x="40" y="240" width="380" height="120" rx="14" fill="#f7f9fc" stroke="#e1e6ee"/>
+<text x="230" y="290" text-anchor="middle" font-size="21" fill="#202124">향후치료비 받을 수 있음</text>
+<text x="230" y="325" text-anchor="middle" font-size="19" fill="#5f6368">장래 치료 필요가 서류로 입증될 때</text>
+<rect x="580" y="240" width="380" height="80" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="770" y="275" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">② 치료비 내는 보험 계약이</text>
+<text x="770" y="305" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">10월 25일 이후 시작?</text>
+<line x1="690" y1="320" x2="600" y2="400" stroke="#9aa0a6" stroke-width="3"/><line x1="850" y1="320" x2="900" y2="400" stroke="#9aa0a6" stroke-width="3"/>
+<text x="600" y="370" font-size="20" fill="#5f6368">예</text><text x="890" y="370" font-size="20" fill="#5f6368">아니요</text>
+<rect x="420" y="400" width="340" height="130" rx="14" fill="#fef7e0" stroke="#f9ab00"/>
+<text x="590" y="450" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">바뀐 기준</text>
+<text x="590" y="485" text-anchor="middle" font-size="19" fill="#202124">향후치료비 없음</text>
+<text x="590" y="513" text-anchor="middle" font-size="19" fill="#202124">치료 끝까지 실제 치료비</text>
+<rect x="780" y="400" width="190" height="130" rx="14" fill="#f7f9fc" stroke="#e1e6ee"/>
+<text x="875" y="455" text-anchor="middle" font-size="21" fill="#202124">예전 기준</text>
+<text x="875" y="490" text-anchor="middle" font-size="18" fill="#5f6368">계약 만기까지</text>
+<text x="500" y="580" text-anchor="middle" font-size="15" fill="#80868b">자료: 금융감독원 2026.9.2 발표(개정 약관 계약 중 보험기간 10.25 개시분부터) · 비바100 2026.10.22</text>
+</svg>
