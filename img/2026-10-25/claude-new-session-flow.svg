@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">새 대화가 열릴 때 순서</text>
+<defs><marker id="b" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#5f6368"/></marker></defs>
+<g font-size="18" text-anchor="middle">
+<rect x="30" y="90" width="170" height="110" rx="14" fill="#e8f0fe" stroke="#1a73e8"/><text x="115" y="136" fill="#1a73e8" font-weight="700">① 예약 작업</text><text x="115" y="166" fill="#202124" font-size="15">정해진 시각에 새 대화</text>
+<rect x="225" y="90" width="170" height="110" rx="14" fill="#e6f4ea" stroke="#188038"/><text x="310" y="136" fill="#188038" font-weight="700">② 목록 읽기</text><text x="310" y="166" fill="#202124" font-size="15">MEMORY.md</text>
+<rect x="420" y="90" width="170" height="110" rx="14" fill="#fef7e0" stroke="#f9ab00"/><text x="505" y="136" fill="#b06000" font-weight="700">③ 규칙 읽기</text><text x="505" y="166" fill="#202124" font-size="15">"먼저 규칙을 읽어라"</text>
+<rect x="615" y="90" width="160" height="110" rx="14" fill="#fce8e6" stroke="#d93025"/><text x="695" y="136" fill="#d93025" font-weight="700">④ 오늘 일</text><text x="695" y="166" fill="#202124" font-size="15">글 쓰고 발행</text>
+</g>
+<path d="M200 145 L222 145" stroke="#5f6368" stroke-width="3" marker-end="url(#b)"/>
+<path d="M395 145 L417 145" stroke="#5f6368" stroke-width="3" marker-end="url(#b)"/>
+<path d="M590 145 L612 145" stroke="#5f6368" stroke-width="3" marker-end="url(#b)"/>
+<path d="M695 205 C695 300 310 300 310 210" fill="none" stroke="#5f6368" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#b)"/>
+<text x="500" y="320" text-anchor="middle" font-size="18" fill="#202124">⑤ 오늘 고쳐진 것은 기억 파일로 → 내일 ②에서 다시 읽힘</text>
+<text x="400" y="380" text-anchor="middle" font-size="15" fill="#5f6368">예약 작업 36개 중 19개가 지시서에서 ③ 규칙 파일을 읽힘 · 2026-10-25 확인</text>
+</svg>
