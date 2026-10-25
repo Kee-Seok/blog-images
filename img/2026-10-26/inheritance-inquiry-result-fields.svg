@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">상속인 금융거래조회 결과, 칸마다 나오는 것</text>
+<g font-size="24">
+<rect x="60" y="100" width="420" height="190" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="270" y="150" text-anchor="middle" font-weight="700" fill="#1a73e8">금액이 나와요</text>
+<text x="270" y="205" text-anchor="middle" fill="#202124">예금 → 예금액</text>
+<text x="270" y="250" text-anchor="middle" fill="#202124">대출·카드 빚 → 채무금액</text>
+<rect x="520" y="100" width="420" height="190" rx="16" fill="#fef7e0" stroke="#e8710a" stroke-width="2"/>
+<text x="730" y="150" text-anchor="middle" font-weight="700" fill="#b06000">있다·없다만 나와요</text>
+<text x="730" y="205" text-anchor="middle" fill="#202124">보험 → 가입 여부</text>
+<text x="730" y="250" text-anchor="middle" fill="#202124">주식·펀드 → 잔고 유무</text>
+<rect x="60" y="330" width="880" height="170" rx="16" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="2"/>
+<text x="500" y="378" text-anchor="middle" font-weight="700" fill="#202124">화면에 없는 것은 그 회사에 직접</text>
+<text x="500" y="425" text-anchor="middle" fill="#202124">상세 거래내역 · 잔액 · 보험금 액수</text>
+<text x="500" y="468" text-anchor="middle" fill="#5f6368" font-size="20">일부 회사는 시스템 조회가 안 돼 방문해야 함</text>
+</g>
+<text x="500" y="540" text-anchor="middle" font-size="18" fill="#80868b">금융감독원 상속인 금융거래 조회 안내 정리 (2026년 10월)</text>
+</svg>
