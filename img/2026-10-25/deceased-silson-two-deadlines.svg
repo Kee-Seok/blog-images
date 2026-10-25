@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 500" width="960" height="500" font-family="sans-serif">
+<rect width="960" height="500" fill="#ffffff"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">기한이 두 개예요, 시작점이 달라요</text>
+<rect x="40" y="96" width="880" height="160" rx="14" fill="#e8f0fe" stroke="#aecbfa"/>
+<text x="68" y="140" font-size="23" font-weight="700" fill="#1a56c4">실비 보험금 청구</text>
+<text x="68" y="182" font-size="21" fill="#202124">시작: 병원에서 진료받은 날</text>
+<text x="68" y="222" font-size="21" fill="#202124">기한: 3년 (상법 제662조, 2015년 3월 12일 시행)</text>
+<rect x="40" y="280" width="880" height="160" rx="14" fill="#fff4e5" stroke="#f5cf8f"/>
+<text x="68" y="324" font-size="23" font-weight="700" fill="#b06000">안심상속 원스톱 조회 신청</text>
+<text x="68" y="366" font-size="21" fill="#202124">시작: 돌아가신 날이 속한 달의 말일</text>
+<text x="68" y="406" font-size="21" fill="#202124">기한: 1년 (6월 사망이면 2027년 6월 30일까지)</text>
+<text x="40" y="478" font-size="17" fill="#5f6368">출처: 국가법령정보센터 상법, 정부24 안심상속 안내 (2026년 10월 25일 확인)</text>
+</svg>
