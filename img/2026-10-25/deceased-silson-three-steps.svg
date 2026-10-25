@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">돌아가신 부모님 실비 청구, 세 걸음</text>
+<rect x="40" y="96" width="270" height="300" rx="14" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="64" y="140" font-size="40" font-weight="700" fill="#1a73e8">1</text>
+<text x="64" y="188" font-size="22" font-weight="700" fill="#202124">안심상속 신청</text>
+<text x="64" y="228" font-size="19" fill="#202124">정부24 또는</text>
+<text x="64" y="256" font-size="19" fill="#202124">주민센터</text>
+<text x="64" y="296" font-size="19" fill="#202124">사망신고 때</text>
+<text x="64" y="324" font-size="19" fill="#202124">같이 해도 돼요</text>
+<path d="M314 246 L340 246" stroke="#9aa0a6" stroke-width="4"/>
+<rect x="345" y="96" width="270" height="300" rx="14" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="369" y="140" font-size="40" font-weight="700" fill="#1a73e8">2</text>
+<text x="369" y="188" font-size="22" font-weight="700" fill="#202124">보험 가입 확인</text>
+<text x="369" y="228" font-size="19" fill="#202124">접수 6~15일 뒤</text>
+<text x="369" y="256" font-size="19" fill="#202124">(휴일 빼고)</text>
+<text x="369" y="296" font-size="19" fill="#202124">생명·손해보험협회</text>
+<text x="369" y="324" font-size="19" fill="#202124">누리집에서 조회</text>
+<path d="M619 246 L645 246" stroke="#9aa0a6" stroke-width="4"/>
+<rect x="650" y="96" width="270" height="300" rx="14" fill="#e6f4ea" stroke="#a8dab5"/>
+<text x="674" y="140" font-size="40" font-weight="700" fill="#188038">3</text>
+<text x="674" y="188" font-size="22" font-weight="700" fill="#202124">보험사에 청구</text>
+<text x="674" y="228" font-size="19" fill="#202124">병원 서류</text>
+<text x="674" y="256" font-size="19" fill="#202124">+ 사망 확인 서류</text>
+<text x="674" y="296" font-size="19" fill="#202124">+ 가족관계증명서</text>
+<text x="674" y="324" font-size="19" fill="#202124">(진료일부터 3년 안)</text>
+<text x="40" y="450" font-size="18" fill="#5f6368">조회 결과는 금감원 접수일부터 3개월 동안만 볼 수 있어요.</text>
+<text x="40" y="484" font-size="17" fill="#5f6368">출처: 금융감독원·손해보험협회 상속인 조회 안내 (2026년 10월 25일 확인)</text>
+</svg>
