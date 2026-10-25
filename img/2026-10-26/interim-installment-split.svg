@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">고지세액별로 11월 30일에 낼 돈과 나중에 낼 돈</text>
+<text x="400" y="74" text-anchor="middle" font-size="16" fill="#5f6368">소득세법 제77조·시행령 제140조, 국세청 중간예납 안내(2026-10-26 확인)</text>
+<g font-size="18" fill="#202124">
+<text x="40" y="140" font-weight="700">고지세액 800만원</text>
+<rect x="250" y="116" width="400" height="36" rx="6" fill="#1a73e8"/>
+<text x="450" y="140" text-anchor="middle" fill="#ffffff" font-weight="700">11/30까지 800만원 전부</text>
+<text x="665" y="140" fill="#5f6368" font-size="15">분납 불가</text>
+<text x="40" y="230" font-weight="700">고지세액 1,250만원</text>
+<rect x="250" y="206" width="320" height="36" rx="6" fill="#1a73e8"/>
+<text x="410" y="230" text-anchor="middle" fill="#ffffff" font-weight="700">11/30까지 1,000만원</text>
+<rect x="570" y="206" width="80" height="36" rx="6" fill="#fbbc04"/>
+<text x="610" y="230" text-anchor="middle" font-weight="700">250만</text>
+<text x="665" y="230" fill="#5f6368" font-size="15">2/1까지</text>
+<text x="40" y="320" font-weight="700">고지세액 3,000만원</text>
+<rect x="250" y="296" width="200" height="36" rx="6" fill="#1a73e8"/>
+<text x="350" y="320" text-anchor="middle" fill="#ffffff" font-weight="700">11/30 1,500만원</text>
+<rect x="450" y="296" width="200" height="36" rx="6" fill="#fbbc04"/>
+<text x="550" y="320" text-anchor="middle" font-weight="700">1,500만원</text>
+<text x="665" y="320" fill="#5f6368" font-size="15">2/1까지</text>
+</g>
+<rect x="40" y="370" width="720" height="70" rx="10" fill="#f7f9fc" stroke="#e1e6ee"/>
+<text x="400" y="400" text-anchor="middle" font-size="16" fill="#202124">2천만원 이하: 1천만원 넘는 부분만 나눠 냄</text>
+<text x="400" y="426" text-anchor="middle" font-size="16" fill="#202124">2천만원 초과: 세액의 절반까지 나눠 냄</text>
+</svg>
