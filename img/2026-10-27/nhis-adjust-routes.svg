@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="60" y="80" font-size="34" font-weight="700" fill="#202124">건강보험료 조정신청 서류, 어디로 내느냐에 따라 달라요</text>
+<rect x="60" y="130" width="520" height="520" rx="24" fill="#E6F4F3" stroke="#0B7A75" stroke-width="3"/>
+<text x="90" y="190" font-size="32" font-weight="700" fill="#0B7A75">온라인</text>
+<g font-size="26" fill="#202124">
+<text x="90" y="245">공단 홈페이지 · 앱 '건강보험25시'</text>
+<text x="90" y="300">소득이 줄어든 경우만 가능</text>
+<text x="90" y="355">증빙서류 없이 신청 가능</text>
+<text x="90" y="410">(공단 보험료조정 안내)</text>
+<text x="90" y="485">처리 전이면 화면에서 취소 가능</text>
+</g>
+<rect x="620" y="130" width="520" height="520" rx="24" fill="#FFF3EC" stroke="#E8551F" stroke-width="3"/>
+<text x="650" y="190" font-size="32" font-weight="700" fill="#E8551F">방문 · 우편 · 팩스</text>
+<g font-size="24" fill="#202124">
+<text x="650" y="245">공통: 소득 정산부과 동의서</text>
+<text x="650" y="285">　　　+ 신분증</text>
+<text x="650" y="345">폐업·휴업 → 휴·폐업사실증명</text>
+<text x="650" y="395">퇴직 → 퇴직(해촉)증명</text>
+<text x="650" y="445">소득 감소 → 소득금액증명</text>
+<text x="650" y="485">　(그해 7월 1일 이후 발급)</text>
+<text x="650" y="545">집 판 경우 → 등기부등본</text>
+</g>
+<text x="60" y="710" font-size="22" fill="#80868b">출처: 국민건강보험공단 보험료조정·소득 정산제도 안내 (2026년 10월 27일 확인)</text>
+</svg>
