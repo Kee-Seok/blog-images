@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500" y="56" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">치질 수술 영수증, 실비가 돌려주는 칸</text>
+<text x="500" y="92" text-anchor="middle" font-size="18" fill="#5f6368">직장·항문 질환(I84, K60~K62, K64)은 급여 본인부담분만 보장 — 금융감독원 안내</text>
+<rect x="60" y="130" width="420" height="330" rx="18" fill="#e8f5e9" stroke="#34a853" stroke-width="3"/>
+<text x="270" y="180" text-anchor="middle" font-size="26" font-weight="700" fill="#1e6b34">급여 칸</text>
+<text x="270" y="228" text-anchor="middle" font-size="19" fill="#202124">포괄수가 묶음 안의</text>
+<text x="270" y="256" text-anchor="middle" font-size="19" fill="#202124">수술·검사·약·재료</text>
+<text x="270" y="304" text-anchor="middle" font-size="19" fill="#202124">환자는 입원 진료비의 20% 부담</text>
+<rect x="110" y="345" width="320" height="70" rx="12" fill="#34a853"/>
+<text x="270" y="390" text-anchor="middle" font-size="24" font-weight="700" fill="#ffffff">실비에서 돌아옴</text>
+<rect x="520" y="130" width="420" height="330" rx="18" fill="#fce8e6" stroke="#d93025" stroke-width="3"/>
+<text x="730" y="180" text-anchor="middle" font-size="26" font-weight="700" fill="#a50e0e">비급여 칸</text>
+<text x="730" y="228" text-anchor="middle" font-size="19" fill="#202124">2·3인실 등 병실 차액</text>
+<text x="730" y="256" text-anchor="middle" font-size="19" fill="#202124">영수증에 따로 찍힌 비급여</text>
+<text x="730" y="304" text-anchor="middle" font-size="19" fill="#202124">항문 질환은 실손 약관에서 제외</text>
+<rect x="570" y="345" width="320" height="70" rx="12" fill="#d93025"/>
+<text x="730" y="390" text-anchor="middle" font-size="24" font-weight="700" fill="#ffffff">실비에서 안 나옴</text>
+<text x="500" y="515" text-anchor="middle" font-size="17" fill="#80868b">자료: 금융감독원 금융꿀팁(2017.6.22), 건강보험심사평가원 포괄수가 안내서</text>
+</svg>
