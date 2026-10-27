@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">대장 용종제거 청구, 서류는 두 묶음</text>
+<rect x="40" y="96" width="420" height="340" rx="14" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="68" y="144" font-size="24" font-weight="700" fill="#1a73e8">실손보험에 낼 것</text>
+<text x="68" y="194" font-size="20" fill="#202124">· 진료비 영수증</text>
+<text x="68" y="234" font-size="20" fill="#202124">· 진료비 세부내역서</text>
+<text x="68" y="274" font-size="20" fill="#202124">· 질병코드 적힌 서류</text>
+<text x="68" y="304" font-size="17" fill="#5f6368">  (처방전·진료확인서 등)</text>
+<text x="68" y="374" font-size="18" fill="#5f6368">실손24 참여 병원이면 앱으로 전송</text>
+<rect x="500" y="96" width="420" height="340" rx="14" fill="#fef7e0" stroke="#f5dfae"/>
+<text x="528" y="144" font-size="24" font-weight="700" fill="#b06000">수술비 특약에 낼 것</text>
+<text x="528" y="194" font-size="20" fill="#202124">· 수술명이 적힌 서류</text>
+<text x="528" y="234" font-size="20" fill="#202124">· 조직검사 결과지</text>
+<text x="528" y="274" font-size="20" fill="#202124">· 보험사가 정한 청구서</text>
+<text x="528" y="374" font-size="18" fill="#5f6368">약관의 '수술' 정의로 지급이 갈림</text>
+<text x="40" y="484" font-size="18" fill="#5f6368">보험사마다 요구 서류가 달라 청구 전 보험사 앱의 서류 안내를 먼저 확인</text>
+</svg>
