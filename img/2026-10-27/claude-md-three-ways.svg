@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">claude.md 한 줄씩, 세 갈래로 나누기</text>
+<rect x="270" y="70" width="260" height="56" rx="12" fill="#202124"/>
+<text x="400" y="106" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">지금 claude.md 의 한 줄</text>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#5f6368"/></marker></defs>
+<path d="M330 128 L150 180" stroke="#5f6368" stroke-width="2.5" marker-end="url(#a)"/>
+<path d="M400 128 L400 180" stroke="#5f6368" stroke-width="2.5" marker-end="url(#a)"/>
+<path d="M470 128 L650 180" stroke="#5f6368" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="30" y="188" width="240" height="250" rx="14" fill="#fdecea" stroke="#d93025" stroke-width="2"/>
+<text x="150" y="224" text-anchor="middle" font-size="20" font-weight="700" fill="#d93025">① 기계가 잴 수 있다</text>
+<text x="150" y="254" text-anchor="middle" font-size="15" fill="#202124">개수 · 길이 · 포함 여부 · 형식</text>
+<text x="150" y="300" text-anchor="middle" font-size="16" fill="#202124">예) 태그 6~10개</text>
+<text x="150" y="326" text-anchor="middle" font-size="16" fill="#202124">예) 버튼 1개 이상</text>
+<text x="150" y="380" text-anchor="middle" font-size="17" font-weight="700" fill="#d93025">→ 검사 파일로 옮김</text>
+<text x="150" y="406" text-anchor="middle" font-size="14" fill="#5f6368">걸리면 올리기 전에 멈춤</text>
+<rect x="280" y="188" width="240" height="250" rx="14" fill="#eef3fd" stroke="#1a73e8" stroke-width="2"/>
+<text x="400" y="224" text-anchor="middle" font-size="20" font-weight="700" fill="#1a73e8">② 매번 알아야 한다</text>
+<text x="400" y="254" text-anchor="middle" font-size="15" fill="#202124">사실 · 주소 · 늘 하는 순서</text>
+<text x="400" y="300" text-anchor="middle" font-size="16" fill="#202124">예) 로그인은 앱 브라우저</text>
+<text x="400" y="326" text-anchor="middle" font-size="16" fill="#202124">예) 답은 한국어로</text>
+<text x="400" y="380" text-anchor="middle" font-size="17" font-weight="700" fill="#1a73e8">→ claude.md 에 남김</text>
+<text x="400" y="406" text-anchor="middle" font-size="14" fill="#5f6368">확인 가능한 한 문장으로</text>
+<rect x="530" y="188" width="240" height="250" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="650" y="224" text-anchor="middle" font-size="20" font-weight="700" fill="#188038">③ 가끔만 필요하다</text>
+<text x="650" y="254" text-anchor="middle" font-size="15" fill="#202124">특정 작업의 긴 절차</text>
+<text x="650" y="300" text-anchor="middle" font-size="16" fill="#202124">예) 발행 버튼 누르는 순서</text>
+<text x="650" y="326" text-anchor="middle" font-size="16" fill="#202124">예) 썸네일 만드는 법</text>
+<text x="650" y="380" text-anchor="middle" font-size="17" font-weight="700" fill="#188038">→ 따로 파일, 주소만</text>
+<text x="650" y="406" text-anchor="middle" font-size="14" fill="#5f6368">그 작업 때만 읽힘</text>
+</svg>
