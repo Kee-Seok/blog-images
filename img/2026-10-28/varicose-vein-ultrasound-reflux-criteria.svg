@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="sans-serif">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">초음파 결과지에서 찾을 숫자: 정맥별 역류 시간</text>
+<rect x="80" y="120" width="1040" height="70" fill="#f1f3f4"/>
+<text x="120" y="166" font-size="28" font-weight="700" fill="#202124">정맥 이름</text>
+<text x="900" y="166" font-size="28" font-weight="700" fill="#202124">기준</text>
+<g font-size="27" fill="#202124">
+<text x="120" y="240">대복재정맥 · 소복재정맥</text><text x="900" y="240" font-weight="700" fill="#e8710a">0.5초 이상</text>
+<text x="120" y="310">정강정맥</text><text x="900" y="310" font-weight="700" fill="#e8710a">0.5초 이상</text>
+<text x="120" y="380">심부대퇴정맥 · 관통정맥</text><text x="900" y="380" font-weight="700" fill="#e8710a">0.5초 이상</text>
+<text x="120" y="450">대퇴정맥 · 슬와정맥(무릎 뒤)</text><text x="900" y="450" font-weight="700" fill="#1a73e8">1초 이상</text>
+</g>
+<g stroke="#dadce0" stroke-width="2"><line x1="80" y1="265" x2="1120" y2="265"/><line x1="80" y1="335" x2="1120" y2="335"/><line x1="80" y1="405" x2="1120" y2="405"/><line x1="80" y1="475" x2="1120" y2="475"/></g>
+<rect x="80" y="515" width="1040" height="110" rx="16" fill="#fef7e0" stroke="#f5dfae" stroke-width="2"/>
+<text x="600" y="560" text-anchor="middle" font-size="26" fill="#202124">숫자 하나만 넘어서는 안 되고, 그 다리에 증상(부종·저림·경련 등)이</text>
+<text x="600" y="600" text-anchor="middle" font-size="26" fill="#202124">진료기록에 함께 남아 있어야 해요</text>
+<text x="80" y="670" font-size="21" fill="#5f6368">자료: 금융감독원 실손의료보험 치료 목적 판단 기준(2016년 12월 개정, 메디칼타임즈 2017년 1월 보도)</text>
+</svg>
