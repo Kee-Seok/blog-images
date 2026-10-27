@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">미래에셋생명 해킹 뒤 고객이 할 일 순서</text>
+<g font-size="20">
+<rect x="50" y="85" width="700" height="72" rx="14" fill="#e8f0fe"/><circle cx="95" cy="121" r="22" fill="#1a73e8"/><text x="95" y="128" text-anchor="middle" fill="#fff" font-weight="700">1</text>
+<text x="135" y="128" fill="#202124">청구 급하면 1588-0220에 전화 — 팩스·우편 중 되는 길 묻기</text>
+<rect x="50" y="172" width="700" height="72" rx="14" fill="#e8f0fe"/><circle cx="95" cy="208" r="22" fill="#1a73e8"/><text x="95" y="215" text-anchor="middle" fill="#fff" font-weight="700">2</text>
+<text x="135" y="215" fill="#202124">회사 사칭 문자·전화의 링크는 누르지 않기</text>
+<rect x="50" y="259" width="700" height="72" rx="14" fill="#e8f0fe"/><circle cx="95" cy="295" r="22" fill="#1a73e8"/><text x="95" y="302" text-anchor="middle" fill="#fff" font-weight="700">3</text>
+<text x="135" y="302" fill="#202124">불안하면 금감원 개인정보노출자로 등록</text>
+<rect x="50" y="346" width="700" height="72" rx="14" fill="#e8f0fe"/><circle cx="95" cy="382" r="22" fill="#1a73e8"/><text x="95" y="389" text-anchor="middle" fill="#fff" font-weight="700">4</text>
+<text x="135" y="389" fill="#202124">개별 유출 통지가 오면 항목 확인 → 피해 시 분쟁조정</text>
+</g>
+<text x="400" y="452" text-anchor="middle" font-size="16" fill="#5f6368">유출 대상·항목은 10월 27일 현재 회사가 파악 중</text>
+</svg>
