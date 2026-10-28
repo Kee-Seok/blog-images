@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="60" y="80" font-size="38" font-weight="700" fill="#202124">유치원 우선모집 대상, 두 칸으로 나뉘어요</text>
+<text x="60" y="125" font-size="24" fill="#5f6368">서울시교육청·세종시교육청 2027학년도 모집 안내(2026년 10월 보도) 기준</text>
+<rect x="60" y="170" width="520" height="500" rx="24" fill="#E8F0FE" stroke="#1a73e8" stroke-width="3"/>
+<text x="90" y="230" font-size="32" font-weight="700" fill="#1a73e8">교육청이 정한 법정 대상</text>
+<g font-size="27" fill="#202124">
+<text x="90" y="300">· 법정 저소득층</text>
+<text x="90" y="355">· 국가보훈대상자</text>
+<text x="90" y="410">· 북한이탈주민 가정</text>
+<text x="90" y="465">· 특수교육대상자</text>
+</g>
+<text x="90" y="560" font-size="24" fill="#5f6368">교육청 보도자료에 이름이 나온 대상</text>
+<rect x="620" y="170" width="520" height="500" rx="24" fill="#FFF3EC" stroke="#E8551F" stroke-width="3"/>
+<text x="650" y="230" font-size="32" font-weight="700" fill="#E8551F">유치원마다 다른 칸</text>
+<g font-size="27" fill="#202124">
+<text x="650" y="300">· 재학생 형제자매</text>
+<text x="650" y="355">· 다자녀 · 쌍생아</text>
+<text x="650" y="410">· 다문화 · 장애부모 가정</text>
+<text x="650" y="465">· 맞벌이 (넣은 곳만)</text>
+</g>
+<text x="650" y="560" font-size="24" fill="#5f6368">모집요강 '우선모집 자격'에</text>
+<text x="650" y="595" font-size="24" fill="#5f6368">적혀 있어야 인정</text>
+<text x="60" y="725" font-size="22" fill="#5f6368">구체적인 범위와 서류는 지원할 유치원의 모집요강이 기준입니다</text>
+</svg>
