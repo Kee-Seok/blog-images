@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="500" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">스레드 자동화 방법, 올리기 전에 거치는 다섯 칸</text>
+<g font-size="19" fill="#202124">
+<rect x="60" y="80" width="680" height="64" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="90" y="120" font-weight="700" fill="#1a73e8">①</text><text x="130" y="120">화면 매크로 대신 공식 API(graph.threads.net)로 올린다</text>
+<rect x="60" y="158" width="680" height="64" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="90" y="198" font-weight="700" fill="#1a73e8">②</text><text x="130" y="198">수익 공개 글 하루 1개 · 쿠팡 글 하루 3칸, 칸마다 1번</text>
+<rect x="60" y="236" width="680" height="64" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="90" y="276" font-weight="700" fill="#1a73e8">③</text><text x="130" y="276">내가 3시간 안에 직접 올렸으면 그날 자동 글은 쉰다</text>
+<rect x="60" y="314" width="680" height="64" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="90" y="354" font-weight="700" fill="#1a73e8">④</text><text x="130" y="354">답글은 25초씩 띄워 단다 · 남의 글 답글엔 링크 없음</text>
+<rect x="60" y="392" width="680" height="64" rx="12" fill="#fdecea" stroke="#d93025" stroke-width="2"/>
+<text x="90" y="432" font-weight="700" fill="#d93025">⑤</text><text x="130" y="432">"맞팔·좋아요 눌러" 같은 문구가 있으면 대기열에 안 들어감</text>
+</g>
+<text x="400" y="486" text-anchor="middle" font-size="14" fill="#5f6368">크라우드 계정 실제 스크립트 설정 (2026년 10월 28일 확인)</text>
+</svg>
