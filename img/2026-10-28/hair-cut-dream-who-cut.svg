@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="sans-serif">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">누가 가위를 들었는지로 갈리는 풀이</text>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<rect x="30" y="72" width="410" height="148" rx="14" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="235" y="110" font-weight="700" font-size="22">내가 직접 자름</text>
+<text x="235" y="148">스스로 매듭짓는 결단</text>
+<text x="235" y="180" fill="#5f6368" font-size="17">묵은 걱정을 털어내는 쪽</text>
+<rect x="460" y="72" width="410" height="148" rx="14" fill="#e3f2fd" stroke="#4285f4" stroke-width="2"/>
+<text x="665" y="110" font-weight="700" font-size="22">미용실에서 자름</text>
+<text x="665" y="148">남의 도움으로 바뀌는 변화</text>
+<text x="665" y="180" fill="#5f6368" font-size="17">새 일·새 환경의 시작</text>
+<rect x="30" y="236" width="410" height="148" rx="14" fill="#fdecea" stroke="#ea4335" stroke-width="2"/>
+<text x="235" y="274" font-weight="700" font-size="22">남이 억지로 자름</text>
+<text x="235" y="312">내 뜻과 다르게 흔들림</text>
+<text x="235" y="344" fill="#5f6368" font-size="17">말·돈 문제를 조심하라는 쪽</text>
+<rect x="460" y="236" width="410" height="148" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="665" y="274" font-weight="700" font-size="22">내가 남의 머리를 자름</text>
+<text x="665" y="312">그 사람 일에 내가 손을 댐</text>
+<text x="665" y="344" fill="#5f6368" font-size="17">관계를 정리하거나 돕는 때</text>
+</g>
+<text x="450" y="408" text-anchor="middle" font-size="15" fill="#80868b">흔히 보는 해몽을 정리한 것 · 오늘의 꿈 해몽</text>
+</svg>
