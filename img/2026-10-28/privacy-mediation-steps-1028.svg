@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="300" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">신청부터 결론까지 다섯 칸</text>
+<g font-size="16" text-anchor="middle">
+<rect x="20" y="80" width="140" height="130" rx="14" fill="#eef3fd"/><text x="90" y="118" font-weight="700" fill="#1a73e8">① 신청</text><text x="90" y="150" fill="#333">온라인·우편</text><text x="90" y="174" fill="#333">문자로 접수 알림</text>
+<rect x="175" y="80" width="140" height="130" rx="14" fill="#eef3fd"/><text x="245" y="118" font-weight="700" fill="#1a73e8">② 합의 권고</text><text x="245" y="150" fill="#333">합의되면</text><text x="245" y="174" fill="#333">여기서 끝</text>
+<rect x="330" y="80" width="140" height="130" rx="14" fill="#eef3fd"/><text x="400" y="118" font-weight="700" fill="#1a73e8">③ 사실조사</text><text x="400" y="150" fill="#333">추가 자료</text><text x="400" y="174" fill="#333">요청 올 수 있음</text>
+<rect x="485" y="80" width="140" height="130" rx="14" fill="#eef3fd"/><text x="555" y="118" font-weight="700" fill="#1a73e8">④ 조정안</text><text x="555" y="150" fill="#333">신청일부터</text><text x="555" y="174" fill="#333">60일 이내</text>
+<rect x="640" y="80" width="140" height="130" rx="14" fill="#fff4e5" stroke="#e8551f"/><text x="710" y="118" font-weight="700" fill="#e8551f">⑤ 답하기</text><text x="710" y="150" fill="#333">15일 안 답 없으면</text><text x="710" y="174" font-weight="700" fill="#e8551f">수락으로 봄</text>
+</g>
+<text x="400" y="250" text-anchor="middle" font-size="16" fill="#444">성립하면 재판상 화해와 같은 효력 · 거절하면 소송으로</text>
+<text x="400" y="282" text-anchor="middle" font-size="14" fill="#888">출처: 개인정보 분쟁조정위원회 신청방법 안내 · 개인정보 보호법 제44조·제47조</text>
+</svg>
