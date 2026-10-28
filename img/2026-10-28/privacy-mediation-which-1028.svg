@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">유출 피해, 내 경우는 어느 길?</text>
+<rect x="30" y="80" width="235" height="340" rx="16" fill="#eef3fd" stroke="#1a73e8"/>
+<text x="147" y="122" text-anchor="middle" font-size="21" font-weight="700" fill="#1a73e8">혼자 신청</text>
+<text x="147" y="162" text-anchor="middle" font-size="17" fill="#202124">일반 분쟁조정</text>
+<text x="147" y="210" text-anchor="middle" font-size="16" fill="#444">개인정보 포털에서</text>
+<text x="147" y="236" text-anchor="middle" font-size="16" fill="#444">온라인 신청</text>
+<text x="147" y="284" text-anchor="middle" font-size="16" fill="#444">조정안까지</text>
+<text x="147" y="312" text-anchor="middle" font-size="26" font-weight="700" fill="#1a73e8">60일 이내</text>
+<text x="147" y="366" text-anchor="middle" font-size="15" fill="#666">대리 신청은 위임장</text>
+<rect x="283" y="80" width="235" height="340" rx="16" fill="#f3effc" stroke="#6b47c2"/>
+<text x="400" y="122" text-anchor="middle" font-size="21" font-weight="700" fill="#6b47c2">여럿이 같이</text>
+<text x="400" y="162" text-anchor="middle" font-size="17" fill="#202124">집단분쟁조정</text>
+<text x="400" y="210" text-anchor="middle" font-size="16" fill="#444">같은 피해가</text>
+<text x="400" y="236" text-anchor="middle" font-size="16" fill="#444">여러 사람에게</text>
+<text x="400" y="284" text-anchor="middle" font-size="16" fill="#444">공고 끝난 다음 날부터</text>
+<text x="400" y="312" text-anchor="middle" font-size="26" font-weight="700" fill="#6b47c2">60일 이내</text>
+<text x="400" y="366" text-anchor="middle" font-size="15" fill="#666">나중에 추가 참여 가능</text>
+<rect x="536" y="80" width="235" height="340" rx="16" fill="#fdf0ec" stroke="#e8551f"/>
+<text x="653" y="122" text-anchor="middle" font-size="21" font-weight="700" fill="#e8551f">법원으로</text>
+<text x="653" y="162" text-anchor="middle" font-size="17" fill="#202124">법정손해배상</text>
+<text x="653" y="210" text-anchor="middle" font-size="16" fill="#444">손해액 입증 없이</text>
+<text x="653" y="236" text-anchor="middle" font-size="16" fill="#444">청구 가능</text>
+<text x="653" y="284" text-anchor="middle" font-size="16" fill="#444">법원이 정하는 금액</text>
+<text x="653" y="312" text-anchor="middle" font-size="26" font-weight="700" fill="#e8551f">300만원 이하</text>
+<text x="653" y="366" text-anchor="middle" font-size="15" fill="#666">개인정보 보호법 39조의2</text>
+<text x="400" y="448" text-anchor="middle" font-size="14" fill="#888">출처: 개인정보 보호법(2026.9.11 시행) · 개인정보 분쟁조정위원회</text>
+</svg>
