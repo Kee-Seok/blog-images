@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="sans-serif">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">누가 결혼했는지로 갈리는 풀이</text>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<rect x="30" y="72" width="410" height="148" rx="14" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="235" y="110" font-weight="700" font-size="22">미혼인 내가 결혼</text>
+<text x="235" y="148">새 일·계약이 맺어지는 때</text>
+<text x="235" y="180" fill="#5f6368" font-size="17">취직·합격 소식 쪽으로 봄</text>
+<rect x="460" y="72" width="410" height="148" rx="14" fill="#e3f2fd" stroke="#4285f4" stroke-width="2"/>
+<text x="665" y="110" font-weight="700" font-size="22">기혼자인 내가 또 결혼</text>
+<text x="665" y="148">맡은 일·자리가 바뀌는 때</text>
+<text x="665" y="180" fill="#5f6368" font-size="17">새 책임을 얻는 쪽으로 봄</text>
+<rect x="30" y="236" width="410" height="148" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="235" y="274" font-weight="700" font-size="22">가족이 결혼</text>
+<text x="235" y="312">집안에 새 식구·새 일</text>
+<text x="235" y="344" fill="#5f6368" font-size="17">그 사람의 변화로 풀이</text>
+<rect x="460" y="236" width="410" height="148" rx="14" fill="#f3e8fd" stroke="#9334e6" stroke-width="2"/>
+<text x="665" y="274" font-weight="700" font-size="22">모르는 사람과 결혼</text>
+<text x="665" y="312">낯선 일과 손잡는 때</text>
+<text x="665" y="344" fill="#5f6368" font-size="17">새 사람·새 거래 쪽으로 봄</text>
+</g>
+<text x="450" y="406" text-anchor="middle" font-size="15" fill="#5f6368">전통 해몽에서 흔히 보는 풀이 · 오늘의 꿈 해몽</text>
+</svg>
