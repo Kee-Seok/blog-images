@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="40" font-weight="700" fill="#202124">영수증 금액별 실비 청구 서류</text>
+<text x="600" y="115" text-anchor="middle" font-size="24" fill="#5f6368">같은 사고 한 번에 낸 영수증 금액 기준 · 손해보험협회 표준</text>
+<g font-size="28">
+<rect x="60" y="160" width="520" height="70" rx="14" fill="#e8f0fe"/><text x="320" y="205" text-anchor="middle" font-weight="700" fill="#1a3d7c">통원 (외래)</text>
+<rect x="620" y="160" width="520" height="70" rx="14" fill="#fef3e0"/><text x="880" y="205" text-anchor="middle" font-weight="700" fill="#8a4b00">입원</text>
+<rect x="60" y="260" width="520" height="130" rx="14" fill="#f8f9fa" stroke="#dadce0"/><text x="90" y="310" font-weight="700" fill="#202124">3만원 이하</text><text x="90" y="355" font-size="24" fill="#3c4043">청구서 + 영수증만 → 서류값 0원</text>
+<rect x="60" y="410" width="520" height="130" rx="14" fill="#f8f9fa" stroke="#dadce0"/><text x="90" y="460" font-weight="700" fill="#202124">3만원 초과~10만원 이하</text><text x="90" y="505" font-size="24" fill="#3c4043">+ 질병분류기호 적힌 처방전</text>
+<rect x="60" y="560" width="520" height="130" rx="14" fill="#f8f9fa" stroke="#dadce0"/><text x="90" y="610" font-weight="700" fill="#202124">10만원 초과</text><text x="90" y="655" font-size="24" fill="#3c4043">진단서·통원확인서 등 추가 서류</text>
+<rect x="620" y="260" width="520" height="200" rx="14" fill="#f8f9fa" stroke="#dadce0"/><text x="650" y="310" font-weight="700" fill="#202124">50만원 이하</text><text x="650" y="355" font-size="24" fill="#3c4043">진단서(상한 20,000원) 대신</text><text x="650" y="395" font-size="24" fill="#3c4043">입퇴원확인서·진료확인서</text><text x="650" y="435" font-size="24" font-weight="700" fill="#b06000">(상한 3,000원)</text>
+<rect x="620" y="480" width="520" height="130" rx="14" fill="#f8f9fa" stroke="#dadce0"/><text x="650" y="530" font-weight="700" fill="#202124">50만원 초과</text><text x="650" y="575" font-size="24" fill="#3c4043">영수증·세부내역서·진단서</text>
+</g>
+<text x="600" y="735" text-anchor="middle" font-size="22" fill="#80868b">통원 10만원 이하 간소화에서 산부인과·항문외과·비뇨기과·피부과는 제외</text>
+</svg>
