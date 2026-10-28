@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="960" height="560" font-family="sans-serif">
+<rect width="960" height="560" fill="#ffffff"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">간호간병통합서비스 병원 찾기, 누르는 순서</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="96" width="880" height="70" rx="12" fill="#f1f3f4"/><circle cx="82" cy="131" r="20" fill="#1a73e8"/><text x="82" y="138" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">1</text><text x="120" y="139">건강보험공단 누리집 → 건강모아 → 기관 찾기</text>
+<rect x="40" y="182" width="880" height="70" rx="12" fill="#f1f3f4"/><circle cx="82" cy="217" r="20" fill="#1a73e8"/><text x="82" y="224" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">2</text><text x="120" y="225">'특성별 기관찾기' 탭 → 간호·간병통합서비스 병원</text>
+<rect x="40" y="268" width="880" height="70" rx="12" fill="#f1f3f4"/><circle cx="82" cy="303" r="20" fill="#1a73e8"/><text x="82" y="310" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">3</text><text x="120" y="311">시/도 · 시/군/구 고르기 (부모님 집 근처)</text>
+<rect x="40" y="354" width="880" height="70" rx="12" fill="#e8f0fe" stroke="#1a73e8"/><circle cx="82" cy="389" r="20" fill="#1a73e8"/><text x="82" y="396" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">4</text><text x="120" y="397">조건: 통합일반병동 · 통합재활병동 · 통합집중간호병실</text>
+<rect x="40" y="440" width="880" height="70" rx="12" fill="#f1f3f4"/><circle cx="82" cy="475" r="20" fill="#1a73e8"/><text x="82" y="482" font-size="20" font-weight="700" fill="#fff" text-anchor="middle">5</text><text x="120" y="483">나온 병원 원무과에 전화: 진료과 병동 있는지 · 대기 있는지</text>
+</g>
+<text x="40" y="540" font-size="16" fill="#80868b">2026년 10월 28일 화면 기준 · 표시 병상 수는 빈 병상 수가 아니에요</text>
+</svg>
