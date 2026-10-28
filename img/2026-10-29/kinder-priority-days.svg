@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="sans-serif">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="60" y="80" font-size="38" font-weight="700" fill="#202124">원서부터 등록까지, 날짜 다섯 개</text>
+<text x="60" y="125" font-size="24" fill="#5f6368">2027학년도 우선모집 · 서울·세종·경남 교육청 안내 공통 일정</text>
+<line x1="120" y1="330" x2="1080" y2="330" stroke="#c7ccd4" stroke-width="6"/>
+<g font-size="26" text-anchor="middle">
+<circle cx="140" cy="330" r="22" fill="#1a73e8"/><text x="140" y="270" font-weight="700" fill="#1a73e8">지금</text><text x="140" y="400" fill="#202124">모집요강</text><text x="140" y="440" fill="#202124">자격·서류 확인</text>
+<circle cx="370" cy="330" r="22" fill="#E8551F"/><text x="370" y="270" font-weight="700" fill="#E8551F">11월 2~4일</text><text x="370" y="400" fill="#202124">원서 접수</text><text x="370" y="440" fill="#202124">+ 서류 제출</text>
+<circle cx="600" cy="330" r="22" fill="#1a73e8"/><text x="600" y="270" font-weight="700" fill="#1a73e8">11월 9일</text><text x="600" y="400" fill="#202124">추첨 결과</text><text x="600" y="440" fill="#5f6368">(세종 오후 3시)</text>
+<circle cx="830" cy="330" r="22" fill="#E8551F"/><text x="830" y="270" font-weight="700" fill="#E8551F">11월 10~11일</text><text x="830" y="400" fill="#202124">등록</text><text x="830" y="440" fill="#5f6368">안 하면 자동 포기</text>
+<circle cx="1060" cy="330" r="22" fill="#5f6368"/><text x="1060" y="270" font-weight="700" fill="#5f6368">11월 17~23일</text><text x="1060" y="400" fill="#202124">일반모집</text><text x="1060" y="440" fill="#5f6368">떨어졌다면</text>
+</g>
+<rect x="60" y="520" width="1080" height="120" rx="18" fill="#f7f9fc" stroke="#e1e6ee"/>
+<text x="90" y="570" font-size="26" fill="#202124">신입생은 최대 3곳(지금 다니는 유치원에 남으면 그곳 빼고 2곳)</text>
+<text x="90" y="615" font-size="26" fill="#202124">선착순이 아니라 접수 마감 뒤 무작위 추첨이라 첫날 몰릴 필요 없어요</text>
+</svg>
