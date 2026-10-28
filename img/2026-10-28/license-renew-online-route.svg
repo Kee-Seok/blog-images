@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="60" y="80" font-size="38" font-weight="700" fill="#202124">1종운전면허갱신 인터넷 신청, 되는 사람·안 되는 사람</text>
+<g font-size="27" fill="#202124">
+<rect x="60" y="130" width="1080" height="120" rx="18" fill="#E6F4EA" stroke="#188038" stroke-width="3"/>
+<text x="90" y="180" font-weight="700" fill="#188038">인터넷 신청 가능</text>
+<text x="90" y="225">1종 보통 + 공단 건강검진 2년 이내(시력 0.8 이상) · 2종 보통(70세 미만)</text>
+<rect x="60" y="280" width="1080" height="120" rx="18" fill="#FEF7E0" stroke="#E37400" stroke-width="3"/>
+<text x="90" y="330" font-weight="700" fill="#E37400">검진 기록 없으면</text>
+<text x="90" y="375">병원 신체검사 받고 시험장·경찰서 방문 (신체검사비 7,000원 · 시험장 기준)</text>
+<rect x="60" y="430" width="1080" height="120" rx="18" fill="#FCE8E6" stroke="#D93025" stroke-width="3"/>
+<text x="90" y="480" font-weight="700" fill="#D93025">방문해야 하는 경우</text>
+<text x="90" y="525">1종 대형·특수 면허 (신체검사 필수, 8,000원)</text>
+<rect x="60" y="580" width="1080" height="100" rx="18" fill="#F1F3F4"/>
+<text x="90" y="640">수수료: 1종 적성검사 16,000원(모바일IC 21,000원) · 2종 갱신 10,000원(15,000원)</text>
+</g>
+<text x="60" y="725" font-size="22" fill="#80868b">출처: 한국도로교통공단 안전운전 통합민원 '정기적성검사·면허갱신' 안내 (2026-10-28 확인)</text>
+</svg>
