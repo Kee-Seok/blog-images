@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="sans-serif">
+<rect width="960" height="540" fill="#ffffff"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">종합병원 6인실, 하루에 내는 돈</text>
+<text x="40" y="94" font-size="18" fill="#5f6368">국민건강보험공단 건강보험 웹진(2023년 기준 금액)</text>
+<text x="40" y="168" font-size="22" font-weight="700" fill="#202124">일반병동 + 간병인</text>
+<rect x="40" y="186" width="560" height="64" rx="10" fill="#dadce0"/>
+<rect x="40" y="186" width="55" height="64" rx="10" fill="#9aa0a6"/>
+<text x="620" y="228" font-size="26" font-weight="700" fill="#202124">112,197원</text>
+<text x="40" y="282" font-size="17" fill="#5f6368">입원료 10,990원 + 간병인 101,207원</text>
+<text x="40" y="358" font-size="22" font-weight="700" fill="#1a73e8">간호·간병통합병동</text>
+<rect x="40" y="376" width="112" height="64" rx="10" fill="#1a73e8"/>
+<text x="172" y="418" font-size="26" font-weight="700" fill="#1a73e8">22,340원</text>
+<text x="40" y="472" font-size="17" fill="#5f6368">입원료에 간병이 들어가 있고, 간병인을 따로 두지 않아요</text>
+<text x="40" y="516" font-size="16" fill="#80868b">검사·약값은 두 경우 모두 따로 · 병원·병실마다 금액이 달라요</text>
+</svg>
