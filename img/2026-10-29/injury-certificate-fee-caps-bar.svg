@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="sans-serif">
+<rect width="1200" height="720" fill="#ffffff"/>
+<text x="600" y="70" text-anchor="middle" font-size="40" font-weight="700" fill="#202124">다쳤을 때 떼는 서류, 병원이 받을 수 있는 최대 금액</text>
+<text x="600" y="112" text-anchor="middle" font-size="24" fill="#5f6368">보건복지부 고시 제2021-34호 상한금액 · 진찰료 별도</text>
+<g font-size="26" fill="#202124">
+<text x="60" y="190">일반진단서</text><rect x="400" y="160" width="100" height="44" rx="6" fill="#8ab4f8"/><text x="515" y="192" font-weight="700">20,000원</text>
+<text x="60" y="270">향후진료비추정서(1천만원 미만)</text><rect x="400" y="240" width="250" height="44" rx="6" fill="#fdd663"/><text x="665" y="272" font-weight="700">50,000원</text>
+<text x="60" y="350">상해진단서 3주 미만</text><rect x="400" y="320" width="500" height="44" rx="6" fill="#f6ae2d"/><text x="915" y="352" font-weight="700">100,000원</text>
+<text x="60" y="430">후유장애진단서</text><rect x="400" y="400" width="500" height="44" rx="6" fill="#f6ae2d"/><text x="915" y="432" font-weight="700">100,000원</text>
+<text x="60" y="510">상해진단서 3주 이상</text><rect x="400" y="480" width="750" height="44" rx="6" fill="#ee675c"/><text x="1000" y="512" font-weight="700" text-anchor="end" fill="#202124">150,000원</text>
+<text x="60" y="590">같은 서류 둘째 통(사본)</text><rect x="400" y="560" width="6" height="44" rx="2" fill="#81c995"/><text x="420" y="592" font-weight="700">1,000원</text>
+</g>
+<text x="600" y="680" text-anchor="middle" font-size="22" fill="#80868b">병원은 0원부터 이 금액 사이에서 정해 원내·홈페이지에 게시해야 해요</text>
+</svg>
