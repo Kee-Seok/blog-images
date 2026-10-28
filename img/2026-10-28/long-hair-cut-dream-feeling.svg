@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="sans-serif">
+<rect width="900" height="340" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">긴머리를 자른 뒤, 거울 앞 기분이 답이에요</text>
+<g font-size="20" fill="#202124" text-anchor="middle">
+<rect x="40" y="74" width="400" height="220" rx="16" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="240" y="118" font-weight="700" font-size="24">시원하고 마음에 듦</text>
+<text x="240" y="166">오래 붙잡던 일·관계를</text>
+<text x="240" y="196">가볍게 내려놓는 새 출발</text>
+<text x="240" y="252" fill="#5f6368" font-size="18">길몽 쪽으로 읽음</text>
+<rect x="460" y="74" width="400" height="220" rx="16" fill="#f1f3f4" stroke="#80868b" stroke-width="2"/>
+<text x="660" y="118" font-weight="700" font-size="24">아깝고 후회됨</text>
+<text x="660" y="166">아직 미련이 남은 일,</text>
+<text x="660" y="196">서둘러 정한 결정</text>
+<text x="660" y="252" fill="#5f6368" font-size="18">한 번 더 생각해 보라는 쪽</text>
+</g>
+<text x="450" y="326" text-anchor="middle" font-size="15" fill="#80868b">흔히 보는 해몽을 정리한 것 · 오늘의 꿈 해몽</text>
+</svg>
