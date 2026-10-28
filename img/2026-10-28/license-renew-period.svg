@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="60" y="80" font-size="38" font-weight="700" fill="#202124">2026년 갱신 대상, 생일 따라 마감이 갈려요</text>
+<text x="60" y="125" font-size="24" fill="#5f6368">기존 기간(1월 1일~12월 31일)과 생일 전후 6개월 중 하나면 됨</text>
+<rect x="60" y="170" width="520" height="470" rx="24" fill="#FFF3EC" stroke="#E8551F" stroke-width="3"/>
+<text x="90" y="230" font-size="32" font-weight="700" fill="#E8551F">생일이 1~6월</text>
+<g font-size="26" fill="#202124">
+<text x="90" y="290">생일 뒤 6개월이 올해 안에 끝남</text>
+<text x="90" y="345">→ 더 늦은 쪽은 기존 기간</text>
+<text x="90" y="420" font-size="34" font-weight="700" fill="#E8551F">12월 31일까지</text>
+<text x="90" y="490">연말 시험장 대기를 피하려면</text>
+<text x="90" y="530">11월 안에 인터넷 신청</text>
+</g>
+<rect x="620" y="170" width="520" height="470" rx="24" fill="#E8F0FE" stroke="#1a73e8" stroke-width="3"/>
+<text x="650" y="230" font-size="32" font-weight="700" fill="#1a73e8">생일이 7~12월</text>
+<g font-size="26" fill="#202124">
+<text x="650" y="290">생일 뒤 6개월이 내년으로 넘어감</text>
+<text x="650" y="345">예) 10월 1일생</text>
+<text x="650" y="420" font-size="34" font-weight="700" fill="#1a73e8">2027년 4월 1일까지</text>
+<text x="650" y="490">내 날짜는 안전운전 통합민원</text>
+<text x="650" y="530">마이페이지에서 확인</text>
+</g>
+<text x="60" y="710" font-size="22" fill="#80868b">출처: 한국도로교통공단 안전운전 통합민원 '정기적성검사·면허갱신' 안내, 세계일보 2026-01-12 (2026-10-28 확인)</text>
+</svg>
