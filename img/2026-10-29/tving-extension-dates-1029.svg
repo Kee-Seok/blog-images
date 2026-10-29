@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">티빙 보상 신청 연장, 남은 날짜</text>
+<line x1="80" y1="190" x2="720" y2="190" stroke="#dadce0" stroke-width="6"/>
+<g font-size="19" text-anchor="middle">
+<circle cx="120" cy="190" r="16" fill="#9aa0a6"/><text x="120" y="150" font-weight="700" fill="#5f6368">9월 30일</text><text x="120" y="235" fill="#5f6368">1차 마감</text>
+<circle cx="300" cy="190" r="16" fill="#1a73e8"/><text x="300" y="150" font-weight="700" fill="#1a73e8">10월 6일</text><text x="300" y="235" fill="#202124">연장 신청 시작</text>
+<circle cx="490" cy="190" r="20" fill="#d93025"/><text x="490" y="145" font-weight="700" fill="#d93025">10월 30일 23:59</text><text x="490" y="235" fill="#202124">신청 끝 · 연락처 변경도</text>
+<circle cx="680" cy="190" r="16" fill="#188038"/><text x="680" y="150" font-weight="700" fill="#188038">11월 4일 10시</text><text x="680" y="235" fill="#202124">순차 지급</text>
+</g>
+<text x="400" y="310" text-anchor="middle" font-size="19" fill="#202124">9월 30일까지 이미 신청했다면 추가 신청·변경은 안 됩니다</text>
+<text x="400" y="370" text-anchor="middle" font-size="17" fill="#5f6368">출처: 티빙 보상 안내(10/29 확인)·노컷뉴스(연합) 9/30</text>
+</svg>
