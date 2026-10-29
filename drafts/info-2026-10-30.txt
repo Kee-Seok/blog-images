@@ -1,0 +1,50 @@
+<p data-ke-size="size16">검진 받고 2주째, 건강검진 결과 확인 화면을 열었는데 빈칸이라면 아직 결과가 없는 게 아닙니다. 검진기관은 검진을 마친 뒤 <b>15일 안에</b> 결과통보서를 우편·이메일·모바일로 보내야 하고(보건복지부 건강검진 실시기준 제10조), 공단 홈페이지 조회는 그 기관이 결과를 공단 전산에 올린 뒤에야 보입니다. 길이 두 개라 도착 시점이 서로 다를 수 있죠.</p>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@main/img/2026-10-30/thumb-checkup-result.jpg" alt="건강검진 결과 확인, 15일 안에 통보" style="max-width:100%;height:auto" /></p>
+<!-- 요약:start --><div style="margin:1.4em 0;padding:16px 18px;background:#f7f9fc;border:1px solid #e1e6ee;border-radius:12px;color:#202124"><p style="margin:0 0 8px;font-weight:700;color:#202124">결과 기다리는 동안 알아 둘 넷</p><ul style="margin:0;padding-left:20px;line-height:1.7;color:#202124"><li>검진기관 통보 기한은 검진 완료 후 15일 이내(우편·이메일·모바일)</li><li>공단 홈페이지 결과는 기관이 전산에 올린 뒤 보여요</li><li>회사에 낼 땐 '건강검진 실시확인서(직장제출용)'를 출력</li><li>질환의심이 나오면 확진검사는 2027년 3월 31일까지(2026년 검진 기준)</li></ul></div><!-- 요약:end -->
+<h2 data-ke-size="size26">검진 2주가 지났다면, 먼저 볼 곳</h2>
+<p data-ke-size="size16">검진 날짜에서 15일을 세어 보세요. 아직 15일이 안 됐다면 기다리는 게 맞고, 지났다면 우편함과 검진 때 적은 이메일, 문자함을 먼저 확인합니다. 접수할 때 받은 안내지에 통보 방법이 적혀 있는 기관도 많습니다.</p>
+<p data-ke-size="size16">공단 쪽 화면은 국민건강보험공단 홈페이지 '건강모아 → 건강검진 결과조회'입니다. 로그인한 사람의 결과가 나오는 화면이라, 부모님 결과라면 부모님 휴대폰 인증으로 같이 열어 보세요.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<center><a class="myButton1" href="https://www.nhis.or.kr/nhis/healthin/retrieveHealthinCheckUpTargetResultPerson.do" target="_blank" rel="noopener">공단 홈페이지에서 내 검진 결과 열어 보기</a></center>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 data-ke-size="size26">건강검진 결과 조회 안뜸, 이럴 땐 기관에 전화 한 통</h2>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@main/img/2026-10-30/checkup-result-route.svg" alt="건강검진 결과가 오는 두 길" style="max-width:100%;height:auto" /></p>
+<p data-ke-size="size16">건강검진 결과 조회 안뜸 문의가 많은 이유는 고시 문장에 있습니다. 검진기관은 공단 전산(건강검진 포털)에 결과를 등록한 다음 검진비를 청구하게 돼 있습니다. 그러니 홈페이지에 안 뜬다는 건 대개 기관이 아직 등록 전이라는 뜻이죠.</p>
+<p data-ke-size="size16">15일이 지났는데 통보서도 안 오고 조회도 비어 있다면, 검진받은 병원 건강검진센터에 "결과 통보 방법과 공단 등록 여부"를 물어보는 게 제일 빠릅니다. 그래도 정리가 안 되면 공단 고객센터 1577-1000으로요.</p>
+<p data-ke-size="size16">기다리는 사이에 조심할 게 하나 있습니다. 보안뉴스는 10월 29일, 공단을 사칭한 '건강검진표 및 안내문 알림' 피싱 메일이 돌고 있다고 전했습니다. '확인하러 가기' 버튼을 누르면 위조한 공단 홈페이지로 넘어가는 방식이었고요. 결과는 메일이나 문자 속 링크 말고, 위 버튼처럼 공단 주소로 직접 들어가서 보세요.</p>
+<h2 data-ke-size="size26">결과지에 '질환의심'이 적혀 있다면</h2>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@main/img/2026-10-30/checkup-confirm-test.svg" alt="질환의심 확진검사 대상과 기한" style="max-width:100%;height:auto" /></p>
+<p data-ke-size="size16">여기서 그냥 넘기면 손해입니다. 고혈압·당뇨병·이상지질혈증·폐결핵·우울증 또는 조기정신증·C형 간염이 의심으로 나왔다면, 동네 의원이나 병원에서 받는 확진검사가 공단 검진에 이어져 있습니다. 기한은 검진 다음 해 3월 31일까지, 올해 검진이면 2027년 3월 31일까지 시간이 있습니다.</p>
+<p data-ke-size="size16">갈 때는 일반건강검진 결과통보서와 신분증을 꼭 챙기라고 공단이 적어 두었습니다. 그래서 종이 통보서가 왔다면 버리지 말고 두는 게 좋습니다. C형 간염 확진검사만은 본인부담금이 생기고, 그 돈은 정부24나 보건소에 따로 정산 신청을 해야 합니다. 치과·한의원·요양병원·정신병원은 확진검사 기관이 아니라는 점도 공단 안내에 있습니다.</p>
+<p data-ke-size="size16">눈 검사에서 녹내장 의심이 나와 큰 병원 검사를 앞두고 있다면 실비로 돌려받을 서류가 따로 있어요. <a href="http://crowdniwant.com/entry/%EB%85%B9%EB%82%B4%EC%9E%A5-%EA%B2%80%EC%82%AC-%EC%8B%A4%EB%B9%84-%EC%B2%AD%EA%B5%AC2026-%EA%B2%80%EC%A7%84%EC%97%90%EC%84%9C-%EC%9D%98%EC%8B%AC-%EB%82%98%EC%99%94%EB%8B%A4%EB%A9%B4-%EC%84%9C%EB%A5%98-%EB%91%90-%EC%9E%A5" target="_blank" rel="noopener">검진에서 '의심' 나온 뒤 녹내장 검사비 실비 청구 서류</a>를 정리해 둔 글이 있습니다.</p>
+<h2 data-ke-size="size26">직장인 건강검진 회사 통보, 결과지 말고 이 한 장</h2>
+<p data-ke-size="size16">인사팀이 "검진 받았는지 증빙을 내라"고 할 때, 결과지 전체를 낼 필요는 없습니다. 공단 홈페이지 같은 메뉴 안에 <b>건강검진 실시확인서(직장제출용)</b>가 따로 있습니다. 이름 그대로 회사에 내라고 만든 문서죠. 직장인 건강검진 회사 통보 방식은 회사마다 달라서, 사내 공지에 시스템 입력인지 서류 제출인지부터 확인하세요.</p>
+<p data-ke-size="size16">같은 화면에 <a href="https://www.nhis.or.kr/nhis/healthin/retrieveHealthinCheckUpImplementConfirmation.do" target="_blank" rel="noopener">건강검진 실시확인서(직장제출용) 출력 화면</a>, 운전면허 적성검사용 내역서, 채용 건강검진 대체 통보서 메뉴도 나란히 붙어 있습니다. 면허 갱신을 앞뒀다면 검진 기록으로 신체검사를 갈음하는 방법을 <a href="/entry/1%EC%A2%85%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EA%B0%B1%EC%8B%A0-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%8B%A0%EC%B2%AD-2026-%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84-2%EB%85%84-%EC%95%88%EC%9D%B4%EB%A9%B4-%EC%8B%9C%ED%97%98%EC%9E%A5-%EC%95%88-%EA%B0%80%EC%9A%94">1종 운전면허 갱신 인터넷 신청 글</a>에 적어 두었어요.</p>
+<h2 data-ke-size="size26">결과 기다리며 자주 물어보는 것</h2>
+<h3 data-ke-size="size23">건강검진 결과 조회 안뜸, 왜 그런가요?</h3>
+<p data-ke-size="size16">검진기관이 공단 전산에 결과를 아직 올리지 않았을 때가 많아요. 기관의 통보 기한은 검진 완료 후 15일 이내이니, 그 뒤에도 비어 있으면 검진받은 기관에 등록 여부를 물어보세요.</p>
+<h3 data-ke-size="size23">직장인 건강검진 회사 통보는 어떻게 하나요?</h3>
+<p data-ke-size="size16">공단 홈페이지 건강모아 메뉴의 '건강검진 실시확인서(직장제출용)'를 출력해 내면 돼요. 제출 방식은 회사마다 달라 사내 공지를 먼저 확인하세요.</p>
+<h3 data-ke-size="size23">건강검진 결과 통보서 발급은 어디서 받나요?</h3>
+<p data-ke-size="size16">검진기관이 검진 완료 후 15일 안에 우편·이메일·모바일로 보내요. 받지 못했거나 잃어버렸다면 공단 홈페이지 건강검진 결과조회 화면에서 내용을 보고, 종이 통보서는 검진받은 기관에 문의하세요.</p>
+<p data-ke-size="size16">올해 검진을 아직 못 받았다면 남은 날짜는 12월 31일까지입니다. 대상인지부터 헷갈린다면 <a href="/entry/%EC%A7%81%EC%9E%A5%EC%9D%B8-%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84-%EB%8C%80%EC%83%81%EC%9E%90-%EC%A1%B0%ED%9A%8C-%EA%B2%80%EC%A7%84%ED%91%9C%EA%B0%80-%EC%A7%91%EC%97%90-%EC%95%88-%EC%98%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0">직장인 건강검진 대상자 조회 글</a>로 먼저 확인하고 예약 잡으세요.</p>
+<!-- cluster-links:start -->
+<div style="border: 1px solid #dadce0; border-radius: 8px; padding: 14px 16px; margin: 24px 0; background: #f8f9fa;">
+<p style="margin: 0 0 6px; font-weight: bold; color: #202124;" data-ke-size="size16">같이 많이 찾는 신청&middot;조회</p>
+<ul style="margin: 0; padding-left: 18px;" data-ke-list-type="disc">
+<li style="margin: 6px 0; color: #202124;"><a style="color: #1a56db; text-decoration: underline;" href="/entry/%EC%A7%81%EC%9E%A5%EC%9D%B8-%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84-%EB%8C%80%EC%83%81%EC%9E%90-%EC%A1%B0%ED%9A%8C-%EA%B2%80%EC%A7%84%ED%91%9C%EA%B0%80-%EC%A7%91%EC%97%90-%EC%95%88-%EC%98%A4%EB%8A%94-%EC%9D%B4%EC%9C%A0">직장인 건강검진 대상자 조회</a></li>
+<li style="margin: 6px 0; color: #202124;"><a style="color: #1a56db; text-decoration: underline;" href="/entry/1%EC%A2%85%EC%9A%B4%EC%A0%84%EB%A9%B4%ED%97%88%EA%B0%B1%EC%8B%A0-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%8B%A0%EC%B2%AD-2026-%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84-2%EB%85%84-%EC%95%88%EC%9D%B4%EB%A9%B4-%EC%8B%9C%ED%97%98%EC%9E%A5-%EC%95%88-%EA%B0%80%EC%9A%94">1종운전면허갱신 인터넷 신청 2026</a></li>
+<li style="margin: 6px 0; color: #202124;"><a style="color: #1a56db; text-decoration: underline;" href="/entry/65%EC%84%B8-%EB%8F%85%EA%B0%90-%EB%AC%B4%EB%A3%8C%EC%A0%91%EC%A2%85-%EB%B3%91%EC%9B%90-%EC%B0%BE%EA%B8%B02026-%EC%BD%94%EB%A1%9C%EB%82%98-%EB%8F%99%EC%8B%9C%EC%A0%91%EC%A2%85-%EB%B3%91%EC%9B%90%EC%9D%80-%EB%AA%A9%EB%A1%9D%EC%9D%B4-%EB%94%B0%EB%A1%9C%EC%98%88%EC%9A%94">65세 독감 무료접종 병원 찾기</a></li>
+<li style="margin: 6px 0; color: #202124;"><a style="color: #1a56db; text-decoration: underline;" href="/entry/%ED%95%9C%EB%8A%A5%EA%B2%80-%EA%B2%B0%EA%B3%BC-%ED%99%95%EC%9D%B880%ED%9A%8C%C2%B72026-%EC%A0%95%EB%8B%B5-%EB%A7%9E%EC%B6%B0-%EB%B3%B4%EA%B3%A0-%EC%9D%B4%EC%9D%98%EC%8B%A0%EC%B2%AD%EC%9D%80-10%EC%9B%94-20%EC%9D%BC%EA%B9%8C%EC%A7%80">한능검 결과 확인 80회</a></li>
+<li style="margin: 6px 0; color: #202124;"><a style="color: #1a56db; text-decoration: underline;" href="/entry/%EC%97%B0%EB%A7%90%EC%A0%95%EC%82%B0-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EB%B0%A9%EB%B2%95-2026-%EC%9E%91%EB%85%84%EC%97%94-11%EC%9B%94-5%EC%9D%BC-%EC%97%B4%EB%A0%B8%EC%96%B4%EC%9A%94">연말정산 미리보기 방법 2026</a></li>
+</ul>
+</div>
+<!-- cluster-links:end -->
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"건강검진 결과 조회 안뜸, 왜 그런가요?","acceptedAnswer":{"@type":"Answer","text":"검진기관이 공단 전산에 결과를 아직 올리지 않았을 때가 많아요. 기관의 통보 기한은 검진 완료 후 15일 이내이니, 그 뒤에도 비어 있으면 검진받은 기관에 등록 여부를 물어보세요."}},{"@type":"Question","name":"직장인 건강검진 회사 통보는 어떻게 하나요?","acceptedAnswer":{"@type":"Answer","text":"공단 홈페이지 건강모아 메뉴의 '건강검진 실시확인서(직장제출용)'를 출력해 내면 돼요. 제출 방식은 회사마다 달라 사내 공지를 먼저 확인하세요."}},{"@type":"Question","name":"건강검진 결과 통보서 발급은 어디서 받나요?","acceptedAnswer":{"@type":"Answer","text":"검진기관이 검진 완료 후 15일 안에 우편·이메일·모바일로 보내요. 받지 못했거나 잃어버렸다면 공단 홈페이지 건강검진 결과조회 화면에서 내용을 보고, 종이 통보서는 검진받은 기관에 문의하세요."}}]}</script>
+<!-- track:start --><script>(function(){if(window.__ctaT)return;window.__ctaT=1;if(typeof gtag==='function')gtag('config','G-DHW09SPKFC');document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a||typeof gtag!=='function')return;if(!a.closest('.post-body,.entry-content,.tt_article_useless_p_margin,.article-view,article'))return;var h=a.href,s=a.getAttribute('style')||'',k='outbound';if(h.split('#')[0]===location.href.split('#')[0])return;if(a.classList.contains('myButton1')||/max-width:\s*420px/.test(s))k='button';else if(/crowdniwant\.com/.test(h))k=/계산기|자가진단|체크리스트/.test(a.innerText)?'calc':'internal';gtag('event','cta_click',{link_kind:k,link_text:(a.innerText||'').trim().slice(0,60),link_url:h});},true);})();</script><!-- track:end -->
