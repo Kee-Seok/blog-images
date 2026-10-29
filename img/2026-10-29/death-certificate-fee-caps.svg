@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="sans-serif">
+<rect width="960" height="540" fill="#ffffff"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">사망진단서 발급비용, 병원이 넘을 수 없는 선</text>
+<text x="40" y="94" font-size="18" fill="#5f6368">보건복지부 고시 제2021-34호 별표 · 상한 금액(0원부터 이 안에서 병원이 정함)</text>
+<g font-size="22" fill="#202124">
+<text x="40" y="160">사망진단서(원본)</text><rect x="300" y="136" width="200" height="34" rx="6" fill="#1a73e8"/><text x="512" y="161" font-weight="700">10,000원</text>
+<text x="40" y="240">시체검안서</text><rect x="300" y="216" width="600" height="34" rx="6" fill="#e8710a"/><text x="760" y="207" font-weight="700" font-size="20">30,000원</text>
+<text x="40" y="320">같은 서류 다시 뗄 때(사본)</text><rect x="300" y="296" width="20" height="34" rx="6" fill="#188038"/><text x="332" y="321" font-weight="700">1,000원</text>
+</g>
+<rect x="40" y="380" width="880" height="110" rx="14" fill="#f1f3f4"/>
+<text x="64" y="424" font-size="20" fill="#202124">병원에서 숨지면 사망진단서, 집 등 병원 밖에서 숨져 의사가 시신을 살피면 시체검안서</text>
+<text x="64" y="462" font-size="20" fill="#202124">처음 1통은 원본 값, 같은 날 더 받는 통은 사본 값인지 원무과에 물어보세요</text>
+<text x="920" y="522" font-size="16" fill="#5f6368" text-anchor="end">출처: 국가법령정보센터 행정규칙(2026-10-29 확인)</text>
+</svg>
