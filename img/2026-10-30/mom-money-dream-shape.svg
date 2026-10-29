@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="sans-serif">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">엄마가 건넨 돈, 모양별 풀이</text>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<rect x="30" y="72" width="410" height="148" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="235" y="110" font-weight="700" font-size="22">돈봉투</text>
+<text x="235" y="148">반가운 소식·문서가 오는 때</text>
+<text x="235" y="180" fill="#5f6368" font-size="17">계약·합격 연락 쪽으로 봄</text>
+<rect x="460" y="72" width="410" height="148" rx="14" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="665" y="110" font-weight="700" font-size="22">지폐 뭉치</text>
+<text x="665" y="148">재물·도움이 들어오는 길몽</text>
+<text x="665" y="180" fill="#5f6368" font-size="17">많을수록 좋게 읽는 편</text>
+<rect x="30" y="236" width="410" height="148" rx="14" fill="#e3f2fd" stroke="#4285f4" stroke-width="2"/>
+<text x="235" y="274" font-weight="700" font-size="22">동전 몇 닢</text>
+<text x="235" y="312">작은 이득, 또는 잔걱정</text>
+<text x="235" y="344" fill="#5f6368" font-size="17">풀이가 둘로 갈림</text>
+<rect x="460" y="236" width="410" height="148" rx="14" fill="#f3e8fd" stroke="#9334e6" stroke-width="2"/>
+<text x="665" y="274" font-weight="700" font-size="22">금·패물</text>
+<text x="665" y="312">귀한 것을 물려받는 꿈</text>
+<text x="665" y="344" fill="#5f6368" font-size="17">집안 일이 잘 풀리는 쪽</text>
+</g>
+<text x="450" y="406" text-anchor="middle" font-size="15" fill="#5f6368">전통 해몽에서 흔히 보는 풀이 · 오늘의 꿈 해몽</text>
+</svg>
