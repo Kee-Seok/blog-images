@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="520" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">티빙 보상 네 가지, 신청 화면에서 고르는 것</text>
+<text x="400" y="80" text-anchor="middle" font-size="18" fill="#5f6368">티빙 공지 기준 · 복수 선택 가능 · 신청 뒤 변경 불가</text>
+<g font-size="20">
+<rect x="40" y="110" width="350" height="170" rx="14" fill="#e8f0fe"/>
+<text x="60" y="150" font-weight="700" fill="#1a73e8">1. 피싱 안전 보험 1년</text>
+<text x="60" y="185" fill="#202124">DB손해보험 · 최대 300만원</text>
+<text x="60" y="215" fill="#202124">2026.11.4 ~ 2027.11.3</text>
+<text x="60" y="250" font-size="17" fill="#5f6368">사기 피해가 났을 때만 나옴</text>
+<rect x="410" y="110" width="350" height="170" rx="14" fill="#f1f3f4"/>
+<text x="430" y="150" font-weight="700" fill="#202124">2. 프리미엄 시청 기능</text>
+<text x="430" y="185" fill="#202124">4K · 동시 4대 · 다운로드 400회</text>
+<text x="430" y="215" fill="#202124">2027년 1월 31일까지</text>
+<text x="430" y="250" font-size="17" fill="#5f6368">자동 제공 · 애플TV 제외</text>
+<rect x="40" y="300" width="350" height="170" rx="14" fill="#fef7e0"/>
+<text x="60" y="340" font-weight="700" fill="#b06000">3. 티빙 포인트 50P</text>
+<text x="60" y="375" fill="#202124">5,000원어치 콘텐츠 구매</text>
+<text x="60" y="405" fill="#202124">2027년 1월 31일까지 사용</text>
+<rect x="410" y="300" width="350" height="170" rx="14" fill="#e6f4ea"/>
+<text x="430" y="340" font-weight="700" fill="#188038">4. 웨이브 1개월권</text>
+<text x="430" y="375" fill="#202124">광고형 스탠다드 (5,500원)</text>
+<text x="430" y="405" fill="#202124">연장 기간엔 CGV 쿠폰 없음</text>
+</g>
+<text x="400" y="500" text-anchor="middle" font-size="17" fill="#5f6368">출처: 티빙 보상 안내(10/29 확인)·머니투데이 9/29</text>
+</svg>
