@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="sans-serif">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="60" y="80" font-size="38" font-weight="700" fill="#202124">결과에 '질환의심'이 나왔다면</text>
+<text x="60" y="125" font-size="24" fill="#5f6368">국민건강보험공단 일반건강검진 안내 · 확진검사</text>
+<g font-size="27" fill="#202124">
+<rect x="60" y="165" width="1080" height="110" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="90" y="210" font-weight="700" fill="#1a73e8">대상</text>
+<text x="230" y="210">고혈압 · 당뇨병 · 이상지질혈증 · 폐결핵</text>
+<text x="230" y="252">우울증 또는 조기정신증 · C형 간염 의심</text>
+<rect x="60" y="295" width="1080" height="80" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="90" y="345" font-weight="700" fill="#1a73e8">기한</text>
+<text x="230" y="345">검진 다음 해 3월 31일까지 (2026년 검진 → 2027년 3월 31일)</text>
+<rect x="60" y="395" width="1080" height="80" rx="14" fill="#f7f9fc" stroke="#e1e6ee" stroke-width="2"/>
+<text x="90" y="445" font-weight="700" fill="#1a73e8">챙길 것</text>
+<text x="230" y="445">결과통보서 + 신분증 (공단 안내상 필수)</text>
+<rect x="60" y="495" width="1080" height="110" rx="14" fill="#fef4ec" stroke="#E8551F" stroke-width="2"/>
+<text x="90" y="540" font-weight="700" fill="#E8551F">주의</text>
+<text x="230" y="540">C형 간염 확진검사는 본인부담금이 생겨 따로 정산 신청</text>
+<text x="230" y="582">치과 · 한의원 · 요양병원 · 정신병원은 확진검사 기관이 아니에요</text>
+</g>
+</svg>
