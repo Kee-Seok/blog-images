@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">맘모톰 실비 청구, 퇴원·귀가 전에 받아 둘 서류</text>
+<rect x="40" y="100" width="440" height="400" rx="16" fill="#f1f3f4"/>
+<text x="70" y="148" font-size="26" font-weight="700" fill="#202124">당일 귀가(통원)</text>
+<g font-size="22" fill="#202124"><text x="70" y="200">① 진료비 영수증</text><text x="70" y="250">② 진료비 세부내역서</text><text x="70" y="300">③ 질병코드 적힌 처방전·소견서</text><text x="70" y="370" fill="#5f6368" font-size="19">비급여 금액이 20만원을 넘어도</text><text x="70" y="400" fill="#5f6368" font-size="19">4세대는 회당 20만원까지만 나와요</text></g>
+<rect x="520" y="100" width="440" height="400" rx="16" fill="#e8f0fe"/>
+<text x="550" y="148" font-size="26" font-weight="700" fill="#202124">입원으로 처리했다면</text>
+<g font-size="22" fill="#202124"><text x="550" y="200">① 진료비 영수증</text><text x="550" y="250">② 진료비 세부내역서</text><text x="550" y="300">③ 입·퇴원 확인서(질병코드 포함)</text><text x="550" y="350">④ 수술 확인서 또는 소견서</text><text x="550" y="410" fill="#5f6368" font-size="19">입원이 왜 필요했는지가</text><text x="550" y="440" fill="#5f6368" font-size="19">기록에 남아 있어야 심사가 빨라요</text></g>
+</svg>
