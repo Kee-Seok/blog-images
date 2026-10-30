@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">입원 영수증 100만원, 4세대 실손이면</text>
+<g font-size="22" fill="#202124">
+<text x="80" y="140" font-weight="700">급여 본인부담 60만원</text>
+<rect x="80" y="160" width="672" height="56" fill="#1a73e8"/><rect x="752" y="160" width="168" height="56" fill="#dadce0"/>
+<text x="416" y="197" text-anchor="middle" fill="#ffffff" font-weight="700">돌려받음 48만원</text><text x="836" y="197" text-anchor="middle">20% 12만원</text>
+<text x="80" y="290" font-weight="700">비급여 40만원</text>
+<rect x="80" y="310" width="392" height="56" fill="#1a73e8"/><rect x="472" y="310" width="168" height="56" fill="#dadce0"/>
+<text x="276" y="347" text-anchor="middle" fill="#ffffff" font-weight="700">돌려받음 28만원</text><text x="556" y="347" text-anchor="middle">30% 12만원</text>
+</g>
+<rect x="80" y="410" width="840" height="80" rx="14" fill="#fffaf0" stroke="#f5dfae"/>
+<text x="500" y="461" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">합계 76만원 돌려받고 24만원은 내 몫</text>
+<text x="500" y="535" text-anchor="middle" font-size="16" fill="#80868b">계산 예시 · 금융위원회 4세대 실손 보도자료(2021.6) 자기부담률 적용</text>
+</svg>
