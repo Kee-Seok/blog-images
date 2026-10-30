@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" width="960" height="520" font-family="sans-serif">
+<rect width="960" height="520" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">국제질병퇴치기금 환급 신청 화면 순서</text>
+<g font-size="21" fill="#202124">
+<circle cx="80" cy="130" r="26" fill="#0b8043"/><text x="72" y="138" fill="#fff" font-weight="700">1</text>
+<text x="130" y="125" font-weight="700">출국일부터 찾아 두기</text>
+<text x="130" y="157" fill="#5f6368">항공사·여행사 예약내역, 전자항공권(E-ticket), 정부24 출입국 사실증명</text>
+<circle cx="80" cy="245" r="26" fill="#0b8043"/><text x="72" y="253" fill="#fff" font-weight="700">2</text>
+<text x="130" y="240" font-weight="700">환급신청 → 본인 인증</text>
+<text x="130" y="272" fill="#5f6368">만 14세 이상 PASS 인증 · 만 14세 미만은 부모(법정대리인) 인증</text>
+<circle cx="80" cy="360" r="26" fill="#0b8043"/><text x="72" y="368" fill="#fff" font-weight="700">3</text>
+<text x="130" y="355" font-weight="700">아이 몫은 '미성년 자녀 추가 신청'</text>
+<text x="130" y="387" fill="#5f6368">만 2세 미만은 대상 아님 · 끝나면 '신청내역조회'로 확인</text>
+</g>
+<text x="40" y="490" font-size="16" fill="#5f6368">출처: 국제질병퇴치기금 환급서비스 공식 화면(2026-10-30 확인)</text>
+</svg>
