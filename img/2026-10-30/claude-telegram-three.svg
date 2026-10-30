@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="500" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">클로드 코드 텔레그램 알림이 오는 세 군데</text>
+<g font-size="18" fill="#202124">
+<rect x="50" y="80" width="700" height="100" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="80" y="118" font-weight="700" fill="#1a73e8">① 새벽 05:40 로그인 확인</text>
+<text x="80" y="152">첫 발행(06:00) 전에 비상용 프로필 로그인이 풀렸는지 본다</text>
+<rect x="50" y="196" width="700" height="100" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="80" y="234" font-weight="700" fill="#1a73e8">② 같은 시각, 도메인 인증서 확인</text>
+<text x="80" y="268">블로그 주소 6개 중 https 가 깨졌거나 14일 안에 끝나면</text>
+<rect x="50" y="312" width="700" height="100" rx="12" fill="#fdecea" stroke="#d93025" stroke-width="2"/>
+<text x="80" y="350" font-weight="700" fill="#d93025">③ 발행 작업이 막힌 그 자리</text>
+<text x="80" y="384">로그인 풀림 · 비밀번호 화면 · 사용 한도 · 비상 발행도 실패</text>
+</g>
+<text x="400" y="452" text-anchor="middle" font-size="17" fill="#202124">셋 다 '문제가 있을 때만' 보낸다</text>
+<text x="400" y="486" text-anchor="middle" font-size="14" fill="#5f6368">run_login_check.sh · tistory_publish.py · 예약 작업 지시서 (2026년 10월 30일 확인)</text>
+</svg>
