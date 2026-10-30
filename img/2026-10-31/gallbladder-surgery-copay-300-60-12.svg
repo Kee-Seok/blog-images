@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" font-family="sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="500" y="54" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">담낭 수술 실비, 급여 300만원이 12만원이 되기까지</text>
+<g font-size="22" text-anchor="middle">
+<rect x="40" y="120" width="250" height="150" rx="16" fill="#e8f0fe" stroke="#1a73e8"/>
+<text x="165" y="180" font-weight="700" fill="#202124">급여 총액</text><text x="165" y="225" font-size="30" font-weight="700" fill="#1a73e8">300만원</text>
+<rect x="375" y="120" width="250" height="150" rx="16" fill="#e8f0fe" stroke="#1a73e8"/>
+<text x="500" y="180" font-weight="700" fill="#202124">내 몫 20%</text><text x="500" y="225" font-size="30" font-weight="700" fill="#1a73e8">60만원</text>
+<rect x="710" y="120" width="250" height="150" rx="16" fill="#fffaf0" stroke="#e8710a"/>
+<text x="835" y="180" font-weight="700" fill="#202124">실손 뒤 남는 돈</text><text x="835" y="225" font-size="30" font-weight="700" fill="#e8710a">12만원</text>
+<text x="332" y="205" font-size="34" fill="#5f6368">→</text><text x="667" y="205" font-size="34" fill="#5f6368">→</text>
+<text x="332" y="310" font-size="18" fill="#3c4043">건강보험 80%</text><text x="667" y="310" font-size="18" fill="#3c4043">4세대 실손 48만원</text>
+</g>
+<text x="500" y="400" text-anchor="middle" font-size="20" fill="#3c4043">식대는 따로 50% · 비급여는 실손이 70%를 돌려줘요</text>
+<text x="500" y="490" text-anchor="middle" font-size="16" fill="#80868b">계산 예시 · 국민건강보험법 시행령 별표2(2025.12.23)·금융위원회 4세대 실손 보도자료(2021.6)</text>
+</svg>
