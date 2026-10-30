@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="500" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">클로드 텔레그램 연결, 평소엔 조용하게</text>
+<rect x="290" y="76" width="220" height="60" rx="12" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="400" y="113" text-anchor="middle" font-size="20" fill="#202124">예약 작업 실행</text>
+<line x1="400" y1="136" x2="400" y2="170" stroke="#5f6368" stroke-width="2"/>
+<polygon points="400,170 520,220 400,270 280,220" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="400" y="227" text-anchor="middle" font-size="19" fill="#202124">발행 막혔나?</text>
+<line x1="280" y1="220" x2="190" y2="220" stroke="#5f6368" stroke-width="2"/><line x1="190" y1="220" x2="190" y2="310" stroke="#5f6368" stroke-width="2"/>
+<text x="232" y="208" text-anchor="middle" font-size="17" fill="#5f6368">아니오</text>
+<rect x="60" y="310" width="260" height="80" rx="12" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="2"/>
+<text x="190" y="345" text-anchor="middle" font-size="19" fill="#202124">아무것도 안 보냄</text>
+<text x="190" y="372" text-anchor="middle" font-size="15" fill="#5f6368">결과는 기록 파일에만</text>
+<line x1="520" y1="220" x2="610" y2="220" stroke="#5f6368" stroke-width="2"/><line x1="610" y1="220" x2="610" y2="310" stroke="#5f6368" stroke-width="2"/>
+<text x="568" y="208" text-anchor="middle" font-size="17" fill="#d93025">예</text>
+<rect x="430" y="310" width="340" height="80" rx="12" fill="#fdecea" stroke="#d93025" stroke-width="2"/>
+<text x="600" y="343" text-anchor="middle" font-size="18" fill="#202124">tg_send.py 로 한 줄</text>
+<text x="600" y="370" text-anchor="middle" font-size="15" fill="#5f6368">[블로그명] 발행 못 함 — 막힌 곳 / 할 일</text>
+<text x="400" y="440" text-anchor="middle" font-size="17" fill="#202124">휴대폰이 울리면 = 사람이 손댈 일이 있다는 뜻</text>
+<text x="400" y="486" text-anchor="middle" font-size="14" fill="#5f6368">크라우드 계정 예약 작업 지시서 기준 (2026년 10월 30일 확인)</text>
+</svg>
