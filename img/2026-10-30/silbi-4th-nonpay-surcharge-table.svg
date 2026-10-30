@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="sans-serif">
+<rect width="960" height="540" fill="#ffffff"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">비급여 보험금 받은 만큼 다음 해 비급여 보험료</text>
+<text x="40" y="94" font-size="18" fill="#5f6368">4세대 실손 · 1년 동안 받은 비급여 보험금 기준</text>
+<g font-size="22" fill="#202124">
+<rect x="40" y="130" width="880" height="64" rx="10" fill="#e6f4ea"/><text x="64" y="171">0원</text><text x="520" y="171" font-weight="700">할인</text>
+<rect x="40" y="204" width="880" height="64" rx="10" fill="#f1f3f4"/><text x="64" y="245">100만원 미만</text><text x="520" y="245" font-weight="700">그대로</text>
+<rect x="40" y="278" width="880" height="64" rx="10" fill="#fef7e0"/><text x="64" y="319">100만원 이상 ~ 150만원 미만</text><text x="520" y="319" font-weight="700">100% 할증</text>
+<rect x="40" y="352" width="880" height="64" rx="10" fill="#fde7e0"/><text x="64" y="393">150만원 이상 ~ 300만원 미만</text><text x="520" y="393" font-weight="700" fill="#b3261e">200% 할증 ← 예시 175만원</text>
+<rect x="40" y="426" width="880" height="64" rx="10" fill="#fce8e6"/><text x="64" y="467">300만원 이상</text><text x="520" y="467" font-weight="700">300% 할증</text>
+</g>
+<text x="40" y="520" font-size="16" fill="#5f6368">비급여 특약 보험료에만 붙고, 급여 보험료는 따로 · 금융위원회 4세대 실손 안내</text>
+</svg>
