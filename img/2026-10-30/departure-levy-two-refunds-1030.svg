@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" width="960" height="560" font-family="sans-serif">
+<rect width="960" height="560" fill="#ffffff"/>
+<text x="40" y="56" font-size="30" font-weight="700" fill="#202124">출국납부금 환급은 두 가지, 화면도 둘</text>
+<rect x="40" y="90" width="430" height="390" rx="16" fill="#f1f6fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="64" y="134" font-size="23" font-weight="700" fill="#1a73e8">① 국제질병퇴치기금 (새로)</text>
+<g font-size="20" fill="#202124">
+<text x="64" y="186">발권: 2024년 12월 31일 이전</text>
+<text x="64" y="224">출국: 2025년 1월 1일 이후</text>
+<text x="64" y="262">나이: 만 2세 이상</text>
+<text x="64" y="316" font-size="28" font-weight="700">환급 1,000원</text>
+<text x="64" y="366" fill="#5f6368">2026-10-30 오전 9시 시작</text>
+<text x="64" y="402" fill="#5f6368">mofa.tour-refund.kr</text>
+<text x="64" y="438" fill="#5f6368">고객센터 1544-7270</text>
+</g>
+<rect x="490" y="90" width="430" height="390" rx="16" fill="#f8f9fa" stroke="#9aa0a6" stroke-width="2"/>
+<text x="514" y="134" font-size="23" font-weight="700" fill="#3c4043">② 관광진흥개발기금 (기존)</text>
+<g font-size="20" fill="#202124">
+<text x="514" y="186">발권: 2024년 6월 30일 이전</text>
+<text x="514" y="224">출국: 2024년 7월 1일 이후</text>
+<text x="514" y="262">만 12세 이상: 3,000원</text>
+<text x="514" y="300">만 2~12세 미만: 10,000원</text>
+<text x="514" y="366" fill="#5f6368">이미 운영 중인 화면</text>
+<text x="514" y="402" fill="#5f6368">mcst.tour-refund.kr</text>
+<text x="514" y="438" fill="#5f6368">고객센터 1544-8965</text>
+</g>
+<text x="40" y="526" font-size="16" fill="#5f6368">출처: 국제질병퇴치기금·출국납부금 환급서비스 공식 화면(2026-10-30 확인), 외교부 발표(2026-10-29)</text>
+</svg>
