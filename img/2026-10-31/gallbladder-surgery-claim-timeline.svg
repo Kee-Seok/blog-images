@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" font-family="sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500" y="52" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">담낭 수술 보험금 청구, 날짜 순서로 할 일</text>
+<line x1="90" y1="140" x2="910" y2="140" stroke="#1a73e8" stroke-width="6"/>
+<g font-size="20" fill="#202124" text-anchor="middle">
+<circle cx="130" cy="140" r="18" fill="#1a73e8"/><text x="130" y="200" font-weight="700">① 초음파 발견</text><text x="130" y="232">검진비는 실비 밖</text><text x="130" y="260">정밀검사부터 청구 대상</text>
+<circle cx="370" cy="140" r="18" fill="#1a73e8"/><text x="370" y="200" font-weight="700">② 수술 전</text><text x="370" y="232">실손 가입일 확인</text><text x="370" y="260">4세대·3세대 가리기</text>
+<circle cx="630" cy="140" r="18" fill="#1a73e8"/><text x="630" y="200" font-weight="700">③ 퇴원 창구</text><text x="630" y="232">영수증·세부내역서</text><text x="630" y="260">입퇴원확인서 3,000원</text>
+<circle cx="870" cy="140" r="18" fill="#e8710a"/><text x="870" y="200" font-weight="700">④ 청구</text><text x="870" y="232">실손24 또는 보험사 앱</text><text x="870" y="260">기한 3년 (상법 662조)</text>
+</g>
+<rect x="90" y="320" width="820" height="180" rx="16" fill="#f7f9fc" stroke="#e1e6ee"/>
+<text x="500" y="370" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">담낭 절제는 포괄수가 7개 질병군에 없어요</text>
+<text x="500" y="410" text-anchor="middle" font-size="20" fill="#3c4043">검사·처치 값을 하나씩 더하는 방식 → 입원 일수만큼 영수증이 늘어요</text>
+<text x="500" y="450" text-anchor="middle" font-size="20" fill="#3c4043">내 몫: 식대 뺀 급여 총액의 20% + 식대 50%</text>
+<text x="500" y="535" text-anchor="middle" font-size="16" fill="#80868b">국민건강보험법 시행령 별표2(2025.12.23 개정)·건강보험심사평가원 포괄수가 안내 정리</text>
+</svg>
