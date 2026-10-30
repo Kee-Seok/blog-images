@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" font-family="sans-serif">
+<rect width="900" height="380" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">꿈에서 나는 울었나요</text>
+<g font-size="20" fill="#202124">
+<rect x="60" y="80" width="780" height="80" rx="14" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="90" y="128" font-weight="700">소리 내어 펑펑 울었다</text>
+<text x="500" y="128">막힌 일이 풀리고 마음이 가벼워짐</text>
+<rect x="60" y="180" width="780" height="80" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="90" y="228" font-weight="700">눈물만 조용히 흘렸다</text>
+<text x="500" y="228">쌓인 그리움을 털어 내는 중</text>
+<rect x="60" y="280" width="780" height="80" rx="14" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="2"/>
+<text x="90" y="328" font-weight="700">울지도 못하고 멍했다</text>
+<text x="500" y="328">요즘 지쳐 있다는 마음의 신호</text>
+</g>
+</svg>
