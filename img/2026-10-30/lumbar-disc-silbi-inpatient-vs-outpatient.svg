@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" width="960" height="540" font-family="sans-serif">
+<rect width="960" height="540" fill="#ffffff"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">허리디스크 수술 실비보험, 4세대로 계산하면</text>
+<text x="40" y="94" font-size="18" fill="#5f6368">예시 영수증: 급여 본인부담 120만원 + 비급여 250만원 (시세 아님)</text>
+<rect x="40" y="130" width="420" height="300" rx="14" fill="#e8f0fe"/>
+<text x="64" y="176" font-size="24" font-weight="700" fill="#202124">입원으로 처리되면</text>
+<text x="64" y="226" font-size="21" fill="#202124">급여 120만원 × 80% = 96만원</text>
+<text x="64" y="266" font-size="21" fill="#202124">비급여 250만원 × 70% = 175만원</text>
+<text x="64" y="340" font-size="34" font-weight="700" fill="#1a56db">합계 271만원</text>
+<text x="64" y="392" font-size="17" fill="#5f6368">내 몫으로 남는 돈 99만원</text>
+<rect x="500" y="130" width="420" height="300" rx="14" fill="#fef7e0"/>
+<text x="524" y="176" font-size="24" font-weight="700" fill="#202124">당일 퇴원(통원)이면</text>
+<text x="524" y="226" font-size="21" fill="#202124">비급여는 한 번에 20만원까지</text>
+<text x="524" y="266" font-size="21" fill="#202124">250만원 영수증이어도 20만원</text>
+<text x="524" y="340" font-size="34" font-weight="700" fill="#b06000">비급여 20만원</text>
+<text x="524" y="392" font-size="17" fill="#5f6368">급여 칸은 따로 계산</text>
+<text x="40" y="490" font-size="17" fill="#5f6368">4세대 실손(2021년 7월~2026년 5월 5일 가입) 기준 · 금융위원회 4세대 실손 구조</text>
+</svg>
