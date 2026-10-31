@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="60" y="76" font-size="38" font-weight="700" fill="#202124">건강검진표 발급, 내 경우는 어느 칸?</text>
+<g font-size="26" fill="#202124">
+<rect x="60" y="116" width="1080" height="170" rx="16" fill="#E6F4EA" stroke="#188038" stroke-width="3"/>
+<text x="90" y="166" font-weight="700" fill="#188038">검진 전 · 우편 검진표를 잃어버렸다</text>
+<text x="90" y="210">신분증만 들고 가도 검진 가능</text>
+<text x="90" y="252">종이가 꼭 필요하면 → 건강모아 [검진대상 확인서 출력]</text>
+<rect x="60" y="306" width="1080" height="170" rx="16" fill="#E8F0FE" stroke="#1A73E8" stroke-width="3"/>
+<text x="90" y="356" font-weight="700" fill="#1A73E8">검진 후 · 회사가 받았다는 증명을 달라고 한다</text>
+<text x="90" y="400">건강모아 → 건강검진 실시확인서 (직장제출용)</text>
+<text x="90" y="442">직장가입자 결과는 회사에도 통보됨</text>
+<rect x="60" y="496" width="1080" height="170" rx="16" fill="#FEF7E0" stroke="#E37400" stroke-width="3"/>
+<text x="90" y="546" font-weight="700" fill="#E37400">검진 후 · 결과표(통보서)를 다시 뽑고 싶다</text>
+<text x="90" y="590">검진 뒤 15일 안에 통보 → 건강모아 검진결과 조회</text>
+<text x="90" y="632">같은 화면에서 결과 통보서 발급</text>
+</g>
+<text x="60" y="720" font-size="22" fill="#80868b">출처: 국민건강보험공단 건강검진 안내사항·건강모아 메뉴, 건강검진 실시기준 제10조 (2026-11-01 기준) · 문의 1577-1000</text>
+</svg>
