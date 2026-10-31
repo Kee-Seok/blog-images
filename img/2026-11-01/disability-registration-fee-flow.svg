@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="sans-serif">
+<rect width="1200" height="640" fill="#ffffff"/>
+<text x="60" y="70" font-size="36" font-weight="700" fill="#202124">영수증은 언제 내고, 돈은 어디서 나오나</text>
+<g font-size="24" fill="#202124">
+<rect x="60" y="120" width="250" height="200" rx="16" fill="#e8f0fe" stroke="#d2e3fc"/>
+<text x="80" y="165" font-weight="700">① 병원</text><text x="80" y="210">장애정도 심사용</text><text x="80" y="245">진단서 발급</text><text x="80" y="290" font-size="20" fill="#5f6368">영수증 챙기기</text>
+<text x="325" y="230" font-size="40" fill="#5f6368">→</text>
+<rect x="370" y="120" width="250" height="200" rx="16" fill="#e6f4ea" stroke="#ceead6"/>
+<text x="390" y="165" font-weight="700">② 주민센터</text><text x="390" y="210">등록 신청 +</text><text x="390" y="245">진단비 지원</text><text x="390" y="280">같이 신청</text>
+<text x="635" y="230" font-size="40" fill="#5f6368">→</text>
+<rect x="680" y="120" width="250" height="200" rx="16" fill="#fff4e5" stroke="#f5dfae"/>
+<text x="700" y="165" font-weight="700">③ 국민연금공단</text><text x="700" y="210">장애정도 심사</text><text x="700" y="250" font-size="20" fill="#5f6368">자료보완 요청 오면</text><text x="700" y="280" font-size="20" fill="#5f6368">추가 검사 가능</text>
+<text x="945" y="230" font-size="40" fill="#5f6368">→</text>
+<rect x="990" y="120" width="160" height="200" rx="16" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="1005" y="165" font-weight="700">④ 결과</text><text x="1005" y="210" font-size="22">등록 여부</text><text x="1005" y="245" font-size="22">통지</text>
+</g>
+<g font-size="23" fill="#202124">
+<text x="60" y="400" font-weight="700">공단이 자료보완을 요청해 다시 검사받았다면</text>
+<text x="60" y="445">국민연금공단 비용지원 서비스: 실비 지원, 상한 5만원</text>
+<text x="60" y="490">기초생활수급자는 5만원 상한이 적용되지 않음 · 문의 국번 없이 1355</text>
+<text x="60" y="555" font-size="20" fill="#80868b">신규 등록 기초생활수급자는 영수증 확인 없이 정액 지급(복지로 안내 2022.1)</text>
+<text x="60" y="600" font-size="20" fill="#80868b">출처: 국민연금공단 장애정도심사 지원서비스 안내 (2026년 11월 확인)</text>
+</g>
+</svg>
