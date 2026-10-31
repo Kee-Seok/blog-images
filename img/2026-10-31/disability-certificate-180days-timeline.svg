@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="40" y="52" font-size="28" font-weight="700" fill="#202124">후유장해진단서 발급 시기, 약관 기준</text>
+<line x1="70" y1="170" x2="740" y2="170" stroke="#dadce0" stroke-width="6"/>
+<circle cx="90" cy="170" r="16" fill="#9aa0a6"/><circle cx="420" cy="170" r="20" fill="#1a73e8"/><circle cx="710" cy="170" r="16" fill="#f9ab00"/>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<text x="90" y="125" font-weight="700">다친 날</text><text x="90" y="222">질병은</text><text x="90" y="248">진단 확정일</text>
+<text x="420" y="125" font-weight="700">180일째</text><text x="420" y="222">그때까지 장해율이</text><text x="420" y="248">안 정해지면</text><text x="420" y="274">이날 진단으로 결정</text>
+<text x="710" y="125" font-weight="700">3년</text><text x="710" y="222">청구 안 하면</text><text x="710" y="248">청구권이 사라짐</text>
+</g>
+<text x="40" y="340" font-size="17" fill="#5f6368">장해분류표에 판정 시기가 따로 있으면 그쪽이 먼저입니다.</text>
+<text x="40" y="372" font-size="15" fill="#5f6368">근거: 상해보험 약관 보험금 지급 조항·소멸시효 조항 (2026년 10월 31일 확인)</text>
+</svg>
