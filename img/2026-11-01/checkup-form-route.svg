@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="sans-serif">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="60" y="76" font-size="38" font-weight="700" fill="#202124">검진표 대신 쓰는 종이, 뽑는 순서</text>
+<g font-size="27" fill="#202124">
+<rect x="60" y="116" width="1080" height="92" rx="16" fill="#F1F3F4" stroke="#5F6368" stroke-width="3"/>
+<text x="90" y="172"><tspan font-weight="700">1</tspan>  국민건강보험공단 홈페이지 또는 The건강보험 앱</text>
+<rect x="60" y="226" width="1080" height="92" rx="16" fill="#F1F3F4" stroke="#5F6368" stroke-width="3"/>
+<text x="90" y="282"><tspan font-weight="700">2</tspan>  카카오·네이버 같은 간편인증으로 로그인</text>
+<rect x="60" y="336" width="1080" height="92" rx="16" fill="#F1F3F4" stroke="#5F6368" stroke-width="3"/>
+<text x="90" y="392"><tspan font-weight="700">3</tspan>  건강모아 → 나의 건강 → 검진대상 조회</text>
+<rect x="60" y="446" width="1080" height="92" rx="16" fill="#E6F4EA" stroke="#188038" stroke-width="3"/>
+<text x="90" y="502"><tspan font-weight="700" fill="#188038">4</tspan>  [검진대상 확인서 출력] → PDF 저장 또는 인쇄</text>
+</g>
+<text x="60" y="600" font-size="24" fill="#202124">인증이 어려우면 고객센터 1577-1000 · 검진 기간은 12월 31일까지</text>
+<text x="60" y="650" font-size="22" fill="#80868b">출처: 국민건강보험공단 건강모아 메뉴 (2026-10 확인)</text>
+</svg>
