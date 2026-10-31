@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" font-family="sans-serif">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="60" y="70" font-size="36" font-weight="700" fill="#202124">권역센터 경증 진료비 22만원, 4세대 실손 계산</text>
+<text x="60" y="112" font-size="22" fill="#5f6368">급여 본인부담 기준 · 응급의료관리료 등 보상 제외 항목이 없다고 가정</text>
+<g font-size="26" fill="#202124">
+<rect x="60" y="150" width="330" height="170" rx="16" fill="#fce8e6" stroke="#f4c7c3"/>
+<text x="90" y="200">창구에서 낸 돈</text><text x="90" y="270" font-size="44" font-weight="700" fill="#b3261e">22만원</text>
+<text x="420" y="250" font-size="44" fill="#5f6368">→</text>
+<rect x="470" y="150" width="330" height="170" rx="16" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="500" y="200">빼는 돈(공제)</text><text x="500" y="262" font-size="40" font-weight="700">4만4천원</text>
+<text x="500" y="300" font-size="20" fill="#5f6368">2만원과 20% 중 큰 쪽</text>
+<text x="830" y="250" font-size="44" fill="#5f6368">→</text>
+<rect x="880" y="150" width="260" height="170" rx="16" fill="#e6f4ea" stroke="#ceead6"/>
+<text x="905" y="200">돌아오는 돈</text><text x="905" y="270" font-size="40" font-weight="700" fill="#1e8e3e">17만6천원</text>
+</g>
+<g font-size="24" fill="#202124">
+<text x="60" y="400" font-weight="700">같은 계산을 지역센터 평균 10만원에 하면</text>
+<text x="60" y="445">공제 2만원(20%와 같음) → 돌아오는 돈 8만원</text>
+<text x="60" y="510" font-weight="700">왜 실비가 있어도 손해인가</text>
+<text x="60" y="555">본인부담이 13만원 → 22만원으로 오르면 공제도 2만6천원 → 4만4천원으로 커져요</text>
+</g>
+<text x="60" y="650" font-size="20" fill="#80868b">평균 금액: 보건복지부 2024.9.11 브리핑 / 공제: 4세대 실손 급여 외래(종합·상급종합병원) 기준</text>
+</svg>
