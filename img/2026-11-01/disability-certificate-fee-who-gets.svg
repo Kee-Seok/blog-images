@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="sans-serif">
+<rect width="1200" height="720" fill="#ffffff"/>
+<text x="60" y="70" font-size="36" font-weight="700" fill="#202124">장애진단서 발급비용, 누가 얼마 돌려받나</text>
+<text x="60" y="112" font-size="22" fill="#5f6368">복지로·한국사회보장정보원 안내(2022.1) · 강남구 발표(2025.3) 기준</text>
+<g font-size="24" fill="#202124">
+<rect x="60" y="150" width="340" height="440" rx="16" fill="#e6f4ea" stroke="#ceead6"/>
+<text x="85" y="200" font-weight="700" font-size="26">기초생활수급자</text>
+<text x="85" y="235" font-size="20" fill="#5f6368">(생계·의료·주거·교육)</text>
+<text x="85" y="300">지적·자폐성·정신</text><text x="85" y="345" font-size="38" font-weight="700" fill="#1e8e3e">4만원</text>
+<text x="85" y="410">그 밖의 장애</text><text x="85" y="455" font-size="38" font-weight="700" fill="#1e8e3e">1만5천원</text>
+<text x="85" y="520">검사비 최대 10만원</text>
+<text x="85" y="560" font-size="20" fill="#5f6368">신규 등록·재판정 모두</text>
+<rect x="430" y="150" width="340" height="440" rx="16" fill="#fff4e5" stroke="#f5dfae"/>
+<text x="455" y="200" font-weight="700" font-size="26">차상위계층</text>
+<text x="455" y="300">재판정일 때만</text><text x="455" y="345">같은 금액 지원</text>
+<text x="455" y="420" font-size="20" fill="#5f6368">(기간 도래 의무재판정,</text>
+<text x="455" y="450" font-size="20" fill="#5f6368">장애연금 신청 등 재판정)</text>
+<text x="455" y="520">신규 등록은 대상 아님</text>
+<rect x="800" y="150" width="340" height="440" rx="16" fill="#f1f3f4" stroke="#dadce0"/>
+<text x="825" y="200" font-weight="700" font-size="26">그 밖의 사람</text>
+<text x="825" y="300">나라 지원 없음</text>
+<text x="825" y="345">병원비 그대로 냄</text>
+<text x="825" y="420" font-size="22">예외: 강남구 1년 이상</text>
+<text x="825" y="455" font-size="22">거주 → 진단서 최대 4만원</text>
+<text x="825" y="490" font-size="22">검사비 10만원 (2025.7~)</text>
+</g>
+<text x="60" y="650" font-size="20" fill="#80868b">같은 부위·같은 장애 유형은 1년에 1번만 지원 · 신청은 읍면동 행정복지센터</text>
+</svg>
