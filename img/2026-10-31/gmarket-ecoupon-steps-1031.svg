@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">G마켓 e쿠폰 무단 사용, 확인 순서</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="80" width="720" height="70" rx="12" fill="#e8f0fe"/><text x="70" y="123"><tspan font-weight="700" fill="#1a73e8">1</tspan>  G마켓 앱에서 e쿠폰함·선물함 열기</text>
+<rect x="40" y="165" width="720" height="70" rx="12" fill="#e8f0fe"/><text x="70" y="208"><tspan font-weight="700" fill="#1a73e8">2</tspan>  안 쓴 쿠폰인데 '사용 완료'면 화면 캡처</text>
+<rect x="40" y="250" width="720" height="70" rx="12" fill="#e8f0fe"/><text x="70" y="293"><tspan font-weight="700" fill="#1a73e8">3</tspan>  G마켓 고객센터에 피해 접수</text>
+<rect x="40" y="335" width="720" height="70" rx="12" fill="#fef7e0"/><text x="70" y="378"><tspan font-weight="700" fill="#b06000">4</tspan>  비밀번호 바꾸고, 같은 비밀번호 쓴 곳도 변경</text>
+</g>
+<text x="400" y="440" text-anchor="middle" font-size="15" fill="#5f6368">G마켓 10월 30일 발표·보도 기준 / 공식 보상 절차는 추가 공지 예정</text>
+</svg>
