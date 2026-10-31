@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="sans-serif">
+<rect width="900" height="360" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">울음의 크기와 내 반응</text>
+<g font-size="19" fill="#202124">
+<rect x="40" y="76" width="820" height="62" rx="12" fill="#f3eefc" stroke="#9c7bd8" stroke-width="2"/>
+<text x="64" y="115" font-weight="700">소리 내어 크게 우심</text><text x="380" y="115">쌓인 근심이 씻겨 나가는 쪽으로 풀이</text>
+<rect x="40" y="152" width="820" height="62" rx="12" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="2"/>
+<text x="64" y="191" font-weight="700">말없이 눈물만</text><text x="380" y="191">하고 싶은 말이 남은 꿈, 꿈속 말에 귀 기울일 때</text>
+<rect x="40" y="228" width="820" height="62" rx="12" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="64" y="267" font-weight="700">내가 달래 드림</text><text x="380" y="267">내가 집안을 챙길 힘이 생겼다는 쪽</text>
+</g>
+<text x="450" y="336" text-anchor="middle" font-size="15" fill="#5f6368">전통 해몽에서 흔히 보는 풀이 · 오늘의 꿈 해몽</text>
+</svg>
