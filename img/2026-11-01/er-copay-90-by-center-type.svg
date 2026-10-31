@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="60" y="70" font-size="38" font-weight="700" fill="#202124">경증·비응급 환자 응급실 외래 본인부담</text>
+<text x="60" y="115" font-size="24" fill="#5f6368">2024년 9월 13일 시행 · 보건복지부 보도참고자료 기준</text>
+<g font-size="24" fill="#202124">
+<rect x="60" y="150" width="1080" height="70" fill="#f1f3f4"/>
+<text x="80" y="195" font-weight="700">응급실 종류 (곳 수)</text><text x="640" y="195" font-weight="700">KTAS 4 (경증)</text><text x="900" y="195" font-weight="700">KTAS 5 (비응급)</text>
+<rect x="60" y="220" width="1080" height="150" fill="#fff4e5" stroke="#f5dfae"/>
+<text x="80" y="265">권역응급의료센터 (44)</text><text x="80" y="305">권역외상센터 (17)</text><text x="80" y="345">소아전문응급의료센터 (11)</text>
+<text x="640" y="305" font-size="34" font-weight="700" fill="#b3261e">90%</text><text x="900" y="305" font-size="34" font-weight="700" fill="#b3261e">90%</text>
+<rect x="60" y="370" width="1080" height="90" fill="#ffffff" stroke="#dadce0"/>
+<text x="80" y="425">지역응급의료센터 (136)</text>
+<text x="640" y="425" font-size="28" fill="#1e8e3e" font-weight="700">그대로</text><text x="900" y="425" font-size="34" font-weight="700" fill="#b3261e">90%</text>
+<rect x="60" y="460" width="1080" height="90" fill="#e6f4ea" stroke="#ceead6"/>
+<text x="80" y="515">지역응급의료기관 (229)</text>
+<text x="640" y="515" font-size="28" fill="#1e8e3e" font-weight="700">그대로</text><text x="900" y="515" font-size="28" fill="#1e8e3e" font-weight="700">그대로</text>
+</g>
+<text x="60" y="610" font-size="24" fill="#202124">'그대로' = 이전 본인부담(50~60% 수준)이 유지되는 칸</text>
+<text x="60" y="655" font-size="24" fill="#202124">KTAS 5 예: 감기·장염·설사·상처 소독·약 처방 / KTAS 4 예: 착란·요로감염</text>
+<text x="60" y="720" font-size="20" fill="#80868b">표: 보건복지부 「추석연휴, 병·의원 이렇게 이용하세요」(2024.9.13) 붙임 2 정리</text>
+</svg>
