@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">이번 주 쿠폰 사고 두 건, 무엇이 다른가</text>
+<rect x="30" y="76" width="360" height="290" rx="14" fill="#e8f0fe"/>
+<rect x="410" y="76" width="360" height="290" rx="14" fill="#fce8e6"/>
+<g font-size="20" fill="#202124">
+<text x="210" y="116" text-anchor="middle" font-weight="700" font-size="23" fill="#1a73e8">G마켓 e쿠폰</text>
+<text x="55" y="160">· 발표 10월 30일</text><text x="55" y="198">· 핀번호 무단 등록·사용</text><text x="55" y="236">· 백화점·컬쳐랜드 상품권</text><text x="55" y="274">· 피해 확인 시 전액 보상</text><text x="55" y="312">· KISA 신고, 원인 조사 중</text>
+<text x="590" y="116" text-anchor="middle" font-weight="700" font-size="23" fill="#c5221f">SK플래닛 기프티콘</text>
+<text x="435" y="160">· 접근 차단 10월 28일</text><text x="435" y="198">· 이름·전화·환급계좌 등</text><text x="435" y="236">· 쿠폰 일련번호 포함</text><text x="435" y="274">· 유출 쿠폰 폐기·재발송</text><text x="435" y="312">· 대상은 문자로 안내 예정</text>
+</g>
+<text x="400" y="390" text-anchor="middle" font-size="15" fill="#5f6368">각 회사 발표·보도(10월 29~30일) 기준</text>
+</svg>
