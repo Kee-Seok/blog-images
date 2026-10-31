@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="40" y="52" font-size="28" font-weight="700" fill="#202124">병원 서류값 상한 (보건복지부 고시)</text>
+<text x="40" y="84" font-size="17" fill="#5f6368">병원은 0원부터 이 금액 안에서 정합니다 · 진찰료는 별도</text>
+<g font-size="19" fill="#202124">
+<text x="40" y="148">일반진단서</text><rect x="250" y="126" width="80" height="32" rx="6" fill="#9aa0a6"/><text x="342" y="149">2만원</text>
+<text x="40" y="208">상해진단서 3주 미만</text><rect x="250" y="186" width="400" height="32" rx="6" fill="#9aa0a6"/><text x="662" y="209">10만원</text>
+<text x="40" y="268" font-weight="700">후유장애진단서</text><rect x="250" y="246" width="400" height="32" rx="6" fill="#1a73e8"/><text x="662" y="269" font-weight="700">10만원</text>
+<text x="40" y="328">상해진단서 3주 이상</text><rect x="250" y="306" width="520" height="32" rx="6" fill="#9aa0a6"/><text x="600" y="329" fill="#ffffff" font-weight="700">15만원</text>
+<text x="40" y="388">같은 날 받는 사본</text><rect x="250" y="366" width="8" height="32" rx="3" fill="#9aa0a6"/><text x="272" y="389">1천원</text>
+</g>
+<text x="40" y="446" font-size="15" fill="#5f6368">근거: 의료기관의 제증명수수료 항목 및 금액에 관한 기준(고시 제2021-34호)</text>
+</svg>
