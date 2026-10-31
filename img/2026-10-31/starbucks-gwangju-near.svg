@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" font-family="sans-serif">
+<rect width="1200" height="800" fill="#ffffff"/>
+<text x="60" y="78" font-size="38" font-weight="700" fill="#202124">지산유원지입구점 대신, 무등산 쪽에서 가까운 매장</text>
+<g font-size="27" fill="#202124">
+<rect x="60" y="115" width="1080" height="60" fill="#F1F3F4"/>
+<text x="90" y="155" font-weight="700">매장</text><text x="470" y="155" font-weight="700">주소 (도로명)</text>
+<text x="90" y="230" font-weight="700" fill="#00704A">광주지산DT</text><text x="470" y="230">동구 필문대로 240 (동명동)</text>
+<text x="90" y="300" font-weight="700" fill="#00704A">광주두암타운</text><text x="470" y="300">북구 삼정로 4 (두암동)</text>
+<text x="90" y="370" font-weight="700" fill="#00704A">조선대국제관</text><text x="470" y="370">동구 조선대5길 9 (서석동)</text>
+<text x="90" y="440" font-weight="700" fill="#00704A">광주동명</text><text x="470" y="440">동구 동명로 16 (동명동)</text>
+<text x="90" y="510" font-weight="700" fill="#00704A">동광주DT</text><text x="470" y="510">북구 동문대로 148 (두암동)</text>
+<text x="90" y="580" font-weight="700" fill="#00704A">광주각화DT</text><text x="470" y="580">북구 동문대로 303 (문흥동)</text>
+<line x1="60" y1="615" x2="1140" y2="615" stroke="#dadce0" stroke-width="2"/>
+<text x="90" y="670" font-size="25" fill="#5f6368">지도 직선거리로 동구 동쪽·북구 남쪽 매장을 고른 것 · 영업시간은 매장 찾기에서 확인</text>
+</g>
+<text x="60" y="750" font-size="22" fill="#80868b">출처: 스타벅스코리아 매장 찾기 (2026-10-31 확인)</text>
+</svg>
