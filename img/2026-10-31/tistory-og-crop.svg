@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="480" fill="#ffffff"/>
+<text x="400" y="38" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">티스토리 썸네일 크기, 1200×1200 한 장이 두 번 잘린다</text>
+<rect x="60" y="70" width="340" height="340" fill="#0b1b3a" rx="6"/>
+<rect x="60" y="164" width="340" height="154" fill="#1d3366" stroke="#fde047" stroke-width="3" stroke-dasharray="8 6"/>
+<text x="230" y="230" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">큰 글자는 여기</text>
+<text x="230" y="262" text-anchor="middle" font-size="16" fill="#c8d1e6">세로 330~870px 사이</text>
+<text x="230" y="440" text-anchor="middle" font-size="16" fill="#202124">원본 1200×1200 (정사각)</text>
+<g font-size="17" fill="#202124">
+<rect x="470" y="80" width="130" height="130" fill="#e8eaed" stroke="#5f6368" rx="6"/>
+<text x="535" y="150" text-anchor="middle" font-size="15">정사각 그대로</text>
+<text x="620" y="130" font-weight="700">다음 검색 목록</text>
+<text x="620" y="156" font-size="15">네모 칸에 통째로</text>
+<rect x="470" y="270" width="250" height="110" fill="#e8eaed" stroke="#5f6368" rx="6"/>
+<text x="595" y="330" text-anchor="middle" font-size="15">가운데 가로 띠만</text>
+<text x="470" y="408" font-weight="700">카카오톡 공유 카드</text>
+<text x="470" y="432" font-size="15">위·아래가 잘려 나감</text>
+</g>
+<text x="400" y="470" text-anchor="middle" font-size="14" fill="#5f6368">이 계정 썸네일 도구(thumb_make.py)의 판형 기준</text>
+</svg>
