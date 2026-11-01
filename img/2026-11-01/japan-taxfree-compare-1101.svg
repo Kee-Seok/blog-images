@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="sans-serif">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="60" y="76" font-size="38" font-weight="700" fill="#202124">10월까지 vs 11월 1일 구매분부터</text>
+<g font-size="25" fill="#202124">
+<rect x="60" y="110" width="1080" height="64" fill="#F1F3F4"/>
+<text x="90" y="152" font-weight="700">구분</text><text x="380" y="152" font-weight="700">10월까지</text><text x="780" y="152" font-weight="700" fill="#1A73E8">11월부터</text>
+<line x1="60" y1="244" x2="1140" y2="244" stroke="#DADCE0" stroke-width="2"/>
+<text x="90" y="220">계산대</text><text x="380" y="220">세금 빼고 결제</text><text x="780" y="220">세금 포함 전액 결제</text>
+<line x1="60" y1="314" x2="1140" y2="314" stroke="#DADCE0" stroke-width="2"/>
+<text x="90" y="290">세금 받는 때</text><text x="380" y="290">그 자리에서</text><text x="780" y="290">출국 때 확인 뒤</text>
+<line x1="60" y1="384" x2="1140" y2="384" stroke="#DADCE0" stroke-width="2"/>
+<text x="90" y="360">대상 금액</text><text x="380" y="360">품목 구분해 따짐</text><text x="780" y="360">한 매장 하루 세전 5천엔+</text>
+<line x1="60" y1="454" x2="1140" y2="454" stroke="#DADCE0" stroke-width="2"/>
+<text x="90" y="430">소모품 상한</text><text x="380" y="430">50만엔</text><text x="780" y="430">없어짐</text>
+<line x1="60" y1="524" x2="1140" y2="524" stroke="#DADCE0" stroke-width="2"/>
+<text x="90" y="500">밀봉 포장</text><text x="380" y="500">소모품은 의무</text><text x="780" y="500">없어짐 (뜯으면 손해)</text>
+<line x1="60" y1="594" x2="1140" y2="594" stroke="#DADCE0" stroke-width="2"/>
+<text x="90" y="570">확인 기한</text><text x="380" y="570">-</text><text x="780" y="570">구매 다음 날부터 90일</text>
+</g>
+<text x="60" y="660" font-size="20" fill="#5F6368">출처: 일본 관광청·국세청 안내, 세계일보 2026-10-28·헤럴드경제 2026-10-27</text>
+</svg>
