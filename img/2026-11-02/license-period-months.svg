@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="60" y="76" font-size="38" font-weight="700" fill="#202124">2026년 갱신 대상, 생일로 보는 내 마감</text>
+<text x="60" y="122" font-size="24" fill="#5F6368">기존 기간(1월 1일~12월 31일)과 생일 전후 6개월 중 늦게 끝나는 날</text>
+<g font-size="28" fill="#202124">
+<rect x="60" y="160" width="1080" height="96" rx="16" fill="#F1F3F4" stroke="#5F6368" stroke-width="3"/>
+<text x="90" y="218"><tspan font-weight="700">1월~6월생</tspan>   →   2026년 12월 31일</text>
+<rect x="60" y="276" width="1080" height="96" rx="16" fill="#E8F0FE" stroke="#1A73E8" stroke-width="3"/>
+<text x="90" y="334"><tspan font-weight="700">7월 15일생</tspan>   →   2027년 1월 15일</text>
+<rect x="60" y="392" width="1080" height="96" rx="16" fill="#E8F0FE" stroke="#1A73E8" stroke-width="3"/>
+<text x="90" y="450"><tspan font-weight="700">10월 1일생</tspan>   →   2027년 4월 1일 (공단 예시)</text>
+<rect x="60" y="508" width="1080" height="96" rx="16" fill="#E8F0FE" stroke="#1A73E8" stroke-width="3"/>
+<text x="90" y="566"><tspan font-weight="700">12월 20일생</tspan>   →   2027년 6월 20일</text>
+</g>
+<text x="60" y="662" font-size="24" fill="#202124">확정 날짜는 안전운전 통합민원 마이페이지 · 경찰청교통민원24에서</text>
+<text x="60" y="712" font-size="22" fill="#80868b">출처: 한국도로교통공단 정기적성검사·면허갱신 안내 (2026-11-02 확인)</text>
+</svg>
