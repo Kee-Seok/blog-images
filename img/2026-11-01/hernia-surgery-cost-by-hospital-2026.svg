@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="40" y="52" font-size="27" font-weight="700" fill="#202124">서혜부 탈장 수술비용, 창구에서 내는 몫</text>
+<text x="40" y="84" font-size="17" fill="#5f6368">70세 넘음 · 한쪽 · 합병증 없음 · 2일 입원 · 본인부담 20% 자격</text>
+<g font-size="19" fill="#202124">
+<text x="40" y="150">병원급 · 개복</text><rect x="260" y="128" width="243" height="32" rx="6" fill="#9aa0a6"/><text x="515" y="151">24만3,360원</text>
+<text x="40" y="210" font-weight="700">병원급 · 복강경</text><rect x="260" y="188" width="323" height="32" rx="6" fill="#1a73e8"/><text x="595" y="211" font-weight="700">32만3,140원</text>
+<text x="40" y="270">종합병원 · 복강경</text><rect x="260" y="248" width="431" height="32" rx="6" fill="#9aa0a6"/><text x="703" y="271">43만1,400원</text>
+<text x="40" y="330">상급종합 · 복강경</text><rect x="260" y="308" width="470" height="32" rx="6" fill="#9aa0a6"/><text x="560" y="331" fill="#ffffff" font-weight="700">46만9,740원</text>
+</g>
+<text x="40" y="392" font-size="16" fill="#202124">같은 수술이라도 병원 종류와 수술 방법에서 20만원 넘게 벌어집니다</text>
+<text x="40" y="440" font-size="15" fill="#5f6368">근거: 건강보험심사평가원 7개질병군(DRG) 진료비 확인 · 2026-11-01 입원 기준 · 비급여 제외</text>
+</svg>
