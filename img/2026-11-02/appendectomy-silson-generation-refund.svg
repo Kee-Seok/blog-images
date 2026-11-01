@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540" font-family="sans-serif">
+<rect width="1000" height="540" fill="#ffffff"/>
+<text x="500" y="50" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">본인부담 459,400원, 실손 세대별로 남는 돈</text>
+<text x="500" y="88" text-anchor="middle" font-size="19" fill="#5f6368">종합병원 복강경 3일 입원 · 포괄수가 본인부담은 급여 칸으로 계산</text>
+<g font-size="22" fill="#202124">
+<text x="70" y="170" font-weight="700">4세대 실손 (급여 20% 빼고)</text>
+<rect x="70" y="190" width="688" height="60" fill="#1a73e8"/><rect x="758" y="190" width="172" height="60" fill="#dadce0"/>
+<text x="414" y="229" text-anchor="middle" fill="#ffffff" font-weight="700">돌려받음 367,520원</text><text x="844" y="229" text-anchor="middle" font-weight="700">내 몫 91,880원</text>
+<text x="70" y="330" font-weight="700">3세대 실손 급여 10%형</text>
+<rect x="70" y="350" width="774" height="60" fill="#188038"/><rect x="844" y="350" width="86" height="60" fill="#dadce0"/>
+<text x="457" y="389" text-anchor="middle" fill="#ffffff" font-weight="700">돌려받음 413,460원</text><text x="887" y="389" text-anchor="middle" font-size="18" font-weight="700">45,940원</text>
+</g>
+<text x="500" y="480" text-anchor="middle" font-size="19" fill="#5f6368">자기부담률: 금융위원회 4세대 실손 출시 보도자료(2021년 6월) 기준</text>
+<text x="500" y="512" text-anchor="middle" font-size="19" fill="#5f6368">3세대는 급여 10%와 20%(선택형) 중 가입한 쪽을 따라요</text>
+</svg>
