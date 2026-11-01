@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="560" fill="#ffffff"/>
+<text x="400" y="38" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">1080×1920 화면에서 글자를 두면 안 되는 곳</text>
+<rect x="250" y="60" width="270" height="480" rx="16" fill="#e8f0fe" stroke="#5f6368" stroke-width="2"/>
+<rect x="250" y="60" width="270" height="42" rx="16" fill="#fdecea"/>
+<rect x="250" y="427" width="270" height="113" rx="16" fill="#fdecea"/>
+<rect x="490" y="102" width="30" height="325" fill="#fdecea"/>
+<text x="385" y="87" text-anchor="middle" font-size="14" fill="#202124">위 170px</text>
+<text x="385" y="488" text-anchor="middle" font-size="14" fill="#202124">아래 400px</text>
+<text x="505" y="270" text-anchor="middle" font-size="13" fill="#202124" transform="rotate(90 505 270)">오른쪽 120px</text>
+<g font-size="15" fill="#202124"><text x="270" y="140" font-weight="700">제목 한 줄</text>
+<text x="270" y="180">1. 항목 이름</text><text x="270" y="205">2. 항목 이름</text><text x="270" y="230">3. 항목 이름</text><text x="270" y="255">…</text><text x="270" y="280">7. 항목 이름</text>
+<text x="270" y="330" fill="#1a73e8">댓글 안내 한 줄</text></g>
+<g font-size="15" fill="#202124">
+<text x="40" y="150">0초부터 끝까지</text><text x="40" y="172">같은 화면</text>
+<text x="40" y="250">움직이는 건</text><text x="40" y="272">뒤 배경 영상뿐</text>
+<text x="560" y="150">빨간 칸은</text><text x="560" y="172">계정 이름·설명·</text><text x="560" y="194">버튼이 덮는 자리</text>
+</g>
+<text x="400" y="552" text-anchor="middle" font-size="13" fill="#5f6368">크라우드의 코드리뷰 · 이 계정 reel_wall.py 기준 여백</text>
+</svg>
