@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" font-family="sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="500" y="50" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">복강경 맹장수술 3일 입원, 병원 종류별 본인부담금</text>
+<text x="500" y="88" text-anchor="middle" font-size="19" fill="#5f6368">합병증 없는 경우 · 일반환자 20% · 심평원 포괄수가 계산 (2026년 11월 2일 입원 기준)</text>
+<g font-size="22" fill="#202124">
+<text x="60" y="160" font-weight="700">상급종합병원</text><rect x="250" y="130" width="600" height="46" rx="6" fill="#d93025"/><text x="865" y="162" font-weight="700">531,370원</text>
+<text x="60" y="250" font-weight="700">종합병원</text><rect x="250" y="220" width="519" height="46" rx="6" fill="#e8710a"/><text x="784" y="252" font-weight="700">459,400원</text>
+<text x="60" y="340" font-weight="700">병원</text><rect x="250" y="310" width="423" height="46" rx="6" fill="#1a73e8"/><text x="688" y="342" font-weight="700">374,820원</text>
+<text x="60" y="430" font-weight="700">의원</text><rect x="250" y="400" width="419" height="46" rx="6" fill="#1a73e8"/><text x="684" y="432" font-weight="700">370,770원</text>
+</g>
+<text x="500" y="500" text-anchor="middle" font-size="18" fill="#5f6368">상급병실료·식대·무통주사 등은 따로 붙을 수 있어요</text>
+</svg>
