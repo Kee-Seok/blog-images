@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="40" y="52" font-size="27" font-weight="700" fill="#202124">탈장 수술 실비, 4세대면 이렇게 돌아와요</text>
+<text x="40" y="84" font-size="17" fill="#5f6368">병원급 · 복강경 · 2일 입원 영수증 기준</text>
+<rect x="40" y="120" width="220" height="150" rx="14" fill="#f1f3f4"/>
+<text x="150" y="170" font-size="18" text-anchor="middle" fill="#5f6368">창구에서 낸 돈</text>
+<text x="150" y="215" font-size="28" font-weight="700" text-anchor="middle" fill="#202124">32만3,140원</text>
+<text x="290" y="205" font-size="34" fill="#5f6368">→</text>
+<rect x="330" y="120" width="220" height="150" rx="14" fill="#e8f0fe"/>
+<text x="440" y="170" font-size="18" text-anchor="middle" fill="#1a73e8">실손이 돌려줌 (80%)</text>
+<text x="440" y="215" font-size="28" font-weight="700" text-anchor="middle" fill="#1a73e8">25만8,512원</text>
+<text x="580" y="205" font-size="34" fill="#5f6368">+</text>
+<rect x="610" y="120" width="160" height="150" rx="14" fill="#fef7e0"/>
+<text x="690" y="170" font-size="18" text-anchor="middle" fill="#b06000">끝내 내 몫</text>
+<text x="690" y="215" font-size="26" font-weight="700" text-anchor="middle" fill="#b06000">6만4,628원</text>
+<text x="40" y="320" font-size="17" fill="#202124">4세대 실손(2021년 7월~ 가입)은 급여 본인부담에서 20%를 빼고 지급</text>
+<text x="40" y="350" font-size="17" fill="#202124">상급병실 차액처럼 묶음 밖 비급여는 따로 붙고, 비급여는 30%를 뺍니다</text>
+<text x="40" y="400" font-size="15" fill="#5f6368">근거: 심평원 7개질병군 진료비 확인(2026-11-01) · 실손의료보험 표준약관(4세대)</text>
+</svg>
