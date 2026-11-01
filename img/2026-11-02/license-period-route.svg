@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" font-family="sans-serif">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="60" y="76" font-size="38" font-weight="700" fill="#202124">운전면허 갱신기간 확인, 두 곳 중 한 곳</text>
+<g font-size="27" fill="#202124">
+<rect x="60" y="120" width="520" height="400" rx="18" fill="#FEF7E0" stroke="#E37400" stroke-width="3"/>
+<text x="90" y="178" font-weight="700" font-size="30">안전운전 통합민원</text>
+<text x="90" y="226" font-size="24" fill="#5F6368">한국도로교통공단</text>
+<text x="90" y="290">1  간편인증 로그인</text>
+<text x="90" y="345">2  마이페이지</text>
+<text x="90" y="400">3  적성검사·갱신 기간 보기</text>
+<text x="90" y="470" font-size="24" fill="#E37400">이어서 인터넷 신청까지</text>
+<rect x="620" y="120" width="520" height="400" rx="18" fill="#E6F4EA" stroke="#188038" stroke-width="3"/>
+<text x="650" y="178" font-weight="700" font-size="30">경찰청교통민원24</text>
+<text x="650" y="226" font-size="24" fill="#5F6368">이파인 efine.go.kr</text>
+<text x="650" y="290">1  간편인증 로그인</text>
+<text x="650" y="345">2  운전면허 메뉴</text>
+<text x="650" y="400">3  내 면허 정보 확인</text>
+<text x="650" y="470" font-size="24" fill="#188038">과태료·벌점도 같이 보기</text>
+</g>
+<text x="60" y="600" font-size="24" fill="#202124">2026년 전에 받은 면허증 날짜는 실제 법적 기간과 다를 수 있어요</text>
+<text x="60" y="650" font-size="22" fill="#80868b">출처: 한국도로교통공단 정기적성검사·면허갱신 안내 (2026-11-02 확인)</text>
+</svg>
