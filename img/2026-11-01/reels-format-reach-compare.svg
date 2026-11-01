@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">릴스 형식별 평균 도달과 시청 시간</text>
+<g font-size="17" fill="#202124">
+<text x="40" y="118" font-weight="700">30초 목소리판</text>
+<rect x="210" y="96" width="62" height="34" rx="6" fill="#9aa0a6"/>
+<text x="284" y="120">도달 80 · 시청 2.6초</text>
+<text x="40" y="198" font-weight="700">15초 목록 벽</text>
+<rect x="210" y="176" width="310" height="34" rx="6" fill="#1a73e8"/>
+<text x="532" y="200">도달 397 · 시청 5.7초</text>
+<text x="40" y="278" font-weight="700">목록 벽, 큰 2편 빼면</text>
+<rect x="210" y="256" width="140" height="34" rx="6" fill="#8ab4f8"/>
+<text x="362" y="280">도달 180 안팎</text>
+</g>
+<line x1="40" y1="330" x2="760" y2="330" stroke="#dadce0"/>
+<text x="40" y="368" font-size="16" fill="#202124">11월 1일 최근 10편: 도달 101~401, 공유는 10편 합쳐 3번, 팔로워 3명</text>
+<text x="40" y="400" font-size="16" fill="#202124">터진 주제는 '연말 마감 돈'처럼 누구나 해당되는 것뿐이었어요</text>
+<text x="400" y="448" text-anchor="middle" font-size="14" fill="#5f6368">크라우드의 코드리뷰 · 인스타 통계 2026-10-31 판정, 2026-11-01 재확인</text>
+</svg>
