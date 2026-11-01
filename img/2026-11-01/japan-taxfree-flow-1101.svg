@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 780" font-family="sans-serif">
+<rect width="1200" height="780" fill="#ffffff"/>
+<text x="60" y="76" font-size="38" font-weight="700" fill="#202124">일본 면세 환급, 출국날 공항 순서</text>
+<g font-size="26" fill="#202124">
+<rect x="60" y="116" width="1080" height="120" rx="16" fill="#E8F0FE" stroke="#1A73E8" stroke-width="3"/>
+<text x="90" y="162" font-weight="700" fill="#1A73E8">① 국제선 출발 로비 · 면세 수속 단말기</text>
+<text x="90" y="206">여권을 읽힌다 (7개 공항은 Visit Japan Web으로 휴대폰 가능)</text>
+<rect x="60" y="256" width="520" height="150" rx="16" fill="#E6F4EA" stroke="#188038" stroke-width="3"/>
+<text x="90" y="304" font-weight="700" fill="#188038">녹색 판정</text>
+<text x="90" y="348">확인 끝 → 바로 짐 부치기</text>
+<rect x="620" y="256" width="520" height="150" rx="16" fill="#FCE8E6" stroke="#D93025" stroke-width="3"/>
+<text x="650" y="304" font-weight="700" fill="#D93025">빨간색 판정</text>
+<text x="650" y="348">산 물건 들고 세관 검사장</text>
+<rect x="60" y="426" width="1080" height="120" rx="16" fill="#F1F3F4" stroke="#5F6368" stroke-width="3"/>
+<text x="90" y="472" font-weight="700">② 항공사 카운터에서 짐 부치기</text>
+<text x="90" y="516">순서가 바뀌면 되돌릴 수 없음 · 부친 짐은 못 찾음</text>
+<rect x="60" y="566" width="1080" height="120" rx="16" fill="#FEF7E0" stroke="#E37400" stroke-width="3"/>
+<text x="90" y="612" font-weight="700" fill="#E37400">③ 세금 돌려받기</text>
+<text x="90" y="656">카드·계좌·앱·공항 현금 중 산 가게가 정한 방법</text>
+</g>
+<text x="60" y="740" font-size="20" fill="#5F6368">출처: 일본 관광청 리펀드 방식 안내(2026), 세계일보·헤럴드경제·JTBC 보도</text>
+</svg>
