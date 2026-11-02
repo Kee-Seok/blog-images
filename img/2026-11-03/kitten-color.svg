@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="sans-serif">
+<rect width="900" height="360" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">새끼고양이 털 색으로 보는 풀이</text>
+<g font-size="19" fill="#202124">
+<rect x="40" y="78" width="820" height="60" rx="10" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="70" y="115" font-weight="700">흰 새끼고양이</text><text x="300" y="115">맑고 반가운 소식, 마음 놓이는 일</text>
+<rect x="40" y="148" width="820" height="60" rx="10" fill="#fff8e1" stroke="#f9ab00"/>
+<text x="70" y="185" font-weight="700">노란 새끼고양이</text><text x="300" y="185">살림에 작은 보탬, 웃을 일</text>
+<rect x="40" y="218" width="820" height="60" rx="10" fill="#eceff1" stroke="#5f6368"/>
+<text x="70" y="255" font-weight="700">검은 새끼고양이</text><text x="300" y="255">흉몽보다 '조용히 살필 일'로 풀이</text>
+<text x="450" y="320" text-anchor="middle" fill="#5f6368" font-size="16">색보다 꿈속 기분이 먼저예요 · 전통 해몽 풀이</text>
+</g>
+</svg>
