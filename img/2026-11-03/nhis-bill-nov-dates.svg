@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="380" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">11월 건강보험료 고지서, 날짜 셋</text>
+<line x1="90" y1="170" x2="710" y2="170" stroke="#0B7A75" stroke-width="6" stroke-linecap="round"/>
+<g font-size="20" text-anchor="middle">
+<circle cx="130" cy="170" r="16" fill="#0B7A75"/><text x="130" y="125" font-weight="700" fill="#0B7A75">11월 1일</text>
+<text x="130" y="220" fill="#202124">새 기준 적용</text><text x="130" y="248" fill="#5f6368" font-size="17">2025년 소득</text><text x="130" y="272" fill="#5f6368" font-size="17">2026.6.1 재산</text>
+<circle cx="400" cy="170" r="16" fill="#E8551F"/><text x="400" y="125" font-weight="700" fill="#E8551F">11월 15일</text>
+<text x="400" y="220" fill="#202124">전자고지 신청</text><text x="400" y="248" fill="#5f6368" font-size="17">이날까지 등록하면</text><text x="400" y="272" fill="#5f6368" font-size="17">11월분부터 온라인으로</text>
+<circle cx="670" cy="170" r="16" fill="#0B1B3A"/><text x="670" y="125" font-weight="700" fill="#0B1B3A">12월 10일</text>
+<text x="670" y="220" fill="#202124">11월분 납부기한</text><text x="670" y="248" fill="#5f6368" font-size="17">소득 조정 신청도</text><text x="670" y="272" fill="#5f6368" font-size="17">이날까지면 11월분부터</text>
+</g>
+<text x="400" y="340" text-anchor="middle" font-size="16" fill="#5f6368">출처: 국민건강보험공단 민원 안내(2026-11-03 확인)</text>
+</svg>
