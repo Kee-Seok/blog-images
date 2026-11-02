@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="sans-serif"><rect width="800" height="440" fill="#fff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">제왕절개 퇴원비, 칸마다 내 몫이 달라요</text>
+<text x="400" y="74" text-anchor="middle" font-size="16" fill="#5f6368">2025년 1월 1일 분만부터 · 국민건강보험법 시행령 기준</text>
+<g font-size="20">
+<rect x="60" y="110" width="680" height="80" rx="12" fill="#e6f4ea"/><text x="90" y="158" fill="#202124" font-weight="700">건강보험 진료비 (수술·입원료)</text><text x="710" y="158" text-anchor="end" fill="#137333" font-weight="700">본인부담 0%</text>
+<rect x="60" y="210" width="680" height="80" rx="12" fill="#fef7e0"/><text x="90" y="258" fill="#202124" font-weight="700">입원 식대</text><text x="710" y="258" text-anchor="end" fill="#b06000" font-weight="700">50% 본인부담</text>
+<rect x="60" y="310" width="680" height="80" rx="12" fill="#fce8e6"/><text x="90" y="358" fill="#202124" font-weight="700">비급여 (건강보험 밖 항목)</text><text x="710" y="358" text-anchor="end" fill="#c5221f" font-weight="700">병원이 정한 값 전부</text>
+</g>
+<text x="400" y="425" text-anchor="middle" font-size="15" fill="#5f6368">식대·비급여 칸은 임신·출산 진료비 바우처로 결제 가능</text></svg>
