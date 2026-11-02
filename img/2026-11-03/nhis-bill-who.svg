@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">건강보험료 고지서 조회, 나는 어디서?</text>
+<g font-size="19">
+<rect x="30" y="70" width="740" height="100" rx="14" fill="#E6F4F3"/>
+<text x="55" y="108" font-weight="700" fill="#0B7A75">지역가입자 (은퇴한 부모님·자영업)</text>
+<text x="55" y="143" fill="#202124">집으로 고지서가 온다 → 홈페이지 '보험료 조회'·'보험료 납부'</text>
+<rect x="30" y="185" width="740" height="100" rx="14" fill="#EEF1F8"/>
+<text x="55" y="223" font-weight="700" fill="#1D3366">직장가입자 (월급에서 빠지는 사람)</text>
+<text x="55" y="258" fill="#202124">고지서는 회사로 → 내 몫은 '보험료 조회'에서 확인</text>
+<rect x="30" y="300" width="740" height="100" rx="14" fill="#FFF1EA"/>
+<text x="55" y="338" font-weight="700" fill="#E8551F">직장인 + 월급 밖 소득 연 2,000만원 넘음</text>
+<text x="55" y="373" fill="#202124">따로 매기는 보험료가 있다 → 같은 '보험료 조회'에 따로 표시</text>
+</g>
+</svg>
