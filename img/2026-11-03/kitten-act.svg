@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" font-family="sans-serif">
+<rect width="900" height="420" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">새끼고양이가 꿈에서 무엇을 했나요</text>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<rect x="24" y="76" width="200" height="300" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="124" y="118" font-weight="700" font-size="22">품에 안음</text>
+<text x="124" y="166">사랑받을 일</text>
+<text x="124" y="200">작은 기쁨</text>
+<text x="124" y="340" fill="#5f6368" font-size="16">포근했는지 함께</text>
+<rect x="244" y="76" width="200" height="300" rx="14" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="344" y="118" font-weight="700" font-size="22">집에 들어옴</text>
+<text x="344" y="166">반가운 손님</text>
+<text x="344" y="200">좋은 소식</text>
+<text x="344" y="340" fill="#5f6368" font-size="16">문으로 왔다면 더 좋게</text>
+<rect x="464" y="76" width="200" height="300" rx="14" fill="#e3f2fd" stroke="#4285f4" stroke-width="2"/>
+<text x="564" y="118" font-weight="700" font-size="22">졸졸 따라옴</text>
+<text x="564" y="166">나를 찾는 사람</text>
+<text x="564" y="200">새 인연</text>
+<text x="564" y="340" fill="#5f6368" font-size="16">귀찮았는지도 보기</text>
+<rect x="684" y="76" width="200" height="300" rx="14" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+<text x="784" y="118" font-weight="700" font-size="22">할퀴거나 묾</text>
+<text x="784" y="166">가까운 사이</text>
+<text x="784" y="200">작은 말다툼</text>
+<text x="784" y="340" fill="#5f6368" font-size="16">말 한마디 조심</text>
+</g>
+</svg>
