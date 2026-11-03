@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">CLAUDE.md 와 스킬 파일, 언제 읽히나</text>
+<rect x="40" y="70" width="340" height="300" rx="14" fill="#f1f3f4" stroke="#dadce0"/>
+<rect x="420" y="70" width="340" height="300" rx="14" fill="#e8f0fe" stroke="#8ab4f8"/>
+<g font-size="17" fill="#202124">
+<text x="210" y="108" text-anchor="middle" font-weight="700">CLAUDE.md</text>
+<text x="64" y="150">· 새 창을 열 때마다 통째로 읽힘</text>
+<text x="64" y="186">· 그래서 짧게: 이 계정은 782바이트</text>
+<text x="64" y="222">· 모든 일에 공통인 말만</text>
+<text x="64" y="258">  (예: 글자로 읽기, 보고는 짧게)</text>
+<text x="590" y="108" text-anchor="middle" font-weight="700">스킬 파일 (SKILL.md)</text>
+<text x="444" y="150">· 평소엔 이름·설명 한 줄만 보임</text>
+<text x="444" y="186">· 그 일을 할 때 본문을 읽음</text>
+<text x="444" y="222">· 길어도 됨: 38개 합쳐 20만 바이트</text>
+<text x="444" y="258">· 그 일에서 고친 내용을 쌓는 곳</text>
+</g>
+<text x="400" y="410" text-anchor="middle" font-size="16" fill="#202124">고친 내용이 '모든 일'에 해당하면 CLAUDE.md, '그 일 하나'면 스킬 파일</text>
+<text x="400" y="448" text-anchor="middle" font-size="14" fill="#5f6368">크라우드의 코드리뷰 · 이 계정 파일 크기 2026-11-03 확인 (Claude Code 2.1.201)</text>
+</svg>
