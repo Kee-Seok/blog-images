@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="600" y="62" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">로또 당첨금 수령장소 — 어디서 샀느냐로 갈려요</text>
+<text x="600" y="102" text-anchor="middle" font-size="22" fill="#5f6368">동행복권 당첨자 가이드 (2026년 11월 4일 확인)</text>
+<rect x="40" y="135" width="250" height="70" rx="10" fill="#f1f3f4"/><text x="165" y="180" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">등수</text>
+<rect x="305" y="135" width="420" height="70" rx="10" fill="#e8f0fe"/><text x="515" y="180" text-anchor="middle" font-size="28" font-weight="700" fill="#174ea6">판매점에서 산 용지</text>
+<rect x="740" y="135" width="420" height="70" rx="10" fill="#fef7e0"/><text x="950" y="180" text-anchor="middle" font-size="28" font-weight="700" fill="#8a5a00">인터넷으로 산 것</text>
+<g font-size="26" fill="#202124">
+<rect x="40" y="220" width="250" height="110" rx="10" fill="#f8f9fa"/><text x="165" y="285" text-anchor="middle" font-weight="700">1등</text>
+<rect x="305" y="220" width="420" height="110" rx="10" fill="#f8f9fa"/><text x="515" y="268" text-anchor="middle">NH농협은행 본점 또는 페이코 앱</text><text x="515" y="306" text-anchor="middle" font-size="22" fill="#5f6368">당첨 용지 + 신분증</text>
+<rect x="740" y="220" width="420" height="110" rx="10" fill="#f8f9fa"/><text x="950" y="268" text-anchor="middle">NH농협은행 본점</text><text x="950" y="306" text-anchor="middle" font-size="22" fill="#5f6368">당첨복권번호 + 신분증</text>
+<rect x="40" y="345" width="250" height="110" rx="10" fill="#f8f9fa"/><text x="165" y="410" text-anchor="middle" font-weight="700">2등</text>
+<rect x="305" y="345" width="420" height="110" rx="10" fill="#f8f9fa"/><text x="515" y="393" text-anchor="middle">NH농협은행 전국 지점</text><text x="515" y="431" text-anchor="middle" font-size="22" fill="#5f6368">당첨 용지 + 신분증</text>
+<rect x="740" y="345" width="420" height="110" rx="10" fill="#f8f9fa"/><text x="950" y="393" text-anchor="middle">NH농협은행 전국 지점</text><text x="950" y="431" text-anchor="middle" font-size="22" fill="#5f6368">당첨복권번호 + 신분증</text>
+<rect x="40" y="470" width="250" height="110" rx="10" fill="#f8f9fa"/><text x="165" y="535" text-anchor="middle" font-weight="700">3등</text>
+<rect x="305" y="470" width="420" height="110" rx="10" fill="#f8f9fa"/><text x="515" y="518" text-anchor="middle">NH농협은행 전국 지점</text><text x="515" y="556" text-anchor="middle" font-size="22" fill="#5f6368">200만원 이하면 당첨 용지만</text>
+<rect x="740" y="470" width="420" height="235" rx="10" fill="#fff8e1"/><text x="950" y="575" text-anchor="middle" font-weight="700" fill="#8a5a00">가는 곳 없음</text><text x="950" y="615" text-anchor="middle" font-size="22" fill="#5f6368">동행복권 예치금으로 자동 입금</text>
+<rect x="40" y="595" width="250" height="110" rx="10" fill="#f8f9fa"/><text x="165" y="660" text-anchor="middle" font-weight="700">4등 · 5등</text>
+<rect x="305" y="595" width="420" height="110" rx="10" fill="#f8f9fa"/><text x="515" y="643" text-anchor="middle">로또 판매점</text><text x="515" y="681" text-anchor="middle" font-size="22" fill="#5f6368">5만원 · 5천원 바로 교환</text>
+</g>
+<text x="600" y="740" text-anchor="middle" font-size="20" fill="#80868b">받을 수 있는 기간: 지급개시일부터 1년 · 지나면 복권기금으로 넘어감</text>
+</svg>
