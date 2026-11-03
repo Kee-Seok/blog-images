@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="40" y="52" font-size="27" font-weight="700" fill="#202124">병원급 복강경 5일 입원, 영수증 따라가기</text>
+<g font-size="19" fill="#202124">
+<rect x="40" y="90" width="720" height="58" rx="10" fill="#f1f3f4"/><text x="60" y="126">총진료비</text><text x="740" y="126" text-anchor="end" font-weight="700">321만1,810원</text>
+<rect x="40" y="160" width="720" height="58" rx="10" fill="#e8f0fe"/><text x="60" y="196">건강보험이 내는 몫</text><text x="740" y="196" text-anchor="end">258만7,030원</text>
+<rect x="40" y="230" width="720" height="58" rx="10" fill="#fef7e0"/><text x="60" y="266" font-weight="700">창구에서 내는 몫(본인부담)</text><text x="740" y="266" text-anchor="end" font-weight="700">62만4,780원</text>
+<rect x="40" y="300" width="720" height="58" rx="10" fill="#e6f4ea"/><text x="60" y="336">4세대 실손에서 돌아오는 돈(80%)</text><text x="740" y="336" text-anchor="end" font-weight="700" fill="#0b8043">49만9,824원</text>
+</g>
+<text x="40" y="400" font-size="15" fill="#5f6368">근거: 심평원 DRG 진료비 확인(2026-11-03 입원) · 금융위원회 4세대 실손 급여 자기부담 20%</text>
+</svg>
