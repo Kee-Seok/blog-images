@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">2027학년도 수능, 시험장 확인 날짜</text>
+<line x1="90" y1="150" x2="710" y2="150" stroke="#dadce0" stroke-width="6"/>
+<g font-size="20" text-anchor="middle">
+<circle cx="110" cy="150" r="16" fill="#9aa0a6"/><text x="110" y="105" font-weight="700" fill="#202124">지금</text>
+<text x="110" y="200" fill="#202124">원서접수증</text><text x="110" y="228" fill="#202124">찾아 두기</text>
+<circle cx="300" cy="150" r="20" fill="#E8551F"/><text x="300" y="105" font-weight="700" fill="#E8551F">11월 18일(수)</text>
+<text x="300" y="200" fill="#202124">예비소집</text><text x="300" y="228" fill="#202124">수험표 받고</text><text x="300" y="256" fill="#202124">시험장·시험실 확인</text>
+<circle cx="500" cy="150" r="20" fill="#1a73e8"/><text x="500" y="105" font-weight="700" fill="#1a73e8">11월 19일(목)</text>
+<text x="500" y="200" fill="#202124">오전 6시 30분 출입</text><text x="500" y="228" fill="#202124">8시 10분까지 입실</text>
+<circle cx="690" cy="150" r="16" fill="#1E8E4E"/><text x="690" y="105" font-weight="700" fill="#1E8E4E">12월 11일(금)</text>
+<text x="690" y="200" fill="#202124">성적 통지</text>
+</g>
+<text x="400" y="360" text-anchor="middle" font-size="16" fill="#5f6368">출처: 한국교육과정평가원 수험생 유의사항·2027학년도 시행세부계획(2026.6.30) 보도</text>
+</svg>
