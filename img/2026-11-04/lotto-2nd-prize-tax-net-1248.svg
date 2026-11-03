@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="sans-serif">
+<rect width="1200" height="640" fill="#ffffff"/>
+<text x="600" y="62" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">로또 2등 실수령액 — 1248회 53,122,485원으로 계산</text>
+<text x="600" y="102" text-anchor="middle" font-size="22" fill="#5f6368">세율 22% = 소득세 20% + 지방소득세 2% · 동행복권 당첨자 가이드 기준</text>
+<g font-size="26" fill="#202124">
+<text x="60" y="185" font-weight="700">공시 당첨금</text>
+<rect x="330" y="150" width="810" height="56" rx="8" fill="#c6dafc"/><text x="1120" y="188" text-anchor="end" font-weight="700">53,122,485원</text>
+<text x="60" y="275">구입비 1,000원 빼기</text>
+<rect x="330" y="240" width="810" height="56" rx="8" fill="#e8f0fe"/><text x="1120" y="278" text-anchor="end">53,121,485원</text>
+<text x="60" y="365">소득세 20%</text>
+<rect x="330" y="330" width="162" height="56" rx="8" fill="#fad2cf"/><text x="510" y="368">10,624,297원</text>
+<text x="60" y="455">지방소득세</text>
+<rect x="330" y="420" width="17" height="56" rx="4" fill="#f28b82"/><text x="365" y="458">1,062,429원 (소득세의 10%)</text>
+<text x="60" y="545" font-weight="700">통장에 들어오는 돈</text>
+<rect x="330" y="510" width="632" height="56" rx="8" fill="#ceead6"/><text x="980" y="548" font-weight="700" fill="#137333">41,435,759원</text>
+</g>
+<text x="600" y="615" text-anchor="middle" font-size="20" fill="#80868b">세금 합계 11,686,726원 · 은행이 떼고 넣어 주므로 따로 신고하지 않음(분리과세)</text>
+</svg>
