@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" font-family="sans-serif">
+<rect width="1200" height="620" fill="#ffffff"/>
+<text x="600" y="62" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">로또 당첨금 수령기간은 1년 — 넘기면 0원</text>
+<text x="600" y="102" text-anchor="middle" font-size="22" fill="#5f6368">동행복권 당첨자 가이드 · 미지급당첨금 현황(기준일 2026년 11월 2일)</text>
+<line x1="120" y1="230" x2="1080" y2="230" stroke="#dadce0" stroke-width="8" stroke-linecap="round"/>
+<line x1="120" y1="230" x2="900" y2="230" stroke="#1a73e8" stroke-width="8" stroke-linecap="round"/>
+<circle cx="120" cy="230" r="18" fill="#1a73e8"/><circle cx="900" cy="230" r="18" fill="#e8710a"/><circle cx="1080" cy="230" r="18" fill="#9aa0a6"/>
+<g font-size="24" fill="#202124" text-anchor="middle">
+<text x="120" y="185" font-weight="700">지급 시작</text><text x="120" y="285" font-size="21" fill="#5f6368">이날부터 받을 수 있음</text>
+<text x="900" y="185" font-weight="700" fill="#b06000">1년째 되는 날</text><text x="900" y="285" font-size="21" fill="#5f6368">은행 쉬는 날이면 다음 영업일</text>
+<text x="1080" y="185" font-weight="700" fill="#5f6368">그 뒤</text><text x="1080" y="285" font-size="21" fill="#5f6368">복권기금으로</text>
+</g>
+<rect x="60" y="340" width="1080" height="240" rx="14" fill="#fef7e0"/>
+<g font-size="26" fill="#202124">
+<text x="90" y="390" font-weight="700">아직 안 찾아간 돈 (2026년 11월 2일 기준)</text>
+<text x="90" y="440">· 1203회(2025년 12월 20일 추첨) 1등 1건 1,368,060,733원 → 기한 2026년 12월 21일</text>
+<text x="90" y="490">· 1197회(2025년 11월 8일 추첨) 5등 124,662건 623,310,000원</text>
+<text x="90" y="540">· 같은 1197회 4등 3,067건 153,350,000원 · 3등 49건 75,836,467원</text>
+</g>
+</svg>
