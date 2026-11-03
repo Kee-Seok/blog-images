@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360">
+<rect width="800" height="360" fill="#ffffff"/>
+<text x="40" y="58" font-family="sans-serif" font-size="30" font-weight="700" fill="#202124">로또 세금 몇 프로? 당첨금 구간별 세율</text>
+<rect x="40" y="90" width="720" height="68" rx="12" fill="#e8f0fe"/>
+<text x="70" y="134" font-family="sans-serif" font-size="26" fill="#202124">200만원 이하</text>
+<text x="730" y="136" font-family="sans-serif" font-size="34" font-weight="700" fill="#202124" text-anchor="end">0%</text>
+<rect x="40" y="172" width="720" height="68" rx="12" fill="#fef7e0"/>
+<text x="70" y="216" font-family="sans-serif" font-size="26" fill="#202124">200만원 초과 ~ 3억</text>
+<text x="730" y="218" font-family="sans-serif" font-size="34" font-weight="700" fill="#202124" text-anchor="end">22%</text>
+<rect x="40" y="254" width="720" height="68" rx="12" fill="#fce8e6"/>
+<text x="70" y="298" font-family="sans-serif" font-size="26" fill="#202124">3억 넘는 부분</text>
+<text x="730" y="300" font-family="sans-serif" font-size="34" font-weight="700" fill="#202124" text-anchor="end">33%</text>
+<text x="40" y="345" font-family="sans-serif" font-size="18" fill="#5f6368">소득세 20%+지방소득세 2% = 22% · 30%+3% = 33% · 출처 동행복권 당첨자 가이드</text>
+</svg>
