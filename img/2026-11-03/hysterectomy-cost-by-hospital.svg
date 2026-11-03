@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="40" y="52" font-size="27" font-weight="700" fill="#202124">복강경 자궁적출, 병원 종류별 내 몫</text>
+<text x="40" y="84" font-size="17" fill="#5f6368">악성종양 아님 · 합병증 없음 · 5일 입원 · 본인부담 20% 자격</text>
+<g font-size="19" fill="#202124">
+<text x="40" y="150">의원</text><rect x="230" y="128" width="290" height="32" rx="6" fill="#9aa0a6"/><text x="532" y="151">57만3,810원</text>
+<text x="40" y="210" font-weight="700">병원</text><rect x="230" y="188" width="316" height="32" rx="6" fill="#0b8043"/><text x="558" y="211" font-weight="700">62만4,780원</text>
+<text x="40" y="270">종합병원</text><rect x="230" y="248" width="408" height="32" rx="6" fill="#9aa0a6"/><text x="650" y="271">80만7,890원</text>
+<text x="40" y="330">상급종합병원</text><rect x="230" y="308" width="478" height="32" rx="6" fill="#9aa0a6"/><text x="500" y="331" fill="#ffffff" font-weight="700">94만6,160원</text>
+</g>
+<text x="40" y="392" font-size="16" fill="#202124">같은 수술이라도 상급종합병원은 의원보다 37만원 넘게 더 냅니다</text>
+<text x="40" y="440" font-size="15" fill="#5f6368">근거: 건강보험심사평가원 7개질병군(DRG) 진료비 확인 · 2026-11-03 입원 기준</text>
+</svg>
