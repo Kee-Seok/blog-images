@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">수험표를 잃어버렸다면</text>
+<g font-size="20" fill="#202124">
+<rect x="60" y="80" width="680" height="76" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="90" y="126"><tspan font-weight="700" fill="#E8551F">1</tspan>  시험장에 평소처럼 간다 (신분증은 꼭 챙긴다)</text>
+<rect x="60" y="176" width="680" height="76" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="90" y="222"><tspan font-weight="700" fill="#E8551F">2</tspan>  시험장 안 시험관리본부를 찾는다</text>
+<rect x="60" y="272" width="680" height="76" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="90" y="318"><tspan font-weight="700" fill="#E8551F">3</tspan>  원서와 같은 사진 1장 + 신분증으로 다시 받는다</text>
+<rect x="60" y="368" width="680" height="56" rx="12" fill="#fff4ec" stroke="#E8551F"/>
+<text x="400" y="404" text-anchor="middle" font-weight="700" fill="#E8551F">입실 마감 8시 10분 전까지 끝내야 해요</text>
+</g>
+</svg>
