@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="sans-serif">
+<rect width="800" height="520" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">수능 날 신분증, 되는 것과 안 되는 것</text>
+<text x="400" y="74" text-anchor="middle" font-size="15" fill="#5f6368">2026학년도 교육부 수험생 유의사항 기준 · 사진 붙고 유효기간 안</text>
+<rect x="40" y="96" width="350" height="390" rx="14" fill="#eef6ee" stroke="#34a853"/>
+<text x="215" y="132" text-anchor="middle" font-size="21" font-weight="700" fill="#188038">되는 것</text>
+<g font-size="17" fill="#202124">
+<text x="64" y="172">· 주민등록증</text>
+<text x="64" y="210">· 운전면허증</text>
+<text x="64" y="248">· 주민등록번호가 적힌 여권</text>
+<text x="64" y="286">· 청소년증</text>
+<text x="64" y="324">· 외국인등록증</text>
+<text x="64" y="362">· 주민등록증·청소년증</text>
+<text x="82" y="386">발급신청확인서</text>
+<text x="64" y="424">· 이름·생년월일·학교장 직인이</text>
+<text x="82" y="448">있는 학생증</text>
+</g>
+<rect x="410" y="96" width="350" height="390" rx="14" fill="#fdecea" stroke="#d93025"/>
+<text x="585" y="132" text-anchor="middle" font-size="21" font-weight="700" fill="#c5221f">안 되는 것</text>
+<g font-size="17" fill="#202124">
+<text x="434" y="172">· 모바일 신분증</text>
+<text x="452" y="196">(주민등록증·운전면허증 모두)</text>
+<text x="434" y="240">· 주민번호 없는 새 여권만</text>
+<text x="452" y="264">(2020년 12월 21일 이후 발급)</text>
+<text x="434" y="308">· 직인이 빠진 학생증</text>
+<text x="434" y="352">· 유효기간 지난 신분증</text>
+<text x="434" y="396">· 신분증 사진만 찍어 둔 것</text>
+</g>
+</svg>
