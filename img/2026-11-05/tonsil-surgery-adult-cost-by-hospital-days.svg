@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" font-family="sans-serif">
+<rect width="1200" height="780" fill="#ffffff"/>
+<text x="60" y="80" font-size="42" font-weight="700" fill="#202124">어른 편도 수술, 입원 하루마다 얼마씩 붙나</text>
+<text x="60" y="128" font-size="26" fill="#5f6368">17세 초과 · 종합병원 · 일반환자 20% · 합병증 없음</text>
+<text x="60" y="228" font-size="30" font-weight="700" fill="#202124">1일</text>
+<text x="60" y="266" font-size="22" fill="#80868b"></text>
+<rect x="330" y="194" width="399" height="66" rx="10" fill="#a8c7fa"/>
+<text x="745" y="240" font-size="32" font-weight="700" fill="#202124">199,110원</text>
+<text x="60" y="358" font-size="30" font-weight="700" fill="#202124">2일</text>
+<text x="60" y="396" font-size="22" fill="#80868b"></text>
+<rect x="330" y="324" width="479" height="66" rx="10" fill="#7baaf7"/>
+<text x="825" y="370" font-size="32" font-weight="700" fill="#202124">239,080원</text>
+<text x="60" y="488" font-size="30" font-weight="700" fill="#202124">3일</text>
+<text x="60" y="526" font-size="22" fill="#80868b"></text>
+<rect x="330" y="454" width="559" height="66" rx="10" fill="#4285f4"/>
+<text x="905" y="500" font-size="32" font-weight="700" fill="#202124">279,050원</text>
+<text x="60" y="618" font-size="30" font-weight="700" fill="#202124">4일</text>
+<text x="60" y="656" font-size="22" fill="#80868b"></text>
+<rect x="330" y="584" width="640" height="66" rx="10" fill="#1a73e8"/>
+<text x="986" y="630" font-size="32" font-weight="700" fill="#202124">319,020원</text>
+<text x="60" y="740" font-size="22" fill="#80868b">건강보험심사평가원 포괄수가 계산, 2026년 11월 5일 입원일 기준</text></svg>
