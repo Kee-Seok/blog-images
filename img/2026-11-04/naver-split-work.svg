@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">막힌 사이트가 있을 때 일 나누기</text>
+<g font-size="17" fill="#202124">
+<rect x="40" y="75" width="220" height="110" rx="12" fill="#e8f0fe" stroke="#8ab4f8"/>
+<text x="150" y="112" text-anchor="middle" font-weight="700">1. 주소부터 열어 보기</text>
+<text x="150" y="142" text-anchor="middle">열리나, 막히나</text>
+<text x="150" y="168" text-anchor="middle">한 번만 확인</text>
+<rect x="290" y="75" width="220" height="110" rx="12" fill="#e8f0fe" stroke="#8ab4f8"/>
+<text x="400" y="112" text-anchor="middle" font-weight="700">2. 막히면 멈춤</text>
+<text x="400" y="142" text-anchor="middle">돌아가는 길 찾지 않기</text>
+<text x="400" y="168" text-anchor="middle">막힌 주소 한 줄 보고</text>
+<rect x="540" y="75" width="220" height="110" rx="12" fill="#e8f0fe" stroke="#8ab4f8"/>
+<text x="650" y="112" text-anchor="middle" font-weight="700">3. 원고는 끝까지</text>
+<text x="650" y="142" text-anchor="middle">검색어·글·검사까지</text>
+<text x="650" y="168" text-anchor="middle">파일로 저장</text>
+<rect x="40" y="235" width="345" height="130" rx="12" fill="#e6f4ea" stroke="#81c995"/>
+<text x="212" y="272" text-anchor="middle" font-weight="700">열리는 곳 (티스토리)</text>
+<text x="212" y="304" text-anchor="middle">클로드가 붙여 넣고 공개 발행</text>
+<text x="212" y="334" text-anchor="middle">→ 공개 주소까지 확인</text>
+<rect x="415" y="235" width="345" height="130" rx="12" fill="#fef7e0" stroke="#fdd663"/>
+<text x="587" y="272" text-anchor="middle" font-weight="700">막힌 곳 (네이버)</text>
+<text x="587" y="304" text-anchor="middle">사람이 원고를 붙여 넣고 발행</text>
+<text x="587" y="334" text-anchor="middle">→ 사진·링크만 눈으로 확인</text>
+</g>
+<text x="400" y="410" text-anchor="middle" font-size="16" fill="#202124">클로드가 할 일은 '발행 직전'까지, 막힌 곳의 마지막 한 단계만 사람이</text>
+<text x="400" y="448" text-anchor="middle" font-size="14" fill="#5f6368">크라우드의 코드리뷰 · 2026-11-04</text>
+</svg>
