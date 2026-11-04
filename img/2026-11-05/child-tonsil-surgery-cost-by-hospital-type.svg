@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" font-family="sans-serif">
+<rect width="1200" height="780" fill="#ffffff"/>
+<text x="60" y="80" font-size="42" font-weight="700" fill="#202124">15세 이하 편도 수술, 병원 종류별 내 몫</text>
+<text x="60" y="128" font-size="26" fill="#5f6368">본인부담 5% · 2일 입원 · 합병증 없음</text>
+<text x="60" y="228" font-size="30" font-weight="700" fill="#202124">상급종합</text>
+<text x="60" y="266" font-size="22" fill="#80868b">대학병원급</text>
+<rect x="330" y="194" width="640" height="66" rx="10" fill="#f9ab00"/>
+<text x="986" y="240" font-size="32" font-weight="700" fill="#202124">75,370원</text>
+<text x="60" y="358" font-size="30" font-weight="700" fill="#202124">종합병원</text>
+<text x="60" y="396" font-size="22" fill="#80868b"></text>
+<rect x="330" y="324" width="523" height="66" rx="10" fill="#fbbc04"/>
+<text x="869" y="370" font-size="32" font-weight="700" fill="#202124">61,690원</text>
+<text x="60" y="488" font-size="30" font-weight="700" fill="#202124">병원</text>
+<text x="60" y="526" font-size="22" fill="#80868b"></text>
+<rect x="330" y="454" width="468" height="66" rx="10" fill="#fdd663"/>
+<text x="814" y="500" font-size="32" font-weight="700" fill="#202124">55,200원</text>
+<text x="60" y="618" font-size="30" font-weight="700" fill="#202124">의원</text>
+<text x="60" y="656" font-size="22" fill="#80868b">동네 이비인후과</text>
+<rect x="330" y="584" width="457" height="66" rx="10" fill="#fde293"/>
+<text x="803" y="630" font-size="32" font-weight="700" fill="#202124">53,830원</text>
+<text x="60" y="740" font-size="22" fill="#80868b">건강보험심사평가원 포괄수가 계산, 2026년 11월 5일 입원일 기준</text></svg>
