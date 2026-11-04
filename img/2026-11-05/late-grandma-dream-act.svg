@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="sans-serif">
+<rect width="900" height="400" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">꿈속 할머니가 무엇을 해 주셨나요</text>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<rect x="24" y="76" width="200" height="290" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="124" y="120" font-weight="700" font-size="22">밥을 차려 주심</text>
+<text x="124" y="170">살림이 든든해짐</text>
+<text x="124" y="204">먹을 복</text>
+<text x="124" y="336" fill="#5f6368" font-size="16">맛있게 먹었는지 함께</text>
+<rect x="244" y="76" width="200" height="290" rx="14" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="344" y="120" font-weight="700" font-size="22">안아 주심</text>
+<text x="344" y="170">위로와 보살핌</text>
+<text x="344" y="204">힘든 일이 풀림</text>
+<text x="344" y="336" fill="#5f6368" font-size="16">울었어도 나쁘지 않게</text>
+<rect x="464" y="76" width="200" height="290" rx="14" fill="#e3f2fd" stroke="#4285f4" stroke-width="2"/>
+<text x="564" y="120" font-weight="700" font-size="22">웃으며 말씀</text>
+<text x="564" y="170">반가운 소식</text>
+<text x="564" y="204">근심이 걷힘</text>
+<text x="564" y="336" fill="#5f6368" font-size="16">말씀 내용도 떠올리기</text>
+<rect x="684" y="76" width="200" height="290" rx="14" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+<text x="784" y="120" font-weight="700" font-size="22">말없이 바라봄</text>
+<text x="784" y="170">챙길 일이 있음</text>
+<text x="784" y="204">몸과 집안 살피기</text>
+<text x="784" y="336" fill="#5f6368" font-size="16">겁낼 꿈은 아님</text>
+</g>
+</svg>
