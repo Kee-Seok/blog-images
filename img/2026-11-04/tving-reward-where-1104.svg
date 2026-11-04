@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 470" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="720" height="470" fill="#ffffff"/>
+<text x="360" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">티빙 연장 신청 보상, 어디서 확인하나</text>
+<rect x="30" y="64" width="660" height="44" fill="#1a73e8"/>
+<text x="50" y="93" font-size="18" font-weight="700" fill="#ffffff">보상</text><text x="270" y="93" font-size="18" font-weight="700" fill="#ffffff">들어오는 방식</text><text x="510" y="93" font-size="18" font-weight="700" fill="#ffffff">확인할 곳</text>
+<g font-size="17" fill="#202124">
+<rect x="30" y="108" width="660" height="72" fill="#f8f9fa"/>
+<text x="50" y="140" font-weight="700">피싱 안전 보험</text><text x="50" y="164" font-size="14" fill="#5f6368">1년</text>
+<text x="270" y="140">신청한 사람만</text><text x="510" y="140">MY › 보상 신청</text><text x="510" y="164" font-size="14" fill="#5f6368">약관은 제휴 보험사 기준</text>
+<rect x="30" y="180" width="660" height="72" fill="#ffffff"/>
+<text x="50" y="212" font-weight="700">프리미엄 시청 기능</text><text x="50" y="236" font-size="14" fill="#5f6368">4K·동시 4대·다운로드 400회</text>
+<text x="270" y="212">자동 (신청 없음)</text><text x="270" y="236" font-size="14" fill="#5f6368">광고형 스탠다드·베이직·스탠다드</text><text x="510" y="212">재생 화질에서</text><text x="510" y="236" font-size="14" fill="#5f6368">2027년 1월 31일까지</text>
+<rect x="30" y="252" width="660" height="72" fill="#f8f9fa"/>
+<text x="50" y="284" font-weight="700">티빙 포인트 50P</text><text x="50" y="308" font-size="14" fill="#5f6368">5,000원 상당</text>
+<text x="270" y="284">신청한 사람만</text><text x="270" y="308" font-size="14" fill="#5f6368">콘텐츠 구매에 사용</text><text x="510" y="284">MY › 보상 신청</text>
+<rect x="30" y="324" width="660" height="72" fill="#ffffff"/>
+<text x="50" y="356" font-weight="700">웨이브 1개월권</text><text x="50" y="380" font-size="14" fill="#5f6368">광고형 스탠다드</text>
+<text x="270" y="356">쿠폰 번호</text><text x="270" y="380" font-size="14" fill="#5f6368">웨이브에 직접 등록</text><text x="510" y="356">MY › 보상 신청</text><text x="510" y="380" font-size="14" fill="#5f6368">번호 복사 → 웨이브</text>
+</g>
+<text x="360" y="430" text-anchor="middle" font-size="16" fill="#d93025" font-weight="700">연장 기간(10/6~10/30) 신청분엔 CGV 쿠폰이 없어요</text>
+<text x="360" y="456" text-anchor="middle" font-size="13" fill="#5f6368">출처: 티빙 보상 안내 페이지 tving.com/compensation (2026-11-04 확인)</text>
+</svg>
