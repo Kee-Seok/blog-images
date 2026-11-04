@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">클로드 앱 브라우저로 열어 본 주소 (2026-11-04)</text>
+<rect x="40" y="70" width="340" height="300" rx="14" fill="#e6f4ea" stroke="#81c995"/>
+<rect x="420" y="70" width="340" height="300" rx="14" fill="#fce8e6" stroke="#f28b82"/>
+<g font-size="17" fill="#202124">
+<text x="210" y="108" text-anchor="middle" font-weight="700">열림</text>
+<text x="64" y="150">· 다음 검색 search.daum.net</text>
+<text x="64" y="186">· 구글 검색 google.com</text>
+<text x="64" y="222">· 티스토리 관리 화면</text>
+<text x="64" y="258">  (crowdit.tistory.com/manage)</text>
+<text x="64" y="294">· 상품 페이지 latpeed.com</text>
+<text x="590" y="108" text-anchor="middle" font-weight="700">막힘 (안전 제한)</text>
+<text x="444" y="150">· 네이버 블로그 blog.naver.com</text>
+<text x="444" y="186">· 모바일 m.blog.naver.com</text>
+<text x="444" y="222">· 네이버 검색 search.naver.com</text>
+<text x="444" y="258">· 지식iN kin.naver.com (10/12)</text>
+<text x="444" y="294">· 검색광고 도구 (10/1)</text>
+</g>
+<text x="400" y="410" text-anchor="middle" font-size="16" fill="#202124">막힌 쪽은 다른 길로 돌아가지 않고, 원고까지만 클로드가 만들어요</text>
+<text x="400" y="448" text-anchor="middle" font-size="14" fill="#5f6368">크라우드의 코드리뷰 · 이 계정 자동화에서 직접 열어 본 결과</text>
+</svg>
