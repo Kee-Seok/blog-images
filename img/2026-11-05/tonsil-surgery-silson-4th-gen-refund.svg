@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" font-family="sans-serif">
+<rect width="1200" height="650" fill="#ffffff"/>
+<text x="60" y="80" font-size="42" font-weight="700" fill="#202124">어른 편도 수술비, 4세대 실손 넣으면</text>
+<text x="60" y="128" font-size="26" fill="#5f6368">의원 2일 입원 본인부담 17만7,920원 · 급여 자기부담 20%</text>
+<text x="60" y="228" font-size="30" font-weight="700" fill="#202124">영수증 내 몫</text>
+<text x="60" y="266" font-size="22" fill="#80868b">포괄수가 본인부담</text>
+<rect x="330" y="194" width="640" height="66" rx="10" fill="#9aa0a6"/>
+<text x="986" y="240" font-size="32" font-weight="700" fill="#202124">177,920원</text>
+<text x="60" y="358" font-size="30" font-weight="700" fill="#202124">실손에서 돌아옴</text>
+<text x="60" y="396" font-size="22" fill="#80868b">80%</text>
+<rect x="330" y="324" width="512" height="66" rx="10" fill="#34a853"/>
+<text x="858" y="370" font-size="32" font-weight="700" fill="#202124">142,336원</text>
+<text x="60" y="488" font-size="30" font-weight="700" fill="#202124">끝까지 남는 돈</text>
+<text x="60" y="526" font-size="22" fill="#80868b">20%</text>
+<rect x="330" y="454" width="128" height="66" rx="10" fill="#ea4335"/>
+<text x="474" y="500" font-size="32" font-weight="700" fill="#202124">35,584원</text>
+<text x="60" y="610" font-size="22" fill="#80868b">심평원 포괄수가 계산(2026.11.5 입원) · 금융위원회 4세대 실손 자기부담률</text></svg>
