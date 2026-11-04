@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">신분증을 잃어버렸다면, 18일 전에</text>
+<g font-size="19" fill="#202124">
+<rect x="60" y="76" width="680" height="72" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="88" y="120"><tspan font-weight="700" fill="#1a73e8">1</tspan>  6개월 안에 찍은 3.5×4.5cm 사진 1장 준비</text>
+<rect x="60" y="164" width="680" height="72" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="88" y="208"><tspan font-weight="700" fill="#1a73e8">2</tspan>  주민센터에서 주민등록증 재발급 신청 (5,000원)</text>
+<rect x="60" y="252" width="680" height="72" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="88" y="296"><tspan font-weight="700" fill="#1a73e8">3</tspan>  그 자리에서 발급신청확인서를 받아 둔다</text>
+<rect x="60" y="340" width="680" height="72" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="88" y="384"><tspan font-weight="700" fill="#1a73e8">4</tspan>  수험표와 같은 봉투에 넣어 19일 아침 챙긴다</text>
+</g>
+<text x="400" y="448" text-anchor="middle" font-size="16" fill="#5f6368">IC칩 들어간 주민등록증으로 신청하면 10,000원</text>
+</svg>
