@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="sans-serif">
+<rect width="900" height="400" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">할아버지와 대화한 꿈, 말씀에 따라</text>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<rect x="24" y="76" width="200" height="290" rx="14" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="124" y="120" font-weight="700" font-size="22">"잘했다" 칭찬</text>
+<text x="124" y="170">하는 일이 인정받음</text>
+<text x="124" y="204">고민이 풀림</text>
+<rect x="244" y="76" width="200" height="290" rx="14" fill="#e3f2fd" stroke="#4285f4" stroke-width="2"/>
+<text x="344" y="120" font-weight="700" font-size="22">안부·당부</text>
+<text x="344" y="170">집안이 평안함</text>
+<text x="344" y="204">가족을 챙길 때</text>
+<rect x="464" y="76" width="200" height="290" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="564" y="120" font-weight="700" font-size="22">조심하라는 말</text>
+<text x="564" y="170">그 일을 한 번 더</text>
+<text x="564" y="204">살펴보라는 귀띔</text>
+<rect x="684" y="76" width="200" height="290" rx="14" fill="#fce8e6" stroke="#ea4335" stroke-width="2"/>
+<text x="784" y="120" font-weight="700" font-size="22">호통·꾸중</text>
+<text x="784" y="170">미뤄 둔 일 점검</text>
+<text x="784" y="204">서두르지 말 것</text>
+<text x="450" y="336" fill="#5f6368" font-size="16">전통 해몽 풀이 · 깨자마자 들은 말을 적어 두면 풀이가 쉬워져요</text>
+</g>
+</svg>
