@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">티스토리 5곳, 아침 발행 시간표</text>
+<line x1="60" y1="95" x2="740" y2="95" stroke="#9aa0a6" stroke-width="3"/>
+<g font-size="17" fill="#202124" text-anchor="middle">
+<circle cx="90" cy="95" r="9" fill="#8ab4f8"/><text x="90" y="72" font-weight="700">06시</text>
+<circle cx="220" cy="95" r="9" fill="#8ab4f8"/><text x="220" y="72" font-weight="700">07시</text>
+<circle cx="350" cy="95" r="9" fill="#8ab4f8"/><text x="350" y="72" font-weight="700">08시</text>
+<circle cx="480" cy="95" r="9" fill="#f9ab00"/><text x="480" y="72" font-weight="700">09시</text>
+<circle cx="610" cy="95" r="9" fill="#8ab4f8"/><text x="610" y="72" font-weight="700">10시</text>
+<circle cx="730" cy="95" r="9" fill="#8ab4f8"/><text x="730" y="72" font-weight="700">11시</text>
+<text x="90" y="135">꿈 해몽</text>
+<text x="220" y="135">생활 행정</text>
+<text x="350" y="135">돈 (메인 1)</text>
+<text x="480" y="135">AI 자동화</text>
+<text x="480" y="160" font-size="14">(이 블로그)</text>
+<text x="610" y="135">오늘 터진 일</text>
+<text x="730" y="135">돈 (메인 2)</text>
+</g>
+<rect x="60" y="210" width="680" height="180" rx="14" fill="#f8f9fa" stroke="#dadce0"/>
+<g font-size="17" fill="#202124">
+<text x="90" y="250" font-weight="700">왜 이렇게 나눴나</text>
+<text x="90" y="285">· 블로그마다 맡는 검색어가 달라서 서로 순위를 뺏지 않아요</text>
+<text x="90" y="318">· 한 시간씩 띄워서 앞 작업이 늦어도 뒤 작업과 겹치지 않아요</text>
+<text x="90" y="351">· 저녁 발행은 노출 시간이 짧아 10월 21일부터 아침으로 당겼어요</text>
+</g>
+<text x="400" y="440" text-anchor="middle" font-size="14" fill="#5f6368">이 계정 예약 작업 기준 (2026-11-05)</text>
+</svg>
