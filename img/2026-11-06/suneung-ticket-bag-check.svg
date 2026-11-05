@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" font-family="sans-serif">
+<rect width="800" height="480" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">18일 밤, 수험표 봉투에 넣을 것</text>
+<g font-size="20" fill="#202124">
+<rect x="80" y="80" width="640" height="64" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="110" y="121">☐  수험표 (18일 예비소집 때 받은 것)</text>
+<rect x="80" y="156" width="640" height="64" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="110" y="197">☐  사진 붙은 실물 신분증 (모바일 신분증 안 됨)</text>
+<rect x="80" y="232" width="640" height="64" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="110" y="273">☐  원서에 붙인 것과 같은 사진 1장 (비상용)</text>
+<rect x="80" y="308" width="640" height="64" rx="12" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="110" y="349">☐  수험표 앞면을 휴대폰으로 찍어 둔 사진 (집에 두고)</text>
+</g>
+<text x="400" y="418" text-anchor="middle" font-size="17" fill="#202124">시험장·시험실 번호는 수험표 앞면에서 따로 적어 두기</text>
+<text x="400" y="452" text-anchor="middle" font-size="15" fill="#5f6368">올해 수험표 뒷면엔 가채점표가 인쇄돼요 (평가원 2027학년도 시행세부계획)</text>
+</svg>
