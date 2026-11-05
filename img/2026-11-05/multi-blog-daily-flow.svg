@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="40" text-anchor="middle" font-size="23" font-weight="700" fill="#202124">한 편 올리기 전에 거치는 순서</text>
+<g font-size="17" fill="#202124" text-anchor="middle">
+<rect x="30" y="80" width="170" height="120" rx="12" fill="#e8f0fe" stroke="#8ab4f8"/>
+<text x="115" y="118" font-weight="700">1. 기록 확인</text><text x="115" y="148">오늘 다른 블로그가</text><text x="115" y="172">쓴 소재 보기</text>
+<rect x="220" y="80" width="170" height="120" rx="12" fill="#e8f0fe" stroke="#8ab4f8"/>
+<text x="305" y="118" font-weight="700">2. 검색어 확인</text><text x="305" y="148">다음·구글 상위</text><text x="305" y="172">제목 직접 보기</text>
+<rect x="410" y="80" width="170" height="120" rx="12" fill="#e8f0fe" stroke="#8ab4f8"/>
+<text x="495" y="118" font-weight="700">3. 겹침 검사</text><text x="495" y="148">같은 블로그 최근</text><text x="495" y="172">글과 틀 비교</text>
+<rect x="600" y="80" width="170" height="120" rx="12" fill="#e6f4ea" stroke="#81c995"/>
+<text x="685" y="118" font-weight="700">4. 발행·기록</text><text x="685" y="148">공개 주소 확인 뒤</text><text x="685" y="172">기록 파일에 한 줄</text>
+</g>
+<rect x="120" y="260" width="560" height="120" rx="14" fill="#fce8e6" stroke="#f28b82"/>
+<g font-size="17" fill="#202124" text-anchor="middle">
+<text x="400" y="298" font-weight="700">로그인이 풀려 있으면</text>
+<text x="400" y="330">비밀번호는 넣지 않고, 따로 로그인해 둔 발행용 브라우저로 올리기</text>
+<text x="400" y="360">그것도 막히면 휴대폰 메시지로 바로 알리기</text>
+</g>
+<text x="400" y="430" text-anchor="middle" font-size="14" fill="#5f6368">이 계정 발행 규칙 기준 (2026-11-05)</text>
+</svg>
