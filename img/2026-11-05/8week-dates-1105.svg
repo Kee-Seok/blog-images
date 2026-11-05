@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="'Noto Sans KR','Apple SD Gothic Neo',sans-serif">
+<rect width="720" height="420" rx="18" fill="#ffffff"/>
+<text x="36" y="52" font-size="26" font-weight="700" fill="#202124">사고일별 서류 마감과 8주 차는 날</text>
+<text x="36" y="82" font-size="16" fill="#5f6368">사고일 + 49일(7주) · + 56일(8주) 기준, 2026년</text>
+<rect x="36" y="104" width="648" height="44" rx="8" fill="#1a73e8"/>
+<text x="60" y="133" font-size="18" font-weight="700" fill="#ffffff">사고일</text>
+<text x="280" y="133" font-size="18" font-weight="700" fill="#ffffff">7주 서류 제출 마감 무렵</text>
+<text x="540" y="133" font-size="18" font-weight="700" fill="#ffffff">8주 차는 날</text>
+<g font-size="19" fill="#202124">
+<rect x="36" y="152" width="648" height="46" fill="#fff8e1"/>
+<text x="60" y="182">9월 10일</text><text x="280" y="182">10월 29일 (지남)</text><text x="540" y="182" font-weight="700" fill="#d93025">11월 5일 오늘</text>
+<text x="60" y="230">9월 17일</text><text x="280" y="230" font-weight="700" fill="#d93025">11월 5일 오늘</text><text x="540" y="230">11월 12일</text>
+<rect x="36" y="248" width="648" height="46" fill="#f7f9fc"/>
+<text x="60" y="278">9월 24일</text><text x="280" y="278">11월 12일</text><text x="540" y="278">11월 19일</text>
+<text x="60" y="326">10월 1일</text><text x="280" y="326">11월 19일</text><text x="540" y="326">11월 26일</text>
+<rect x="36" y="344" width="648" height="46" fill="#f7f9fc"/>
+<text x="60" y="374">10월 8일</text><text x="280" y="374">11월 26일</text><text x="540" y="374">12월 3일</text>
+</g>
+</svg>
