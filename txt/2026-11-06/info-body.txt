@@ -1,0 +1,52 @@
+<p data-ke-size="size16">“수험표가 없어.” 수능 날 아침 7시 반, 현관에서 아이가 이렇게 말한다면요. <b>수능 수험표 재발급</b>은 시험장에서 그날 아침에 됩니다. 응시원서에 붙인 것과 같은 사진 1장, 그리고 실물 신분증을 들고 오전 8시까지 시험장 시험관리본부로 가면 다시 받을 수 있어요. 2027학년도 수능은 11월 19일(목), 오늘로 13일 남았습니다.</p>
+<!-- 훅:start --><p data-ke-size="size16" style="background:#fff8e1;border-left:4px solid #fbc400;padding:10px 12px;color:#202124">문제는 그 <b>사진 1장</b>이에요. 원서 낼 때 쓰고 남은 사진이 집 어딘가에 있다면 지금 찾아 두는 게 좋고, 없을 때 어떻게 되는지는 아래 '사진이 없다면' 칸에 따로 적어 두었습니다.</p><!-- 훅:end -->
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@d334aeb5b7625c0df9ae745b7d655c9e87cc3bda/img/2026-11-06/thumb-suneung-ticket-reissue.jpg" alt="수능 수험표 재발급, 원서 사진 1장과 신분증 들고 8시 전 시험관리본부" style="max-width:100%;height:auto" /></p>
+<!-- 요약:start --><div style="margin:1.4em 0;padding:16px 18px;background:#f7f9fc;border:1px solid #e1e6ee;border-radius:12px;color:#202124"><p style="margin:0 0 8px;font-weight:700;color:#202124">현관 나서기 전 세 줄</p><ul style="margin:0;padding-left:20px;line-height:1.7;color:#202124"><li>수험표는 11월 18일 예비소집 때 받고, 잃으면 19일 아침 시험장에서 다시 받아요</li><li>재발급엔 원서와 같은 사진 1장 + 실물 신분증, 오전 8시까지 시험관리본부</li><li>신분증까지 없으면 재발급도 막히니, 둘은 따로 보관하지 말고 한 봉투에</li></ul></div><!-- 요약:end -->
+<h2 data-ke-size="size26">재발급 때 들고 갈 것, 그리고 마감 시각</h2>
+<p data-ke-size="size16">평가원 수능 누리집의 수험생 시험요령에는 "수험표 분실 시 입실시간 전까지 재교부받으라"고 적혀 있습니다. 구체적인 방법은 지난해(2026학년도) 교육부 수험생 유의사항 보도에 나와 있는데, 물건 두 개와 시각 하나만 기억하면 됩니다.</p>
+<p data-ke-size="size16">물건은 응시원서에 붙인 사진과 같은 사진 1장, 그리고 사진이 붙은 실물 신분증이에요. 시각은 오전 8시입니다. 이때까지 시험관리본부에 도착해야 8시 10분 입실에 맞출 수 있거든요. 본부는 아이가 배정받은 그 시험장 학교 안에 있으니, 다른 학교나 교육청으로 갈 필요는 없어요.</p>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@d334aeb5b7625c0df9ae745b7d655c9e87cc3bda/img/2026-11-06/suneung-ticket-reissue-steps.svg" alt="수능 수험표 재발급 순서, 사진 1장과 신분증 들고 시험관리본부" style="max-width:100%;height:auto" /></p>
+<p data-ke-size="size16">올해 유의사항은 아직 안 나왔습니다. 작년엔 시험 9일 전에 발표됐으니 다음 주 초쯤 평가원 화면에서 재교부 문구가 그대로인지 한 번만 맞춰 보세요.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<center><a class="myButton1" href="https://www.suneung.re.kr/sub/info.do?m=010401&amp;s=suneung" target="_blank" rel="noopener">평가원 시험요령에서 재교부 문구 직접 읽기</a></center>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 data-ke-size="size26">수능 수험표 받는법, 18일엔 어디로 가나요?</h2>
+<p data-ke-size="size16">수능 수험표 받는법은 생각보다 단순합니다. 시험 전날인 11월 18일(수) 예비소집에서 나눠 주고, 그 일시와 장소는 원서를 낼 때 받은 원서접수증에 적혀 있어요. 재학생은 학교 안내를, 졸업생은 원서를 낸 곳의 안내를 따르면 되니 접수증부터 꺼내 보세요.</p>
+<p data-ke-size="size16">받자마자 앞면의 시험장 학교와 시험실 번호를 휴대폰 메모에 따로 적어 두면 좋습니다. 수험표가 사라져도 어느 학교 본부로 가야 하는지는 남거든요. 올해 수험표는 뒷면에 가채점표가 처음으로 인쇄된다는 점도 달라졌어요(평가원 2027학년도 시행세부계획).</p>
+<h2 data-ke-size="size26">수능 수험표 사진이 없다면</h2>
+<p data-ke-size="size16">원서 사진을 다 써 버렸거나 어디 뒀는지 모르는 집도 많을 거예요. 수능 수험표 사진은 '원서에 붙인 것과 같은 사진'이어야 해서, 찍어 둔 사진관에 원판이 남아 있으면 같은 사진으로 다시 뽑을 수 있는지 이번 주에 물어보는 게 가장 확실합니다.</p>
+<p data-ke-size="size16">끝내 사진이 없을 때는 그날 아침 시험관리본부에 바로 알리면 임시 수험표를 받을 수 있다는 안내가 그동안 수능 때마다 보도돼 왔어요. 다만 확인 절차가 붙으니 시간이 더 걸린다고 생각하고 평소보다 일찍 집을 나서는 게 맞습니다.</p>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@d334aeb5b7625c0df9ae745b7d655c9e87cc3bda/img/2026-11-06/suneung-ticket-bag-check.svg" alt="수능 수험표 분실 대비 18일 밤 봉투에 넣을 것" style="max-width:100%;height:auto" /></p>
+<h2 data-ke-size="size26">수능 수험표 분실, 언제 알았느냐에 따라</h2>
+<p data-ke-size="size16">18일 저녁에 잃어버린 걸 알았다면 밤에 찾을 곳은 많지 않습니다. 사진과 신분증을 현관 앞에 미리 꺼내 두고, 다음 날 아침 조금 일찍 출발하면 돼요. 학교나 원서를 낸 곳에 연락이 닿으면 안내를 받아 두는 것도 좋습니다.</p>
+<p data-ke-size="size16">19일 아침 시험장 앞에서 알았다면 수험생이 곧장 본부부터 찾아가면 됩니다. 사진이 집에 있다면 가족이 가져다주는 동안 아이는 본부에 먼저 사정을 말해 두는 식으로 나눠 움직이세요. 가장 곤란한 건 수험표와 신분증을 한 지갑에 넣었다가 지갑째 잃는 경우예요. 그러면 재발급에 필요한 신분증까지 같이 사라지니, 사진은 지갑이 아닌 가방 안 봉투에 따로 넣어 두세요.</p>
+<h2 data-ke-size="size26">부모님들이 자주 묻는 것</h2>
+<h3 data-ke-size="size23">수능 수험표 재발급은 시험 전에 미리 받을 수 있나요?</h3>
+<p data-ke-size="size16">평가원 안내에는 '입실시간 전까지 재교부'라고만 나와 있고, 지난해 유의사항 보도도 시험 당일 오전 8시까지 시험관리본부로 안내했어요. 18일에 잃었다면 학교나 원서를 낸 곳에 먼저 물어보세요.</p>
+<h3 data-ke-size="size23">수능 수험표 출력은 집에서 할 수 있나요?</h3>
+<p data-ke-size="size16">수능 수험표는 18일 예비소집에서 종이로 나눠 주는 방식이고, 평가원 시험요령에도 출력 안내는 없어요. 잃었을 때는 출력이 아니라 시험장 재교부로 해결합니다.</p>
+<h3 data-ke-size="size23">사진 없이도 시험은 볼 수 있나요?</h3>
+<p data-ke-size="size16">시험관리본부에 알리면 임시 수험표를 받을 수 있다는 안내가 보도돼 왔어요. 다만 시간이 더 걸리니 원서와 같은 사진 1장을 미리 챙기는 게 가장 빠릅니다.</p>
+<p data-ke-size="size16">수험표 대비를 끝냈다면 남은 건 그 옆에 넣을 신분증이에요. 학생증이나 새 여권만 있는 경우 수능 날 걸릴 수 있는 조건을 <a href="/entry/%EC%88%98%EB%8A%A5-%EC%8B%A0%EB%B6%84%EC%A6%9D-%EB%B0%9C%EA%B8%89-2027-%EB%B6%84%EC%8B%A4%ED%96%88%EC%9C%BC%EB%A9%B4-%EC%A3%BC%EB%AF%BC%EC%84%BC%ED%84%B0-%ED%99%95%EC%9D%B8%EC%84%9C%EB%A1%9C-%EC%8B%9C%ED%97%98-%EB%B4%90%EC%9A%94">수능 신분증 발급 글</a>에 정리해 두었어요.</p>
+<p data-ke-size="size16">다음 주 초 2027학년도 유의사항이 나오면 재교부 문구만 다시 보면 되고, 18일 밤엔 봉투 하나에 수험표·신분증·사진을 넣는 것으로 끝입니다.</p>
+<!-- 전환:start --><div style="margin:28px 0;padding:18px;border:2px solid #1a73e8;border-radius:14px;background:#f3f8ff;color:#202124"><p style="margin:0 0 6px;font-weight:700;font-size:17px;color:#202124">수험표 받는 18일, 시험장도 같이 확인하세요</p><p style="margin:0 0 12px;line-height:1.7;color:#202124">시험장은 인터넷 조회가 아니라 18일 수험표에 처음 나옵니다. 예비소집 날 그 학교까지 한 번 가 봐야 19일 아침 본부 위치도 헤매지 않아요.</p><center><a class="myButton1" href="/entry/%EC%88%98%EB%8A%A5-%EC%8B%9C%ED%97%98%EC%9E%A5-%ED%99%95%EC%9D%B8-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%A1%B0%ED%9A%8C-%EB%A7%90%EA%B3%A0-11%EC%9B%94-18%EC%9D%BC-%EC%88%98%ED%97%98%ED%91%9C%EB%A1%9C-2027%ED%95%99%EB%85%84%EB%8F%84">예비소집 날 시험장 가는 순서 따라 하기</a></center></div><!-- 전환:end -->
+<!-- cluster-links:start -->
+<div style="border: 1px solid #dadce0; border-radius: 8px; padding: 14px 16px; margin: 24px 0; background: #f8f9fa;">
+<p style="margin: 0 0 6px; font-weight: bold; color: #202124;" data-ke-size="size16">같이 많이 찾는 신청&middot;조회</p>
+<ul style="margin: 0; padding-left: 18px;" data-ke-list-type="disc">
+<li style="margin: 6px 0; color: #202124;"><a style="color: #1a56db; text-decoration: underline;" href="/entry/%EC%88%98%EB%8A%A5-%EC%8B%A0%EB%B6%84%EC%A6%9D-%EB%B0%9C%EA%B8%89-2027-%EB%B6%84%EC%8B%A4%ED%96%88%EC%9C%BC%EB%A9%B4-%EC%A3%BC%EB%AF%BC%EC%84%BC%ED%84%B0-%ED%99%95%EC%9D%B8%EC%84%9C%EB%A1%9C-%EC%8B%9C%ED%97%98-%EB%B4%90%EC%9A%94">수능 신분증 발급 2027</a></li>
+<li style="margin: 6px 0; color: #202124;"><a style="color: #1a56db; text-decoration: underline;" href="/entry/%EC%88%98%EB%8A%A5-%EC%8B%9C%ED%97%98%EC%9E%A5-%ED%99%95%EC%9D%B8-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%A1%B0%ED%9A%8C-%EB%A7%90%EA%B3%A0-11%EC%9B%94-18%EC%9D%BC-%EC%88%98%ED%97%98%ED%91%9C%EB%A1%9C-2027%ED%95%99%EB%85%84%EB%8F%84">수능 시험장 확인 (2027학년도)</a></li>
+<li style="margin: 6px 0; color: #202124;"><a style="color: #1a56db; text-decoration: underline;" href="/entry/%EA%B3%B5%EC%9D%B8%EC%A4%91%EA%B0%9C%EC%82%AC-%EC%88%98%ED%97%98%ED%91%9C-%EC%B6%9C%EB%A0%A5%EB%B0%A9%EB%B2%95-37%ED%9A%8C%EB%8A%94-%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80-%EB%BD%91%EC%9D%84-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-2026">공인중개사 수험표 출력방법</a></li>
+<li style="margin: 6px 0; color: #202124;"><a style="color: #1a56db; text-decoration: underline;" href="/entry/%ED%95%9C%EB%8A%A5%EA%B2%80-81%ED%9A%8C-%EC%A0%91%EC%88%98-%EC%84%9C%EC%9A%B8%EC%9D%80-11%EC%9B%94-6%EC%9D%BC-2%EC%8B%9C%EA%B0%84%EB%BF%90%EC%9D%B4%EC%97%90%EC%9A%94-2026">한능검 81회 접수 (2026)</a></li>
+<li style="margin: 6px 0; color: #202124;"><a style="color: #1a56db; text-decoration: underline;" href="/entry/%ED%95%9C%EB%8A%A5%EA%B2%80-%EA%B2%B0%EA%B3%BC-%ED%99%95%EC%9D%B880%ED%9A%8C%C2%B72026-%EC%A0%95%EB%8B%B5-%EB%A7%9E%EC%B6%B0-%EB%B3%B4%EA%B3%A0-%EC%9D%B4%EC%9D%98%EC%8B%A0%EC%B2%AD%EC%9D%80-10%EC%9B%94-20%EC%9D%BC%EA%B9%8C%EC%A7%80">한능검 결과 확인 80회</a></li>
+</ul>
+</div>
+<!-- cluster-links:end -->
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "수능 수험표 재발급은 시험 전에 미리 받을 수 있나요?", "acceptedAnswer": {"@type": "Answer", "text": "평가원 안내에는 '입실시간 전까지 재교부'라고만 나와 있고, 지난해 유의사항 보도도 시험 당일 오전 8시까지 시험관리본부로 안내했어요. 18일에 잃었다면 학교나 원서를 낸 곳에 먼저 물어보세요."}}, {"@type": "Question", "name": "수능 수험표 출력은 집에서 할 수 있나요?", "acceptedAnswer": {"@type": "Answer", "text": "수능 수험표는 18일 예비소집에서 종이로 나눠 주는 방식이고, 평가원 시험요령에도 출력 안내는 없어요. 잃었을 때는 출력이 아니라 시험장 재교부로 해결합니다."}}, {"@type": "Question", "name": "사진 없이도 시험은 볼 수 있나요?", "acceptedAnswer": {"@type": "Answer", "text": "시험관리본부에 알리면 임시 수험표를 받을 수 있다는 안내가 보도돼 왔어요. 다만 시간이 더 걸리니 원서와 같은 사진 1장을 미리 챙기는 게 가장 빠릅니다."}}]}</script>
+<!-- track:start --><script>(function(){if(window.__ctaT)return;window.__ctaT=1;if(typeof gtag==='function')gtag('config','G-DHW09SPKFC');document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a||typeof gtag!=='function')return;if(!a.closest('.post-body,.entry-content,.tt_article_useless_p_margin,.article-view,article'))return;var h=a.href,s=a.getAttribute('style')||'',k='outbound';if(h.split('#')[0]===location.href.split('#')[0])return;if(a.classList.contains('myButton1')||/max-width:\s*420px/.test(s))k='button';else if(/crowdniwant\.com/.test(h))k=/계산기|자가진단|체크리스트/.test(a.innerText)?'calc':'internal';gtag('event','cta_click',{link_kind:k,link_text:(a.innerText||'').trim().slice(0,60),link_url:h});},true);})();</script><!-- track:end -->
