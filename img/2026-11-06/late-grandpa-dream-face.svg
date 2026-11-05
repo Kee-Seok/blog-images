@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="sans-serif">
+<rect width="900" height="360" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">할아버지 모습으로 보는 풀이</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="80" width="390" height="240" rx="14" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="235" y="122" text-anchor="middle" font-weight="700" font-size="23">밝고 건강해 보이심</text>
+<text x="70" y="172">· 젊은 모습 → 기운이 살아남</text>
+<text x="70" y="212">· 웃으심 → 반가운 소식</text>
+<text x="70" y="252">· 용돈 주심 → 재물 기회</text>
+<rect x="470" y="80" width="390" height="240" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="665" y="122" text-anchor="middle" font-weight="700" font-size="23">아프거나 어두우심</text>
+<text x="500" y="172">· 누워 계심 → 쉬어 갈 때</text>
+<text x="500" y="212">· 말이 없으심 → 챙길 일</text>
+<text x="500" y="252">· 우심 → 가족 안부 묻기</text>
+</g>
+</svg>
