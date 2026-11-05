@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="sans-serif">
+<rect width="1200" height="640" fill="#ffffff"/>
+<text x="600" y="60" text-anchor="middle" font-size="36" font-weight="700" fill="#202124">편의점(판매점) vs 인터넷 로또, 뭐가 다를까</text>
+<text x="600" y="98" text-anchor="middle" font-size="22" fill="#5f6368">동행복권 구매 안내 (2026년 11월 5일 확인)</text>
+<rect x="40" y="130" width="260" height="66" rx="10" fill="#f1f3f4"/><text x="170" y="173" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">구분</text>
+<rect x="315" y="130" width="410" height="66" rx="10" fill="#e8f0fe"/><text x="520" y="173" text-anchor="middle" font-size="26" font-weight="700" fill="#174ea6">판매점(편의점 포함)</text>
+<rect x="740" y="130" width="420" height="66" rx="10" fill="#fef7e0"/><text x="950" y="173" text-anchor="middle" font-size="26" font-weight="700" fill="#8a5a00">인터넷(동행복권)</text>
+<g font-size="24" fill="#202124">
+<rect x="40" y="210" width="260" height="96" rx="10" fill="#f8f9fa"/><text x="170" y="266" text-anchor="middle" font-weight="700">살 수 있는 돈</text>
+<rect x="315" y="210" width="410" height="96" rx="10" fill="#f8f9fa"/><text x="520" y="266" text-anchor="middle">1인 1회 최대 10만원</text>
+<rect x="740" y="210" width="420" height="96" rx="10" fill="#f8f9fa"/><text x="950" y="266" text-anchor="middle">한 회차 1인 최대 5천원</text>
+<rect x="40" y="320" width="260" height="96" rx="10" fill="#f8f9fa"/><text x="170" y="376" text-anchor="middle" font-weight="700">시간</text>
+<rect x="315" y="320" width="410" height="96" rx="10" fill="#f8f9fa"/><text x="520" y="362" text-anchor="middle">가게 사정에 따라 다름</text><text x="520" y="396" text-anchor="middle" font-size="20" fill="#5f6368">문 닫으면 그 전까지만</text>
+<rect x="740" y="320" width="420" height="96" rx="10" fill="#f8f9fa"/><text x="950" y="362" text-anchor="middle">일~금 06~24시</text><text x="950" y="396" text-anchor="middle">토 06~20시</text>
+<rect x="40" y="430" width="260" height="96" rx="10" fill="#f8f9fa"/><text x="170" y="486" text-anchor="middle" font-weight="700">주의</text>
+<rect x="315" y="430" width="410" height="96" rx="10" fill="#f8f9fa"/><text x="520" y="472" text-anchor="middle">번호 적은 슬립 용지는</text><text x="520" y="506" text-anchor="middle">복권이 아님</text>
+<rect x="740" y="430" width="420" height="96" rx="10" fill="#f8f9fa"/><text x="950" y="472" text-anchor="middle">사이트 전체로는</text><text x="950" y="506" text-anchor="middle">하루 15만원까지</text>
+</g>
+<text x="600" y="590" text-anchor="middle" font-size="22" fill="#5f6368">1게임 1,000원 · 19세 미만 구매 불가 · 발매된 복권은 환불 안 됨</text>
+</svg>
