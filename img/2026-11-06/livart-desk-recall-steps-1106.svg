@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" font-family="sans-serif">
+<rect width="900" height="360" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">무상교체 받는 순서</text>
+<g font-size="17" fill="#202124" text-anchor="middle">
+<rect x="30" y="90" width="190" height="150" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="125" y="130" font-weight="700" font-size="20" fill="#1a73e8">1</text><text x="125" y="165">라벨에서</text><text x="125" y="190">모델코드·제조일</text><text x="125" y="215">사진 찍기</text>
+<rect x="250" y="90" width="190" height="150" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="345" y="130" font-weight="700" font-size="20" fill="#1a73e8">2</text><text x="345" y="165">공지 표의</text><text x="345" y="190">날짜와</text><text x="345" y="215">둘 다 맞나</text>
+<rect x="470" y="90" width="190" height="150" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="565" y="130" font-weight="700" font-size="20" fill="#1a73e8">3</text><text x="565" y="165">고객센터</text><text x="565" y="190">1577-3332</text><text x="565" y="215">또는 온라인 접수</text>
+<rect x="690" y="90" width="180" height="150" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="780" y="130" font-weight="700" font-size="20" fill="#188038">4</text><text x="780" y="165">일정 맞춰</text><text x="780" y="190">서랍 바닥판</text><text x="780" y="215">무상교체</text>
+</g>
+<g fill="#1a73e8"><polygon points="224,165 244,155 244,175"/><polygon points="444,165 464,155 464,175"/><polygon points="664,165 684,155 684,175"/></g>
+<text x="450" y="290" text-anchor="middle" font-size="16" fill="#202124">회사가 11월 2일부터 구매자에게 전화·문자로 따로 알리고 있지만, 연락이 없어도 먼저 신청할 수 있어요</text>
+<text x="880" y="340" text-anchor="end" font-size="12" fill="#5f6368">출처: 제품안전정보센터 리콜 공지 · 뉴스핌·메가경제 2026-11-05 보도</text>
+</svg>
