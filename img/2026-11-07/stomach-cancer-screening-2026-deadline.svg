@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" font-family="sans-serif">
+<rect width="1200" height="560" fill="#ffffff"/>
+<text x="600" y="70" font-size="40" font-weight="700" text-anchor="middle" fill="#202124">2026년 위암검진 남은 날짜</text>
+<line x1="120" y1="260" x2="1080" y2="260" stroke="#9aa0a6" stroke-width="6"/>
+<circle cx="200" cy="260" r="22" fill="#1a73e8"/><text x="200" y="215" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">오늘 11월 7일</text><text x="200" y="320" font-size="22" text-anchor="middle" fill="#5f6368">대상 조회 · 예약</text>
+<circle cx="470" cy="260" r="22" fill="#5f6368"/><text x="470" y="215" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">검진 뒤 15일 안</text><text x="470" y="320" font-size="22" text-anchor="middle" fill="#5f6368">결과통보서 우편·이메일</text>
+<circle cx="760" cy="260" r="26" fill="#c5221f"/><text x="760" y="215" font-size="28" font-weight="700" text-anchor="middle" fill="#c5221f">12월 31일</text><text x="760" y="320" font-size="22" text-anchor="middle" fill="#202124">올해 검진 마감</text><text x="760" y="350" font-size="22" text-anchor="middle" fill="#c5221f">연장 없음</text>
+<circle cx="1010" cy="260" r="22" fill="#f9ab00"/><text x="1010" y="215" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">다음 해 1월 31일</text><text x="1010" y="320" font-size="22" text-anchor="middle" fill="#5f6368">1단계 이상 소견 뒤</text><text x="1010" y="350" font-size="22" text-anchor="middle" fill="#5f6368">2단계 검사까지</text>
+<rect x="150" y="420" width="900" height="90" rx="14" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+<text x="600" y="458" font-size="24" font-weight="700" text-anchor="middle" fill="#202124">해를 넘기면? 다음 해에 추가 등록은 되지만 비용 부담이 달라질 수 있어요</text>
+<text x="600" y="492" font-size="20" text-anchor="middle" fill="#5f6368">기준: 국민건강보험공단 암검진 실시안내 (2026년 11월 7일 확인) · 문의 1577-1000</text>
+</svg>
