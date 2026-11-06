@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="600" y="70" font-size="40" font-weight="700" text-anchor="middle" fill="#202124">국가검진 위내시경, 내가 내는 돈 판단 순서</text>
+<rect x="390" y="110" width="420" height="90" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="3"/>
+<text x="600" y="150" font-size="28" font-weight="700" text-anchor="middle" fill="#202124">만 40세 이상, 올해 대상?</text>
+<text x="600" y="184" font-size="22" text-anchor="middle" fill="#5f6368">2년마다 · 공단 검진대상 조회로 확인</text>
+<line x1="600" y1="200" x2="600" y2="250" stroke="#5f6368" stroke-width="3"/>
+<rect x="340" y="250" width="520" height="90" rx="16" fill="#fef7e0" stroke="#f9ab00" stroke-width="3"/>
+<text x="600" y="290" font-size="28" font-weight="700" text-anchor="middle" fill="#202124">작년 11월 건강보험료가 하위 50%?</text>
+<text x="600" y="324" font-size="22" text-anchor="middle" fill="#5f6368">또는 의료급여 수급권자?</text>
+<line x1="600" y1="340" x2="300" y2="420" stroke="#5f6368" stroke-width="3"/>
+<line x1="600" y1="340" x2="900" y2="420" stroke="#5f6368" stroke-width="3"/>
+<text x="400" y="385" font-size="24" font-weight="700" fill="#188038">예</text>
+<text x="770" y="385" font-size="24" font-weight="700" fill="#c5221f">아니요</text>
+<rect x="90" y="420" width="420" height="130" rx="16" fill="#e6f4ea" stroke="#188038" stroke-width="3"/>
+<text x="300" y="475" font-size="36" font-weight="700" text-anchor="middle" fill="#188038">본인 부담 0원</text>
+<text x="300" y="515" font-size="22" text-anchor="middle" fill="#202124">공단이 검진비 전액</text>
+<rect x="690" y="420" width="420" height="130" rx="16" fill="#fce8e6" stroke="#c5221f" stroke-width="3"/>
+<text x="900" y="475" font-size="36" font-weight="700" text-anchor="middle" fill="#c5221f">검진비의 10%</text>
+<text x="900" y="515" font-size="22" text-anchor="middle" fill="#202124">공단 90% · 본인 10%</text>
+<rect x="190" y="600" width="820" height="110" rx="16" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="2"/>
+<text x="600" y="645" font-size="24" font-weight="700" text-anchor="middle" fill="#202124">검진비에 안 들어가는 돈은 병원에 따로 물어보기</text>
+<text x="600" y="683" font-size="22" text-anchor="middle" fill="#5f6368">수면(진정) 내시경 추가비 등 · 기준: 국민건강보험공단 암검진 안내(2026년 11월 확인)</text>
+</svg>
