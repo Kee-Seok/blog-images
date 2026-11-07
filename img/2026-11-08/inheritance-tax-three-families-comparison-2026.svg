@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" font-family="sans-serif">
+<rect width="1200" height="720" fill="#ffffff"/>
+<text x="600" y="60" text-anchor="middle" font-size="36" font-weight="700" fill="#202124">상속세 계산법, 세 집에 넣어 본 결과</text>
+<g font-size="26" fill="#202124">
+<rect x="60" y="100" width="1080" height="170" rx="18" fill="#eef3fd" stroke="#1a73e8" stroke-width="2"/>
+<text x="100" y="150" font-weight="700">가 집 · 11억 · 어머니 + 자녀 2명</text>
+<text x="100" y="195" font-size="23" fill="#5f6368">공제 10억2,000만 → 과세표준 8,000만 × 10%</text>
+<text x="1100" y="240" text-anchor="end" font-size="36" font-weight="700" fill="#1a73e8">776만원</text>
+<rect x="60" y="290" width="1080" height="170" rx="18" fill="#f1f3f4"/>
+<text x="100" y="340" font-weight="700">나 집 · 7억 · 외동 자녀 1명</text>
+<text x="100" y="385" font-size="23" fill="#5f6368">공제 5억2,000만 → 과세표준 1억8,000만 × 20% − 1,000만</text>
+<text x="1100" y="430" text-anchor="end" font-size="36" font-weight="700" fill="#b06000">2,522만원</text>
+<rect x="60" y="480" width="1080" height="170" rx="18" fill="#fff4d6" stroke="#e8a600" stroke-width="2"/>
+<text x="100" y="530" font-weight="700">다 집 · 11억 · 자녀 2명만</text>
+<text x="100" y="575" font-size="23" fill="#5f6368">공제 5억2,000만 → 과세표준 5억8,000만 × 30% − 6,000만</text>
+<text x="1100" y="620" text-anchor="end" font-size="36" font-weight="700" fill="#b06000">1억1,058만원</text>
+</g>
+<text x="600" y="695" text-anchor="middle" font-size="20" fill="#80868b">세 집 모두 예금 1억원 · 빚 없음 · 기한 안 신고 3% 공제 뒤 금액</text>
+</svg>
