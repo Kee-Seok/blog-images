@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="500" y="50" text-anchor="middle" font-size="29" font-weight="700" fill="#202124">클로드 요금제 사용량 비교 (Pro를 1로 볼 때)</text>
+<g font-size="21" fill="#202124">
+<text x="40" y="120" font-weight="700">Pro  월 22달러</text>
+<rect x="300" y="96" width="60" height="34" rx="6" fill="#8ab4f8"/><text x="372" y="120">5시간 1배 · 주간 1배</text>
+<text x="40" y="210" font-weight="700">Max  월 110달러</text>
+<rect x="300" y="186" width="300" height="34" rx="6" fill="#4285f4"/><text x="612" y="210">5시간 5배 · 주간 5배</text>
+<text x="40" y="300" font-weight="700">Ultra  월 220달러</text>
+<rect x="300" y="276" width="600" height="34" rx="6" fill="#1a56db"/><text x="300" y="345">주간 10배 · 인증 계정은 5시간 제한 없음</text>
+</g>
+<g font-size="18" fill="#5f6368">
+<text x="40" y="420">· 값은 claude.com 요금 페이지 표시 기준, 부가세 10% 포함 (2026-11-07 확인)</text>
+<text x="40" y="455">· Pro만 연간 결제 가능: 선불 220달러 = 월 약 18달러</text>
+<text x="40" y="490">· Max·Ultra는 월 결제만, API 크레딧 월 100달러 / 200달러 포함</text>
+<text x="40" y="525">· 한도가 닳는 속도는 모델·대화 길이·파일 크기에 따라 달라짐</text>
+</g>
+</svg>
