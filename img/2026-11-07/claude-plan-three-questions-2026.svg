@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="500" y="50" text-anchor="middle" font-size="29" font-weight="700" fill="#202124">올리기 전에 묻는 세 가지</text>
+<g font-size="21" fill="#202124">
+<rect x="60" y="90" width="880" height="100" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="90" y="133" font-weight="700">1. 막히는 게 5시간 칸인가, 주간 칸인가?</text>
+<text x="90" y="170" font-size="19">5시간만 자주 차면 몰아 쓰는 시간을 나누는 게 먼저</text>
+<rect x="60" y="215" width="880" height="100" rx="16" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+<text x="90" y="258" font-weight="700">2. 화면 캡처·브라우저 작업이 많은가?</text>
+<text x="90" y="295" font-size="19">글자로 읽게 바꾸면 같은 일에 덜 닳음 (아래 복사 단락)</text>
+<rect x="60" y="340" width="880" height="100" rx="16" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="90" y="383" font-weight="700">3. 고친 뒤에도 주간 칸이 매주 바닥나는가?</text>
+<text x="90" y="420" font-size="19">그때 Max(5배). 밤새 도는 긴 작업이 막히면 Ultra</text>
+</g>
+<text x="500" y="490" text-anchor="middle" font-size="17" fill="#5f6368">순서를 거꾸로 하면 같은 습관 그대로 비싼 요금제에서 또 막힘</text>
+</svg>
