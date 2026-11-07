@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#ffffff"/>
+<text x="600" y="62" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">상속세 계산 순서 (재산 11억 · 배우자 + 자녀 2명)</text>
+<g font-size="27" fill="#202124">
+<rect x="80" y="100" width="1040" height="86" rx="16" fill="#eef3fd" stroke="#1a73e8" stroke-width="2"/>
+<text x="120" y="155">① 상속재산 아파트 10억 + 예금 1억</text><text x="1080" y="155" text-anchor="end" font-weight="700">11억</text>
+<rect x="80" y="206" width="1040" height="86" rx="16" fill="#f1f3f4"/>
+<text x="120" y="261">② 일괄공제 (기초 2억+자녀 1억보다 큼)</text><text x="1080" y="261" text-anchor="end" font-weight="700">− 5억</text>
+<rect x="80" y="312" width="1040" height="86" rx="16" fill="#f1f3f4"/>
+<text x="120" y="367">③ 배우자공제 (최소 금액)</text><text x="1080" y="367" text-anchor="end" font-weight="700">− 5억</text>
+<rect x="80" y="418" width="1040" height="86" rx="16" fill="#f1f3f4"/>
+<text x="120" y="473">④ 금융재산공제 (예금 1억 → 2,000만원)</text><text x="1080" y="473" text-anchor="end" font-weight="700">− 2,000만</text>
+<rect x="80" y="524" width="1040" height="86" rx="16" fill="#eef3fd" stroke="#1a73e8" stroke-width="2"/>
+<text x="120" y="579">⑤ 과세표준 8,000만원 × 세율 10%</text><text x="1080" y="579" text-anchor="end" font-weight="700">800만</text>
+<rect x="80" y="630" width="1040" height="96" rx="16" fill="#fff4d6" stroke="#e8a600" stroke-width="3"/>
+<text x="120" y="690" font-weight="700">⑥ 기한 안 신고 3% 공제 (−24만원) → 낼 세금</text><text x="1080" y="690" text-anchor="end" font-size="34" font-weight="700" fill="#b06000">776만원</text>
+</g></svg>
