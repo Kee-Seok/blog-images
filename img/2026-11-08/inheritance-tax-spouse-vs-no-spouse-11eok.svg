@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" font-family="sans-serif">
+<rect width="1200" height="640" fill="#ffffff"/>
+<text x="600" y="62" text-anchor="middle" font-size="38" font-weight="700" fill="#202124">같은 재산 11억, 배우자공제 하나로 갈리는 세금</text>
+<g font-size="28" fill="#202124">
+<text x="80" y="170" font-weight="700">배우자 + 자녀 2명</text>
+<text x="80" y="210" font-size="24" fill="#5f6368">공제 10억2,000만 · 과세표준 8,000만 · 세율 10%</text>
+<rect x="80" y="230" width="62" height="64" rx="8" fill="#1a73e8"/>
+<text x="162" y="275" font-size="34" font-weight="700" fill="#1a73e8">776만원</text>
+<text x="80" y="380" font-weight="700">자녀 2명만 (배우자 없음)</text>
+<text x="80" y="420" font-size="24" fill="#5f6368">공제 5억2,000만 · 과세표준 5억8,000만 · 세율 30%</text>
+<rect x="80" y="440" width="880" height="64" rx="8" fill="#e8710a"/>
+<text x="980" y="485" font-size="34" font-weight="700" fill="#b06000">1억1,058만원</text>
+<text x="80" y="590" font-size="22" fill="#80868b">두 금액 모두 기한 안 신고 3% 공제 뒤 · 국세청 세율표·상속공제 안내(2026년 11월 확인)로 계산</text>
+</g></svg>
