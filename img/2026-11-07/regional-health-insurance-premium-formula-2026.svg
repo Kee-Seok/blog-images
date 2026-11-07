@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">지역가입자 건보료 계산 (2026년 기준)</text>
+<rect x="40" y="90" width="330" height="150" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="205" y="132" text-anchor="middle" font-size="22" font-weight="700" fill="#1a56db">소득 보험료</text>
+<text x="205" y="176" text-anchor="middle" font-size="21" fill="#202124">2025년 소득 ÷ 12</text>
+<text x="205" y="212" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">× 7.19%</text>
+<text x="400" y="178" text-anchor="middle" font-size="40" font-weight="700" fill="#5f6368">+</text>
+<rect x="430" y="90" width="330" height="150" rx="16" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+<text x="595" y="132" text-anchor="middle" font-size="22" font-weight="700" fill="#b06000">재산 보험료</text>
+<text x="595" y="176" text-anchor="middle" font-size="21" fill="#202124">(재산 − 1억 공제) 점수</text>
+<text x="595" y="212" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">× 211.5원</text>
+<path d="M400 252 L400 290" stroke="#5f6368" stroke-width="3"/><path d="M388 282 L400 300 L412 282" fill="#5f6368"/>
+<rect x="160" y="306" width="480" height="64" rx="14" fill="#202124"/>
+<text x="400" y="347" text-anchor="middle" font-size="24" font-weight="700" fill="#ffffff">= 월 건강보험료 (자동차는 0원)</text>
+<text x="400" y="408" text-anchor="middle" font-size="19" fill="#5f6368">장기요양보험료는 건강보험료 × 13.14%가 따로 붙어요 · 월 최저 20,160원 · 최고 4,591,740원</text>
+</svg>
