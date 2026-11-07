@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="500" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#0b1b3a">청년 버팀목 한도, 셋 중 작은 금액</text>
+<text x="40" y="92" font-size="19" fill="#5f6368">보증금 2억원 집을 만 25세 미만 혼자 사는 세대주가 구할 때</text>
+<g font-size="22" fill="#202124">
+<rect x="40" y="120" width="225" height="190" rx="12" fill="#f7f9fc" stroke="#dadce0"/>
+<text x="152" y="165" text-anchor="middle" font-weight="700">보증금의 80%</text><text x="152" y="210" text-anchor="middle" font-size="19" fill="#5f6368">2억원 × 80%</text><text x="152" y="265" text-anchor="middle" font-size="30" font-weight="700">1억6천만원</text>
+<rect x="288" y="120" width="225" height="190" rx="12" fill="#f7f9fc" stroke="#dadce0"/>
+<text x="400" y="165" text-anchor="middle" font-weight="700">일반 한도</text><text x="400" y="210" text-anchor="middle" font-size="19" fill="#5f6368">만 25세 이상</text><text x="400" y="265" text-anchor="middle" font-size="30" font-weight="700">1억5천만원</text>
+<rect x="536" y="120" width="225" height="190" rx="12" fill="#fff8e1" stroke="#fbc400" stroke-width="3"/>
+<text x="648" y="165" text-anchor="middle" font-weight="700">25세 미만 단독</text><text x="648" y="210" text-anchor="middle" font-size="19" fill="#5f6368">혼자 세대주</text><text x="648" y="265" text-anchor="middle" font-size="30" font-weight="700" fill="#b06000">1억2천만원</text>
+</g>
+<text x="40" y="370" font-size="24" fill="#202124">→ 이 경우 실제로 받을 수 있는 돈은 <tspan font-weight="700" fill="#b06000">1억2천만원</tspan></text>
+<text x="40" y="410" font-size="21" fill="#202124">나머지 8천만원은 내 돈으로 채워야 합니다</text>
+<text x="40" y="462" font-size="18" fill="#5f6368">보증사(HF·HUG) 규정에 따라 더 줄 수 있음 · 출처: 주택도시기금 상품안내</text>
+</svg>
