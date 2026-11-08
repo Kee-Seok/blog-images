@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">공사 전에 확인할 네 가지</text>
+<g font-size="19" fill="#202124">
+<rect x="60" y="74" width="680" height="72" rx="12" fill="#f7f9fc" stroke="#e1e6ee"/>
+<text x="90" y="118"><tspan font-weight="700" fill="#1a73e8">1</tspan>  물 샌 집이 보험증권에 적힌 그 주택인가</text>
+<rect x="60" y="158" width="680" height="72" rx="12" fill="#f7f9fc" stroke="#e1e6ee"/>
+<text x="90" y="202"><tspan font-weight="700" fill="#1a73e8">2</tspan>  원인이 옥상·복도 같은 공용부분은 아닌가</text>
+<rect x="60" y="242" width="680" height="72" rx="12" fill="#f7f9fc" stroke="#e1e6ee"/>
+<text x="90" y="286"><tspan font-weight="700" fill="#1a73e8">3</tspan>  세 준 집이면 특약 가입이 2020년 4월 이후인가</text>
+<rect x="60" y="326" width="680" height="72" rx="12" fill="#f7f9fc" stroke="#e1e6ee"/>
+<text x="90" y="370"><tspan font-weight="700" fill="#1a73e8">4</tspan>  공사 전에 견적을 보험사에 먼저 보냈나</text>
+</g>
+<text x="400" y="428" text-anchor="middle" font-size="14" fill="#5f6368">출처: 금융감독원 소비자 유의사항(2024.8.7) · 크라우드의 Money</text>
+</svg>
