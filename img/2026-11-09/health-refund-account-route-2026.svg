@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">환급금, 누구 계좌로 받느냐가 갈림길</text>
+<rect x="30" y="76" width="235" height="350" rx="14" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2"/>
+<rect x="282" y="76" width="235" height="350" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<rect x="534" y="76" width="235" height="350" rx="14" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+<g font-size="21" font-weight="700" fill="#202124" text-anchor="middle">
+<text x="147" y="116">본인 계좌</text><text x="399" y="116">자녀·부모 계좌</text><text x="651" y="116">형제·지인 등</text>
+</g>
+<g font-size="17" fill="#202124" text-anchor="middle">
+<text x="147" y="150">(직계 존·비속)</text><text x="399" y="150">(직계 존·비속)</text><text x="651" y="150">(그 외 가족·제3자)</text>
+</g>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<text x="147" y="200" font-weight="700" fill="#1e8e3e">온라인 가능</text>
+<text x="147" y="236">누리집·앱 로그인</text><text x="147" y="266">→ 바로 신청</text>
+<text x="147" y="320">서류 없음</text>
+<text x="399" y="200" font-weight="700" fill="#1a73e8">지사 신청</text>
+<text x="399" y="236">가족관계증명서(상세)</text><text x="399" y="266">신분증</text><text x="399" y="296">위임장</text>
+<text x="399" y="340" font-size="16">치매 등은 진단서·소견서</text>
+<text x="651" y="200" font-weight="700" fill="#b06000">지사 신청</text>
+<text x="651" y="236">진료받은 사람의</text><text x="651" y="266">위임장</text><text x="651" y="296">+ 신분증</text>
+</g>
+<text x="400" y="450" text-anchor="middle" font-size="15" fill="#5f6368">출처: 국민건강보험공단 본인부담상한액 초과금 조회/신청 안내 (2026-11-09 확인)</text>
+</svg>
