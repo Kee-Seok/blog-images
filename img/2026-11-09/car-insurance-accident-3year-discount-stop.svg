@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif"><rect width="800" height="380" fill="#fff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">사고 한 번이 남기는 3년 꼬리</text>
+<line x1="70" y1="190" x2="730" y2="190" stroke="#9aa0a6" stroke-width="4"/>
+<g font-size="19" text-anchor="middle" fill="#202124">
+<circle cx="110" cy="190" r="22" fill="#d93025"/><text x="110" y="150" font-weight="700">사고 처리</text><text x="110" y="240">점수만큼</text><text x="110" y="266">등급 할증</text>
+<circle cx="270" cy="190" r="18" fill="#fbbc04"/><text x="270" y="150" font-weight="700">1년째</text><text x="270" y="240">할인 멈춤</text>
+<circle cx="420" cy="190" r="18" fill="#fbbc04"/><text x="420" y="150" font-weight="700">2년째</text><text x="420" y="240">할인 멈춤</text>
+<circle cx="570" cy="190" r="18" fill="#fbbc04"/><text x="570" y="150" font-weight="700">3년째</text><text x="570" y="240">할인 멈춤</text>
+<circle cx="700" cy="190" r="22" fill="#1e8e3e"/><text x="700" y="150" font-weight="700">그다음 해</text><text x="700" y="240">다시 매년</text><text x="700" y="266">1등급 할인</text>
+</g>
+<text x="400" y="320" text-anchor="middle" font-size="17" fill="#202124">사고점수는 과거 1년 사고로 매기고, 할인은 3년 무사고 뒤에 다시 시작</text>
+<text x="400" y="358" text-anchor="middle" font-size="14" fill="#80868b">금융위원회 자동차보험 할인·할증등급 제도 안내 (2026년 11월 확인)</text></svg>
