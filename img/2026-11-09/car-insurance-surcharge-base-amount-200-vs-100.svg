@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif"><rect width="800" height="420" fill="#fff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">같은 수리비 150만원, 할증기준금액에 따라 점수가 달라요</text>
+<rect x="40" y="80" width="340" height="300" rx="16" fill="#e8f5e9" stroke="#81c784"/>
+<text x="210" y="125" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">기준금액 200만원</text>
+<text x="210" y="175" text-anchor="middle" font-size="20" fill="#202124">150만원 ≤ 200만원</text>
+<text x="210" y="245" text-anchor="middle" font-size="56" font-weight="700" fill="#2e7d32">0.5점</text>
+<text x="210" y="310" text-anchor="middle" font-size="21" fill="#202124">1점 미만 → 등급 그대로</text>
+<text x="210" y="345" text-anchor="middle" font-size="16" fill="#5f6368">(무사고 1등급 할인은 못 받음)</text>
+<rect x="420" y="80" width="340" height="300" rx="16" fill="#fff3e0" stroke="#ffb74d"/>
+<text x="590" y="125" text-anchor="middle" font-size="22" font-weight="700" fill="#202124">기준금액 100만원</text>
+<text x="590" y="175" text-anchor="middle" font-size="20" fill="#202124">150만원 &gt; 100만원</text>
+<text x="590" y="245" text-anchor="middle" font-size="56" font-weight="700" fill="#e65100">1점</text>
+<text x="590" y="310" text-anchor="middle" font-size="21" fill="#202124">1등급 할증 → 약 7.1%</text>
+<text x="400" y="408" text-anchor="middle" font-size="14" fill="#80868b">금융위원회 할인·할증등급 제도 · 보험개발원 사고내용점수 (2026년 11월 확인)</text></svg>
