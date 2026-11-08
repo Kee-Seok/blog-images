@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="sans-serif"><rect width="800" height="440" fill="#fff"/>
+<text x="400" y="42" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">사고 종류별 점수 = 올라가는 등급 수</text>
+<g font-size="19" fill="#202124">
+<text x="40" y="100">사망사고</text><rect x="300" y="78" width="400" height="32" rx="6" fill="#d93025"/><text x="712" y="101" font-weight="700">4점</text>
+<text x="40" y="155">부상 2~7급</text><rect x="300" y="133" width="300" height="32" rx="6" fill="#e8710a"/><text x="612" y="156" font-weight="700">3점</text>
+<text x="40" y="210">부상 8~12급</text><rect x="300" y="188" width="200" height="32" rx="6" fill="#f9ab00"/><text x="512" y="211" font-weight="700">2점</text>
+<text x="40" y="265">부상 13~14급</text><rect x="300" y="243" width="100" height="32" rx="6" fill="#fbbc04"/><text x="412" y="266" font-weight="700">1점</text>
+<text x="40" y="320">물적 기준금액 초과</text><rect x="300" y="298" width="100" height="32" rx="6" fill="#1a73e8"/><text x="412" y="321" font-weight="700">1점</text>
+<text x="40" y="375">물적 기준금액 이하</text><rect x="300" y="353" width="50" height="32" rx="6" fill="#8ab4f8"/><text x="362" y="376" font-weight="700">0.5점</text>
+</g>
+<text x="400" y="425" text-anchor="middle" font-size="14" fill="#80868b">1점마다 1등급 할증 · 보험개발원 사고내용점수 (2026년 11월 확인)</text></svg>
