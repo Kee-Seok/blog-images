@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">지금 이 계정이 굴리는 자동화</text>
+<g text-anchor="middle" fill="#202124">
+<rect x="30" y="80" width="170" height="170" rx="16" fill="#e8f0fe"/><text x="115" y="160" font-size="52" font-weight="700" fill="#1a73e8">43</text><text x="115" y="200" font-size="18">예약 작업</text>
+<rect x="220" y="80" width="170" height="170" rx="16" fill="#e8f0fe"/><text x="305" y="160" font-size="52" font-weight="700" fill="#1a73e8">61</text><text x="305" y="200" font-size="18">파이썬 스크립트</text>
+<rect x="410" y="80" width="170" height="170" rx="16" fill="#fff8e1"/><text x="495" y="160" font-size="52" font-weight="700" fill="#b06000">17</text><text x="495" y="200" font-size="18">고치기 전 사본</text>
+<rect x="600" y="80" width="170" height="170" rx="16" fill="#fce8e6"/><text x="685" y="160" font-size="52" font-weight="700" fill="#d93025">4번</text><text x="685" y="200" font-size="18">제일 많이 고친 파일</text>
+</g>
+<text x="400" y="300" text-anchor="middle" font-size="19" fill="#202124">사본 17개 중 4개가 대시보드 스크립트 하나 — 고칠 곳은 몰려 있어요</text>
+<text x="400" y="360" text-anchor="middle" font-size="15" fill="#5f6368">2026-11-09 직접 센 숫자 (scheduled-tasks 폴더·scripts 폴더)</text>
+</svg>
