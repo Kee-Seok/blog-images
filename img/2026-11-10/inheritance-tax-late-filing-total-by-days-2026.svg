@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="620" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">상속세 신고가 늦어지면 내는 돈 (산출세액 2,600만원 기준)</text>
+<text x="40" y="92" font-size="18" fill="#5f6368">기한 안 신고는 3% 공제 · 늦으면 무신고 가산세 20%(감면 반영) + 하루 0.022% 납부지연 가산세</text>
+<g font-size="20" fill="#202124">
+<text x="40" y="160">기한 안 신고</text>
+<rect x="250" y="135" width="530" height="38" rx="6" fill="#1e8e3e"/><text x="795" y="162" font-weight="700">2,522만원</text>
+<text x="40" y="250">20일 늦음</text>
+<rect x="250" y="225" width="604" height="38" rx="6" fill="#f9ab00"/><text x="869" y="252" font-weight="700">2,871만원</text>
+<text x="40" y="340">60일 늦음</text>
+<rect x="250" y="315" width="631" height="38" rx="6" fill="#e8710a"/><text x="896" y="342" font-weight="700">2,998만원</text>
+<text x="40" y="430">150일 늦음</text>
+<rect x="250" y="405" width="652" height="38" rx="6" fill="#d93025"/><text x="912" y="432" font-weight="700">3,102만원</text>
+<text x="40" y="520">세무서 고지(1년)</text>
+<rect x="250" y="495" width="700" height="38" rx="6" fill="#a50e0e"/><text x="700" y="490" font-size="18" fill="#a50e0e" font-weight="700">3,329만원</text>
+</g>
+<text x="40" y="590" font-size="16" fill="#80868b">표: 국세청 상속세 가산세·신고시 유의사항, 국세기본법 제48조 (2026년 11월 10일 확인) 정리 · 만원 아래 반올림</text>
+</svg>
