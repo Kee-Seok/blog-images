@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="500" fill="#ffffff"/>
+<text x="40" y="60" font-size="30" font-weight="700" fill="#202124">상속세 신고기한, 돌아가신 달로 찾기</text>
+<text x="40" y="96" font-size="18" fill="#5f6368">돌아가신 달의 마지막 날부터 6개월 (해외 거주 9개월)</text>
+<g font-size="24" fill="#202124">
+<rect x="40" y="130" width="440" height="140" rx="14" fill="#e8f0fe"/>
+<text x="70" y="185">2026년 5월에 돌아가셨다면</text><text x="70" y="240" font-size="34" font-weight="700" fill="#1a73e8">11월 30일 (월)</text>
+<rect x="520" y="130" width="440" height="140" rx="14" fill="#fef7e0"/>
+<text x="550" y="185">2026년 6월에 돌아가셨다면</text><text x="550" y="240" font-size="34" font-weight="700" fill="#b06000">12월 31일 (목)</text>
+<rect x="40" y="300" width="920" height="120" rx="14" fill="#f1f3f4"/>
+<text x="70" y="350">마지막 날이 토요일·공휴일·근로자의 날이면 → 그다음 날까지</text>
+<text x="70" y="395">돌아가신 분이나 상속인 모두 외국에 살면 → 6개월 대신 9개월</text>
+</g>
+<text x="40" y="470" font-size="16" fill="#80868b">국세청 상속세 신고시 유의사항 (2026년 11월 10일 확인)</text>
+</svg>
