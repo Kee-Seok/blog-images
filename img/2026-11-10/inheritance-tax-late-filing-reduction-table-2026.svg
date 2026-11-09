@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">상속세 기한후신고, 언제 내느냐로 가산세가 깎여요</text>
+<text x="40" y="92" font-size="18" fill="#5f6368">무신고 가산세(20%)에만 적용 · 세무서가 조사할 걸 알고 낸 경우는 제외</text>
+<g font-size="22" fill="#202124">
+<rect x="40" y="120" width="920" height="70" fill="#f1f3f4"/>
+<text x="60" y="164" font-weight="700">기한이 지난 뒤</text><text x="420" y="164" font-weight="700">가산세 감면</text><text x="680" y="164" font-weight="700">2,600만원이면</text>
+<rect x="40" y="190" width="920" height="80" fill="#e6f4ea"/>
+<text x="60" y="238">1개월 안</text><text x="420" y="238" font-weight="700" fill="#137333">50% 감면</text><text x="680" y="238">520만 → 260만원</text>
+<rect x="40" y="270" width="920" height="80" fill="#fef7e0"/>
+<text x="60" y="318">1개월 초과 ~ 3개월</text><text x="420" y="318" font-weight="700" fill="#b06000">30% 감면</text><text x="680" y="318">520만 → 364만원</text>
+<rect x="40" y="350" width="920" height="80" fill="#fce8e6"/>
+<text x="60" y="398">3개월 초과 ~ 6개월</text><text x="420" y="398" font-weight="700" fill="#c5221f">20% 감면</text><text x="680" y="398">520만 → 416만원</text>
+<rect x="40" y="430" width="920" height="80" fill="#ffffff" stroke="#dadce0"/>
+<text x="60" y="478">6개월 넘어서</text><text x="420" y="478" font-weight="700" fill="#a50e0e">감면 없음</text><text x="680" y="478">520만원 그대로</text>
+</g>
+<text x="40" y="545" font-size="16" fill="#80868b">표: 국세기본법 제48조 제2항 제2호 · 국세청 상속세 가산세 안내 (2026년 11월 10일 확인) 정리</text>
+</svg>
