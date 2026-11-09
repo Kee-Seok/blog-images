@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="520" fill="#fffdf7"/>
+<text x="40" y="60" font-size="30" font-weight="700" fill="#202124">상속세 800만원 집, 언제 내느냐에 따라</text>
+<text x="40" y="96" font-size="18" fill="#5f6368">어머니+자녀 둘, 재산 11억원(아파트 10억·예금 1억) · 산출세액 800만원</text>
+<g font-size="22" fill="#202124">
+<text x="40" y="190">마감 안 신고</text><rect x="260" y="160" width="530" height="44" rx="8" fill="#34a853"/><text x="805" y="191" font-weight="700">776만원</text>
+<text x="40" y="300">25일 늦게</text><rect x="260" y="270" width="604" height="44" rx="8" fill="#fbbc04"/><text x="879" y="301" font-weight="700">884만원</text>
+<text x="40" y="410">200일 늦게</text><rect x="260" y="380" width="680" height="44" rx="8" fill="#ea4335"/><text x="700" y="372" font-weight="700" fill="#c5221f">995만원</text>
+</g>
+<text x="40" y="490" font-size="16" fill="#80868b">국세청 상속세 가산세 안내·국세기본법 제48조(2026년 11월 10일 확인)로 계산 · 만원 아래 버림</text>
+</svg>
