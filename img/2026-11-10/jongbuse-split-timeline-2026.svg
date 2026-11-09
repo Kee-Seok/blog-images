@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">종부세 분할납부 신청 날짜 순서</text>
+<line x1="90" y1="150" x2="710" y2="150" stroke="#1a73e8" stroke-width="6"/>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<circle cx="110" cy="150" r="16" fill="#1a73e8"/><text x="110" y="205" font-weight="700">11월 하순</text><text x="110" y="235">고지서 발송</text><text x="110" y="262" font-size="16" fill="#5f6368">(작년 24일부터)</text>
+<circle cx="300" cy="150" r="16" fill="#fbc400"/><text x="300" y="205" font-weight="700">12월 12일</text><text x="300" y="235">납부유예</text><text x="300" y="262">신청 마감</text>
+<circle cx="490" cy="150" r="16" fill="#d93025"/><text x="490" y="205" font-weight="700">12월 15일</text><text x="490" y="235">분납 신청 +</text><text x="490" y="262">첫 몫 납부 마감</text>
+<circle cx="690" cy="150" r="16" fill="#1e8e4e"/><text x="690" y="205" font-weight="700">다음 해 6월 15일</text><text x="690" y="235">나눈 몫 납부</text><text x="690" y="262">(이자 없음)</text>
+</g>
+<text x="400" y="340" text-anchor="middle" font-size="18" fill="#5f6368">12월 15일이 지나면 3% 납부지연가산세 · 2025년 귀속분 국세청 안내 기준</text>
+</svg>
