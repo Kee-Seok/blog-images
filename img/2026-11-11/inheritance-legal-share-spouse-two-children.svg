@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="500" y="55" font-size="30" font-weight="700" text-anchor="middle" fill="#202124">배우자 + 자녀 2명, 재산 7억원을 법대로 나누면</text>
+<rect x="100" y="110" width="343" height="120" fill="#1a73e8" rx="8"/>
+<rect x="447" y="110" width="226" height="120" fill="#34a853" rx="8"/>
+<rect x="677" y="110" width="226" height="120" fill="#34a853" rx="8"/>
+<g font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle">
+<text x="271" y="160">배우자 7분의 3</text><text x="271" y="200">3억원</text>
+<text x="560" y="160">자녀 7분의 2</text><text x="560" y="200">2억원</text>
+<text x="790" y="160">자녀 7분의 2</text><text x="790" y="200">2억원</text>
+</g>
+<text x="500" y="290" font-size="24" text-anchor="middle" fill="#202124">비율 1.5 : 1 : 1 — 배우자만 5할(절반)을 더 얹어요 (민법 제1009조)</text>
+<text x="500" y="350" font-size="22" text-anchor="middle" fill="#5f6368">상속 순서: 1순위 자녀·손자 → 2순위 부모·조부모 → 3순위 형제자매 → 4순위 4촌 이내</text>
+<text x="500" y="390" font-size="22" text-anchor="middle" fill="#5f6368">배우자는 1·2순위와 함께, 둘 다 없으면 혼자 상속 (제1000조·제1003조)</text>
+<text x="500" y="450" font-size="22" text-anchor="middle" fill="#5f6368">상속인 모두 동의하면 다른 비율로 나눌 수 있어요 (협의분할)</text>
+</svg>
