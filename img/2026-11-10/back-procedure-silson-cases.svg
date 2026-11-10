@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="sans-serif"><rect width="800" height="460" fill="#ffffff"/>
+<text x="40" y="44" font-size="24" font-weight="700" fill="#202124">허리시술 실비, 같은 허리라도 이렇게 갈려요</text>
+<text x="40" y="72" font-size="15" fill="#5f6368">예시 금액으로 계산 · 4세대(2021.7~2026.5.5 가입) 기준, 5세대는 보도 기준</text>
+<g font-size="16" fill="#202124">
+<text x="40" y="130">신경주사(급여 5만원)·통원</text><rect x="330" y="112" width="27" height="26" rx="4" fill="#1a73e8"/><text x="368" y="131" font-weight="700">4만원</text>
+<text x="40" y="200">신경성형술(비급여 150만원)·통원</text><rect x="330" y="182" width="69" height="26" rx="4" fill="#ea4335"/><text x="410" y="201" font-weight="700">20만원 (한 번 한도)</text>
+<text x="40" y="270">같은 150만원·입원 인정</text><rect x="330" y="252" width="360" height="26" rx="4" fill="#34a853"/><text x="700" y="271" font-weight="700">105만원</text>
+<text x="40" y="340">5세대 가입·입원 인정</text><rect x="330" y="322" width="257" height="26" rx="4" fill="#fbbc04"/><text x="597" y="341" font-weight="700">75만원</text>
+</g>
+<text x="40" y="410" font-size="15" fill="#5f6368">표: 실손 표준약관 세대별 자기부담 정리 · 금액은 시세가 아닌 계산용 예시</text></svg>
