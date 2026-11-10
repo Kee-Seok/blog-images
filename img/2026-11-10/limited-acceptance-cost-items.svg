@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="560" fill="#fbfaf7"/>
+<text x="40" y="60" font-size="30" font-weight="700" fill="#202124">한정승인 비용, 어디에 얼마를 내나</text>
+<text x="40" y="96" font-size="18" fill="#5f6368">법원에 내는 돈과 법원 밖에서 드는 돈은 따로 셉니다</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="130" width="440" height="110" rx="14" fill="#e8f0fe"/><text x="64" y="172" font-weight="700">① 인지(법원 수수료)</text><text x="64" y="212">심판 청구 1건당 5,000원</text>
+<rect x="520" y="130" width="440" height="110" rx="14" fill="#e8f0fe"/><text x="544" y="172" font-weight="700">② 송달료</text><text x="544" y="212">1회 5,640원 × 당사자 수 × 회분</text>
+<rect x="40" y="270" width="440" height="110" rx="14" fill="#fef7e0"/><text x="64" y="312" font-weight="700">③ 채권자 공고</text><text x="64" y="352">수리 후 5일 안에, 2개월 이상</text>
+<rect x="520" y="270" width="440" height="110" rx="14" fill="#fef7e0"/><text x="544" y="312" font-weight="700">④ 대행을 맡기면</text><text x="544" y="352">사무소마다 다름(법정 금액 없음)</text>
+</g>
+<text x="40" y="430" font-size="19" fill="#1a73e8" font-weight="700">파란 칸 = 법원에 내는 돈 · 노란 칸 = 법원 밖에서 드는 돈</text>
+<text x="40" y="520" font-size="16" fill="#80868b">가사소송수수료규칙 제3조 · 대전고등법원 1회 송달료 변경 안내(2026.7.1.) · 민법 제1032조 (2026년 11월 10일 확인)</text>
+</svg>
