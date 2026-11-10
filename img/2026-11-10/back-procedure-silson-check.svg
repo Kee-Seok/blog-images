@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif"><rect width="800" height="420" fill="#ffffff"/>
+<text x="40" y="44" font-size="24" font-weight="700" fill="#202124">허리 시술 실비 청구 전, 세 가지만 확인</text>
+<g font-size="17" fill="#202124">
+<rect x="40" y="80" width="720" height="80" rx="12" fill="#e8f0fe"/><text x="64" y="114" font-weight="700">① 실손 가입일 → 세대</text><text x="64" y="142" font-size="15">2017.4~2021.6 3세대 · 2021.7~2026.5.5 4세대 · 2026.5.6~ 5세대</text>
+<rect x="40" y="180" width="720" height="80" rx="12" fill="#fce8e6"/><text x="64" y="214" font-weight="700">② 영수증 칸 → 급여인가 비급여인가</text><text x="64" y="242" font-size="15">신경주사는 급여 칸이 많고, 신경성형술은 지금 비급여 칸</text>
+<rect x="40" y="280" width="720" height="80" rx="12" fill="#e6f4ea"/><text x="64" y="314" font-weight="700">③ 입원인가 통원인가</text><text x="64" y="342" font-size="15">4세대 비급여 통원은 한 번 20만원까지 · 입원이면 70% 보상</text>
+</g>
+<text x="40" y="395" font-size="14" fill="#5f6368">표: 실손 표준약관·금융위 5세대 발표 정리 (2026년 11월)</text></svg>
