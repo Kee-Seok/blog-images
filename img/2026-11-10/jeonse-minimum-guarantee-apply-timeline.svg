@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">전세사기 최소보장제 신청, 날짜 순서</text>
+<g font-size="19" fill="#202124">
+<rect x="60" y="80" width="680" height="64" rx="10" fill="#f3f8ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="84" y="120" font-weight="700" fill="#1a73e8">11월 10일</text><text x="220" y="120">LH 청약플러스 온라인 사전 신청 시작</text>
+<rect x="60" y="160" width="680" height="64" rx="10" fill="#f3f8ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="84" y="200" font-weight="700" fill="#1a73e8">11월 13일</text><text x="220" y="200">제도 시행 · LH 지역본부 현장 신청</text>
+<rect x="60" y="240" width="680" height="64" rx="10" fill="#fff8e1" stroke="#fbc400" stroke-width="2"/>
+<text x="84" y="280" font-weight="700" fill="#b06000">90일 안</text><text x="220" y="280">LH가 지급 여부 결정·통지 (보완 시 30일 연장)</text>
+<rect x="60" y="320" width="680" height="64" rx="10" fill="#fce8e6" stroke="#d93025" stroke-width="2"/>
+<text x="84" y="360" font-weight="700" fill="#d93025">통지 후 30일</text><text x="240" y="360">결정이 이상하면 LH에 이의신청</text>
+</g>
+<text x="400" y="430" text-anchor="middle" font-size="16" fill="#5f6368">출처: 국토교통부 2026년 11월 9일 발표(파이낸셜뉴스·파이낸셜신문 보도)</text>
+</svg>
