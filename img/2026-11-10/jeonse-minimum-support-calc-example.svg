@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">최소지원금 = 보증금의 3분의 1 − 이미 돌려받은 돈</text>
+<text x="400" y="78" text-anchor="middle" font-size="18" fill="#5f6368">국토교통부 예시 · 보증금 1억 5천만원</text>
+<rect x="60" y="110" width="680" height="54" rx="8" fill="#e8eaed"/>
+<text x="400" y="145" text-anchor="middle" font-size="20" fill="#202124">보증금 1억 5천만원</text>
+<rect x="60" y="190" width="227" height="54" rx="8" fill="#1a73e8"/>
+<text x="173" y="225" text-anchor="middle" font-size="19" font-weight="700" fill="#ffffff">3분의 1 = 5천만원</text>
+<text x="300" y="225" font-size="18" fill="#202124">← 나라가 보장하는 선</text>
+<rect x="60" y="280" width="91" height="54" rx="8" fill="#5f6368"/>
+<rect x="151" y="280" width="45" height="54" rx="8" fill="#80868b"/>
+<rect x="196" y="280" width="91" height="54" rx="8" fill="#fbc400"/>
+<text x="105" y="364" text-anchor="middle" font-size="16" fill="#202124">배당 2천만</text>
+<text x="173" y="390" text-anchor="middle" font-size="16" fill="#202124">경매차익 1천만</text>
+<text x="241" y="364" text-anchor="middle" font-size="16" font-weight="700" fill="#b06000">최소지원금 2천만</text>
+<text x="320" y="315" font-size="18" fill="#202124">돌려받은 3천만원 + 나라가 채우는 2천만원</text>
+<text x="400" y="436" text-anchor="middle" font-size="16" fill="#5f6368">출처: 국토교통부 특별법 시행령 개정안 설명(2026년 10월 보도)</text>
+</svg>
