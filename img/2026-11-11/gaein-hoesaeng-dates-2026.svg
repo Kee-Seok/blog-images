@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="440" fill="#fffdf7"/>
+<text x="40" y="58" font-size="30" font-weight="700" fill="#202124">개인회생 서류 일괄 발급, 날짜 순서</text>
+<text x="40" y="94" font-size="18" fill="#5f6368">신용회복위원회·대한법률구조공단·법무부·금융위원회 협약</text>
+<line x1="110" y1="220" x2="890" y2="220" stroke="#dadce0" stroke-width="6"/>
+<circle cx="150" cy="220" r="18" fill="#1a73e8"/><circle cx="500" cy="220" r="18" fill="#fbbc04"/><circle cx="850" cy="220" r="18" fill="#34a853"/>
+<g font-size="22" fill="#202124" text-anchor="middle">
+<text x="150" y="180" font-weight="700">11월 3일</text><text x="150" y="275">협약 체결</text>
+<text x="500" y="180" font-weight="700">12월 3일</text><text x="500" y="275">업무 연계 시작</text><text x="500" y="305" font-size="18" fill="#5f6368">신복위가 서류 17종 발급</text>
+<text x="850" y="180" font-weight="700">법원 심리</text><text x="850" y="275">12개월 → 약 6개월</text><text x="850" y="305" font-size="18" fill="#5f6368">정부 기대치</text>
+</g>
+<text x="40" y="410" font-size="15" fill="#80868b">법률신문 2026년 11월 3일 보도 기준</text>
+</svg>
