@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">클로드로 만든 페이지, 돈이 드는 칸</text>
+<g font-size="19" fill="#202124">
+<rect x="40" y="76" width="720" height="70" rx="12" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="64" y="118" font-weight="700">올려 두는 곳(GitHub Pages)</text><text x="736" y="118" text-anchor="end" font-weight="700" fill="#1e8e3e">0원 · 공개 저장소</text>
+<rect x="40" y="160" width="720" height="70" rx="12" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="64" y="202" font-weight="700">주소(아이디.github.io/이름)</text><text x="736" y="202" text-anchor="end" font-weight="700" fill="#1e8e3e">0원</text>
+<rect x="40" y="244" width="720" height="70" rx="12" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/>
+<text x="64" y="286" font-weight="700">클로드 구독(만들고 고치는 쪽)</text><text x="736" y="286" text-anchor="end" font-weight="700" fill="#b06000">이미 쓰는 요금제 안에서</text>
+<rect x="40" y="328" width="720" height="70" rx="12" fill="#fce8e6" stroke="#d93025" stroke-width="2"/>
+<text x="64" y="370" font-weight="700">내 도메인(○○.com)</text><text x="736" y="370" text-anchor="end" font-weight="700" fill="#d93025">붙일 때만 따로 결제</text>
+</g></svg>
