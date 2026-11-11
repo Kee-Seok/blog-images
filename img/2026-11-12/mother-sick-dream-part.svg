@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="300" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">아픈 곳이 어디였나요?</text>
+<g font-size="20" fill="#202124">
+<rect x="30" y="80" width="230" height="180" rx="14" fill="#f3f8ff" stroke="#1a73e8"/>
+<text x="145" y="125" text-anchor="middle" font-weight="700">머리</text>
+<text x="145" y="170" text-anchor="middle">고민이 많은 때</text>
+<text x="145" y="200" text-anchor="middle">결정을 서두르지 말기</text>
+<rect x="285" y="80" width="230" height="180" rx="14" fill="#f3f8ff" stroke="#1a73e8"/>
+<text x="400" y="125" text-anchor="middle" font-weight="700">다리·허리</text>
+<text x="400" y="170" text-anchor="middle">하던 일이 잠시</text>
+<text x="400" y="200" text-anchor="middle">더디게 가는 때</text>
+<rect x="540" y="80" width="230" height="180" rx="14" fill="#f3f8ff" stroke="#1a73e8"/>
+<text x="655" y="125" text-anchor="middle" font-weight="700">가슴·배</text>
+<text x="655" y="170" text-anchor="middle">가족 사이 마음을</text>
+<text x="655" y="200" text-anchor="middle">살필 때</text>
+</g></svg>
