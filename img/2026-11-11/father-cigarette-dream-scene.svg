@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="520" fill="#f7f5ff"/>
+<text x="40" y="60" font-size="30" font-weight="700" fill="#202124">아버지가 담배를 어떻게 건네셨나</text>
+<text x="40" y="96" font-size="18" fill="#5f6368">전통 해몽에서 흔히 보는 풀이 · 단정이 아닌 해석</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="125" width="450" height="160" rx="16" fill="#e8f0fe"/>
+<text x="66" y="170" font-size="24" font-weight="700">한 개비를 손에 쥐여 주심</text>
+<text x="66" y="212">도와줄 사람·작은 기회가 옴</text>
+<text x="66" y="250" fill="#1967d2" font-weight="700">반가운 쪽</text>
+<rect x="510" y="125" width="450" height="160" rx="16" fill="#e6f4ea"/>
+<text x="536" y="170" font-size="24" font-weight="700">불까지 붙여 주심</text>
+<text x="536" y="212">막힌 일이 풀리는 계기</text>
+<text x="536" y="250" fill="#137333" font-weight="700">가장 반가운 쪽</text>
+<rect x="40" y="305" width="450" height="160" rx="16" fill="#fef7e0"/>
+<text x="66" y="350" font-size="24" font-weight="700">한 갑을 통째로 주심</text>
+<text x="66" y="392">맡을 일·권한이 커짐</text>
+<text x="66" y="430" fill="#b06000" font-weight="700">책임도 함께</text>
+<rect x="510" y="305" width="450" height="160" rx="16" fill="#fce8e6"/>
+<text x="536" y="350" font-size="24" font-weight="700">주시고 말없이 떠나심</text>
+<text x="536" y="392">그리움·마음 정리가 남음</text>
+<text x="536" y="430" fill="#c5221f" font-weight="700">기일·안부 챙길 때</text>
+</g></svg>
