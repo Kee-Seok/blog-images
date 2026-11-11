@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">주간한도 다 썼을 때, 4칸 순서</text>
+<g font-size="18" fill="#202124" text-anchor="middle">
+<rect x="20" y="80" width="175" height="210" rx="14" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/><text x="107" y="120" font-weight="700" font-size="20">① 확인</text><text x="107" y="160">/usage 로</text><text x="107" y="188">Current week와</text><text x="107" y="216">Resets 시각</text>
+<rect x="215" y="80" width="175" height="210" rx="14" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/><text x="302" y="120" font-weight="700" font-size="20">② 나누기</text><text x="302" y="160">예약 작업 몫과</text><text x="302" y="188">대화창 몫을</text><text x="302" y="216">따로 보기</text>
+<rect x="410" y="80" width="175" height="210" rx="14" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/><text x="497" y="120" font-weight="700" font-size="20">③ 줄이기</text><text x="497" y="160">돈 안 되는</text><text x="497" y="188">예약은 끄거나</text><text x="497" y="216">이틀에 한 번</text>
+<rect x="605" y="80" width="175" height="210" rx="14" fill="#fef7e0" stroke="#f9ab00" stroke-width="2"/><text x="692" y="120" font-weight="700" font-size="20">④ 규칙</text><text x="692" y="160">화면 대신 글자,</text><text x="692" y="188">덤프 금지를</text><text x="692" y="216">지시 파일에</text>
+</g>
+<text x="400" y="340" text-anchor="middle" font-size="16" fill="#5f6368">Claude Code 2.1.201 기준 · 크라우드의 코드리뷰</text>
+</svg>
