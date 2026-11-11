@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 540" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="540" fill="#f6fbf4"/>
+<text x="40" y="62" font-size="30" font-weight="700" fill="#202124">배나무 보상, 나이 7년에서 갈리는 두 길</text>
+<text x="40" y="98" font-size="18" fill="#5f6368">지장물인 과수 기준 (토지보상법 시행규칙 제37조·별표 2)</text>
+<g font-size="22" fill="#202124">
+<rect x="40" y="130" width="440" height="310" rx="16" fill="#e6f4ea"/>
+<text x="68" y="178" font-size="26" font-weight="700">7년 이하: 옮기는 나무</text>
+<text x="68" y="228">이전비 (옮기는 비용)</text>
+<text x="68" y="274">+ 고손액 (죽을 몫 10% 이하)</text>
+<text x="68" y="320">+ 감수액 (수확 감소)</text>
+<text x="68" y="362" font-size="18" fill="#5f6368">1년차 100% · 2년차 80% · 3년차 40%</text>
+<text x="68" y="412" font-size="24" font-weight="700" fill="#137333">수입 2.2년치가 감수액</text>
+<rect x="520" y="130" width="440" height="310" rx="16" fill="#fff3e0"/>
+<text x="548" y="178" font-size="26" font-weight="700">8년 이상: 나무값</text>
+<text x="548" y="228">거래사례가 있으면 비교</text>
+<text x="548" y="274">없으면 아래 넷을 보고 평가</text>
+<text x="548" y="320">심은 상태 · 나무 힘</text>
+<text x="548" y="362">남은 수확 연수 · 수익성</text>
+<text x="548" y="412" font-size="24" font-weight="700" fill="#b06000">벌채비는 사업시행자 부담</text>
+</g>
+<text x="40" y="486" font-size="19" fill="#202124">옮겨 심기 좋은 때는 2월 하순~3월 하순, 11월. 다른 때면 고손액이 2배 이내로 늘 수 있어요.</text>
+<text x="40" y="516" font-size="17" fill="#5f6368">국가법령정보센터, 2026-11-11 확인</text>
+</svg>
