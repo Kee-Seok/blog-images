@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 540" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="540" fill="#fffdf6"/>
+<text x="40" y="62" font-size="30" font-weight="700" fill="#202124">같은 3,000만원, 조정이냐 소송이냐</text>
+<text x="40" y="98" font-size="18" fill="#5f6368">법원에 처음 내는 돈 비교 (원고 1명, 피고 1명)</text>
+<g font-size="22" fill="#202124">
+<rect x="40" y="130" width="440" height="300" rx="16" fill="#e6f4ea"/>
+<text x="68" y="178" font-size="26" font-weight="700">민사조정 신청</text>
+<text x="68" y="226">수수료 14,000원</text><text x="68" y="262" font-size="18" fill="#5f6368">소장 인지액의 10분의 1</text>
+<text x="68" y="308">송달료 56,400원</text><text x="68" y="344" font-size="18" fill="#5f6368">5,640원 × 2명 × 5회분</text>
+<text x="68" y="400" font-size="28" font-weight="700" fill="#137333">합계 70,400원</text>
+<rect x="520" y="130" width="440" height="300" rx="16" fill="#e8f0fe"/>
+<text x="548" y="178" font-size="26" font-weight="700">소액사건 소송(전자)</text>
+<text x="548" y="226">인지대 126,000원</text><text x="548" y="262" font-size="18" fill="#5f6368">140,000원의 10분의 9</text>
+<text x="548" y="308">송달료 112,800원</text><text x="548" y="344" font-size="18" fill="#5f6368">5,640원 × 2명 × 10회분</text>
+<text x="548" y="400" font-size="28" font-weight="700" fill="#1a73e8">합계 238,800원</text>
+</g>
+<text x="40" y="480" font-size="19" fill="#202124">조정이 깨지면 소송으로 넘어가고, 그때 모자란 인지대를 더 냅니다.</text>
+<text x="40" y="512" font-size="17" fill="#5f6368">민사조정규칙 제3조 · 송달료규칙의 시행에 따른 업무처리요령 별표 1</text>
+</svg>
