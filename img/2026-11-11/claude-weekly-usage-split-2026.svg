@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="sans-serif">
+<rect width="800" height="360" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">주간 사용량은 어디로 갔나 (11/3~10)</text>
+<rect x="60" y="100" width="680" height="70" rx="10" fill="#e8eaed"/>
+<rect x="60" y="100" width="598" height="70" rx="10" fill="#d93025"/>
+<rect x="658" y="100" width="82" height="70" fill="#1a73e8"/>
+<text x="330" y="145" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">직접 대화 약 88%</text>
+<text x="699" y="145" text-anchor="middle" font-size="22" font-weight="700" fill="#ffffff">12%</text>
+<g font-size="19" fill="#202124">
+<text x="60" y="220">· 예약 작업 40여 개를 모두 합쳐도 약 12%</text>
+<text x="60" y="255">· 그중 인스타 카드 작업은 0.6%</text>
+<text x="60" y="290">· 나머지는 사람이 대화창에서 시킨 일</text>
+</g>
+<text x="400" y="335" text-anchor="middle" font-size="15" fill="#5f6368">크라우드의 코드리뷰 계정 실측 · 2026년 11월</text>
+</svg>
