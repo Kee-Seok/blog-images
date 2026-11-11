@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="600" fill="#f6f9ff"/>
+<text x="40" y="62" font-size="30" font-weight="700" fill="#202124">청구 금액별로 법원에 먼저 내는 돈</text>
+<text x="40" y="98" font-size="18" fill="#5f6368">전자소송 · 원고 1명, 피고 1명 · 송달료 1회 5,640원 기준</text>
+<g font-size="22" fill="#202124">
+<rect x="40" y="130" width="920" height="56" fill="#1a73e8"/>
+<text x="70" y="166" fill="#ffffff" font-weight="700">청구 금액</text><text x="330" y="166" fill="#ffffff" font-weight="700">인지대</text><text x="560" y="166" fill="#ffffff" font-weight="700">송달료</text><text x="790" y="166" fill="#ffffff" font-weight="700">합계</text>
+<rect x="40" y="186" width="920" height="70" fill="#ffffff"/><text x="70" y="230">500만원</text><text x="330" y="230">22,500원</text><text x="560" y="230">112,800원</text><text x="790" y="230" font-weight="700">135,300원</text>
+<rect x="40" y="256" width="920" height="70" fill="#eef3fb"/><text x="70" y="300">1,000만원</text><text x="330" y="300">45,000원</text><text x="560" y="300">112,800원</text><text x="790" y="300" font-weight="700">157,800원</text>
+<rect x="40" y="326" width="920" height="70" fill="#fff3c4"/><text x="70" y="370" font-weight="700">3,000만원</text><text x="330" y="370">126,000원</text><text x="560" y="370">112,800원</text><text x="790" y="370" font-weight="700">238,800원</text>
+<rect x="40" y="396" width="920" height="70" fill="#ffffff"/><text x="70" y="440">5,000만원</text><text x="330" y="440">207,000원</text><text x="560" y="440">169,200원</text><text x="790" y="440" font-weight="700">376,200원</text>
+<rect x="40" y="466" width="920" height="70" fill="#eef3fb"/><text x="70" y="510">1억원</text><text x="330" y="510">409,500원</text><text x="560" y="510">169,200원</text><text x="790" y="510" font-weight="700">578,700원</text>
+</g>
+<text x="40" y="574" font-size="17" fill="#5f6368">3,000만원까지는 소액사건(송달료 10회분), 넘으면 15회분 · 민사소송 등 인지법 제2조·제16조</text>
+</svg>
