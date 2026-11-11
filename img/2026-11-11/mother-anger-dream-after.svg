@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="420" fill="#f7f9fc"/>
+<text x="40" y="60" font-size="30" font-weight="700" fill="#202124">꿈이 끝날 때 내 마음은 어땠나</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="95" width="290" height="280" rx="16" fill="#e6f4ea"/>
+<text x="64" y="145" font-size="24" font-weight="700">후련했다</text>
+<text x="64" y="190">막힌 일이</text><text x="64" y="222">뚫리는 계기</text>
+<text x="64" y="330" fill="#137333" font-weight="700">좋은 쪽</text>
+<rect x="355" y="95" width="290" height="280" rx="16" fill="#e8f0fe"/>
+<text x="379" y="145" font-size="24" font-weight="700">울며 사과했다</text>
+<text x="379" y="190">미안한 마음이</text><text x="379" y="222">정리되는 중</text>
+<text x="379" y="330" fill="#1967d2" font-weight="700">회복의 꿈</text>
+<rect x="670" y="95" width="290" height="280" rx="16" fill="#fef7e0"/>
+<text x="694" y="145" font-size="24" font-weight="700">미안해서 깼다</text>
+<text x="694" y="190">생전 다툼이</text><text x="694" y="222">마음에 남음</text>
+<text x="694" y="330" fill="#b06000" font-weight="700">흉몽 아님</text>
+</g></svg>
