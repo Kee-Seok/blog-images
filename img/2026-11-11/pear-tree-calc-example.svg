@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="500" fill="#fffdf6"/>
+<text x="40" y="62" font-size="30" font-weight="700" fill="#202124">6년생 배나무 1그루, 계산 따라가기</text>
+<text x="40" y="98" font-size="18" fill="#5f6368">가정값: 나무값 40만원 · 이전비 5만원 · 1년 수입 10만원 (실제 금액은 감정평가로 정합니다)</text>
+<g font-size="24" fill="#202124">
+<rect x="40" y="126" width="920" height="66" rx="12" fill="#e8f0fe"/><text x="66" y="168">이전비</text><text x="934" y="168" text-anchor="end">50,000원</text>
+<rect x="40" y="202" width="920" height="66" rx="12" fill="#e8f0fe"/><text x="66" y="244">고손액 400,000원 × 10%</text><text x="934" y="244" text-anchor="end">40,000원</text>
+<rect x="40" y="278" width="920" height="66" rx="12" fill="#e8f0fe"/><text x="66" y="320">감수액 100,000원 × (100+80+40)%</text><text x="934" y="320" text-anchor="end">220,000원</text>
+<rect x="40" y="354" width="920" height="72" rx="12" fill="#e6f4ea"/><text x="66" y="400" font-size="27" font-weight="700">합계 (옮기기 좋은 철)</text><text x="934" y="400" text-anchor="end" font-size="27" font-weight="700" fill="#137333">310,000원</text>
+</g>
+<text x="40" y="472" font-size="19" fill="#202124">20그루면 620만원. 철이 아니어서 고손액을 2배로 잡으면 1그루 35만원, 20그루 700만원입니다.</text>
+</svg>
