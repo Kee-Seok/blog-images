@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="380" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">줍는 꿈 · 잡는 꿈 · 많은 꿈 차이</text>
+<g font-size="21" fill="#202124" text-anchor="middle">
+<rect x="30" y="80" width="230" height="270" rx="16" fill="#e6f4ea"/><text x="145" y="125" font-weight="700" font-size="24">줍는 꿈</text><text x="145" y="180">애쓰지 않고</text><text x="145" y="212">들어오는 몫</text><text x="145" y="270">뜻밖의 돈·</text><text x="145" y="302">소식</text>
+<rect x="285" y="80" width="230" height="270" rx="16" fill="#e8f0fe"/><text x="400" y="125" font-weight="700" font-size="24">잡는 꿈</text><text x="400" y="180">내 손으로</text><text x="400" y="212">얻어 내는 결과</text><text x="400" y="270">노력의 보상·</text><text x="400" y="302">태몽으로도</text>
+<rect x="540" y="80" width="230" height="270" rx="16" fill="#fff8e1"/><text x="655" y="125" font-weight="700" font-size="24">많은 꿈</text><text x="655" y="180">눈앞에 펼쳐진</text><text x="655" y="212">기회의 크기</text><text x="655" y="270">어디 모였는지로</text><text x="655" y="302">풀이가 바뀜</text>
+</g></svg>
