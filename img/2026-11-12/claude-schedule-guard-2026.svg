@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+<rect width="800" height="380" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">늦게 돈 회차가 사고 치지 않게 — 지시서 첫 줄</text>
+<g font-size="19" font-weight="700">
+<rect x="40" y="80" width="220" height="90" rx="12" fill="#e8f0fe"/><text x="150" y="118" text-anchor="middle" fill="#1a73e8">① 지금 몇 시?</text><text x="150" y="148" text-anchor="middle" font-size="15" font-weight="400" fill="#202124">date 로 시각 확인</text>
+<rect x="290" y="80" width="220" height="90" rx="12" fill="#fef7e0"/><text x="400" y="118" text-anchor="middle" fill="#b06000">② 오늘 이미 했나?</text><text x="400" y="148" text-anchor="middle" font-size="15" font-weight="400" fill="#202124">발행 목록·기록 파일 확인</text>
+<rect x="540" y="80" width="220" height="90" rx="12" fill="#e6f4ea"/><text x="650" y="118" text-anchor="middle" fill="#137333">③ 그때만 작업</text><text x="650" y="148" text-anchor="middle" font-size="15" font-weight="400" fill="#202124">아니면 한 줄 보고 후 끝</text>
+</g>
+<g stroke="#5f6368" stroke-width="3"><line x1="262" y1="125" x2="286" y2="125"/><line x1="512" y1="125" x2="536" y2="125"/></g>
+<g font-size="18" fill="#202124">
+<text x="60" y="230">· 9시 작업이 잠자기 때문에 밤에 돌아도 같은 글이 두 번 안 올라간다</text>
+<text x="60" y="268">· 이 블로그 예약 작업도 "오늘 이미 올라갔으면 쓰지 말고 끝"이 들어 있다</text>
+<text x="60" y="306">· 시각을 바꾼 날 빠진 회차는 한 번짜리 보충 작업으로 메운다</text>
+</g>
+<text x="400" y="355" text-anchor="middle" font-size="14" fill="#5f6368">크라우드의 코드리뷰 · 실제 예약 작업 지시서에서</text>
+</svg>
