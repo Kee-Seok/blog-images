@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">예약 작업 시간표 (이 계정, 2026년 11월)</text>
+<line x1="60" y1="120" x2="740" y2="120" stroke="#5f6368" stroke-width="3"/>
+<g font-size="15" fill="#5f6368" text-anchor="middle">
+<text x="60" y="150">05시</text><text x="230" y="150">09시</text><text x="400" y="150">13시</text><text x="570" y="150">17시</text><text x="740" y="150">24시</text>
+</g>
+<g fill="#1a73e8"><circle cx="90" cy="120" r="8"/><circle cx="145" cy="120" r="8"/><circle cx="187" cy="120" r="8"/><circle cx="230" cy="120" r="9" fill="#d93025"/><circle cx="273" cy="120" r="8"/><circle cx="315" cy="120" r="8"/><circle cx="358" cy="120" r="8"/><circle cx="443" cy="120" r="8"/><circle cx="528" cy="120" r="8"/><circle cx="613" cy="120" r="8"/><circle cx="697" cy="120" r="8"/></g>
+<text x="230" y="95" text-anchor="middle" font-size="16" font-weight="700" fill="#d93025">09:00 → 실제 09:01</text>
+<g font-size="18" fill="#202124">
+<text x="60" y="210">· 매일·격일·주간 반복 작업 19개를 새벽 5시대~밤 11시대에 흩어 둠</text>
+<text x="60" y="248">· 같은 브라우저를 쓰는 발행 작업끼리는 1시간 넘게 띄움</text>
+<text x="60" y="286">· 정각에 걸어도 작업마다 몇 분씩 늦게, 매번 같은 만큼 늦게 시작</text>
+<text x="60" y="324">· 맥이 잠든 동안의 회차는 건너뛰고, 깨면 가장 최근 1회만 돈다</text>
+</g>
+<text x="400" y="380" text-anchor="middle" font-size="14" fill="#5f6368">크라우드의 코드리뷰 · 예약 목록과 Claude Code 공식 문서(2026-11-12 확인)</text>
+</svg>
