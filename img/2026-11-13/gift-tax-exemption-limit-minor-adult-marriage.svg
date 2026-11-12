@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">부모에게 받을 때 10년 증여세 면제한도</text>
+<text x="40" y="100" font-size="21" fill="#202124">미성년 자녀</text>
+<rect x="240" y="76" width="56" height="40" rx="6" fill="#1a73e8"/><text x="310" y="104" font-size="21" font-weight="700" fill="#202124">2,000만원</text>
+<text x="40" y="170" font-size="21" fill="#202124">성인 자녀</text>
+<rect x="240" y="146" width="140" height="40" rx="6" fill="#1a73e8"/><text x="394" y="174" font-size="21" font-weight="700" fill="#202124">5,000만원</text>
+<text x="40" y="240" font-size="21" fill="#202124">성인 자녀 +</text><text x="40" y="266" font-size="21" fill="#202124">혼인·출산 공제</text>
+<rect x="240" y="226" width="140" height="40" rx="6" fill="#1a73e8"/><rect x="380" y="226" width="280" height="40" rx="6" fill="#f4b400"/><text x="674" y="254" font-size="21" font-weight="700" fill="#202124">1억5,000만원</text>
+<rect x="40" y="310" width="720" height="130" rx="12" fill="#fff8d6"/>
+<text x="60" y="348" font-size="19" fill="#202124">· 혼인: 혼인신고일 전후 2년 안 / 출산: 출생일부터 2년 안</text>
+<text x="60" y="384" font-size="19" fill="#202124">· 혼인·출산 공제는 둘을 합쳐 1억원까지</text>
+<text x="60" y="420" font-size="19" fill="#202124">· 2024년 1월 1일 이후 받은 돈부터 적용</text>
+</svg>
