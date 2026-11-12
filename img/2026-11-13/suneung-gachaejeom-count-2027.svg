@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">가채점표에 옮길 답, 영역별 문항 수</text>
+<g font-size="21" fill="#202124">
+<rect x="100" y="72" width="600" height="46" fill="#1a73e8"/>
+<text x="250" y="103" text-anchor="middle" fill="#ffffff" font-weight="700">교시·영역</text>
+<text x="550" y="103" text-anchor="middle" fill="#ffffff" font-weight="700">문항 수</text>
+<rect x="100" y="118" width="600" height="46" fill="#f8f9fa"/><text x="250" y="149" text-anchor="middle">1교시 국어</text><text x="550" y="149" text-anchor="middle">45문항</text>
+<rect x="100" y="164" width="600" height="46" fill="#ffffff"/><text x="250" y="195" text-anchor="middle">2교시 수학</text><text x="550" y="195" text-anchor="middle">30문항 (단답형 포함)</text>
+<rect x="100" y="210" width="600" height="46" fill="#f8f9fa"/><text x="250" y="241" text-anchor="middle">3교시 영어</text><text x="550" y="241" text-anchor="middle">45문항</text>
+<rect x="100" y="256" width="600" height="46" fill="#ffffff"/><text x="250" y="287" text-anchor="middle">4교시 한국사</text><text x="550" y="287" text-anchor="middle">20문항</text>
+<rect x="100" y="302" width="600" height="46" fill="#f8f9fa"/><text x="250" y="333" text-anchor="middle">4교시 탐구</text><text x="550" y="333" text-anchor="middle">과목당 20문항</text>
+<rect x="100" y="348" width="600" height="46" fill="#ffffff"/><text x="250" y="379" text-anchor="middle">5교시 제2외국어/한문</text><text x="550" y="379" text-anchor="middle">30문항</text>
+<rect x="100" y="72" width="600" height="322" fill="none" stroke="#dadce0"/>
+</g>
+<text x="400" y="425" text-anchor="middle" font-size="16" fill="#5f6368">수학 단답형은 숫자 답을 그대로 옮겨 적어요</text>
+</svg>
