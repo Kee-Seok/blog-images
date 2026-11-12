@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">증여세 10년 합산 계산 예시 (성인 자녀)</text>
+<rect x="40" y="80" width="220" height="90" rx="12" fill="#e8f0fe"/><text x="150" y="118" text-anchor="middle" font-size="20" fill="#202124">2020년 아버지</text><text x="150" y="152" text-anchor="middle" font-size="26" font-weight="700" fill="#1a73e8">3,000만원</text>
+<text x="290" y="135" text-anchor="middle" font-size="34" fill="#5f6368">+</text>
+<rect x="320" y="80" width="220" height="90" rx="12" fill="#e8f0fe"/><text x="430" y="118" text-anchor="middle" font-size="20" fill="#202124">2026년 어머니</text><text x="430" y="152" text-anchor="middle" font-size="26" font-weight="700" fill="#1a73e8">5,000만원</text>
+<text x="570" y="135" text-anchor="middle" font-size="34" fill="#5f6368">=</text>
+<rect x="600" y="80" width="160" height="90" rx="12" fill="#fff8d6"/><text x="680" y="118" text-anchor="middle" font-size="20" fill="#202124">합산</text><text x="680" y="152" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">8,000만원</text>
+<text x="400" y="215" text-anchor="middle" font-size="19" fill="#5f6368">부모는 한 사람으로 봐서 10년 안 증여를 더해요</text>
+<rect x="40" y="240" width="720" height="56" rx="10" fill="#f1f3f4"/><text x="60" y="276" font-size="21" fill="#202124">공제 5,000만원 빼기 → 과세표준 3,000만원</text>
+<rect x="40" y="306" width="720" height="56" rx="10" fill="#f1f3f4"/><text x="60" y="342" font-size="21" fill="#202124">1억원 이하 세율 10% → 300만원</text>
+<rect x="40" y="372" width="720" height="62" rx="10" fill="#1a73e8"/><text x="60" y="412" font-size="23" font-weight="700" fill="#ffffff">3개월 안 신고(3% 공제 9만원) → 291만원</text>
+</svg>
