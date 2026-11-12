@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="720" height="420" fill="#ffffff"/>
+<text x="360" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">본인부담금 환급금, 신청부터 입금까지</text>
+<g font-size="19" fill="#202124">
+<rect x="30" y="90" width="150" height="120" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="105" y="135" text-anchor="middle" font-weight="700">① 조회</text><text x="105" y="165" text-anchor="middle" font-size="16">누리집·앱</text><text x="105" y="188" text-anchor="middle" font-size="16">안내문 없어도 돼요</text>
+<rect x="205" y="90" width="150" height="120" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="280" y="135" text-anchor="middle" font-weight="700">② 신청</text><text x="280" y="165" text-anchor="middle" font-size="16">계좌 넣고 접수</text><text x="280" y="188" text-anchor="middle" font-size="16">우편·지사·1577-1000</text>
+<rect x="380" y="90" width="150" height="120" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="455" y="135" text-anchor="middle" font-weight="700">③ 지사 심사</text><text x="455" y="165" text-anchor="middle" font-size="16">공단 지사가</text><text x="455" y="188" text-anchor="middle" font-size="16">내역 확인</text>
+<rect x="555" y="90" width="140" height="120" rx="14" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="625" y="135" text-anchor="middle" font-weight="700">④ 입금</text><text x="625" y="165" text-anchor="middle" font-size="16">심사 끝난 다음 날</text><text x="625" y="188" text-anchor="middle" font-size="16">늦어도 7일 안</text>
+</g>
+<g fill="#5f6368"><polygon points="184,150 200,142 200,158"/><polygon points="359,150 375,142 375,158"/><polygon points="534,150 550,142 550,158"/></g>
+<rect x="30" y="250" width="665" height="130" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="362" y="292" text-anchor="middle" font-size="21" font-weight="700" fill="#202124">기한: 처음 안내문을 보낸 날부터 3년</text>
+<text x="362" y="326" text-anchor="middle" font-size="17" fill="#202124">3년 안에 신청하지 않으면 받을 권리가 사라져요(소멸시효)</text>
+<text x="362" y="356" text-anchor="middle" font-size="16" fill="#5f6368">출처: 국민건강보험공단 안내, 2026-11-11 보도</text>
+</svg>
