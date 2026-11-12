@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">잃어버린 뒤 장면으로 두 번째 나누기</text>
+<g font-size="20" fill="#202124">
+<rect x="30" y="86" width="235" height="270" rx="16" fill="#e6f4ea"/><text x="147" y="136" text-anchor="middle" font-weight="700" font-size="22">다시 찾았다</text><text x="147" y="206" text-anchor="middle">놓칠 뻔한 기회가</text><text x="147" y="240" text-anchor="middle">돌아오는 쪽</text>
+<rect x="283" y="86" width="235" height="270" rx="16" fill="#e8f0fe"/><text x="400" y="136" text-anchor="middle" font-weight="700" font-size="22">덤덤했다</text><text x="400" y="206" text-anchor="middle">마음의 짐을</text><text x="400" y="240" text-anchor="middle">벗는 쪽</text>
+<rect x="536" y="86" width="235" height="270" rx="16" fill="#fff8e1"/><text x="653" y="136" text-anchor="middle" font-weight="700" font-size="22">울며 찾아다녔다</text><text x="653" y="206" text-anchor="middle">돈 걱정이 크니</text><text x="653" y="240" text-anchor="middle">지출을 살피는 쪽</text>
+</g></svg>
