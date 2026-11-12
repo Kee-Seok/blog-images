@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">누가 때를 밀었는지로 먼저 갈라 보기</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="90" width="345" height="270" rx="18" fill="#e6f4ea"/><text x="212" y="140" text-anchor="middle" font-weight="700" font-size="24">엄마가 내 등을 밀어 주셨다</text><text x="212" y="205" text-anchor="middle">쌓인 근심을</text><text x="212" y="240" text-anchor="middle">엄마가 덜어 주시는 쪽</text><text x="212" y="305" text-anchor="middle" font-size="19" fill="#137333">몸이 가벼웠다면 더 반가워요</text>
+<rect x="415" y="90" width="345" height="270" rx="18" fill="#e8f0fe"/><text x="587" y="140" text-anchor="middle" font-weight="700" font-size="24">내가 엄마 등을 밀어 드렸다</text><text x="587" y="205" text-anchor="middle">못다 한 마음을</text><text x="587" y="240" text-anchor="middle">정리해 가는 쪽</text><text x="587" y="305" text-anchor="middle" font-size="19" fill="#1a56db">엄마가 웃으셨다면 편안한 꿈</text>
+</g></svg>
