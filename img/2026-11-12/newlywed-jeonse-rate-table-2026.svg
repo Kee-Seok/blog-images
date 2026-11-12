@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">신혼부부전용 전세자금 금리표 (2026-11-12 확인)</text>
+<text x="40" y="92" font-size="18" fill="#5f6368">가로 = 임차보증금, 세로 = 부부합산 연소득 · 지방 주택은 0.2%p 인하</text>
+<g font-size="21" fill="#202124">
+<rect x="40" y="112" width="920" height="54" fill="#e8f0fe"/>
+<text x="60" y="147" font-weight="700">연소득 \ 보증금</text><text x="420" y="147" text-anchor="middle" font-weight="700">5천 이하</text><text x="560" y="147" text-anchor="middle" font-weight="700">~1억</text><text x="700" y="147" text-anchor="middle" font-weight="700">~1.5억</text><text x="860" y="147" text-anchor="middle" font-weight="700">1.5억 초과</text>
+<text x="60" y="210">2천만원 이하</text><text x="420" y="210" text-anchor="middle">1.9%</text><text x="560" y="210" text-anchor="middle">2.0%</text><text x="700" y="210" text-anchor="middle">2.1%</text><text x="860" y="210" text-anchor="middle">2.2%</text>
+<rect x="40" y="232" width="920" height="54" fill="#f8f9fa"/>
+<text x="60" y="267">2천~4천만원</text><text x="420" y="267" text-anchor="middle">2.2%</text><text x="560" y="267" text-anchor="middle">2.3%</text><text x="700" y="267" text-anchor="middle">2.4%</text><text x="860" y="267" text-anchor="middle">2.5%</text>
+<text x="60" y="330">4천~6천만원</text><text x="420" y="330" text-anchor="middle">2.6%</text><text x="560" y="330" text-anchor="middle">2.7%</text><text x="700" y="330" text-anchor="middle">2.8%</text>
+<rect x="800" y="298" width="120" height="48" rx="10" fill="#fff3c4"/><text x="860" y="330" text-anchor="middle" font-weight="700">2.9%</text>
+<rect x="40" y="352" width="920" height="54" fill="#f8f9fa"/>
+<text x="60" y="387">6천~7.5천만원</text><text x="420" y="387" text-anchor="middle">3.0%</text><text x="560" y="387" text-anchor="middle">3.1%</text><text x="700" y="387" text-anchor="middle">3.2%</text><text x="860" y="387" text-anchor="middle">3.3%</text>
+</g>
+<text x="40" y="452" font-size="19" fill="#202124">자녀 우대: 1자녀 0.3%p · 2자녀 0.5%p · 다자녀 0.7%p 인하</text>
+<text x="40" y="484" font-size="19" fill="#202124">우대 합계 상한 0.5%p(다자녀 0.7%p), 최종 금리는 연 1.0% 아래로 내려가지 않음</text>
+<text x="40" y="530" font-size="16" fill="#5f6368">출처: 주택도시기금 신혼부부전용 전세자금 대출안내</text>
+</svg>
