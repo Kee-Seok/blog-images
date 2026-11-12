@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="720" height="400" fill="#ffffff"/>
+<text x="360" y="42" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">이름이 비슷한 건강보험 환급금 세 가지</text>
+<g font-size="17" fill="#202124">
+<rect x="25" y="75" width="210" height="290" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="130" y="112" text-anchor="middle" font-size="20" font-weight="700">본인부담금</text><text x="130" y="138" text-anchor="middle" font-size="20" font-weight="700">환급금</text>
+<text x="130" y="185" text-anchor="middle">병원·약국이</text><text x="130" y="210" text-anchor="middle">기준보다 더 받은</text><text x="130" y="235" text-anchor="middle">진료비</text>
+<text x="130" y="290" text-anchor="middle" font-size="15" fill="#5f6368">심평원 심사로 확인</text><text x="130" y="314" text-anchor="middle" font-size="15" fill="#5f6368">매달 안내</text>
+<rect x="255" y="75" width="210" height="290" rx="14" fill="#f3e8fd" stroke="#8430ce" stroke-width="2"/>
+<text x="360" y="112" text-anchor="middle" font-size="20" font-weight="700">본인부담상한제</text><text x="360" y="138" text-anchor="middle" font-size="20" font-weight="700">환급금</text>
+<text x="360" y="185" text-anchor="middle">1년 치 병원비가</text><text x="360" y="210" text-anchor="middle">내 상한액을</text><text x="360" y="235" text-anchor="middle">넘은 만큼</text>
+<text x="360" y="290" text-anchor="middle" font-size="15" fill="#5f6368">1년 치를 모아</text><text x="360" y="314" text-anchor="middle" font-size="15" fill="#5f6368">따로 안내</text>
+<rect x="485" y="75" width="210" height="290" rx="14" fill="#e6f4ea" stroke="#1e8e3e" stroke-width="2"/>
+<text x="590" y="112" text-anchor="middle" font-size="20" font-weight="700">건강보험료</text><text x="590" y="138" text-anchor="middle" font-size="20" font-weight="700">환급금</text>
+<text x="590" y="185" text-anchor="middle">보험료를 두 번</text><text x="590" y="210" text-anchor="middle">내거나 잘못</text><text x="590" y="235" text-anchor="middle">낸 돈</text>
+<text x="590" y="290" text-anchor="middle" font-size="15" fill="#5f6368">11월 말까지</text><text x="590" y="314" text-anchor="middle" font-size="15" fill="#5f6368">집중 지급 중</text>
+</g>
+</svg>
