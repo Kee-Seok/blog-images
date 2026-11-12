@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">아버지가 잡아가신 짐승, 세 갈래로 보기</text>
+<g font-size="20" fill="#202124">
+<rect x="30" y="85" width="235" height="280" rx="16" fill="#e6f4ea"/><text x="147" y="135" text-anchor="middle" font-weight="700" font-size="23">해로운 짐승</text><text x="147" y="185" text-anchor="middle">뱀 · 쥐 · 사나운 개</text><text x="147" y="250" text-anchor="middle">집안 근심을</text><text x="147" y="282" text-anchor="middle">덜어 가신 쪽</text>
+<rect x="283" y="85" width="235" height="280" rx="16" fill="#fff8e1"/><text x="400" y="135" text-anchor="middle" font-weight="700" font-size="23">키우던 가축</text><text x="400" y="185" text-anchor="middle">소 · 돼지 · 닭</text><text x="400" y="250" text-anchor="middle">돈 나갈 곳을</text><text x="400" y="282" text-anchor="middle">살펴보라는 쪽</text>
+<rect x="536" y="85" width="235" height="280" rx="16" fill="#e8f0fe"/><text x="653" y="135" text-anchor="middle" font-weight="700" font-size="23">정든 반려동물</text><text x="653" y="185" text-anchor="middle">강아지 · 고양이</text><text x="653" y="250" text-anchor="middle">마음 쓰던 일을</text><text x="653" y="282" text-anchor="middle">정리하는 쪽</text>
+</g></svg>
