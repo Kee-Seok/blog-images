@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">무엇을 잃어버렸는지로 먼저 나누기</text>
+<g font-size="19" fill="#202124">
+<rect x="24" y="80" width="180" height="300" rx="16" fill="#e6f4ea"/><text x="114" y="130" text-anchor="middle" font-weight="700" font-size="21">동전 몇 개</text><text x="114" y="210" text-anchor="middle">자잘한 근심이</text><text x="114" y="242" text-anchor="middle">떨어지는 쪽</text>
+<rect x="216" y="80" width="180" height="300" rx="16" fill="#e8f0fe"/><text x="306" y="130" text-anchor="middle" font-weight="700" font-size="21">지폐·돈뭉치</text><text x="306" y="210" text-anchor="middle">무겁던 부담을</text><text x="306" y="242" text-anchor="middle">내려놓는 쪽</text>
+<rect x="408" y="80" width="180" height="300" rx="16" fill="#fff8e1"/><text x="498" y="130" text-anchor="middle" font-weight="700" font-size="21">지갑·가방째</text><text x="498" y="210" text-anchor="middle">씀씀이·서류를</text><text x="498" y="242" text-anchor="middle">살피라는 쪽</text>
+<rect x="600" y="80" width="180" height="300" rx="16" fill="#fce8e6"/><text x="690" y="130" text-anchor="middle" font-weight="700" font-size="21">도둑맞았다</text><text x="690" y="210" text-anchor="middle">거꾸로 재물이</text><text x="690" y="242" text-anchor="middle">드는 쪽으로 봄</text>
+</g></svg>
