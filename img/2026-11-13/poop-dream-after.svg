@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="360" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">깬 뒤 기분으로 한 번 더 보기</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="84" width="340" height="230" rx="18" fill="#e6f4ea"/><text x="210" y="140" text-anchor="middle" font-weight="700" font-size="23">개운했다</text><text x="210" y="200" text-anchor="middle">막힌 일이 뚫리고</text><text x="210" y="234" text-anchor="middle">돈이 도는 길몽 쪽</text>
+<rect x="420" y="84" width="340" height="230" rx="18" fill="#fef7e0"/><text x="590" y="140" text-anchor="middle" font-weight="700" font-size="23">창피하고 찝찝했다</text><text x="590" y="200" text-anchor="middle">남 눈치·말실수를</text><text x="590" y="234" text-anchor="middle">조심하라는 쪽</text>
+</g></svg>
