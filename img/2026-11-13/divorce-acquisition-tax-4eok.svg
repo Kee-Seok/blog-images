@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 440" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="440" fill="#fffdf6"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">과세표준 4억 원 집, 등기원인 한 줄 차이</text>
+<text x="40" y="92" font-size="18" fill="#5f6368">취득세 본세만 계산 (지방교육세·농어촌특별세는 따로 붙음)</text>
+<g font-size="22" fill="#202124">
+<rect x="40" y="116" width="920" height="100" rx="12" fill="#e6f4ea"/>
+<text x="64" y="156" font-weight="700">등기원인 '재산분할'</text><text x="64" y="194">4억 × (3.5% − 2%) = 4억 × 1.5%</text><text x="934" y="194" text-anchor="end" font-weight="700" fill="#137333">600만원</text>
+<rect x="40" y="230" width="920" height="100" rx="12" fill="#fce8e6"/>
+<text x="64" y="270" font-weight="700">등기원인 '증여'</text><text x="64" y="308">4억 × 3.5% (무상취득 기본 세율)</text><text x="934" y="308" text-anchor="end" font-weight="700" fill="#c5221f">1,400만원</text>
+</g>
+<text x="40" y="378" font-size="22" font-weight="700" fill="#202124">차이 800만원 — 증여로 잡히면 증여세 문제까지 따라옵니다</text>
+<text x="40" y="414" font-size="18" fill="#202124">근거: 지방세법 제11조 제1항 제2호, 제15조 제1항 제6호</text>
+</svg>
