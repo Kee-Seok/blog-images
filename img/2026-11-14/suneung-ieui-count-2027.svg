@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">수능 이의신청 건수와 결과</text>
+<g font-size="19" fill="#202124">
+<text x="40" y="118">2025학년도 수능</text><rect x="230" y="96" width="176" height="32" rx="6" fill="#aecbfa"/><text x="420" y="120">342건</text>
+<text x="40" y="188">2026학년도 수능</text><rect x="230" y="166" width="347" height="32" rx="6" fill="#1a73e8"/><text x="590" y="190">675건</text>
+<text x="40" y="258">2027 9월 모평</text><rect x="230" y="236" width="79" height="32" rx="6" fill="#aecbfa"/><text x="322" y="260">154건</text>
+</g>
+<rect x="40" y="300" width="720" height="70" rx="12" fill="#e6f4ea" stroke="#188038"/>
+<text x="400" y="331" text-anchor="middle" font-size="18" fill="#202124">2026학년도 수능 51문항 · 9월 모평 68문항 심사</text>
+<text x="400" y="358" text-anchor="middle" font-size="18" font-weight="700" fill="#188038">모두 '문제·정답 이상 없음'</text>
+</svg>
