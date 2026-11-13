@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="40" y="56" font-size="28" font-weight="700" fill="#202124">경상(12~14급) 향후치료비, 계약 시작일로 갈려요</text>
+<rect x="40" y="90" width="340" height="270" rx="14" fill="#f1f3f4"/>
+<text x="210" y="134" font-size="22" font-weight="700" fill="#202124" text-anchor="middle">보험기간이 10월 25일 전 시작</text>
+<text x="70" y="190" font-size="20" fill="#202124">· 예전 기준으로 처리될 수 있음</text>
+<text x="70" y="230" font-size="20" fill="#202124">· 향후치료비가 합의금에</text>
+<text x="70" y="258" font-size="20" fill="#202124">  얹혀 나오던 방식</text>
+<rect x="420" y="90" width="340" height="270" rx="14" fill="#e8f0fe"/>
+<text x="590" y="134" font-size="22" font-weight="700" fill="#1a56db" text-anchor="middle">10월 25일 이후 시작</text>
+<text x="450" y="190" font-size="20" fill="#202124">· 향후치료비 0원</text>
+<text x="450" y="230" font-size="20" fill="#202124">· 치료 끝날 때까지 실제</text>
+<text x="450" y="258" font-size="20" fill="#202124">  치료비를 보험사가 냄</text>
+<text x="450" y="298" font-size="20" fill="#202124">· 8주 넘기려면 7주 안 서류</text>
+</svg>
