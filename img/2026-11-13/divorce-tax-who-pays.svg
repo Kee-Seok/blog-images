@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="500" fill="#fffdf6"/>
+<text x="40" y="58" font-size="29" font-weight="700" fill="#202124">어떤 이름으로 넘기느냐에 따라 세금이 갈려요</text>
+<g font-size="22" fill="#202124">
+<rect x="40" y="88" width="920" height="56" rx="10" fill="#e8eaed"/>
+<text x="64" y="124" font-weight="700">넘기는 이름</text><text x="400" y="124" font-weight="700">받는 사람</text><text x="700" y="124" font-weight="700">주는 사람</text>
+<rect x="40" y="156" width="920" height="96" rx="10" fill="#e6f4ea"/>
+<text x="64" y="196" font-weight="700">재산분할</text><text x="64" y="230" font-size="18" fill="#5f6368">민법 제839조의2</text>
+<text x="400" y="196">증여세·소득세 0원</text><text x="400" y="230">부동산이면 취득세 1.5%</text>
+<text x="700" y="196" fill="#137333" font-weight="700">양도세 0원</text><text x="700" y="230" font-size="18" fill="#5f6368">대법원 96누14401</text>
+<rect x="40" y="264" width="920" height="96" rx="10" fill="#fce8e6"/>
+<text x="64" y="304" font-weight="700">위자료로 집</text><text x="64" y="338" font-size="18" fill="#5f6368">빚을 집으로 갚은 셈</text>
+<text x="400" y="304">증여세·소득세 0원</text><text x="400" y="338">취득세는 냄</text>
+<text x="700" y="304" fill="#c5221f" font-weight="700">양도세 대상</text><text x="700" y="338" font-size="18" fill="#5f6368">대법원 88누10183</text>
+<rect x="40" y="372" width="920" height="72" rx="10" fill="#f8f9fa"/>
+<text x="64" y="416" font-weight="700">현금·예금</text><text x="400" y="416">재산분할이면 세금 0원</text><text x="700" y="416">세금 0원</text>
+</g>
+<text x="40" y="478" font-size="18" fill="#202124">출처: 법제처 찾기쉬운 생활법령 '재산분할에 대한 과세'(2026.9.30 기준), 지방세법 제15조</text>
+</svg>
