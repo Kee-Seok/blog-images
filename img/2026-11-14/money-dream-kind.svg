@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">같은 돈 꿈도 모양 따라 갈려요</text>
+<rect x="40" y="80" width="230" height="290" rx="16" fill="#e8f5e9"/>
+<text x="155" y="130" text-anchor="middle" font-size="23" font-weight="700" fill="#1e7e34">큰 지폐 · 새 돈</text>
+<text x="155" y="180" text-anchor="middle" font-size="18" fill="#202124">재물·기회가</text>
+<text x="155" y="210" text-anchor="middle" font-size="18" fill="#202124">크게 드는 쪽</text>
+<rect x="285" y="80" width="230" height="290" rx="16" fill="#fff8e1"/>
+<text x="400" y="130" text-anchor="middle" font-size="23" font-weight="700" fill="#b06000">동전 · 잔돈</text>
+<text x="400" y="180" text-anchor="middle" font-size="18" fill="#202124">자잘한 근심·</text>
+<text x="400" y="210" text-anchor="middle" font-size="18" fill="#202124">말다툼으로 보는 쪽</text>
+<rect x="530" y="80" width="230" height="290" rx="16" fill="#fce8e6"/>
+<text x="645" y="130" text-anchor="middle" font-size="23" font-weight="700" fill="#c5221f">찢긴 돈 · 가짜 돈</text>
+<text x="645" y="180" text-anchor="middle" font-size="18" fill="#202124">약속·계약을</text>
+<text x="645" y="210" text-anchor="middle" font-size="18" fill="#202124">한 번 더 보라는 쪽</text>
+</svg>
