@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">구렁이 색깔로 보는 풀이</text>
+<rect x="40" y="90" width="230" height="260" rx="16" fill="#fff4cc"/>
+<circle cx="155" cy="150" r="30" fill="#e0a800"/>
+<text x="155" y="225" text-anchor="middle" font-size="23" font-weight="700" fill="#8a5a00">노란 구렁이</text>
+<text x="155" y="270" text-anchor="middle" font-size="18" fill="#202124">재물·돈 쪽으로</text>
+<text x="155" y="300" text-anchor="middle" font-size="18" fill="#202124">많이 풀이</text>
+<rect x="285" y="90" width="230" height="260" rx="16" fill="#eceff1"/>
+<circle cx="400" cy="150" r="30" fill="#37474f"/>
+<text x="400" y="225" text-anchor="middle" font-size="23" font-weight="700" fill="#263238">검은 구렁이</text>
+<text x="400" y="270" text-anchor="middle" font-size="18" fill="#202124">힘·권한·자리</text>
+<text x="400" y="300" text-anchor="middle" font-size="18" fill="#202124">쪽으로 풀이</text>
+<rect x="530" y="90" width="230" height="260" rx="16" fill="#f1f8e9"/>
+<circle cx="645" cy="150" r="30" fill="#ffffff" stroke="#9e9e9e" stroke-width="3"/>
+<text x="645" y="225" text-anchor="middle" font-size="23" font-weight="700" fill="#33691e">흰 구렁이</text>
+<text x="645" y="270" text-anchor="middle" font-size="18" fill="#202124">귀한 도움·명예</text>
+<text x="645" y="300" text-anchor="middle" font-size="18" fill="#202124">쪽으로 풀이</text>
+<text x="400" y="420" text-anchor="middle" font-size="17" fill="#5f6368">색이 또렷하게 기억날 때만 참고 · 오늘의 꿈 해몽</text>
+</svg>
