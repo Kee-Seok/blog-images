@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 640" font-family="Pretendard,Apple SD Gothic Neo,sans-serif">
+<rect width="1200" height="640" rx="28" fill="#ffffff"/>
+<text x="600" y="70" font-size="40" font-weight="700" fill="#202124" text-anchor="middle">검진 뒤 추가 비용, 실비로 돌아오는 돈</text>
+<text x="600" y="115" font-size="26" fill="#5f6368" text-anchor="middle">의원 통원 1번 · 급여 본인부담과 비급여를 반씩 낸 경우</text>
+<rect x="60" y="150" width="1080" height="70" fill="#f1f3f4"/>
+<text x="250" y="196" font-size="30" font-weight="700" fill="#202124" text-anchor="middle">가입 시기</text>
+<text x="640" y="196" font-size="30" font-weight="700" fill="#202124" text-anchor="middle">10만원 냈을 때</text>
+<text x="960" y="196" font-size="30" font-weight="700" fill="#202124" text-anchor="middle">30만원 냈을 때</text>
+<g font-size="30" fill="#202124">
+<text x="250" y="276" text-anchor="middle">4세대 (2021.7~)</text><text x="640" y="276" text-anchor="middle" font-weight="700" fill="#1a73e8">6만원</text><text x="960" y="276" text-anchor="middle" font-weight="700" fill="#1a73e8">22만원</text>
+<line x1="60" y1="306" x2="1140" y2="306" stroke="#e0e0e0" stroke-width="2"/>
+<text x="250" y="356" text-anchor="middle">3세대 (2017.4~2021.6)</text><text x="640" y="356" text-anchor="middle" font-weight="700">8만원</text><text x="960" y="356" text-anchor="middle" font-weight="700">24만원</text>
+<line x1="60" y1="386" x2="1140" y2="386" stroke="#e0e0e0" stroke-width="2"/>
+<text x="250" y="436" text-anchor="middle">2세대 (2009.10~2017.3)</text><text x="640" y="436" text-anchor="middle" font-weight="700">9만원</text><text x="960" y="436" text-anchor="middle" font-weight="700">27만원</text>
+<line x1="60" y1="466" x2="1140" y2="466" stroke="#e0e0e0" stroke-width="2"/>
+<text x="250" y="516" text-anchor="middle">검진 패키지 비용</text><text x="800" y="516" text-anchor="middle" font-weight="700" fill="#d93025">세대 상관없이 0원</text>
+</g>
+<text x="600" y="600" font-size="24" fill="#5f6368" text-anchor="middle">3세대는 표준형(급여 20%), 2세대는 10% 공제형 기준 · 2026-11-14 계산</text>
+</svg>
