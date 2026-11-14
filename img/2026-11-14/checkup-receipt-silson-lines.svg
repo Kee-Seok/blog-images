@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" font-family="Pretendard,Apple SD Gothic Neo,sans-serif">
+<rect width="1200" height="620" rx="28" fill="#ffffff"/>
+<text x="600" y="72" font-size="40" font-weight="700" fill="#202124" text-anchor="middle">종합검진 영수증, 어느 줄이 실비일까</text>
+<rect x="60" y="120" width="520" height="440" rx="20" fill="#fdecea"/>
+<text x="320" y="180" font-size="34" font-weight="700" fill="#d93025" text-anchor="middle">청구 안 되는 줄</text>
+<g font-size="29" fill="#202124"><text x="100" y="250">· 검진 패키지 비용</text><text x="100" y="310">· 이상 없던 기본 검사</text><text x="100" y="370">· 예방접종</text><text x="100" y="430">· 진단서·소견서 발급비</text></g>
+<rect x="620" y="120" width="520" height="440" rx="20" fill="#e8f0fe"/>
+<text x="880" y="180" font-size="34" font-weight="700" fill="#1a73e8" text-anchor="middle">청구 되는 줄</text>
+<g font-size="29" fill="#202124"><text x="660" y="250">· 이상 소견 뒤 추가 검사</text><text x="660" y="310">· 조직검사(떼어 낸 조직)</text><text x="660" y="370">· 용종 제거 시술</text><text x="660" y="430">· 재검하러 간 진료·검사</text><text x="660" y="500" font-size="24" fill="#5f6368">자기부담금은 빼고 돌아와요</text></g>
+</svg>
