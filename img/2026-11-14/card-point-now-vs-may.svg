@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">카드포인트, 지금 되는 것과 내년 5월부터 되는 것</text>
+<rect x="30" y="80" width="355" height="330" rx="16" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="207" y="122" text-anchor="middle" font-size="24" font-weight="700" fill="#1a56db">지금 (2026년 11월)</text>
+<text x="55" y="172" font-size="20" fill="#202124">· 모든 카드사 포인트 한 번에 조회</text>
+<text x="55" y="212" font-size="20" fill="#202124">· 대표 포인트는 내 계좌로 입금</text>
+<text x="55" y="252" font-size="20" fill="#202124">· 1포인트 = 1원, 1포인트부터</text>
+<text x="55" y="292" font-size="20" fill="#202124">· 카드사별 하루 1번</text>
+<text x="55" y="352" font-size="18" fill="#5f6368">여신금융협회 통합조회</text>
+<text x="55" y="380" font-size="18" fill="#5f6368">금융결제원 어카운트인포</text>
+<rect x="415" y="80" width="355" height="330" rx="16" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="592" y="122" text-anchor="middle" font-size="24" font-weight="700" fill="#b06000">2027년 5월 개통 예정</text>
+<text x="440" y="172" font-size="20" fill="#202124">· 원하는 만큼 지역화폐로 전환</text>
+<text x="440" y="212" font-size="20" fill="#202124">· 신청 다음 날부터 사용</text>
+<text x="440" y="252" font-size="20" fill="#202124">· 전통시장·골목가게에서</text>
+<text x="440" y="292" font-size="20" fill="#202124">· KTX 마일리지 등은 협의 중</text>
+<text x="440" y="352" font-size="18" fill="#5f6368">어카운트인포 또는</text>
+<text x="440" y="380" font-size="18" fill="#5f6368">지역화폐 앱 (정부 11/13 발표)</text>
+</svg>
