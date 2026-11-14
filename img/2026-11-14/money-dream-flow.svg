@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="sans-serif">
+<rect width="800" height="500" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">돈 꿈, 돈이 어디로 갔나요</text>
+<rect x="40" y="80" width="340" height="170" rx="16" fill="#e8f5e9"/>
+<text x="210" y="128" text-anchor="middle" font-size="24" font-weight="700" fill="#1e7e34">돈이 나한테 왔다</text>
+<text x="210" y="172" text-anchor="middle" font-size="19" fill="#202124">줍기 · 받기 · 돌려받기</text>
+<text x="210" y="208" text-anchor="middle" font-size="19" fill="#202124">→ 들어올 일이 생기는 쪽</text>
+<rect x="420" y="80" width="340" height="170" rx="16" fill="#fff8e1"/>
+<text x="590" y="128" text-anchor="middle" font-size="24" font-weight="700" fill="#b06000">돈이 나한테서 나갔다</text>
+<text x="590" y="172" text-anchor="middle" font-size="19" fill="#202124">주기 · 쓰기 · 잃기</text>
+<text x="590" y="208" text-anchor="middle" font-size="19" fill="#202124">→ 근심을 덜거나 새는 돈 점검</text>
+<rect x="40" y="280" width="720" height="170" rx="16" fill="#e8f0fe"/>
+<text x="400" y="330" text-anchor="middle" font-size="24" font-weight="700" fill="#1a56db">그다음 하나만 더 보세요</text>
+<text x="400" y="374" text-anchor="middle" font-size="19" fill="#202124">지폐였나 동전이었나 · 깨끗했나 찢어졌나</text>
+<text x="400" y="410" text-anchor="middle" font-size="19" fill="#202124">기분이 좋았나 찜찜했나</text>
+</svg>
