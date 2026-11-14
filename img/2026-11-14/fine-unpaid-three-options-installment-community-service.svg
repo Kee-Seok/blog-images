@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="40" y="56" font-size="29" font-weight="700" fill="#202124">벌금을 한 번에 못 낼 때 갈 길 세 가지</text>
+<text x="40" y="90" font-size="18" fill="#5f6368">판결 확정일부터 30일 안에 내야 해요 (형법 제69조)</text>
+<rect x="40" y="112" width="720" height="84" rx="12" fill="#e8f0fe"/>
+<text x="64" y="148" font-size="22" font-weight="700" fill="#202124">① 분할납부·납부연기</text>
+<text x="64" y="180" font-size="18" fill="#202124">검찰청 집행과 방문 · 신청서+사유 소명서 · 수수료 없음 · 즉시 처리</text>
+<rect x="40" y="208" width="720" height="84" rx="12" fill="#fff8e1"/>
+<text x="64" y="244" font-size="22" font-weight="700" fill="#202124">② 사회봉사로 대신하기</text>
+<text x="64" y="276" font-size="18" fill="#202124">벌금 500만원 이하 · 납부명령 받은 날부터 30일 안에 신청</text>
+<rect x="40" y="304" width="720" height="84" rx="12" fill="#fce8e6"/>
+<text x="64" y="340" font-size="22" font-weight="700" fill="#202124">③ 아무것도 안 하면</text>
+<text x="64" y="372" font-size="18" fill="#202124">노역장 유치(1일 이상 3년 이하) 대상이 될 수 있어요</text>
+</svg>
