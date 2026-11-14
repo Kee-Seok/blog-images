@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">상은 누구 손에 남았나요</text>
+<rect x="40" y="85" width="340" height="160" rx="16" fill="#e8f5e9"/>
+<text x="210" y="130" text-anchor="middle" font-size="22" font-weight="700" fill="#1e7e34">아버지가 받고 웃었다</text>
+<text x="210" y="170" text-anchor="middle" font-size="18" fill="#202124">집안에 기쁜 소식·</text>
+<text x="210" y="198" text-anchor="middle" font-size="18" fill="#202124">이름 날 일이 생기는 쪽</text>
+<rect x="420" y="85" width="340" height="160" rx="16" fill="#e8f0fe"/>
+<text x="590" y="130" text-anchor="middle" font-size="22" font-weight="700" fill="#1a56db">받은 상을 나에게 줬다</text>
+<text x="590" y="170" text-anchor="middle" font-size="18" fill="#202124">아버지 덕이 나에게 와</text>
+<text x="590" y="198" text-anchor="middle" font-size="18" fill="#202124">내 일이 인정받는 쪽</text>
+<rect x="40" y="270" width="340" height="160" rx="16" fill="#fff8e1"/>
+<text x="210" y="315" text-anchor="middle" font-size="22" font-weight="700" fill="#b06000">내가 박수를 쳤다</text>
+<text x="210" y="355" text-anchor="middle" font-size="18" fill="#202124">아버지를 향한 마음이</text>
+<text x="210" y="383" text-anchor="middle" font-size="18" fill="#202124">편해지는 쪽</text>
+<rect x="420" y="270" width="340" height="160" rx="16" fill="#f1f3f4"/>
+<text x="590" y="315" text-anchor="middle" font-size="22" font-weight="700" fill="#5f6368">표정이 어두웠다</text>
+<text x="590" y="355" text-anchor="middle" font-size="18" fill="#202124">못 다 한 인정이</text>
+<text x="590" y="383" text-anchor="middle" font-size="18" fill="#202124">마음에 남은 쪽</text>
+</svg>
