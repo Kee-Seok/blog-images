@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="40" y="56" font-size="29" font-weight="700" fill="#202124">벌금을 나눠 내면 한 달에 얼마?</text>
+<text x="40" y="90" font-size="18" fill="#5f6368">똑같이 나눈 금액 · 연장은 사유가 남아 있을 때 검사 허가로만</text>
+<rect x="40" y="112" width="720" height="50" rx="10" fill="#f1f3f4"/>
+<text x="64" y="144" font-size="20" font-weight="700" fill="#202124">벌금</text><text x="380" y="144" font-size="20" font-weight="700" fill="#202124" text-anchor="middle">6개월</text><text x="560" y="144" font-size="20" font-weight="700" fill="#202124" text-anchor="middle">9개월</text><text x="720" y="144" font-size="20" font-weight="700" fill="#202124" text-anchor="middle">12개월</text>
+<text x="64" y="208" font-size="22" fill="#202124">300만원</text><text x="380" y="208" font-size="24" font-weight="700" fill="#1a56db" text-anchor="middle">50만원</text><text x="560" y="208" font-size="22" fill="#202124" text-anchor="middle">33만3천원</text><text x="720" y="208" font-size="22" fill="#202124" text-anchor="middle">25만원</text>
+<line x1="40" y1="232" x2="760" y2="232" stroke="#e0e0e0"/>
+<text x="64" y="278" font-size="22" fill="#202124">500만원</text><text x="380" y="278" font-size="24" font-weight="700" fill="#1a56db" text-anchor="middle">83만3천원</text><text x="560" y="278" font-size="22" fill="#202124" text-anchor="middle">55만6천원</text><text x="720" y="278" font-size="22" fill="#202124" text-anchor="middle">41만7천원</text>
+<line x1="40" y1="302" x2="760" y2="302" stroke="#e0e0e0"/>
+<text x="64" y="348" font-size="22" fill="#202124">1,000만원</text><text x="380" y="348" font-size="24" font-weight="700" fill="#1a56db" text-anchor="middle">166만7천원</text><text x="560" y="348" font-size="22" fill="#202124" text-anchor="middle">111만1천원</text><text x="720" y="348" font-size="22" fill="#202124" text-anchor="middle">83만3천원</text>
+<rect x="40" y="374" width="720" height="48" rx="10" fill="#fff8e1"/>
+<text x="64" y="406" font-size="18" fill="#202124">기본 6개월 + 3개월 연장 2번까지 = 최대 12개월 (천 원 아래 반올림)</text>
+</svg>
