@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">공시가격 3억원 집 상속 취득세, 세 사람 비교</text>
+<text x="400" y="74" text-anchor="middle" font-size="17" fill="#5f6368">취득세 + 지방교육세 + 농어촌특별세 합계 (2026년 11월 기준)</text>
+<text x="40" y="140" font-size="20" font-weight="700" fill="#202124">무주택 세대 · 85㎡ 이하</text>
+<rect x="40" y="152" width="137" height="44" rx="8" fill="#1e8e3e"/>
+<text x="190" y="182" font-size="24" font-weight="700" fill="#1e8e3e">288만원 (0.96%)</text>
+<text x="40" y="250" font-size="20" font-weight="700" fill="#202124">이미 집 1채 · 85㎡ 이하</text>
+<rect x="40" y="262" width="422" height="44" rx="8" fill="#1a73e8"/>
+<text x="475" y="292" font-size="24" font-weight="700" fill="#1a73e8">888만원 (2.96%)</text>
+<text x="40" y="360" font-size="20" font-weight="700" fill="#202124">이미 집 1채 · 85㎡ 초과</text>
+<rect x="40" y="372" width="450" height="44" rx="8" fill="#d93025"/>
+<text x="503" y="402" font-size="24" font-weight="700" fill="#d93025">948만원 (3.16%)</text>
+<text x="400" y="452" text-anchor="middle" font-size="16" fill="#5f6368">무주택 특례와 일반의 차이: 600만원</text>
+</svg>
