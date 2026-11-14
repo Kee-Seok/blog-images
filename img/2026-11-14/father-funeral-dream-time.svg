@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">돌아가신 지 얼마나 됐나요</text>
+<rect x="60" y="90" width="320" height="220" rx="18" fill="#e8f0fe"/>
+<text x="220" y="145" text-anchor="middle" font-size="23" font-weight="700" fill="#1a56db">얼마 안 됐다</text>
+<text x="220" y="195" text-anchor="middle" font-size="19" fill="#202124">못 다 한 슬픔이</text>
+<text x="220" y="225" text-anchor="middle" font-size="19" fill="#202124">꿈으로 나온 것</text>
+<text x="220" y="265" text-anchor="middle" font-size="17" fill="#5f6368">예고로 읽지 않아요</text>
+<rect x="420" y="90" width="320" height="220" rx="18" fill="#e8f5e9"/>
+<text x="580" y="145" text-anchor="middle" font-size="23" font-weight="700" fill="#1e7e34">오래 지났다</text>
+<text x="580" y="195" text-anchor="middle" font-size="19" fill="#202124">지금 내 삶에서</text>
+<text x="580" y="225" text-anchor="middle" font-size="19" fill="#202124">끝낼 일을 보는 꿈</text>
+<text x="580" y="265" text-anchor="middle" font-size="17" fill="#5f6368">정리·새 출발 쪽</text>
+<text x="400" y="370" text-anchor="middle" font-size="17" fill="#5f6368">전통 해몽에서 흔히 보는 풀이 · 오늘의 꿈 해몽</text>
+</svg>
