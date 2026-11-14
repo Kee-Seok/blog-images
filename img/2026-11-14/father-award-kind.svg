@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="sans-serif">
+<rect width="800" height="380" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">무슨 상이었나요</text>
+<rect x="30" y="85" width="175" height="250" rx="16" fill="#e8f0fe"/>
+<text x="117" y="135" text-anchor="middle" font-size="22" font-weight="700" fill="#1a56db">상장</text>
+<text x="117" y="185" text-anchor="middle" font-size="17" fill="#202124">이름·명예</text>
+<text x="117" y="213" text-anchor="middle" font-size="17" fill="#202124">합격·승진</text>
+<rect x="220" y="85" width="175" height="250" rx="16" fill="#fff8e1"/>
+<text x="307" y="135" text-anchor="middle" font-size="22" font-weight="700" fill="#b06000">트로피·메달</text>
+<text x="307" y="185" text-anchor="middle" font-size="17" fill="#202124">오래 남는</text>
+<text x="307" y="213" text-anchor="middle" font-size="17" fill="#202124">성과·자랑</text>
+<rect x="410" y="85" width="175" height="250" rx="16" fill="#e8f5e9"/>
+<text x="497" y="135" text-anchor="middle" font-size="22" font-weight="700" fill="#1e7e34">상금</text>
+<text x="497" y="185" text-anchor="middle" font-size="17" fill="#202124">재물·도움이</text>
+<text x="497" y="213" text-anchor="middle" font-size="17" fill="#202124">드는 쪽</text>
+<rect x="600" y="85" width="175" height="250" rx="16" fill="#f3e8fd"/>
+<text x="687" y="135" text-anchor="middle" font-size="22" font-weight="700" fill="#7b1fa2">꽃다발</text>
+<text x="687" y="185" text-anchor="middle" font-size="17" fill="#202124">축하·인연</text>
+<text x="687" y="213" text-anchor="middle" font-size="17" fill="#202124">기쁜 자리</text>
+</svg>
