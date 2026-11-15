@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">서울 혼자 사는 어르신 예시로 계산해 보기</text>
+<g font-size="19" fill="#202124">
+<rect x="30" y="70" width="230" height="200" rx="14" fill="#e8f0fe" stroke="#1a73e8"/>
+<text x="145" y="104" text-anchor="middle" font-weight="700" fill="#1a73e8">① 재산</text>
+<text x="145" y="140" text-anchor="middle">공시가격 3억 집</text>
+<text x="145" y="168" text-anchor="middle">− 1억3,500만</text>
+<text x="145" y="204" text-anchor="middle">예금 3,000만</text>
+<text x="145" y="232" text-anchor="middle">− 2,000만</text>
+<rect x="285" y="70" width="230" height="200" rx="14" fill="#fff8e1" stroke="#f29900"/>
+<text x="400" y="104" text-anchor="middle" font-weight="700" fill="#b06000">② 월 소득으로</text>
+<text x="400" y="140" text-anchor="middle">남은 1억7,500만</text>
+<text x="400" y="168" text-anchor="middle">× 4% ÷ 12</text>
+<text x="400" y="210" text-anchor="middle" font-weight="700">= 월 58만3천원</text>
+<rect x="540" y="70" width="230" height="200" rx="14" fill="#e6f4ea" stroke="#188038"/>
+<text x="655" y="104" text-anchor="middle" font-weight="700" fill="#188038">③ 더하기</text>
+<text x="655" y="140" text-anchor="middle">국민연금 월 60만</text>
+<text x="655" y="168" text-anchor="middle">+ 58만3천</text>
+<text x="655" y="210" text-anchor="middle" font-weight="700">= 118만3천원</text>
+</g>
+<text x="400" y="320" text-anchor="middle" font-size="21" font-weight="700" fill="#188038">기준 247만원보다 낮아서 대상이에요</text>
+<text x="400" y="360" text-anchor="middle" font-size="16" fill="#5f6368">보건복지부 기초연금 누리집 산정식(2026년 11월 16일 확인)으로 계산한 예시</text>
+</svg>
