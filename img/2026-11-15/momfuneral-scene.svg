@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="sans-serif">
+<rect width="800" height="500" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">장례식에서 나는 어땠나요</text>
+<rect x="30" y="80" width="235" height="300" rx="16" fill="#e8f0fe"/>
+<text x="147" y="130" text-anchor="middle" font-size="24" font-weight="700" fill="#1a56db">펑펑 울었다</text>
+<text x="147" y="190" text-anchor="middle" font-size="19" fill="#202124">쌓인 근심이</text>
+<text x="147" y="220" text-anchor="middle" font-size="19" fill="#202124">씻겨 나가는 쪽</text>
+<text x="147" y="300" text-anchor="middle" font-size="20" font-weight="700" fill="#1e7e34">반가운 풀이</text>
+<rect x="282" y="80" width="235" height="300" rx="16" fill="#e8f5e9"/>
+<text x="400" y="130" text-anchor="middle" font-size="24" font-weight="700" fill="#1e7e34">상주로 맞았다</text>
+<text x="400" y="190" text-anchor="middle" font-size="19" fill="#202124">집안일을 맡고</text>
+<text x="400" y="220" text-anchor="middle" font-size="19" fill="#202124">인정받는 쪽</text>
+<text x="400" y="300" text-anchor="middle" font-size="20" font-weight="700" fill="#1e7e34">반가운 풀이</text>
+<rect x="535" y="80" width="235" height="300" rx="16" fill="#fff8e1"/>
+<text x="652" y="130" text-anchor="middle" font-size="24" font-weight="700" fill="#b06000">눈물이 안 났다</text>
+<text x="652" y="190" text-anchor="middle" font-size="19" fill="#202124">풀리지 않은</text>
+<text x="652" y="220" text-anchor="middle" font-size="19" fill="#202124">마음이 남은 쪽</text>
+<text x="652" y="300" text-anchor="middle" font-size="20" font-weight="700" fill="#b06000">한번 살펴볼 풀이</text>
+<text x="400" y="440" text-anchor="middle" font-size="18" fill="#5f6368">전통 해몽 풀이 · 미래를 정하는 꿈은 아니에요</text>
+</svg>
