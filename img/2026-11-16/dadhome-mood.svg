@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 330" font-family="sans-serif">
+<rect width="800" height="330" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">아버지 얼굴은 어땠나요</text>
+<rect x="40" y="74" width="340" height="190" rx="16" fill="#e8f5e9"/>
+<text x="210" y="122" text-anchor="middle" font-size="23" font-weight="700" fill="#1e7e34">웃거나 편안하셨다</text>
+<text x="210" y="172" text-anchor="middle" font-size="19" fill="#202124">걱정이 풀리고</text>
+<text x="210" y="202" text-anchor="middle" font-size="19" fill="#202124">일이 잘 풀리는 쪽</text>
+<rect x="420" y="74" width="340" height="190" rx="16" fill="#fce8e6"/>
+<text x="590" y="122" text-anchor="middle" font-size="23" font-weight="700" fill="#c5221f">어둡거나 화나셨다</text>
+<text x="590" y="172" text-anchor="middle" font-size="19" fill="#202124">미뤄 둔 일·건강을</text>
+<text x="590" y="202" text-anchor="middle" font-size="19" fill="#202124">한 번 챙겨 보는 쪽</text>
+<text x="400" y="304" text-anchor="middle" font-size="17" fill="#5f6368">나쁜 일이 생긴다는 뜻으로 단정하지 않아요</text>
+</svg>
