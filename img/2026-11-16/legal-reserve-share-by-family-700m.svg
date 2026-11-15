@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">유류분 계산, 재산 7억원일 때 한 사람 몫</text>
+<text x="400" y="74" text-anchor="middle" font-size="17" fill="#5f6368">남긴 재산 1억 + 생전 증여 6억 − 빚 0 (민법 제1112조, 2026년 11월 기준)</text>
+<text x="40" y="140" font-size="20" font-weight="700" fill="#202124">어머니 + 자녀 2명일 때, 자녀 한 명</text>
+<rect x="40" y="152" width="229" height="44" rx="8" fill="#1a73e8"/>
+<text x="282" y="182" font-size="24" font-weight="700" fill="#1a73e8">1억원 (7분의 1)</text>
+<text x="40" y="250" font-size="20" font-weight="700" fill="#202124">어머니 + 자녀 2명일 때, 어머니</text>
+<rect x="40" y="262" width="343" height="44" rx="8" fill="#1e8e3e"/>
+<text x="396" y="292" font-size="24" font-weight="700" fill="#1e8e3e">1억5천만원 (14분의 3)</text>
+<text x="40" y="360" font-size="20" font-weight="700" fill="#202124">배우자 없이 자녀 2명일 때, 자녀 한 명</text>
+<rect x="40" y="372" width="400" height="44" rx="8" fill="#f29900"/>
+<text x="453" y="402" font-size="24" font-weight="700" fill="#e37400">1억7,500만원 (4분의 1)</text>
+<text x="400" y="452" text-anchor="middle" font-size="16" fill="#5f6368">형제자매는 2024년 4월 25일 헌법재판소 결정 뒤 유류분이 없어요</text>
+</svg>
