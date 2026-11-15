@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">물린 다음에 어떻게 됐나요</text>
+<rect x="40" y="85" width="720" height="70" rx="14" fill="#e8f5e9"/>
+<text x="70" y="128" font-size="21" font-weight="700" fill="#1e7e34">피가 났다</text>
+<text x="300" y="128" font-size="19" fill="#202124">재물·좋은 기운이 크게 드는 쪽</text>
+<rect x="40" y="170" width="720" height="70" rx="14" fill="#e8f0fe"/>
+<text x="70" y="213" font-size="21" font-weight="700" fill="#1a56db">물고 놓지 않았다</text>
+<text x="300" y="213" font-size="19" fill="#202124">들어온 복이 오래 붙어 있는 쪽</text>
+<rect x="40" y="255" width="720" height="70" rx="14" fill="#fff8e1"/>
+<text x="70" y="298" font-size="21" font-weight="700" fill="#b06000">물리기 직전 피했다</text>
+<text x="300" y="298" font-size="19" fill="#202124">온 기회를 놓칠 수 있으니 살피는 쪽</text>
+<rect x="40" y="340" width="720" height="70" rx="14" fill="#fce8e6"/>
+<text x="70" y="383" font-size="21" font-weight="700" fill="#c5221f">뱀을 떼어 내 죽였다</text>
+<text x="300" y="383" font-size="19" fill="#202124">걱정거리를 스스로 끊어 내는 쪽</text>
+<text x="400" y="445" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽 풀이 · 오늘의 꿈 해몽</text>
+</svg>
