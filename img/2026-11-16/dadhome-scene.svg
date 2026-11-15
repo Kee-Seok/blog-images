@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">아버지는 집에서 어떻게 하셨나요</text>
+<rect x="30" y="76" width="235" height="300" rx="16" fill="#e8f5e9"/>
+<text x="147" y="124" text-anchor="middle" font-size="22" font-weight="700" fill="#1e7e34">들어와 앉으셨다</text>
+<text x="147" y="182" text-anchor="middle" font-size="19" fill="#202124">집안이 편안해지고</text>
+<text x="147" y="212" text-anchor="middle" font-size="19" fill="#202124">도움이 드는 쪽</text>
+<text x="147" y="300" text-anchor="middle" font-size="20" font-weight="700" fill="#1e7e34">반가운 풀이</text>
+<rect x="282" y="76" width="235" height="300" rx="16" fill="#e8f0fe"/>
+<text x="400" y="124" text-anchor="middle" font-size="22" font-weight="700" fill="#1a56db">뭔가 들고 오셨다</text>
+<text x="400" y="182" text-anchor="middle" font-size="19" fill="#202124">재물·소식이</text>
+<text x="400" y="212" text-anchor="middle" font-size="19" fill="#202124">들어오는 쪽</text>
+<text x="400" y="300" text-anchor="middle" font-size="20" font-weight="700" fill="#1a56db">더 반가운 풀이</text>
+<rect x="535" y="76" width="235" height="300" rx="16" fill="#fff8e1"/>
+<text x="652" y="124" text-anchor="middle" font-size="22" font-weight="700" fill="#b06000">말없이 가셨다</text>
+<text x="652" y="182" text-anchor="middle" font-size="19" fill="#202124">챙길 일을</text>
+<text x="652" y="212" text-anchor="middle" font-size="19" fill="#202124">돌아보는 쪽</text>
+<text x="652" y="300" text-anchor="middle" font-size="20" font-weight="700" fill="#b06000">살펴볼 풀이</text>
+<text x="400" y="430" text-anchor="middle" font-size="17" fill="#5f6368">전통 해몽에서 흔히 보는 풀이 · 앞일을 정하는 말은 아니에요</text>
+</svg>
