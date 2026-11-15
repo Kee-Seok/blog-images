@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">2026년 3월 17일 민법 개정, 유류분에서 바뀐 것</text>
+<text x="400" y="72" text-anchor="middle" font-size="17" fill="#5f6368">국가법령정보센터 민법 조문·부칙 (법률 제21454호)</text>
+<rect x="40" y="100" width="720" height="86" rx="12" fill="#e8f0fe"/>
+<text x="64" y="136" font-size="21" font-weight="700" fill="#1a73e8">1. 모자란 몫은 돈으로 청구, 청구일부터 이자</text>
+<text x="64" y="166" font-size="17" fill="#3c4043">제1115조 · 2026년 3월 17일 이후 시작된 상속부터</text>
+<rect x="40" y="200" width="720" height="86" rx="12" fill="#e6f4ea"/>
+<text x="64" y="236" font-size="21" font-weight="700" fill="#1e8e3e">2. 모시고 간호한 대가로 받은 증여는 기여만큼 제외</text>
+<text x="64" y="266" font-size="17" fill="#3c4043">제1008조 단서 · 2024년 4월 25일 이후 시작된 상속에도</text>
+<rect x="40" y="300" width="720" height="86" rx="12" fill="#fce8e6"/>
+<text x="64" y="336" font-size="21" font-weight="700" fill="#d93025">3. 부양 의무를 크게 저버린 가족은 상속권 상실 가능</text>
+<text x="64" y="366" font-size="17" fill="#3c4043">제1004조의2 · 공정증서 유언 또는 공동상속인 청구(안 날부터 6개월)</text>
+</svg>
