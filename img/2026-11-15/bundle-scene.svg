@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">보따리는 어디로 갔나요</text>
+<rect x="30" y="80" width="235" height="300" rx="16" fill="#e8f5e9"/>
+<text x="147" y="128" text-anchor="middle" font-size="23" font-weight="700" fill="#1e7e34">들고 나갔다</text>
+<text x="147" y="188" text-anchor="middle" font-size="19" fill="#202124">동생의 묵은 짐·</text>
+<text x="147" y="218" text-anchor="middle" font-size="19" fill="#202124">걱정이 나가는 쪽</text>
+<text x="147" y="300" text-anchor="middle" font-size="20" font-weight="700" fill="#1e7e34">가벼운 풀이</text>
+<rect x="282" y="80" width="235" height="300" rx="16" fill="#e8f0fe"/>
+<text x="400" y="128" text-anchor="middle" font-size="23" font-weight="700" fill="#1a56db">동생에게 건넸다</text>
+<text x="400" y="188" text-anchor="middle" font-size="19" fill="#202124">동생이 새 자리로</text>
+<text x="400" y="218" text-anchor="middle" font-size="19" fill="#202124">옮겨 가는 쪽</text>
+<text x="400" y="300" text-anchor="middle" font-size="20" font-weight="700" fill="#1a56db">변화의 풀이</text>
+<rect x="535" y="80" width="235" height="300" rx="16" fill="#fff8e1"/>
+<text x="652" y="128" text-anchor="middle" font-size="23" font-weight="700" fill="#b06000">싸다가 멈췄다</text>
+<text x="652" y="188" text-anchor="middle" font-size="19" fill="#202124">정해 둔 일이</text>
+<text x="652" y="218" text-anchor="middle" font-size="19" fill="#202124">미뤄지는 쪽</text>
+<text x="652" y="300" text-anchor="middle" font-size="20" font-weight="700" fill="#b06000">살펴볼 풀이</text>
+<text x="400" y="430" text-anchor="middle" font-size="17" fill="#5f6368">전통 해몽의 흔한 풀이 · 꿈은 앞일을 알려 주지 않아요</text>
+</svg>
