@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="25" font-weight="700" fill="#202124">소득 없이 집만 있을 때, 공시가격 계산상 한도</text>
+<text x="400" y="72" text-anchor="middle" font-size="16" fill="#5f6368">2026년 선정기준액 · 예금 2,000만원 이하 · 빚 없음 가정</text>
+<g font-size="19" fill="#202124">
+<text x="40" y="128" font-weight="700">대도시</text><rect x="150" y="104" width="480" height="34" rx="8" fill="#1a73e8"/><text x="780" y="128" font-weight="700" fill="#1a73e8" text-anchor="end">8억7,600만</text>
+<text x="40" y="188" font-weight="700">중소도시</text><rect x="150" y="164" width="453" height="34" rx="8" fill="#4285f4"/><text x="780" y="188" font-weight="700" fill="#1a73e8" text-anchor="end">8억2,600만</text>
+<text x="40" y="248" font-weight="700">농어촌</text><rect x="150" y="224" width="446" height="34" rx="8" fill="#8ab4f8"/><text x="780" y="248" font-weight="700" fill="#1a73e8" text-anchor="end">8억1,350만</text>
+</g>
+<text x="400" y="310" text-anchor="middle" font-size="18" fill="#202124">혼자 사는 분 기준. 부부는 대도시 13억2,060만원까지 계산돼요</text>
+<text x="400" y="350" text-anchor="middle" font-size="18" font-weight="700" fill="#c5221f">연금·월급이 월 10만원 있으면 한도가 3,000만원씩 내려가요</text>
+</svg>
