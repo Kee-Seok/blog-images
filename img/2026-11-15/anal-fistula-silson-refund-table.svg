@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="Pretendard, 'Apple SD Gothic Neo', sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="40" y="56" font-size="29" font-weight="700" fill="#202124">급여 본인부담별로 돌아오는 돈 (입원 기준)</text>
+<text x="40" y="90" font-size="18" fill="#5f6368">비급여는 항문 질환이라 0원 · 숫자는 계산 예시</text>
+<rect x="40" y="110" width="720" height="56" rx="10" fill="#202124"/>
+<text x="64" y="146" font-size="20" font-weight="700" fill="#ffffff">급여 본인부담</text>
+<text x="470" y="146" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">자기부담 20%형(4세대)</text>
+<text x="700" y="146" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">10%형</text>
+<rect x="40" y="176" width="720" height="62" rx="10" fill="#f1f3f4"/>
+<text x="64" y="216" font-size="22" fill="#202124">20만원</text><text x="470" y="216" font-size="24" font-weight="700" fill="#1a56db" text-anchor="middle">16만원</text><text x="700" y="216" font-size="24" font-weight="700" fill="#202124" text-anchor="middle">18만원</text>
+<rect x="40" y="248" width="720" height="62" rx="10" fill="#e8f0fe"/>
+<text x="64" y="288" font-size="22" fill="#202124">40만원</text><text x="470" y="288" font-size="24" font-weight="700" fill="#1a56db" text-anchor="middle">32만원</text><text x="700" y="288" font-size="24" font-weight="700" fill="#202124" text-anchor="middle">36만원</text>
+<rect x="40" y="320" width="720" height="62" rx="10" fill="#f1f3f4"/>
+<text x="64" y="360" font-size="22" fill="#202124">80만원</text><text x="470" y="360" font-size="24" font-weight="700" fill="#1a56db" text-anchor="middle">64만원</text><text x="700" y="360" font-size="24" font-weight="700" fill="#202124" text-anchor="middle">72만원</text>
+<text x="40" y="414" font-size="16" fill="#5f6368">통원(당일 수술)이면 4세대는 공제 1만원(의원)과 20% 중 큰 금액을 뺌</text>
+</svg>
