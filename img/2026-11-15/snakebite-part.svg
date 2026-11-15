@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" font-family="sans-serif">
+<rect width="800" height="520" fill="#ffffff"/>
+<text x="400" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">뱀이 어디를 물었나요</text>
+<rect x="40" y="80" width="230" height="180" rx="16" fill="#e8f0fe"/>
+<text x="155" y="130" text-anchor="middle" font-size="24" font-weight="700" fill="#1a56db">손</text>
+<text x="155" y="175" text-anchor="middle" font-size="19" fill="#202124">일·돈이</text>
+<text x="155" y="205" text-anchor="middle" font-size="19" fill="#202124">손에 들어오는 쪽</text>
+<rect x="285" y="80" width="230" height="180" rx="16" fill="#e8f5e9"/>
+<text x="400" y="130" text-anchor="middle" font-size="24" font-weight="700" fill="#1e7e34">발·다리</text>
+<text x="400" y="175" text-anchor="middle" font-size="19" fill="#202124">새 길·이동이</text>
+<text x="400" y="205" text-anchor="middle" font-size="19" fill="#202124">열리는 쪽</text>
+<rect x="530" y="80" width="230" height="180" rx="16" fill="#fff8e1"/>
+<text x="645" y="130" text-anchor="middle" font-size="24" font-weight="700" fill="#b06000">목·얼굴</text>
+<text x="645" y="175" text-anchor="middle" font-size="19" fill="#202124">이름이 알려지거나</text>
+<text x="645" y="205" text-anchor="middle" font-size="19" fill="#202124">말이 오가는 쪽</text>
+<rect x="40" y="290" width="720" height="170" rx="16" fill="#f3e8fd"/>
+<text x="400" y="345" text-anchor="middle" font-size="24" font-weight="700" fill="#7b1fa2">배·가슴 (임신을 바라는 때)</text>
+<text x="400" y="390" text-anchor="middle" font-size="19" fill="#202124">전통 해몽에서는 태몽으로 풀이하는 경우가 많아요</text>
+<text x="400" y="490" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽 풀이 · 오늘의 꿈 해몽</text>
+</svg>
