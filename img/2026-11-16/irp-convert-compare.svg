@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="400" y="44" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">작년 초과분 600만원을 넘기면 얼마 더?</text>
+<text x="400" y="76" font-size="17" text-anchor="middle" fill="#5f6368">올해 IRP에 300만원만 넣은 직장인 · 공제율 16.5% 기준</text>
+<rect x="50" y="110" width="320" height="260" rx="16" fill="#f1f3f4" stroke="#dadce0" stroke-width="2"/>
+<text x="210" y="155" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">전환 신청 안 함</text>
+<text x="210" y="205" font-size="19" text-anchor="middle" fill="#202124">공제 대상 300만원</text>
+<text x="210" y="275" font-size="40" font-weight="700" text-anchor="middle" fill="#202124">49만 5천원</text>
+<text x="210" y="330" font-size="16" text-anchor="middle" fill="#5f6368">작년 600만원은 그대로 묵힘</text>
+<rect x="430" y="110" width="320" height="260" rx="16" fill="#f3f8ff" stroke="#1a73e8" stroke-width="3"/>
+<text x="590" y="155" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">600만원 전환 신청</text>
+<text x="590" y="205" font-size="19" text-anchor="middle" fill="#202124">공제 대상 900만원</text>
+<text x="590" y="275" font-size="40" font-weight="700" text-anchor="middle" fill="#1a73e8">148만 5천원</text>
+<text x="590" y="330" font-size="16" text-anchor="middle" fill="#5f6368">한도 900만원을 꽉 채움</text>
+<text x="400" y="412" font-size="22" font-weight="700" text-anchor="middle" fill="#202124">차이 99만원 · 총급여 5,500만원 초과면 79만 2천원</text>
+</svg>
