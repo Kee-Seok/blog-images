@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="470" fill="#ffffff"/>
+<text x="400" y="44" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">사고 나면 몇 점? 1점 = 1등급 = 약 7.1%</text>
+<text x="400" y="74" font-size="16" text-anchor="middle" fill="#5f6368">보험개발원 사고내용점수 · 금융위원회 안내</text>
+<g font-size="19" fill="#202124">
+<rect x="60" y="95" width="680" height="54" rx="10" fill="#e6f4ea"/><text x="90" y="129">차·물건만 부서짐, 할증기준금액 이하</text><text x="650" y="129" font-weight="700">0.5점</text>
+<rect x="60" y="160" width="680" height="54" rx="10" fill="#fff8e1"/><text x="90" y="194">차·물건만 부서짐, 할증기준금액 초과</text><text x="650" y="194" font-weight="700">1점</text>
+<rect x="60" y="225" width="680" height="54" rx="10" fill="#fff8e1"/><text x="90" y="259">상대 부상 13~14급 · 자기신체사고</text><text x="650" y="259" font-weight="700">1점</text>
+<rect x="60" y="290" width="680" height="54" rx="10" fill="#fde7e7"/><text x="90" y="324">상대 부상 8~12급</text><text x="650" y="324" font-weight="700">2점</text>
+<rect x="60" y="355" width="680" height="54" rx="10" fill="#fde7e7"/><text x="90" y="389">상대 부상 2~7급</text><text x="650" y="389" font-weight="700">3점</text>
+<rect x="60" y="420" width="680" height="40" rx="10" fill="#f1f3f4"/><text x="90" y="447">사망</text><text x="650" y="447" font-weight="700">4점</text>
+</g>
+</svg>
