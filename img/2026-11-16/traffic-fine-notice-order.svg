@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">교통 과태료 고지서가 오는 순서 (11월 18일 시범)</text>
+<g font-size="19" text-anchor="middle">
+<rect x="40" y="100" width="200" height="120" rx="16" fill="#fee500"/><text x="140" y="148" font-weight="700" fill="#202124">① 카카오 알림톡</text><text x="140" y="180" fill="#202124">'경찰청 교통' 채널</text>
+<rect x="300" y="100" width="200" height="120" rx="16" fill="#e8f0fe"/><text x="400" y="148" font-weight="700" fill="#1a56db">② PASS 전자고지</text><text x="400" y="180" fill="#202124">PASS 앱 안에서만</text>
+<rect x="560" y="100" width="200" height="120" rx="16" fill="#f1f3f4"/><text x="660" y="148" font-weight="700" fill="#202124">③ 종이 우편</text><text x="660" y="180" fill="#202124">예전처럼 집으로</text>
+</g>
+<g font-size="16" fill="#c5221f" text-anchor="middle"><text x="270" y="250">24시간 안 열면</text><text x="530" y="250">24시간 안 열면</text></g>
+<path d="M245 160 L292 160" stroke="#9aa0a6" stroke-width="4"/><path d="M285 152 L297 160 L285 168" fill="#9aa0a6"/>
+<path d="M505 160 L552 160" stroke="#9aa0a6" stroke-width="4"/><path d="M545 152 L557 160 L545 168" fill="#9aa0a6"/>
+<text x="400" y="310" text-anchor="middle" font-size="20" font-weight="700" fill="#c5221f">일반 문자(SMS)로는 보내지 않아요 → 문자 링크는 의심</text>
+<text x="400" y="372" text-anchor="middle" font-size="16" fill="#5f6368">출처: 경찰청 보도자료 '교통 과태료 고지서, 이제 카카오톡·PASS로'(2026-11-16 조간)</text>
+</svg>
