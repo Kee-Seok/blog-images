@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" font-family="sans-serif">
+<rect width="900" height="400" fill="#ffffff"/>
+<text x="450" y="44" text-anchor="middle" font-size="27" font-weight="700" fill="#202124">울거나 아프셨던 꿈, 누가 그랬는지로 갈려요</text>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<rect x="24" y="76" width="200" height="290" rx="14" fill="#e8f5e9" stroke="#34a853" stroke-width="2"/>
+<text x="124" y="120" font-weight="700" font-size="22">내가 울었음</text>
+<text x="124" y="170">막힌 마음이 풀림</text>
+<text x="124" y="204">그리움을 털어냄</text>
+<text x="124" y="336" fill="#5f6368" font-size="16">흔한 꿈이에요</text>
+<rect x="244" y="76" width="200" height="290" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="344" y="120" font-weight="700" font-size="22">할머니가 우심</text>
+<text x="344" y="170">집안 일을</text>
+<text x="344" y="204">한 번 살필 때</text>
+<text x="344" y="336" fill="#5f6368" font-size="16">가족 안부 전화</text>
+<rect x="464" y="76" width="200" height="290" rx="14" fill="#fff8e1" stroke="#f9ab00" stroke-width="2"/>
+<text x="564" y="120" font-weight="700" font-size="22">아프거나 다치심</text>
+<text x="564" y="170">내 몸을</text>
+<text x="564" y="204">돌보라는 귀띔</text>
+<text x="564" y="336" fill="#5f6368" font-size="16">미룬 검진 챙기기</text>
+<rect x="684" y="76" width="192" height="290" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="780" y="120" font-weight="700" font-size="22">다시 돌아가심</text>
+<text x="780" y="170">걱정이 끝나고</text>
+<text x="780" y="204">새로 시작함</text>
+<text x="780" y="336" fill="#5f6368" font-size="16">장례 꿈과 같은 결</text>
+</g>
+<text x="450" y="392" text-anchor="middle" font-size="14" fill="#5f6368">전통 해몽 풀이 정리 · 앞일을 정해 주는 말은 아니에요</text>
+</svg>
