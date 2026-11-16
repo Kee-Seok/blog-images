@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">공인중개사 합격 기준: 과락 40점 · 평균 60점</text>
+<g font-size="17" fill="#202124">
+<text x="60" y="100" font-weight="700">예시 A (1차 2과목)</text>
+<rect x="60" y="115" width="300" height="26" fill="#e8e3f6"/><rect x="60" y="115" width="195" height="26" fill="#6B47C2"/><text x="370" y="134">65점</text>
+<rect x="60" y="150" width="300" height="26" fill="#e8e3f6"/><rect x="60" y="150" width="165" height="26" fill="#6B47C2"/><text x="370" y="169">55점</text>
+<text x="60" y="210" fill="#1e8e4e" font-weight="700">평균 60점 · 모두 40점 이상 → 합격</text>
+<text x="440" y="100" font-weight="700">예시 B (1차 2과목)</text>
+<rect x="440" y="115" width="300" height="26" fill="#e8e3f6"/><rect x="440" y="115" width="255" height="26" fill="#6B47C2"/><text x="750" y="134" text-anchor="end" fill="#ffffff">85점</text>
+<rect x="440" y="150" width="300" height="26" fill="#e8e3f6"/><rect x="440" y="150" width="105" height="26" fill="#d93025"/><text x="555" y="169">35점</text>
+<text x="440" y="210" fill="#d93025" font-weight="700">평균 60점이어도 35점 과락 → 불합격</text>
+</g>
+<line x1="60" y1="250" x2="740" y2="250" stroke="#dadce0"/>
+<g font-size="17" fill="#202124">
+<text x="60" y="292">· 1차·2차 모두 매과목 100점 만점, 40점 이상 + 전과목 평균 60점 이상</text>
+<text x="60" y="326">· 같은 날 치른 시험에서 1차 불합격이면 2차는 점수와 상관없이 무효</text>
+<text x="60" y="360">· 1차 합격자는 다음 회(2027년 제38회) 시험에 한해 1차 면제</text>
+</g>
+<text x="400" y="408" text-anchor="middle" font-size="14" fill="#5f6368">근거: 공인중개사법 시행령 제5조·제10조 (2026년 11월 17일 국가법령정보센터 확인)</text>
+</svg>
