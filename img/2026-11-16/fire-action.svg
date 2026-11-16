@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="44" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">불 앞에서 나는 무엇을 했나요?</text>
+<g font-size="19" fill="#202124" text-anchor="middle">
+<rect x="30" y="80" width="175" height="230" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/><text x="117" y="125" font-weight="700" font-size="21">바라봄</text><text x="117" y="175">들어오는 운을</text><text x="117" y="205">그대로 받음</text>
+<rect x="220" y="80" width="175" height="230" rx="14" fill="#fff8e1" stroke="#fbc400" stroke-width="2"/><text x="307" y="125" font-weight="700" font-size="21">불을 끔</text><text x="307" y="175">일을 직접</text><text x="307" y="205">정리·수습함</text>
+<rect x="410" y="80" width="175" height="230" rx="14" fill="#f3f8ff" stroke="#1a73e8" stroke-width="2"/><text x="497" y="125" font-weight="700" font-size="21">도망·대피</text><text x="497" y="175">부담에서</text><text x="497" y="205">벗어나고 싶음</text>
+<rect x="600" y="80" width="175" height="230" rx="14" fill="#fce8e6" stroke="#d93025" stroke-width="2"/><text x="687" y="125" font-weight="700" font-size="21">불을 냄</text><text x="687" y="175">내가 일을</text><text x="687" y="205">먼저 벌임</text>
+</g>
+<text x="400" y="360" font-size="17" text-anchor="middle" fill="#5f6368">전통 해몽 풀이예요. 꿈은 마음을 돌아보는 참고로만 보세요</text>
+</svg>
