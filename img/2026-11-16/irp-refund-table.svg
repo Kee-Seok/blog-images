@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="48" font-size="28" font-weight="700" text-anchor="middle" fill="#202124">IRP에 더 넣는 돈별 돌아오는 세금</text>
+<text x="400" y="80" font-size="17" text-anchor="middle" fill="#5f6368">소득세법 제59조의3 · 지방소득세 포함 · 2026-11-16 확인</text>
+<rect x="60" y="105" width="680" height="52" fill="#1a73e8" rx="8"/>
+<text x="170" y="139" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">더 넣는 돈</text>
+<text x="400" y="139" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">총급여 5,500만원 이하 (16.5%)</text>
+<text x="640" y="139" font-size="20" font-weight="700" text-anchor="middle" fill="#ffffff">초과 (13.2%)</text>
+<g font-size="22" fill="#202124">
+<rect x="60" y="162" width="680" height="64" fill="#f8f9fa"/>
+<text x="170" y="203" text-anchor="middle">100만원</text><text x="400" y="203" text-anchor="middle">16만 5천원</text><text x="640" y="203" text-anchor="middle">13만 2천원</text>
+<text x="170" y="267" text-anchor="middle">300만원</text><text x="400" y="267" text-anchor="middle" font-weight="700" fill="#d93025">49만 5천원</text><text x="640" y="267" text-anchor="middle">39만 6천원</text>
+<rect x="60" y="290" width="680" height="64" fill="#f8f9fa"/>
+<text x="170" y="331" text-anchor="middle">600만원</text><text x="400" y="331" text-anchor="middle">99만원</text><text x="640" y="331" text-anchor="middle">79만 2천원</text>
+<text x="170" y="395" text-anchor="middle">900만원</text><text x="400" y="395" text-anchor="middle">148만 5천원</text><text x="640" y="395" text-anchor="middle">118만 8천원</text>
+</g>
+<text x="400" y="440" font-size="16" text-anchor="middle" fill="#5f6368">연금저축과 IRP를 합쳐 한 해 900만원까지 · 낸 세금(결정세액)보다 많이 돌아오지 않음</text>
+</svg>
