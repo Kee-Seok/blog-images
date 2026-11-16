@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="400" y="42" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">빌린 돈별 1년 적정 이자 (연 4.6%)와 1천만원 선</text>
+<line x1="80" y1="370" x2="760" y2="370" stroke="#5f6368"/>
+<line x1="80" y1="190" x2="760" y2="190" stroke="#d93025" stroke-width="3" stroke-dasharray="10 6"/>
+<text x="755" y="180" text-anchor="end" font-size="17" fill="#d93025" font-weight="700">1천만원 넘으면 차액 전부 증여</text>
+<rect x="110" y="298" width="110" height="72" fill="#8ab4f8"/><text x="165" y="290" text-anchor="middle" font-size="18" fill="#202124">460만원</text><text x="165" y="398" text-anchor="middle" font-size="18" fill="#202124">1억원</text>
+<rect x="270" y="190" width="110" height="180" fill="#81c995"/><text x="325" y="230" text-anchor="middle" font-size="17" fill="#202124">약 1,000만원</text><text x="325" y="398" text-anchor="middle" font-size="18" fill="#202124">2억1,739만원</text>
+<rect x="430" y="154" width="110" height="216" fill="#f28b82"/><text x="485" y="146" text-anchor="middle" font-size="18" fill="#202124">1,380만원</text><text x="485" y="398" text-anchor="middle" font-size="18" fill="#202124">3억원</text>
+<rect x="590" y="70" width="110" height="300" fill="#f28b82"/><text x="645" y="62" text-anchor="middle" font-size="18" fill="#202124">2,300만원</text><text x="645" y="398" text-anchor="middle" font-size="18" fill="#202124">5억원</text>
+<text x="400" y="430" text-anchor="middle" font-size="15" fill="#5f6368">무이자로 빌렸을 때 · 상속세 및 증여세법 제41조의4, 2026년 11월 확인</text>
+</svg>
