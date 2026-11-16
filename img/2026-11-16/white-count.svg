@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 580" width="1200" height="580" font-family="Pretendard, Apple SD Gothic Neo, Malgun Gothic, sans-serif">
+<rect width="1200" height="580" fill="#ffffff"/>
+<rect x="0" y="0" width="1200" height="110" fill="#1a73e8"/>
+<text x="600" y="72" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle">흰머리가 얼마나 났나요</text>
+<rect x="60" y="150" width="1080" height="105" rx="18" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<rect x="60" y="150" width="380" height="105" rx="18" fill="#1a73e8" opacity="0.14"/>
+<text x="250" y="215" font-size="36" font-weight="700" fill="#202124" text-anchor="middle">한두 가닥</text>
+<text x="470" y="215" font-size="34" fill="#202124">→ 작은 걱정이 하나 생김</text>
+<rect x="60" y="280" width="1080" height="105" rx="18" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<rect x="60" y="280" width="380" height="105" rx="18" fill="#1a73e8" opacity="0.14"/>
+<text x="250" y="345" font-size="36" font-weight="700" fill="#202124" text-anchor="middle">절반쯤 희끗</text>
+<text x="470" y="345" font-size="34" fill="#202124">→ 일이 무르익어 가는 중</text>
+<rect x="60" y="410" width="1080" height="105" rx="18" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<rect x="60" y="410" width="380" height="105" rx="18" fill="#1a73e8" opacity="0.14"/>
+<text x="250" y="475" font-size="36" font-weight="700" fill="#202124" text-anchor="middle">전부 하얗게</text>
+<text x="470" y="475" font-size="34" fill="#202124">→ 큰 고비 뒤 명예·인정</text>
+</svg>
