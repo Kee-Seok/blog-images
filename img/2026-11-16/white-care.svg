@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 710" width="1200" height="710" font-family="Pretendard, Apple SD Gothic Neo, Malgun Gothic, sans-serif">
+<rect width="1200" height="710" fill="#ffffff"/>
+<rect x="0" y="0" width="1200" height="110" fill="#188038"/>
+<text x="600" y="72" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle">흰머리를 어떻게 했나요</text>
+<rect x="60" y="150" width="1080" height="105" rx="18" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<rect x="60" y="150" width="380" height="105" rx="18" fill="#188038" opacity="0.14"/>
+<text x="250" y="215" font-size="36" font-weight="700" fill="#202124" text-anchor="middle">뽑았다</text>
+<text x="470" y="215" font-size="34" fill="#202124">→ 묵은 근심을 덜어 냄</text>
+<rect x="60" y="280" width="1080" height="105" rx="18" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<rect x="60" y="280" width="380" height="105" rx="18" fill="#188038" opacity="0.14"/>
+<text x="250" y="345" font-size="36" font-weight="700" fill="#202124" text-anchor="middle">남이 뽑아 줬다</text>
+<text x="470" y="345" font-size="34" fill="#202124">→ 도와주는 사람이 생김</text>
+<rect x="60" y="410" width="1080" height="105" rx="18" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<rect x="60" y="410" width="380" height="105" rx="18" fill="#188038" opacity="0.14"/>
+<text x="250" y="475" font-size="36" font-weight="700" fill="#202124" text-anchor="middle">염색했다</text>
+<text x="470" y="475" font-size="34" fill="#202124">→ 새 출발, 감추고 싶은 마음</text>
+<rect x="60" y="540" width="1080" height="105" rx="18" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<rect x="60" y="540" width="380" height="105" rx="18" fill="#188038" opacity="0.14"/>
+<text x="250" y="605" font-size="36" font-weight="700" fill="#202124" text-anchor="middle">잘라 냈다</text>
+<text x="470" y="605" font-size="34" fill="#202124">→ 걱정을 끊고 정리함</text>
+</svg>
