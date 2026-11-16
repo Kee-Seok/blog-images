@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="46" font-size="27" font-weight="700" text-anchor="middle" fill="#202124">공제 못 받은 IRP 납입액, 버리지 말고 넘기기</text>
+<text x="400" y="78" font-size="17" text-anchor="middle" fill="#5f6368">소득세법 시행령 제118조의3 · 2026-11-16 확인</text>
+<g font-size="20" fill="#202124">
+<rect x="40" y="115" width="220" height="170" rx="14" fill="#fff8e1" stroke="#fbc400" stroke-width="2"/>
+<text x="150" y="160" text-anchor="middle" font-weight="700">올해</text>
+<text x="150" y="200" text-anchor="middle">한도 넘게 넣었거나</text>
+<text x="150" y="232" text-anchor="middle">세금이 적어서</text>
+<text x="150" y="264" text-anchor="middle">공제 못 받은 돈</text>
+<rect x="290" y="115" width="220" height="170" rx="14" fill="#f3f8ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="400" y="160" text-anchor="middle" font-weight="700">다음 해</text>
+<text x="400" y="200" text-anchor="middle">가입한 금융회사에</text>
+<text x="400" y="232" text-anchor="middle">전환 신청</text>
+<rect x="540" y="115" width="220" height="170" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="650" y="160" text-anchor="middle" font-weight="700">결과</text>
+<text x="650" y="200" text-anchor="middle">신청한 날 새로</text>
+<text x="650" y="232" text-anchor="middle">넣은 돈으로 보고</text>
+<text x="650" y="264" text-anchor="middle">그해 공제에 넣음</text>
+</g>
+<path d="M262 200 L286 200" stroke="#5f6368" stroke-width="3" marker-end="url(#a)"/>
+<path d="M512 200 L536 200" stroke="#5f6368" stroke-width="3" marker-end="url(#a)"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="6" refY="5" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#5f6368"/></marker></defs>
+<text x="400" y="340" font-size="18" text-anchor="middle" fill="#202124">넘긴 돈도 그해 900만원 한도 안에서만 공제돼요</text>
+<text x="400" y="372" font-size="16" text-anchor="middle" fill="#5f6368">그해 새로 넣는 돈과 합쳐서 한도를 셉니다</text>
+</svg>
