@@ -1,0 +1,112 @@
+<p data-ke-size="size16">공인중개사 합격자 발표는 <b>2026년 12월 2일(수)</b>이에요. 10월 31일에 치른 제37회 1·2차 결과를 큐넷 공인중개사 화면의 '합격자발표' 메뉴에서 볼 수 있고, 조회는 <b>2027년 1월 31일까지</b> 열려 있습니다. 예전처럼 전화(ARS)로 듣는 방법은 없어졌습니다.</p>
+<!-- 훅:start --><p data-ke-size="size16" style="background:#fff8e1;border-left:4px solid #fbc400;padding:10px 12px;color:#202124">합격이면 이제부터가 진짜 일정이에요. 자격증은 사는 시·도에서 따로 받아야 하고, 개업하거나 중개사무소에 들어가려면 실무교육 45시간을 먼저 채워야 해요. 1차만 붙었다면 내년 시험에서 1차를 건너뛸 수 있는지도 점수표에서 갈립니다. 내 경우는 아래 표에서 찾아보세요.</p><!-- 훅:end -->
+<!-- toc:start --><div style="margin:1.2em 0;padding:14px 18px;border:1px solid #e1e6ee;border-radius:12px;background:#ffffff;color:#202124"><p style="margin:0 0 6px;font-weight:700;color:#202124">목차</p><ol style="margin:0;padding-left:22px;line-height:1.8;color:#202124"><li><a href="#s01" style="color:#1a73e8">37회 공인중개사 합격자 발표 날짜와 조회 기간</a></li><li><a href="#s02" style="color:#1a73e8">공인중개사 합격자 발표 시간은 몇 시?</a></li><li><a href="#s03" style="color:#1a73e8">큐넷 공인중개사 합격자발표조회 순서</a></li><li><a href="#s04" style="color:#1a73e8">전화 ARS 합격자 발표는 이제 없어요</a></li><li><a href="#s05" style="color:#1a73e8">공인중개사 합격 기준, 내 점수로 가르기</a></li><li><a href="#s06" style="color:#1a73e8">1차만 합격했다면, 내년엔 2차만</a></li><li><a href="#s07" style="color:#1a73e8">공인중개사 합격증, 큐넷 확인서로 먼저 뽑기</a></li><li><a href="#s08" style="color:#1a73e8">공인중개사 자격증 발급 언제, 어디서</a></li><li><a href="#s09" style="color:#1a73e8">공인중개사 합격 후 실무교육 45시간</a></li><li><a href="#s10" style="color:#1a73e8">바로 개업하려면 챙길 것</a></li><li><a href="#s11" style="color:#1a73e8">발표 앞두고 많이 묻는 것</a></li></ol></div><!-- toc:end -->
+<!-- 요약:start --><div style="margin:1.4em 0;padding:16px 18px;background:#f7f9fc;border:1px solid #e1e6ee;border-radius:12px;color:#202124"><p style="margin:0 0 8px;font-weight:700;color:#202124">먼저 이것만</p><ul style="margin:0;padding-left:20px;line-height:1.7;color:#202124"><li>발표: 12월 2일(수), 최종정답도 같은 날 오전 9시 공개</li><li>조회: 큐넷 공인중개사 → 합격자발표 (2027.1.31까지)</li><li>합격 기준: 매과목 40점 이상 + 평균 60점 이상</li><li>자격증: 발표 후 1개월 안에 시·도가 교부</li><li>개업 전: 실무교육 45시간, 보증 2억원 이상(개인)</li></ul></div><!-- 요약:end -->
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@e9fcdb12150efb5bd604c454f975d4e372dd2345/img/2026-11-17/realtor-pass-announce-thumb-2026.jpg" alt="공인중개사 합격자 발표 2026, 37회는 12월 2일 큐넷 조회" style="max-width:100%;height:auto" /></p>
+<h2 id="s01" data-ke-size="size26">37회 공인중개사 합격자 발표 날짜와 조회 기간</h2>
+<p data-ke-size="size16">시험이 끝나고 한 달이 꽤 길게 느껴지셨죠. 큐넷 공인중개사 화면의 시험 일정표에 올라온 날짜를 그대로 옮기면 아래와 같습니다. 가답안 의견 제시는 이미 11월 6일에 끝났고, 남은 건 발표뿐입니다.</p>
+<table style="border-collapse:collapse;width:100%;margin:12px 0" data-ke-style="style12"><tbody>
+<tr><th style="border:1px solid #dadce0;padding:8px;background:#f1f3f4;color:#202124">무엇</th><th style="border:1px solid #dadce0;padding:8px;background:#f1f3f4;color:#202124">날짜</th></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">1·2차 시험(같은 날)</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">2026년 10월 31일(토)</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">가답안 공개·의견 제시</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">10월 31일 ~ 11월 6일</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">최종정답 공개</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">12월 2일 ~ 2027년 1월 31일</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124"><b>합격자 발표(조회 기간)</b></td><td style="border:1px solid #dadce0;padding:8px;color:#202124"><b>12월 2일 ~ 2027년 1월 31일</b></td></tr>
+</tbody></table>
+<p data-ke-size="size16" style="font-size:13px;color:#5f6368">출처: 큐넷 공인중개사 시험 일정(제37회 1차·2차), 2026년 11월 17일 확인</p>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@e9fcdb12150efb5bd604c454f975d4e372dd2345/img/2026-11-17/realtor-37-schedule.svg" alt="제37회 공인중개사 시험 뒤 일정, 12월 2일 합격자 발표" style="max-width:100%;height:auto" /></p>
+<p data-ke-size="size16">조회 기간이 두 달 가까이 되니까 발표 날 아침에 접속이 몰려서 안 열려도 조급해할 필요는 없어요. 다만 1월 31일이 지나면 이 메뉴에서 결과를 다시 보기 어려우니, 결과 화면은 캡처해 두는 게 편합니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 id="s02" data-ke-size="size26">공인중개사 합격자 발표 시간은 몇 시?</h2>
+<p data-ke-size="size16">큐넷 '가답안 및 최종정답 공개' 화면에는 제37회 공인중개사 1차·2차 최종정답이 <b>12월 2일 오전 9시</b>부터 공개된다고 나와 있습니다. 합격자 조회도 같은 날 열리지만, 일정표에는 날짜만 있고 시·분은 따로 적혀 있지 않습니다. 그래서 오전 9시 무렵 큐넷 공인중개사 공지사항을 한 번 보고 들어가시는 걸 권해요.</p>
+<p data-ke-size="size16">'공인중개사 합격자 발표전 보는법'을 찾는 분도 많은데, 공식적으로 발표 전에 미리 결과를 보여 주는 화면은 없습니다. 지금 할 수 있는 건 가답안으로 해 둔 가채점을 최종정답과 다시 맞춰 보는 정도입니다. 가채점 방법은 <a href="/entry/%EA%B3%B5%EC%9D%B8%EC%A4%91%EA%B0%9C%EC%82%AC-%EA%B0%80%EC%B1%84%EC%A0%90-%EB%B0%A9%EB%B2%95-2026-48%EB%AC%B8%EC%A0%9C-%EB%A7%9E%EC%9C%BC%EB%A9%B4-1%EC%B0%A8-%EB%B6%99%EC%9D%84%EA%B9%8C">공인중개사 가채점 방법 2026</a>에 문제 수로 정리해 뒀습니다.</p>
+<h2 id="s03" data-ke-size="size26">큐넷 공인중개사 합격자발표조회 순서</h2>
+<p data-ke-size="size16">큐넷 첫 화면에서 '전문자격'을 고르고 공인중개사로 들어가면 위쪽에 원서접수·합격자발표·확인서발급 메뉴가 나란히 있습니다. 공인중개사 합격자발표조회는 여기서 '합격자발표'를 누르면 됩니다. 사람이 몰리면 대기 순서 화면이 먼저 뜨는데, 새로고침하면 순서가 뒤로 밀리니 그대로 기다리는 게 빨라요.</p>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@e9fcdb12150efb5bd604c454f975d4e372dd2345/img/2026-11-17/realtor-result-check-steps.svg" alt="큐넷 공인중개사 합격자발표조회 4단계" style="max-width:100%;height:auto" /></p>
+<center><a class="myButton1" href="https://www.q-net.or.kr/anc001.do?id=anc00101&amp;gSite=L&amp;gId=08" target="_blank" rel="noopener">큐넷 합격자발표 화면 열기</a></center>
+<p data-ke-size="size16">결과 화면에서는 합격·불합격만 보지 말고 과목별 점수까지 꼭 내려 보세요. 1차는 붙고 2차가 떨어진 경우, 내년 계획이 이 숫자로 정해지거든요. 수험번호가 기억나지 않으면 원서 접수 때 출력한 수험표를 찾아 두세요. 예전에 수험표를 뽑은 화면은 <a href="/entry/%EA%B3%B5%EC%9D%B8%EC%A4%91%EA%B0%9C%EC%82%AC-%EC%88%98%ED%97%98%ED%91%9C-%EC%B6%9C%EB%A0%A5%EB%B0%A9%EB%B2%95-37%ED%9A%8C%EB%8A%94-%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80-%EB%BD%91%EC%9D%84-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-2026">공인중개사 수험표 출력방법</a>에 있어요.</p>
+<h2 id="s04" data-ke-size="size26">전화 ARS 합격자 발표는 이제 없어요</h2>
+<p data-ke-size="size16">부모님 세대 수험생은 발표 날 전화로 결과를 듣던 기억이 있으실 텐데요. 큐넷 공인중개사 공지사항에 '국가자격 ARS 합격자 발표 서비스 종료 안내'가 올라와 있죠. 올해는 인터넷 큐넷 화면에서 직접 보셔야 합니다. 컴퓨터가 익숙하지 않은 가족이 시험을 봤다면, 발표 날 휴대폰 브라우저로 큐넷에 같이 들어가 보는 게 제일 빠릅니다.</p>
+<p data-ke-size="size16">화면에서 막히면 한국산업인력공단 고객센터 1644-8000(평일 오전 9시~오후 6시, 유료)으로 물어볼 수 있습니다. 결과를 대신 불러 주는 전화가 아니라 이용 방법을 안내하는 곳이라는 점은 알고 걸어 주세요.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 id="s05" data-ke-size="size26">공인중개사 합격 기준, 내 점수로 가르기</h2>
+<p data-ke-size="size16">공인중개사 시험은 상대평가가 아니라 정해진 점수를 넘으면 붙는 방식입니다. 공인중개사법 시행령 제10조는 1차·2차 모두 <b>매과목 100점 만점에 40점 이상, 전과목 평균 60점 이상</b>을 합격으로 정하고 있습니다. 평균이 넘어도 한 과목이 40점 아래면 떨어지는 게 가장 많이 놓치는 부분입니다.</p>
+<table style="border-collapse:collapse;width:100%;margin:12px 0" data-ke-style="style12"><tbody>
+<tr><th style="border:1px solid #dadce0;padding:8px;background:#f1f3f4;color:#202124">내 점수표가 이렇다면</th><th style="border:1px solid #dadce0;padding:8px;background:#f1f3f4;color:#202124">결과와 다음 할 일</th></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">1차·2차 모두 과목 40점↑, 평균 60점↑</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">최종 합격 → 자격증 교부 안내 기다리기, 실무교육 알아보기</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">1차 합격, 2차 불합격</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">2027년 제38회는 2차만 응시(1차 면제)</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">1차 불합격(2차 점수는 높음)</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">2차는 무효 → 내년 1·2차 모두 다시</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">평균 60점 넘었지만 한 과목 40점 미만</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">그 차수 불합격(과락)</td></tr>
+</tbody></table>
+<p data-ke-size="size16" style="font-size:13px;color:#5f6368">근거: 공인중개사법 시행령 제5조(시험방법 및 일부면제)·제10조(합격자 결정), 2026년 11월 17일 국가법령정보센터 확인. 선발예정인원을 미리 공고한 해는 2차 결정 방식이 달라질 수 있는데, 제37회 일정표에는 그런 안내가 보이지 않았어요.</p>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@e9fcdb12150efb5bd604c454f975d4e372dd2345/img/2026-11-17/realtor-pass-criteria.svg" alt="공인중개사 합격 기준 과락 40점 평균 60점 예시" style="max-width:100%;height:auto" /></p>
+<h2 id="s06" data-ke-size="size26">1차만 합격했다면, 내년엔 2차만</h2>
+<p data-ke-size="size16">시행령 제5조 6항에 따라 1차 합격자는 <b>다음 회 시험에 한해</b> 1차를 면제받습니다. 이번 37회에서 1차만 붙었다면 2027년 제38회에서 2차만 보면 되고, 그 다음 해로 넘어가면 다시 1차부터고요. 한 해 쉬어 가려는 분은 이 점을 꼭 계산에 넣으세요.</p>
+<p data-ke-size="size16">반대로 1차가 떨어졌는데 2차 점수가 높게 나온 분도 계시죠. 1·2차를 같은 날 치르는 경우 1차 불합격자의 2차는 무효라서(제5조 3항) 2차 점수를 내년에 가져갈 수 없습니다. 아쉽지만 내년엔 두 차수를 모두 준비해야 합니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 id="s07" data-ke-size="size26">공인중개사 합격증, 큐넷 확인서로 먼저 뽑기</h2>
+<p data-ke-size="size16">자격증 실물이 나오기 전에 회사나 학원에 합격 사실을 내야 할 때가 있죠. 그럴 땐 큐넷 공인중개사의 '확인서발급' 메뉴를 씁니다. 개인회원으로 로그인해서 확인서를 신청하고, '확인서발급내역'에서 인쇄하는 순서입니다. 받은 쪽은 로그인 없이 '문서 진위 확인'으로 진짜인지 볼 수 있고요.</p>
+<p data-ke-size="size16">큐넷 안내에 따르면 미리보기 화면 아래 열기 버튼이 안 보이거나 '액세스가 거부되었습니다'가 뜨면 크롬 브라우저로 다시 출력하라고 되어 있습니다. 회사 컴퓨터에서 막히는 경우가 이 때문인 경우가 많습니다.</p>
+<h2 id="s08" data-ke-size="size26">공인중개사 자격증 발급 언제, 어디서</h2>
+<p data-ke-size="size16">공인중개사 자격증 발급은 큐넷이 아니라 <b>시·도</b>가 맡습니다. 공인중개사법 시행규칙 제3조는 시·도지사가 합격자 결정 공고일부터 <b>1개월 안에</b> 자격증을 교부하도록 정하고 있습니다. 12월 2일 발표라면 늦어도 2027년 1월 초까지는 교부가 시작된다는 뜻이죠.</p>
+<p data-ke-size="size16">실제 사례로, 작년 제36회 때 울산시는 11월 26일 발표 뒤 12월 15일부터 자격증을 교부한다고 알렸습니다(경상일보 2025년 11월 27일 보도). 받는 방법(방문·우편)과 사진 등록 여부는 시·도마다 공지가 달라서, '공인중개사 합격후 사진등록방법'은 법령에 정해진 게 아니라 사는 시·도청 홈페이지 공지를 봐야 정확합니다. 발표 다음 주쯤 시·도청 '공고·고시'에서 '공인중개사 자격증 교부'로 찾아보세요.</p>
+<p data-ke-size="size16">잃어버리면 자격증을 내준 시·도에 재교부 신청서를 내면 됩니다(시행규칙 제3조 2항). 이사를 했어도 처음 교부한 곳에 내는 게 원칙입니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 id="s09" data-ke-size="size26">공인중개사 합격 후 실무교육 45시간</h2>
+<p data-ke-size="size16">공인중개사 합격 후 실무교육은 개업하려는 분도, 다른 중개사무소에 소속공인중개사로 들어가려는 분도 받아야 합니다. 공인중개사법 시행령 제28조는 실무교육 시간을 <b>45시간</b>으로 정하고 있거든요. 2025년 10월 21일 개정으로 바뀐 숫자라, 예전 글에 나오는 28~32시간은 지금 기준이 아닙니다.</p>
+<p data-ke-size="size16">실무교육을 받은 뒤에는 <b>2년마다 연수교육 12~16시간</b>이 따라옵니다. 시·도가 기한 2개월 전까지 일정을 알려 주게 되어 있으니, 개업 뒤 주소나 연락처가 바뀌면 등록관청에 꼭 반영해 두세요. '공인중개사 합격후 실무교육 장소'는 시·도가 지정하거나 위탁한 교육기관이라 지역마다 다릅니다. 자격증 교부 공지에 함께 안내되는 경우가 많습니다.</p>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@e9fcdb12150efb5bd604c454f975d4e372dd2345/img/2026-11-17/realtor-after-pass-steps.svg" alt="공인중개사 합격 후 자격증 실무교육 개설등록 순서" style="max-width:100%;height:auto" /></p>
+<h2 id="s10" data-ke-size="size26">바로 개업하려면 챙길 것</h2>
+<p data-ke-size="size16">합격하자마자 사무소를 열 계획이라면 순서를 거꾸로 세어 보세요. 실무교육 수료, 사무소 확보, 개설등록, 보증 가입이 모두 끝나야 첫 계약을 받을 수 있습니다.</p>
+<table style="border-collapse:collapse;width:100%;margin:12px 0" data-ke-style="style12"><tbody>
+<tr><th style="border:1px solid #dadce0;padding:8px;background:#f1f3f4;color:#202124">준비할 것</th><th style="border:1px solid #dadce0;padding:8px;background:#f1f3f4;color:#202124">기준</th><th style="border:1px solid #dadce0;padding:8px;background:#f1f3f4;color:#202124">근거</th></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">실무교육</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">45시간 수료</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">시행령 제13조·제28조</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">중개사무소</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">건축물대장에 올라간 건물, 소유·전세·임대 등으로 사용권 확보</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">시행령 제13조</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">손해배상 보증</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">개인 2억원 이상, 법인 4억원 이상(분사무소마다 2억원 추가)</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">시행령 제24조</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">보증 신고</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">개설등록 후, 업무 시작 전에 증명서류를 등록관청에</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">시행령 제24조 2항</td></tr>
+</tbody></table>
+<p data-ke-size="size16">보증은 보증보험·공제·공탁 중 하나로 하면 되고, 보증기관이 등록관청에 직접 알려 주면 따로 신고하지 않아도 됩니다. 가가호호 발품을 팔기 전에 사무소 자리가 건축물대장에 제대로 올라가 있는지부터 떼어 보는 게 시간을 아끼는 길입니다.</p>
+<h2 id="s11" data-ke-size="size26">발표 앞두고 많이 묻는 것</h2>
+<h3 data-ke-size="size23">공인중개사 합격자 발표 날짜가 바뀔 수도 있나요?</h3>
+<p data-ke-size="size16">11월 17일 기준 큐넷 일정표의 합격자 발표 기간은 12월 2일부터입니다. 바뀌면 큐넷 공인중개사 공지사항에 먼저 올라오니 발표 전날 한 번 확인해 보세요.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h3 data-ke-size="size23">공인중개사 자격증 발급 조회는 어디서 하나요?</h3>
+<p data-ke-size="size16">자격증은 시·도가 교부해서 큐넷에서 실물 발급 상태를 보는 메뉴는 없습니다. 사는 시·도청 공고를 보거나 담당 부서에 물어보세요. 합격 사실 증명이 급하면 큐넷 확인서를 먼저 뽑으면 됩니다.</p>
+<h3 data-ke-size="size23">1차 면제는 몇 년 동안 되나요?</h3>
+<p data-ke-size="size16">다음 회 한 번뿐입니다. 37회 1차 합격이면 2027년 제38회에서만 면제돼요.</p>
+<h3 data-ke-size="size23">실무교육 없이 중개사무소에 취업할 수 있나요?</h3>
+<p data-ke-size="size16">소속공인중개사로 일하려 해도 실무교육을 받아야 해요. 교육 시간은 개업과 같은 45시간입니다.</p>
+<!-- 전환:start --><div style="margin:28px 0;padding:18px;border:2px solid #1a73e8;border-radius:14px;background:#f3f8ff;color:#202124"><p style="margin:0 0 6px;font-weight:700;font-size:17px;color:#202124">합격이 뜨면, 증명서부터 손에 쥐기</p><p style="margin:0 0 12px;line-height:1.7;color:#202124">자격증 실물은 시·도에서 한 달 안에 나오지만, 회사·교육기관에 합격 사실을 내야 하는 날은 더 빨리 올 수 있습니다. 큐넷 확인서는 로그인만 하면 그날 바로 인쇄됩니다.</p><center><a class="myButton1" href="https://www.q-net.or.kr/iss001.do?id=iss00101&amp;gSite=L&amp;gId=08" target="_blank" rel="noopener">큐넷 합격 확인서 뽑기</a></center><p style="margin:12px 0 0;line-height:1.7;color:#202124">결과를 아직 안 봤다면 <a href="https://www.q-net.or.kr/anc001.do?id=anc00101&amp;gSite=L&amp;gId=08" target="_blank" rel="noopener" style="color:#1a56db;text-decoration:underline">큐넷 합격자발표</a>부터 들어가세요.</p></div><!-- 전환:end -->
+<!-- cluster-links:start --><div style="border:1px solid #dadce0;border-radius:8px;padding:14px 16px;margin:24px 0;background:#f8f9fa;"><p style="margin:0 0 6px;font-weight:bold;color:#202124;">같이 많이 찾는 신청·조회</p><ul style="margin:0;padding-left:18px;"><li style="margin:6px 0;color:#202124;"><a href="/entry/%EA%B3%B5%EC%9D%B8%EC%A4%91%EA%B0%9C%EC%82%AC-%EA%B0%80%EC%B1%84%EC%A0%90-%EB%B0%A9%EB%B2%95-2026-48%EB%AC%B8%EC%A0%9C-%EB%A7%9E%EC%9C%BC%EB%A9%B4-1%EC%B0%A8-%EB%B6%99%EC%9D%84%EA%B9%8C" style="color:#1a56db;text-decoration:underline;">공인중개사 가채점 방법 2026</a></li><li style="margin:6px 0;color:#202124;"><a href="/entry/%EA%B3%B5%EC%9D%B8%EC%A4%91%EA%B0%9C%EC%82%AC-%EC%88%98%ED%97%98%ED%91%9C-%EC%B6%9C%EB%A0%A5%EB%B0%A9%EB%B2%95-37%ED%9A%8C%EB%8A%94-%EC%96%B8%EC%A0%9C%EA%B9%8C%EC%A7%80-%EB%BD%91%EC%9D%84-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-2026" style="color:#1a56db;text-decoration:underline;">공인중개사 수험표 출력방법</a></li><li style="margin:6px 0;color:#202124;"><a href="/entry/%ED%95%9C%EB%8A%A5%EA%B2%80-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89-2026-80%ED%9A%8C-%ED%95%A9%EA%B2%A9%ED%95%98%EB%A9%B4-%EC%96%B4%EB%94%94%EC%84%9C-%EB%B0%94%EB%A1%9C-%EB%BD%91%EB%82%98%EC%9A%94" style="color:#1a56db;text-decoration:underline;">한능검 인증서 발급 2026</a></li><li style="margin:6px 0;color:#202124;"><a href="/entry/%ED%95%9C%EB%8A%A5%EA%B2%80-%EA%B2%B0%EA%B3%BC-%ED%99%95%EC%9D%B880%ED%9A%8C%C2%B72026-%EC%A0%95%EB%8B%B5-%EB%A7%9E%EC%B6%B0-%EB%B3%B4%EA%B3%A0-%EC%9D%B4%EC%9D%98%EC%8B%A0%EC%B2%AD%EC%9D%80-10%EC%9B%94-20%EC%9D%BC%EA%B9%8C%EC%A7%80" style="color:#1a56db;text-decoration:underline;">한능검 결과 확인</a></li><li style="margin:6px 0;color:#202124;"><a href="/entry/%EC%97%B0%EB%A7%90%EC%A0%95%EC%82%B0-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-%EB%B0%A9%EB%B2%95-2026-%EC%9E%91%EB%85%84%EC%97%94-11%EC%9B%94-5%EC%9D%BC-%EC%97%B4%EB%A0%B8%EC%96%B4%EC%9A%94" style="color:#1a56db;text-decoration:underline;">연말정산 미리보기 방법</a></li></ul></div><!-- cluster-links:end -->
+<p data-ke-size="size16" style="font-size:13px;color:#5f6368">출처: 큐넷 공인중개사 시험 일정·공지사항('국가자격 ARS 합격자 발표 서비스 종료 안내')·가답안 및 최종정답 공개·확인서 발급 안내, 공인중개사법 시행령 제5조·제10조·제13조·제24조·제28조, 같은 법 시행규칙 제3조(국가법령정보센터), 경상일보 2025년 11월 27일 보도. 모두 2026년 11월 17일 확인.</p>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"공인중개사 합격자 발표 날짜가 바뀔 수도 있나요?","acceptedAnswer":{"@type":"Answer","text":"11월 17일 기준 큐넷 일정표의 제37회 합격자 발표 기간은 2026년 12월 2일부터 2027년 1월 31일까지예요. 바뀌면 큐넷 공인중개사 공지사항에 먼저 올라옵니다."}},{"@type":"Question","name":"공인중개사 자격증 발급 조회는 어디서 하나요?","acceptedAnswer":{"@type":"Answer","text":"자격증은 시·도가 합격자 결정 공고일부터 1개월 안에 교부해요. 사는 시·도청 공고를 확인하고, 합격 증명이 급하면 큐넷 확인서를 먼저 뽑으면 됩니다."}},{"@type":"Question","name":"1차 면제는 몇 년 동안 되나요?","acceptedAnswer":{"@type":"Answer","text":"다음 회 한 번뿐이에요. 37회 1차 합격이면 2027년 제38회에서만 면제됩니다."}},{"@type":"Question","name":"실무교육 없이 중개사무소에 취업할 수 있나요?","acceptedAnswer":{"@type":"Answer","text":"소속공인중개사로 일하려 해도 실무교육을 받아야 해요. 교육 시간은 45시간입니다."}}]}</script>
+<!-- track:start --><script>(function(){if(window.__ctaT)return;window.__ctaT=1;if(typeof gtag==='function')gtag('config','G-DHW09SPKFC');document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a||typeof gtag!=='function')return;if(!a.closest('.post-body,.entry-content,.tt_article_useless_p_margin,.article-view,article'))return;var h=a.href,s=a.getAttribute('style')||'',k='outbound';if(h.split('#')[0]===location.href.split('#')[0])return;if(a.classList.contains('myButton1')||/max-width:\s*420px/.test(s))k='button';else if(/crowdniwant\.com/.test(h))k=/계산기|자가진단|체크리스트/.test(a.innerText)?'calc':'internal';gtag('event','cta_click',{link_kind:k,link_text:(a.innerText||'').trim().slice(0,60),link_url:h});},true);})();</script><!-- track:end -->
