@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">제37회 공인중개사 시험 뒤 일정</text>
+<line x1="70" y1="190" x2="730" y2="190" stroke="#c5cbe0" stroke-width="6" stroke-linecap="round"/>
+<g font-size="17" fill="#202124" text-anchor="middle">
+<circle cx="90" cy="190" r="16" fill="#6B47C2"/><text x="90" y="135" font-weight="700">10월 31일</text><text x="90" y="240">1·2차 시험</text>
+<circle cx="250" cy="190" r="16" fill="#6B47C2"/><text x="250" y="135" font-weight="700">~11월 6일</text><text x="250" y="240">가답안·의견 제시</text>
+<circle cx="420" cy="190" r="22" fill="#fbc400"/><text x="420" y="135" font-weight="700" font-size="20">12월 2일</text><text x="420" y="240" font-weight="700">합격자 발표</text><text x="420" y="264" font-size="15" fill="#5f6368">최종정답도 함께</text>
+<circle cx="580" cy="190" r="16" fill="#6B47C2"/><text x="580" y="135" font-weight="700">발표 후 1개월 안</text><text x="580" y="240">시·도 자격증 교부</text>
+<circle cx="715" cy="190" r="16" fill="#6B47C2"/><text x="715" y="135" font-weight="700">개업 전</text><text x="715" y="240">실무교육 45시간</text>
+</g>
+<text x="400" y="340" text-anchor="middle" font-size="16" fill="#5f6368">합격자 조회 기간: 2026.12.2 ~ 2027.1.31 (큐넷 공인중개사 일정)</text>
+<text x="400" y="372" text-anchor="middle" font-size="14" fill="#5f6368">자격증 기한: 공인중개사법 시행규칙 제3조 · 실무교육: 시행령 제28조</text>
+</svg>
