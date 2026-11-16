@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="44" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">IRP 세액공제 전환신청, 이 순서로</text>
+<text x="400" y="76" font-size="17" text-anchor="middle" fill="#5f6368">신청한 날 넣은 돈으로 봐 줘요 · 올해 몫은 12월 31일까지</text>
+<g font-size="19" fill="#202124">
+<rect x="60" y="100" width="680" height="70" rx="12" fill="#fff8e1" stroke="#fbc400" stroke-width="2"/>
+<text x="90" y="143" font-weight="700">1</text><text x="130" y="143">홈택스에서 '연금보험료 등 소득·세액 공제확인서' 발급</text>
+<rect x="60" y="185" width="680" height="70" rx="12" fill="#fff8e1" stroke="#fbc400" stroke-width="2"/>
+<text x="90" y="228" font-weight="700">2</text><text x="130" y="228">확인서에서 공제 안 받은 금액 확인</text>
+<rect x="60" y="270" width="680" height="70" rx="12" fill="#f3f8ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="90" y="313" font-weight="700">3</text><text x="130" y="313">IRP·연금저축 가입 금융회사에 '납입액 전환' 신청</text>
+<rect x="60" y="355" width="680" height="70" rx="12" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="90" y="398" font-weight="700">4</text><text x="130" y="398">올해 납입액으로 잡혀 → 올해 연말정산에서 공제</text>
+</g>
+</svg>
