@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="44" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">내 보험료가 왜 올랐는지, 이 순서로 확인</text>
+<g font-size="19" fill="#202124">
+<rect x="60" y="80" width="680" height="70" rx="12" fill="#f3f8ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="90" y="123" font-weight="700">1</text><text x="130" y="123">갱신 안내서에서 작년 보험료와 올해 보험료 비교</text>
+<rect x="60" y="165" width="680" height="70" rx="12" fill="#f3f8ff" stroke="#1a73e8" stroke-width="2"/>
+<text x="90" y="208" font-weight="700">2</text><text x="130" y="208">할인할증 등급(예: 11Z → 12Z) 바뀐 칸 보기</text>
+<rect x="60" y="250" width="680" height="70" rx="12" fill="#fff8e1" stroke="#fbc400" stroke-width="2"/>
+<text x="90" y="293" font-weight="700">3</text><text x="130" y="293">손해보험협회에서 그 등급의 적용률 찾아보기</text>
+<rect x="60" y="335" width="680" height="70" rx="12" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="90" y="378" font-weight="700">4</text><text x="130" y="378">보험다모아에서 같은 조건 다른 회사 값 비교</text>
+</g>
+</svg>
