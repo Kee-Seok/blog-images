@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 580" width="1200" height="580" font-family="Pretendard, Apple SD Gothic Neo, Malgun Gothic, sans-serif">
+<rect width="1200" height="580" fill="#ffffff"/>
+<rect x="0" y="0" width="1200" height="110" fill="#5f6368"/>
+<text x="600" y="72" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle">백발이 된 내 머리, 기분으로 갈려요</text>
+<rect x="60" y="150" width="1080" height="105" rx="18" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<rect x="60" y="150" width="380" height="105" rx="18" fill="#5f6368" opacity="0.14"/>
+<text x="250" y="215" font-size="36" font-weight="700" fill="#202124" text-anchor="middle">편안·당당했다</text>
+<text x="470" y="215" font-size="34" fill="#202124">→ 존경받고 오래 사는 쪽</text>
+<rect x="60" y="280" width="1080" height="105" rx="18" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<rect x="60" y="280" width="380" height="105" rx="18" fill="#5f6368" opacity="0.14"/>
+<text x="250" y="345" font-size="36" font-weight="700" fill="#202124" text-anchor="middle">거울 보고 놀랐다</text>
+<text x="470" y="345" font-size="34" fill="#202124">→ 마음고생을 알아 달라는 쪽</text>
+<rect x="60" y="410" width="1080" height="105" rx="18" fill="#f8f9fa" stroke="#dadce0" stroke-width="2"/>
+<rect x="60" y="410" width="380" height="105" rx="18" fill="#5f6368" opacity="0.14"/>
+<text x="250" y="475" font-size="36" font-weight="700" fill="#202124" text-anchor="middle">슬퍼서 울었다</text>
+<text x="470" y="475" font-size="34" fill="#202124">→ 지친 몸을 쉬어 가라는 쪽</text>
+</svg>
