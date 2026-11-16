@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 478" width="720" height="478" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="720" height="478" fill="#ffffff"/>
+<text x="360" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#202124">누가 불을 붙여 줬나요</text>
+<rect x="40" y="90" width="260" height="72" rx="14" fill="#fff3c4"/>
+<text x="170" y="135" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">돌아가신 어른</text>
+<text x="320" y="135" font-size="26" fill="#5f6368">→</text>
+<rect x="360" y="90" width="320" height="72" rx="14" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="520" y="135" text-anchor="middle" font-size="23" fill="#202124">도움·보살핌이 드는 쪽</text>
+<rect x="40" y="182" width="260" height="72" rx="14" fill="#fde2e4"/>
+<text x="170" y="227" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">연인·배우자</text>
+<text x="320" y="227" font-size="26" fill="#5f6368">→</text>
+<rect x="360" y="182" width="320" height="72" rx="14" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="520" y="227" text-anchor="middle" font-size="23" fill="#202124">마음이 이어지는 쪽</text>
+<rect x="40" y="274" width="260" height="72" rx="14" fill="#e8f0fe"/>
+<text x="170" y="319" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">직장 윗사람</text>
+<text x="320" y="319" font-size="26" fill="#5f6368">→</text>
+<rect x="360" y="274" width="320" height="72" rx="14" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="520" y="319" text-anchor="middle" font-size="23" fill="#202124">일에서 인정받는 쪽</text>
+<rect x="40" y="366" width="260" height="72" rx="14" fill="#e6f4ea"/>
+<text x="170" y="411" text-anchor="middle" font-size="24" font-weight="700" fill="#202124">낯선 사람</text>
+<text x="320" y="411" font-size="26" fill="#5f6368">→</text>
+<rect x="360" y="366" width="320" height="72" rx="14" fill="#f8f9fa" stroke="#dadce0"/>
+<text x="520" y="411" text-anchor="middle" font-size="23" fill="#202124">뜻밖의 기회가 오는 쪽</text>
+</svg>
