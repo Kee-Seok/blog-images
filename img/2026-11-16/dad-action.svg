@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="400" y="44" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">돌아가신 아버지 꿈, 아버지가 한 일로 가르기</text>
+<text x="400" y="76" font-size="17" text-anchor="middle" fill="#5f6368">전통 해몽에서 많이 쓰는 기준</text>
+<g font-size="19" fill="#202124">
+<rect x="40" y="105" width="230" height="270" rx="14" fill="#e6f4ea" stroke="#188038" stroke-width="2"/>
+<text x="155" y="150" text-anchor="middle" font-weight="700" font-size="22">주셨다</text>
+<text x="155" y="200" text-anchor="middle">돈·옷·음식·열쇠</text>
+<text x="155" y="235" text-anchor="middle">도움·재물이 들어옴</text>
+<text x="155" y="300" text-anchor="middle" font-weight="700" fill="#188038">들어오는 쪽</text>
+<rect x="285" y="105" width="230" height="270" rx="14" fill="#e8f0fe" stroke="#1a73e8" stroke-width="2"/>
+<text x="400" y="150" text-anchor="middle" font-weight="700" font-size="22">바라보셨다</text>
+<text x="400" y="200" text-anchor="middle">웃음·말없는 눈길</text>
+<text x="400" y="235" text-anchor="middle">지켜본다는 안부</text>
+<text x="400" y="300" text-anchor="middle" font-weight="700" fill="#1a73e8">편안한 쪽</text>
+<rect x="530" y="105" width="230" height="270" rx="14" fill="#f1f3f4" stroke="#9aa0a6" stroke-width="2"/>
+<text x="645" y="150" text-anchor="middle" font-weight="700" font-size="22">데려가셨다</text>
+<text x="645" y="200" text-anchor="middle">같이 가자·따라감</text>
+<text x="645" y="235" text-anchor="middle">몸을 챙기라는 당부</text>
+<text x="645" y="300" text-anchor="middle" font-weight="700" fill="#5f6368">살피는 쪽</text>
+</g>
+<text x="400" y="410" font-size="15" text-anchor="middle" fill="#5f6368">꿈 해몽은 전해 오는 풀이일 뿐, 앞일을 정하지 않아요</text>
+</svg>
