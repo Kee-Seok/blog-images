@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">큐넷 공인중개사 합격자발표조회 4단계</text>
+<g font-size="18" fill="#202124">
+<rect x="40" y="80" width="340" height="140" rx="14" fill="#f3f0fb" stroke="#6B47C2"/><text x="62" y="118" font-weight="700" fill="#4C2A9E">1. 큐넷 공인중개사 접속</text><text x="62" y="152" font-size="16">q-net.or.kr → 전문자격</text><text x="62" y="178" font-size="16">→ 공인중개사</text>
+<rect x="420" y="80" width="340" height="140" rx="14" fill="#f3f0fb" stroke="#6B47C2"/><text x="442" y="118" font-weight="700" fill="#4C2A9E">2. 상단 '합격자발표'</text><text x="442" y="152" font-size="16">발표 당일 접속이 몰리면</text><text x="442" y="178" font-size="16">대기 화면이 뜰 수 있어요</text>
+<rect x="40" y="250" width="340" height="140" rx="14" fill="#f3f0fb" stroke="#6B47C2"/><text x="62" y="288" font-weight="700" fill="#4C2A9E">3. 본인 확인</text><text x="62" y="322" font-size="16">로그인하거나 수험번호 등</text><text x="62" y="348" font-size="16">화면이 묻는 정보 입력</text>
+<rect x="420" y="250" width="340" height="140" rx="14" fill="#fff8e1" stroke="#fbc400"/><text x="442" y="288" font-weight="700" fill="#202124">4. 1차·2차 결과와 점수</text><text x="442" y="322" font-size="16">불합격이어도 과목별 점수로</text><text x="442" y="348" font-size="16">다음 회 1차 면제 여부 확인</text>
+</g>
+<text x="400" y="424" text-anchor="middle" font-size="14" fill="#5f6368">ARS 전화 합격자 발표는 종료 · 고객센터 1644-8000 (평일 9~18시)</text>
+</svg>
