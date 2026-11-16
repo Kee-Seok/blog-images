@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="800" height="440" fill="#ffffff"/>
+<text x="400" y="44" font-size="26" font-weight="700" text-anchor="middle" fill="#202124">내 보험료면 얼마 더? (요율 인상분만)</text>
+<g font-size="20" fill="#202124">
+<rect x="60" y="70" width="680" height="50" fill="#f1f3f4"/>
+<text x="90" y="103" font-weight="700">지금 1년 보험료</text><text x="420" y="103" font-weight="700">1.2% 오르면</text><text x="600" y="103" font-weight="700">1.4% 오르면</text>
+<text x="90" y="160">50만원</text><text x="420" y="160">+6,000원</text><text x="600" y="160">+7,000원</text>
+<text x="90" y="215">69만 2천원(평균)</text><text x="420" y="215">+8,304원</text><text x="600" y="215">+9,688원</text>
+<text x="90" y="270">100만원</text><text x="420" y="270">+12,000원</text><text x="600" y="270">+14,000원</text>
+<text x="90" y="325">150만원</text><text x="420" y="325">+18,000원</text><text x="600" y="325">+21,000원</text>
+<line x1="60" y1="130" x2="740" y2="130" stroke="#dadce0"/><line x1="60" y1="185" x2="740" y2="185" stroke="#dadce0"/><line x1="60" y1="240" x2="740" y2="240" stroke="#dadce0"/><line x1="60" y1="295" x2="740" y2="295" stroke="#dadce0"/>
+</g>
+<rect x="60" y="350" width="680" height="62" rx="10" fill="#fff8e1" stroke="#fbc400"/>
+<text x="400" y="388" font-size="18" text-anchor="middle" fill="#202124">이보다 훨씬 많이 올랐다면 사고 점수·할인 중단을 먼저 보세요</text>
+</svg>
