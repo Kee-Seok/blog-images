@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="800" height="430" fill="#ffffff"/>
+<text x="400" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">고지서 세 종류, 언제 내야 덜 낼까</text>
+<line x1="80" y1="170" x2="720" y2="170" stroke="#9aa0a6" stroke-width="4"/>
+<g font-size="18" text-anchor="middle">
+<circle cx="140" cy="170" r="16" fill="#188038"/><text x="140" y="120" font-weight="700" fill="#188038">사전 통지서</text><text x="140" y="215" fill="#202124">의견 제출 30일 이상</text><text x="140" y="243" fill="#188038" font-weight="700">이때 내면 20% 감경</text><text x="140" y="271" fill="#202124">7만원 → 5만 6천원</text>
+<circle cx="400" cy="170" r="16" fill="#1a73e8"/><text x="400" y="120" font-weight="700" fill="#1a73e8">1차 납부 고지서</text><text x="400" y="215" fill="#202124">이의제기 60일 이상</text><text x="400" y="243" fill="#202124">감경 없이 원래 금액</text>
+<circle cx="660" cy="170" r="16" fill="#c5221f"/><text x="660" y="120" font-weight="700" fill="#c5221f">2차 독촉 고지서</text><text x="660" y="215" fill="#202124">기한 넘기면 가산금 3%</text><text x="660" y="243" fill="#202124">이후 매달 1.2%씩 더</text>
+</g>
+<rect x="80" y="300" width="640" height="48" rx="10" fill="#e6f4ea"/><text x="400" y="331" text-anchor="middle" font-size="17" fill="#202124">시범 기간 카톡·PASS·위반 영상 확인은 사전 통지서와 1차 고지서부터</text>
+<text x="400" y="390" text-anchor="middle" font-size="15" fill="#5f6368">출처: 경찰청(2026-11-16) · 질서위반행위규제법 제18조·제24조 · 도로교통법 시행령 별표 6(승용차 신호위반)</text>
+</svg>
