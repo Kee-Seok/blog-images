@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" font-family="sans-serif"><rect width="100%" height="100%" fill="#fff"/>
+<text x="40" y="60" font-size="34" font-weight="700" fill="#202124">정책 전세대출 금리, 상품별 최저~최고</text>
+<text x="40" y="100" font-size="22" fill="#5f6368">연 %, 수도권 기준(지방은 0.2%p 낮음) · 우대금리 빼기 전</text>
+<line x1="330" y1="130" x2="330" y2="540" stroke="#e0e0e0"/><text x="330" y="570" font-size="20" fill="#5f6368" text-anchor="middle">1%</text>
+<line x1="556" y1="130" x2="556" y2="540" stroke="#e0e0e0"/><text x="556" y="570" font-size="20" fill="#5f6368" text-anchor="middle">2%</text>
+<line x1="781" y1="130" x2="781" y2="540" stroke="#e0e0e0"/><text x="781" y="570" font-size="20" fill="#5f6368" text-anchor="middle">3%</text>
+<line x1="1007" y1="130" x2="1007" y2="540" stroke="#e0e0e0"/><text x="1007" y="570" font-size="20" fill="#5f6368" text-anchor="middle">4%</text>
+<text x="40" y="200" font-size="26" fill="#202124" font-weight="700">신생아 특례 버팀목</text>
+<rect x="398" y="170" width="677" height="46" rx="10" fill="#1a73e8"/>
+<text x="388" y="202" font-size="24" fill="#202124" text-anchor="end">1.3</text><text x="1085" y="202" font-size="24" fill="#202124">4.3</text>
+<text x="40" y="295" font-size="26" fill="#202124" font-weight="700">신혼부부 전용</text>
+<rect x="533" y="265" width="316" height="46" rx="10" fill="#34a853"/>
+<text x="523" y="297" font-size="24" fill="#202124" text-anchor="end">1.9</text><text x="859" y="297" font-size="24" fill="#202124">3.3</text>
+<text x="40" y="390" font-size="26" fill="#202124" font-weight="700">청년 버팀목</text>
+<rect x="601" y="360" width="248" height="46" rx="10" fill="#fbbc04"/>
+<text x="591" y="392" font-size="24" fill="#202124" text-anchor="end">2.2</text><text x="859" y="392" font-size="24" fill="#202124">3.3</text>
+<text x="40" y="485" font-size="26" fill="#202124" font-weight="700">일반 버팀목</text>
+<rect x="669" y="455" width="226" height="46" rx="10" fill="#ea4335"/>
+<text x="659" y="487" font-size="24" fill="#202124" text-anchor="end">2.5</text><text x="904" y="487" font-size="24" fill="#202124">3.5</text>
+<text x="40" y="605" font-size="18" fill="#5f6368">자료: 주택도시기금 상품별 대출안내(국토교통부 고시 금리), 2026-11-17 확인</text></svg>
