@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="1000" height="520" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="50" font-size="28" font-weight="700" fill="#202124">11월 1~16일 블로그별 — 조회수 vs 수입</text>
+<text x="40" y="100" font-size="20" fill="#5f6368">조회수</text><text x="540" y="100" font-size="20" fill="#5f6368">수입</text>
+<text x="40" y="140" font-size="21" font-weight="700" fill="#202124">꿈 해몽 블로그 (글 약 70편)</text>
+<rect x="40" y="154" width="200" height="40" rx="6" fill="#1a73e8"/><text x="250" y="182" font-size="19" fill="#202124">651뷰</text>
+<rect x="540" y="154" width="338" height="40" rx="6" fill="#1a73e8"/><text x="888" y="182" font-size="19" fill="#202124">$1.69</text>
+<text x="40" y="250" font-size="21" font-weight="700" fill="#202124">메인 블로그 (이 블로그)</text>
+<rect x="40" y="264" width="393" height="40" rx="6" fill="#9ab8e8"/><text x="443" y="292" font-size="19" fill="#202124">1,277뷰</text>
+<rect x="540" y="264" width="232" height="40" rx="6" fill="#9ab8e8"/><text x="782" y="292" font-size="19" fill="#202124">$1.16</text>
+<text x="40" y="360" font-size="21" font-weight="700" fill="#202124">생활 정보 블로그</text>
+<rect x="40" y="374" width="66" height="40" rx="6" fill="#c9d6ea"/><text x="116" y="402" font-size="19" fill="#202124">215뷰</text>
+<rect x="540" y="374" width="92" height="40" rx="6" fill="#c9d6ea"/><text x="642" y="402" font-size="19" fill="#202124">$0.46</text>
+<text x="40" y="490" font-size="18" fill="#3c4043">꿈 해몽은 조회수가 메인의 절반인데 수입은 1.46배 · 11월 16일 하루만 보면 조회 1/13에 수입 1.7배</text></svg>
