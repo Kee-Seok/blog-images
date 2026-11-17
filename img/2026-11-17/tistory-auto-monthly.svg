@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" width="1000" height="560" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="50" font-size="28" font-weight="700" fill="#202124">AI 자동화 블로그 애드센스 — 달마다 조회수와 수입</text>
+<line x1="70" y1="450" x2="960" y2="450" stroke="#c4c9d1"/>
+<rect x="90" y="434" width="100" height="16" rx="6" fill="#9ab8e8"/>
+<text x="140.0" y="400" font-size="20" font-weight="700" text-anchor="middle" fill="#202124">117뷰</text>
+<text x="140.0" y="424" font-size="19" text-anchor="middle" fill="#0b57d0">$0.11</text>
+<text x="140.0" y="480" font-size="20" text-anchor="middle" fill="#3c4043">6월</text>
+<rect x="240" y="429" width="100" height="21" rx="6" fill="#9ab8e8"/>
+<text x="290.0" y="395" font-size="20" font-weight="700" text-anchor="middle" fill="#202124">150뷰</text>
+<text x="290.0" y="419" font-size="19" text-anchor="middle" fill="#0b57d0">$0.17</text>
+<text x="290.0" y="480" font-size="20" text-anchor="middle" fill="#3c4043">7월</text>
+<rect x="390" y="391" width="100" height="59" rx="6" fill="#9ab8e8"/>
+<text x="440.0" y="357" font-size="20" font-weight="700" text-anchor="middle" fill="#202124">426뷰</text>
+<text x="440.0" y="381" font-size="19" text-anchor="middle" fill="#0b57d0">$0.47</text>
+<text x="440.0" y="480" font-size="20" text-anchor="middle" fill="#3c4043">8월</text>
+<rect x="540" y="393" width="100" height="57" rx="6" fill="#9ab8e8"/>
+<text x="590.0" y="359" font-size="20" font-weight="700" text-anchor="middle" fill="#202124">412뷰</text>
+<text x="590.0" y="383" font-size="19" text-anchor="middle" fill="#0b57d0">$0.36</text>
+<text x="590.0" y="480" font-size="20" text-anchor="middle" fill="#3c4043">9월</text>
+<rect x="690" y="162" width="100" height="288" rx="6" fill="#1a73e8"/>
+<text x="740.0" y="128" font-size="20" font-weight="700" text-anchor="middle" fill="#202124">2,083뷰</text>
+<text x="740.0" y="152" font-size="19" text-anchor="middle" fill="#0b57d0">$2.35</text>
+<text x="740.0" y="480" font-size="20" text-anchor="middle" fill="#3c4043">10월</text>
+<rect x="840" y="101" width="100" height="349" rx="6" fill="#1a73e8"/>
+<text x="890.0" y="67" font-size="20" font-weight="700" text-anchor="middle" fill="#202124">2,521뷰</text>
+<text x="890.0" y="91" font-size="19" text-anchor="middle" fill="#0b57d0">$3.42</text>
+<text x="890.0" y="480" font-size="20" text-anchor="middle" fill="#3c4043">11월</text>
+<text x="890.0" y="504" font-size="20" text-anchor="middle" fill="#3c4043">1~16일</text>
+<text x="40" y="540" font-size="17" fill="#5f6368">애드센스 보고서 숫자를 옮겨 직접 그린 그래프 · 11월 17일 오후 기준 이번 달 $3.57</text></svg>
