@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" font-family="sans-serif"><rect width="100%" height="100%" fill="#fff"/>
+<text x="40" y="60" font-size="34" font-weight="700" fill="#202124">재산(2025년 6월 1일, 빚 안 뺌)에 따라 갈리는 몫</text>
+<rect x="40" y="110" width="500" height="120" rx="14" fill="#e6f4ea"/>
+<text x="290" y="160" font-size="26" font-weight="700" fill="#202124" text-anchor="middle">1억7,000만원 미만</text>
+<text x="290" y="205" font-size="24" fill="#188038" text-anchor="middle">산정액 100% × 95%</text>
+<rect x="560" y="110" width="400" height="120" rx="14" fill="#fff8e1"/>
+<text x="760" y="160" font-size="26" font-weight="700" fill="#202124" text-anchor="middle">1억7,000만~2억4,000만</text>
+<text x="760" y="205" font-size="24" fill="#b06000" text-anchor="middle">산정액 50% × 95%</text>
+<rect x="980" y="110" width="180" height="120" rx="14" fill="#fce8e6"/>
+<text x="1070" y="160" font-size="24" font-weight="700" fill="#202124" text-anchor="middle">2억4,000만↑</text>
+<text x="1070" y="205" font-size="24" fill="#d93025" text-anchor="middle">못 받음</text>
+<text x="40" y="300" font-size="25" fill="#202124">재산에 넣는 것: 집·땅·전세보증금·자동차·예금·주식 등 가구원 전부</text>
+<text x="40" y="350" font-size="25" fill="#202124">대출이 있어도 빼 주지 않아요 (부채 차감 없음)</text>
+<text x="40" y="400" font-size="25" fill="#202124">예) 단독가구 최대 165만원 → 재산 2억이면 78만3,750원</text>
+<text x="40" y="470" font-size="20" fill="#5f6368">출처: 국세청·정책브리핑 2026.11.3 안내, 2026.11.18 확인</text>
+</svg>
