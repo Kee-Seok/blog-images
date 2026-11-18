@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" font-family="sans-serif"><rect width="100%" height="100%" fill="#fff"/>
+<text x="40" y="60" font-size="34" font-weight="700" fill="#202124">국가장학금 신청방법, 4단계</text>
+<g font-size="24" fill="#202124" text-anchor="middle">
+<rect x="40" y="110" width="250" height="200" rx="16" fill="#e8f0fe"/><text x="165" y="160" font-size="40" font-weight="700" fill="#1a73e8">1</text><text x="165" y="215">재단 홈페이지</text><text x="165" y="250">또는 앱 로그인</text>
+<rect x="330" y="110" width="250" height="200" rx="16" fill="#e8f0fe"/><text x="455" y="160" font-size="40" font-weight="700" fill="#1a73e8">2</text><text x="455" y="215">장학금 →</text><text x="455" y="250">국가장학금 통합 신청</text>
+<rect x="620" y="110" width="250" height="200" rx="16" fill="#e8f0fe"/><text x="745" y="160" font-size="40" font-weight="700" fill="#1a73e8">3</text><text x="745" y="215">약관 동의·학적</text><text x="745" y="250">가족 정보 입력</text>
+<rect x="910" y="110" width="250" height="200" rx="16" fill="#fff8e1" stroke="#fbbc04" stroke-width="3"/><text x="1035" y="160" font-size="40" font-weight="700" fill="#b06000">4</text><text x="1035" y="215">부모·배우자</text><text x="1035" y="250">가구원 동의</text>
+</g>
+<text x="600" y="390" font-size="26" font-weight="700" fill="#202124" text-anchor="middle">4번이 빠지면 신청만 해 두고 심사가 멈춰요</text>
+<text x="600" y="440" font-size="22" fill="#5f6368" text-anchor="middle">문의 1599-2000 (평일 오전 9시~오후 6시 상담원)</text>
+</svg>
