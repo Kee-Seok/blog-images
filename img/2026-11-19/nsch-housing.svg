@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" font-family="sans-serif"><rect width="100%" height="100%" fill="#fff"/>
+<text x="40" y="60" font-size="34" font-weight="700" fill="#202124">2027년 주거안정장학금 → 청년월세로 통합</text>
+<rect x="40" y="100" width="500" height="300" rx="16" fill="#fce8e6" stroke="#d93025" stroke-width="3"/>
+<text x="290" y="160" font-size="28" font-weight="700" fill="#202124" text-anchor="middle">주거안정장학금</text>
+<text x="290" y="220" font-size="24" fill="#202124" text-anchor="middle">2026년 2학기까지 정상 지원</text>
+<text x="290" y="270" font-size="24" font-weight="700" fill="#d93025" text-anchor="middle">2027년 1학기 신청 불가</text>
+<text x="575" y="260" font-size="50" fill="#5f6368" text-anchor="middle">→</text>
+<rect x="610" y="100" width="550" height="300" rx="16" fill="#e6f4ea" stroke="#34a853" stroke-width="3"/>
+<text x="885" y="160" font-size="28" font-weight="700" fill="#202124" text-anchor="middle">국토교통부 청년월세 (안)</text>
+<g font-size="24" fill="#202124"><text x="650" y="215">월 소득 274만원 이하</text><text x="650" y="255">18~34세 (군복무만큼 최대 3세 연장)</text><text x="650" y="295">24개월 (기초·차상위 48개월)</text><text x="650" y="345" font-weight="700" fill="#188038">월 20만원</text></g>
+<text x="40" y="470" font-size="22" fill="#5f6368">출처: 한국장학재단 공지 「2027년 '주거안정장학금' 통합·확대 안내」 2026년 11월 17일</text>
+</svg>
