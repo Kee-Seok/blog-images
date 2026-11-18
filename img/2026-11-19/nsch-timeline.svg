@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" font-family="sans-serif"><rect width="100%" height="100%" fill="#fff"/>
+<text x="40" y="60" font-size="34" font-weight="700" fill="#202124">작년 1학기 1차 일정 (2026학년도)</text>
+<line x1="80" y1="250" x2="1120" y2="250" stroke="#dadce0" stroke-width="8"/>
+<circle cx="150" cy="250" r="22" fill="#1a73e8"/><text x="150" y="190" font-size="26" font-weight="700" fill="#202124" text-anchor="middle">11월 20일(목)</text><text x="150" y="315" font-size="22" fill="#202124" text-anchor="middle">오전 9시 시작</text>
+<rect x="300" y="215" width="560" height="70" rx="14" fill="#e8f0fe"/><text x="580" y="260" font-size="26" fill="#202124" text-anchor="middle">홈페이지·앱 24시간 신청</text>
+<circle cx="1040" cy="250" r="22" fill="#d93025"/><text x="1040" y="190" font-size="26" font-weight="700" fill="#202124" text-anchor="middle">12월 26일(금)</text><text x="1040" y="315" font-size="22" fill="#202124" text-anchor="middle">오후 6시 마감</text>
+<rect x="40" y="390" width="1120" height="120" rx="16" fill="#fff8e1" stroke="#fbbc04" stroke-width="3"/>
+<text x="600" y="440" font-size="26" font-weight="700" fill="#202124" text-anchor="middle">2027학년도 1차는 11월 19일 아침까지 공고 전</text>
+<text x="600" y="482" font-size="22" fill="#202124" text-anchor="middle">출처: 교육부·한국장학재단 2025년 11월 20일 발표 / 재단 공지사항 2026년 11월 19일 확인</text>
+</svg>
