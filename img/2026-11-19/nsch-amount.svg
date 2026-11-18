@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" font-family="sans-serif"><rect width="100%" height="100%" fill="#fff"/>
+<text x="40" y="60" font-size="34" font-weight="700" fill="#202124">2026년 국가장학금 1유형 연간 지원금액</text>
+<g font-size="26" fill="#202124">
+<text x="60" y="140">기초·차상위</text><rect x="330" y="110" width="800" height="44" rx="10" fill="#1a73e8"/><text x="350" y="141" fill="#fff" font-weight="700">등록금 전액</text>
+<text x="60" y="220">1~3구간</text><rect x="330" y="190" width="640" height="44" rx="10" fill="#4285f4"/><text x="350" y="221" fill="#fff" font-weight="700">600만원</text>
+<text x="60" y="300">4~6구간</text><rect x="330" y="270" width="470" height="44" rx="10" fill="#669df6"/><text x="350" y="301" fill="#fff" font-weight="700">440만원</text>
+<text x="60" y="380">7~8구간</text><rect x="330" y="350" width="385" height="44" rx="10" fill="#8ab4f8"/><text x="350" y="381" fill="#202124" font-weight="700">360만원</text>
+<text x="60" y="460">9구간</text><rect x="330" y="430" width="110" height="44" rx="10" fill="#aecbfa"/><text x="460" y="461" font-weight="700">100만원</text>
+</g>
+<text x="60" y="540" font-size="22" fill="#5f6368">다자녀 첫째·둘째는 더 많고(1~3구간 610만원), 셋째 이상은 8구간까지 등록금 전액</text>
+<text x="60" y="575" font-size="20" fill="#5f6368">출처: 교육부·한국장학재단 2025년 11월 20일 발표. 2027년 금액은 공고에서 다시 확인</text>
+</svg>
