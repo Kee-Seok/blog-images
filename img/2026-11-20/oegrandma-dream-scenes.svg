@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" font-family="'Apple SD Gothic Neo','Noto Sans KR',sans-serif">
+<rect width="720" height="460" fill="#ffffff"/>
+<text x="360" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">돌아가신 외할머니 꿈, 장면 4묶음</text>
+<text x="360" y="74" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽에서 흔히 보는 쪽 (내 꿈 장면이 어느 칸인지만 찾으세요)</text>
+<g>
+<rect x="30" y="100" width="320" height="160" rx="16" fill="#fff4d6" stroke="#f2c14e"/>
+<text x="50" y="136" font-size="21" font-weight="700" fill="#202124">① 반가운 꿈</text>
+<text x="50" y="170" font-size="17" fill="#202124">안아 주심 · 환하게 웃으심</text>
+<text x="50" y="198" font-size="17" fill="#202124">손 잡아 주심 · 외갓집에서 만남</text>
+<text x="50" y="236" font-size="16" fill="#8a6d1d">→ 도움이 닿고 마음이 놓이는 쪽</text>
+</g>
+<g>
+<rect x="370" y="100" width="320" height="160" rx="16" fill="#e8f0fe" stroke="#8ab4f8"/>
+<text x="390" y="136" font-size="21" font-weight="700" fill="#202124">② 챙길 일을 짚는 꿈</text>
+<text x="390" y="170" font-size="17" fill="#202124">우심 · 말없이 서 계심</text>
+<text x="390" y="198" font-size="17" fill="#202124">아파 보이심 · 얼굴이 어두우심</text>
+<text x="390" y="236" font-size="16" fill="#1a5bbf">→ 쉬어 가라, 가족을 살피라는 쪽</text>
+</g>
+<g>
+<rect x="30" y="278" width="320" height="160" rx="16" fill="#e6f4ea" stroke="#81c995"/>
+<text x="50" y="314" font-size="21" font-weight="700" fill="#202124">③ 재물·태몽 꿈</text>
+<text x="50" y="348" font-size="17" fill="#202124">돈 주심 · 밥 차려 주심</text>
+<text x="50" y="376" font-size="17" fill="#202124">아기·과일을 건네심</text>
+<text x="50" y="414" font-size="16" fill="#1e7e34">→ 먹을 복·새 식구로 풀이</text>
+</g>
+<g>
+<rect x="370" y="278" width="320" height="160" rx="16" fill="#f3e8fd" stroke="#c58af9"/>
+<text x="390" y="314" font-size="21" font-weight="700" fill="#202124">④ 마음이 정리되는 꿈</text>
+<text x="390" y="348" font-size="17" fill="#202124">또 돌아가심 · 장례를 다시 치름</text>
+<text x="390" y="376" font-size="17" fill="#202124">손 놓고 떠나심</text>
+<text x="390" y="414" font-size="16" fill="#7b1fa2">→ 묵은 슬픔·걱정이 끝나 가는 쪽</text>
+</g>
+</svg>
