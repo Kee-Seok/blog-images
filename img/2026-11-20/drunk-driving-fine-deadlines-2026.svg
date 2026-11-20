@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 560" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="560" fill="#ffffff"/>
+<text x="40" y="62" font-size="34" font-weight="700" fill="#202124">음주운전 벌금, 통지 뒤 꼭 지킬 기한 5개</text>
+<text x="40" y="100" font-size="20" fill="#5f6368">국가법령정보센터 형사소송법·형법·도로교통법·행정심판법 (2026-11-20 확인)</text>
+<line x1="80" y1="170" x2="80" y2="520" stroke="#1a73e8" stroke-width="4"/>
+<g font-size="24" fill="#202124">
+<circle cx="80" cy="170" r="12" fill="#1a73e8"/><text x="115" y="160" font-weight="700">약식명령 받은 날부터 7일</text><text x="115" y="190" fill="#5f6368">금액에 불복하면 정식재판 청구</text>
+<circle cx="80" cy="255" r="12" fill="#1a73e8"/><text x="115" y="245" font-weight="700">벌금 확정일부터 30일</text><text x="115" y="275" fill="#5f6368">이 안에 납부 (형법 제69조)</text>
+<circle cx="80" cy="340" r="12" fill="#1a73e8"/><text x="115" y="330" font-weight="700">납부명령일부터 30일 (500만원 이하)</text><text x="115" y="360" fill="#5f6368">돈 대신 사회봉사 신청 가능</text>
+<circle cx="80" cy="425" r="12" fill="#f9ab00"/><text x="115" y="415" font-weight="700">면허 처분 받은 날부터 60일</text><text x="115" y="445" fill="#5f6368">시·도경찰청 이의신청</text>
+<circle cx="80" cy="510" r="12" fill="#f9ab00"/><text x="115" y="500" font-weight="700">처분을 안 날부터 90일</text><text x="115" y="530" fill="#5f6368">행정심판 청구</text>
+</g>
+<rect x="620" y="150" width="340" height="140" rx="16" fill="#fff8e1" stroke="#f9ab00"/>
+<text x="645" y="200" font-size="24" font-weight="700" fill="#202124">못 내고 버티면</text>
+<text x="645" y="240" font-size="22" fill="#202124">노역장 유치 1일~3년</text>
+<text x="645" y="272" font-size="20" fill="#5f6368">(형법 제69조 제2항)</text>
+</svg>
