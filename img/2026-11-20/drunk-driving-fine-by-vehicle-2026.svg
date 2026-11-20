@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" font-family="Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect width="1000" height="520" fill="#ffffff"/>
+<text x="40" y="62" font-size="34" font-weight="700" fill="#202124">탈것별 음주운전 벌금·범칙금</text>
+<text x="40" y="100" font-size="20" fill="#5f6368">도로교통법 제148조의2·제156조, 시행령 별표8 (2026-11-20 확인)</text>
+<g font-size="24">
+<rect x="40" y="130" width="920" height="80" rx="12" fill="#e8f0fe"/><text x="70" y="180" font-weight="700" fill="#202124">자동차·오토바이(원동기)</text><text x="460" y="180" fill="#202124">형사처벌 · 벌금 최대 2,000만원(처음)</text>
+<rect x="40" y="225" width="920" height="80" rx="12" fill="#f1f3f4"/><text x="70" y="275" font-weight="700" fill="#202124">전동킥보드(개인형 이동장치)</text><text x="460" y="275" fill="#202124">범칙금 10만원 · 측정 거부 13만원</text>
+<rect x="40" y="320" width="920" height="80" rx="12" fill="#f1f3f4"/><text x="70" y="370" font-weight="700" fill="#202124">자전거</text><text x="460" y="370" fill="#202124">범칙금 3만원 · 측정 거부 10만원</text>
+</g>
+<text x="40" y="450" font-size="22" fill="#5f6368">기준은 모두 혈중알코올농도 0.03% 이상</text>
+<text x="40" y="485" font-size="22" fill="#5f6368">오토바이는 자동차와 같은 줄 — 0.08%부터 면허 취소</text>
+</svg>
