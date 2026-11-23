@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" width="800" height="430"><rect width="800" height="430" fill="#fff"/>
+<text x="400" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="700" fill="#202124">동거주택 상속공제, 네 가지가 모두 맞아야 해요</text>
+<g font-family="sans-serif" font-size="19" fill="#202124">
+<rect x="40" y="70" width="720" height="70" rx="10" fill="#e8f0fe"/><text x="60" y="113">① 돌아가신 날부터 거슬러 10년 이상 계속 같이 삶</text>
+<rect x="40" y="155" width="720" height="70" rx="10" fill="#e6f4ea"/><text x="60" y="198">② 그 10년 동안 한 세대가 집 1채만 가짐</text>
+<rect x="40" y="240" width="720" height="70" rx="10" fill="#fef7e0"/><text x="60" y="283">③ 돌아가신 날 그 자녀가 무주택자</text>
+<rect x="40" y="325" width="720" height="70" rx="10" fill="#fce8e6"/><text x="60" y="368">④ 같이 산 그 자녀(직계비속)가 집을 상속받음</text>
+</g></svg>
