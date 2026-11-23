@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420"><rect width="800" height="420" fill="#fff"/>
+<text x="400" y="42" text-anchor="middle" font-family="sans-serif" font-size="23" font-weight="700" fill="#202124">집 9억(대출 1억)·예금 1억 · 자녀 2명 · 신고세액공제 뒤</text>
+<g font-family="sans-serif" fill="#202124">
+<text x="60" y="110" font-size="20">동거주택공제 없이</text>
+<rect x="60" y="125" width="680" height="56" rx="8" fill="#ea4335"/><text x="720" y="162" text-anchor="end" font-size="24" font-weight="700" fill="#fff">6,402만원</text>
+<text x="60" y="240" font-size="20">12년 같이 산 무주택 자녀가 집을 받으면</text>
+<rect x="60" y="255" width="8" height="56" fill="#1a73e8"/><text x="85" y="292" font-size="24" font-weight="700">0원</text>
+<text x="400" y="370" text-anchor="middle" font-size="18" fill="#5f6368">공제: 일괄 5억 + 금융재산 2천만 + 동거주택 6억(한도) = 11억2천만원</text>
+<text x="400" y="400" text-anchor="middle" font-size="18" fill="#5f6368">과세가액 9억원보다 커서 세금 없음</text>
+</g></svg>
