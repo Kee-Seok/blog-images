@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" width="800" height="440"><rect width="800" height="440" fill="#fff"/>
+<text x="400" y="42" text-anchor="middle" font-family="sans-serif" font-size="24" font-weight="700" fill="#202124">재산 20억원 · 배우자와 자녀 2명 · 신고세액공제 뒤</text>
+<g font-family="sans-serif" fill="#202124">
+<text x="60" y="110" font-size="20">배우자가 5억원 아래로 받으면</text>
+<rect x="60" y="125" width="680" height="56" rx="8" fill="#ea4335"/><text x="720" y="162" text-anchor="end" font-size="24" font-weight="700" fill="#fff">2억1,534만원</text>
+<text x="60" y="240" font-size="20">배우자가 법정지분(약 8억5,714만원)만큼 받으면</text>
+<rect x="60" y="255" width="352" height="56" rx="8" fill="#1a73e8"/><text x="425" y="292" font-size="24" font-weight="700">1억1,141만원</text>
+<text x="400" y="380" text-anchor="middle" font-size="22" font-weight="700" fill="#188038">차이 약 1억393만원</text>
+<text x="400" y="415" text-anchor="middle" font-size="15" fill="#5f6368">예금 3억원 → 금융재산공제 6천만원 포함 · 빚·사전증여 없다고 가정</text>
+</g></svg>
