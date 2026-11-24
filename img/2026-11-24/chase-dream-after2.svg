@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="sans-serif">
+<rect width="800" height="560" fill="#ffffff"/>
+<text x="400" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">쫓기는 꿈 꾼 날 해 볼 일</text>
+<rect x="40" y="85" width="350" height="190" rx="16" fill="#e8f5e9"/>
+<text x="215" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1e7e34">미룬 일 적기</text>
+<text x="215" y="180" text-anchor="middle" font-size="19" fill="#202124">마음에 걸린 일</text>
+<text x="215" y="210" text-anchor="middle" font-size="19" fill="#202124">종이에 하나만</text>
+<rect x="410" y="85" width="350" height="190" rx="16" fill="#e8f0fe"/>
+<text x="585" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1a56db">잠 돌아보기</text>
+<text x="585" y="180" text-anchor="middle" font-size="19" fill="#202124">늦게 잔 날</text>
+<text x="585" y="210" text-anchor="middle" font-size="19" fill="#202124">잠 시간부터</text>
+<rect x="40" y="295" width="350" height="190" rx="16" fill="#fff8e1"/>
+<text x="215" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#b06000">연락 한 번</text>
+<text x="215" y="390" text-anchor="middle" font-size="19" fill="#202124">걸리는 사람</text>
+<text x="215" y="420" text-anchor="middle" font-size="19" fill="#202124">가볍게 안부</text>
+<rect x="410" y="295" width="350" height="190" rx="16" fill="#fce8e6"/>
+<text x="585" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#c5221f">털어놓기</text>
+<text x="585" y="390" text-anchor="middle" font-size="19" fill="#202124">믿는 사람에게</text>
+<text x="585" y="420" text-anchor="middle" font-size="19" fill="#202124">꿈 이야기 한 번</text>
+<text x="400" y="520" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽 풀이 · 오늘의 꿈 해몽</text></svg>
