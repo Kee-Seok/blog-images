@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="sans-serif">
+<rect width="800" height="560" fill="#ffffff"/>
+<text x="400" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">누가 나를 쫓았나</text>
+<rect x="40" y="85" width="350" height="190" rx="16" fill="#e8f5e9"/>
+<text x="215" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1e7e34">사람</text>
+<text x="215" y="180" text-anchor="middle" font-size="19" fill="#202124">모르는 사람·아는 사람</text>
+<text x="215" y="210" text-anchor="middle" font-size="19" fill="#202124">사람 사이 부담 쪽</text>
+<rect x="410" y="85" width="350" height="190" rx="16" fill="#e8f0fe"/>
+<text x="585" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1a56db">귀신·좀비</text>
+<text x="585" y="180" text-anchor="middle" font-size="19" fill="#202124">형체가 흐릿한 것</text>
+<text x="585" y="210" text-anchor="middle" font-size="19" fill="#202124">까닭 모를 불안 쪽</text>
+<rect x="40" y="295" width="350" height="190" rx="16" fill="#fff8e1"/>
+<text x="215" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#b06000">동물</text>
+<text x="215" y="390" text-anchor="middle" font-size="19" fill="#202124">호랑이·개·뱀·벌</text>
+<text x="215" y="420" text-anchor="middle" font-size="19" fill="#202124">힘센 기운·소식 쪽</text>
+<rect x="410" y="295" width="350" height="190" rx="16" fill="#fce8e6"/>
+<text x="585" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#c5221f">경찰·빚쟁이</text>
+<text x="585" y="390" text-anchor="middle" font-size="19" fill="#202124">갚을 것·지킬 것</text>
+<text x="585" y="420" text-anchor="middle" font-size="19" fill="#202124">책임·약속 쪽</text>
+<text x="400" y="520" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽 풀이 · 오늘의 꿈 해몽</text></svg>
