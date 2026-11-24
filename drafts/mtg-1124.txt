@@ -1,0 +1,166 @@
+<!-- 제목: 주택담보대출 계산기 2026, 3억·4%면 월 143만원 -->
+<!-- 검색어: 주택담보대출 계산기 -->
+<!-- 의도: 계산형 | 집을 사거나 갈아타려는 30~50대 | 한 달에 얼마 갚나·총이자·한도·거치·중도상환 | 답 → 계산기 → 이자 계산 → 상환방식 표 → 기간 표 → 거치 → 체증식 → 한도 표 → DSR → 중도상환 → 엑셀 → 은행 비교 → FAQ → 카드 -->
+<!-- 뼈대: 계산 따라가기(3억·4%·30년 한 건을 끝까지) — 최근 메인 글(장기요양 절차형)과 다르게 -->
+<!-- 메인: 주택담보대출 계산기 | 연구소 찜 prio 11(월 27,770회·쓰기 좋음) -->
+<!-- 서브: 주택담보대출 계산기 한도 | 주택담보대출 계산기 이자 | 주택담보대출 계산기 거치기간 | 주택담보대출 계산기 DSR | 주택담보대출 계산기 중도상환 | 주택담보대출 계산기 체증식 | 주택담보대출 원리금 계산기 | 주택담보대출 계산기 엑셀 -->
+<!-- 다음: 상위 14개 모두 제목에 검색어 그대로(최근 두 달), 티스토리 2곳, 우리 글 없음 | 구글: 계산기 사이트(glasswallet·calcnara)·블로그 위주, 공식 자료 없음 · 2026-11-24 확인 -->
+<!-- 고단가: 주택담보대출(광고 경쟁 높음) -->
+<!-- 출처: 금융위원회 10.15 주택시장 안정화 대출수요 관리 방안(korea.kr 2025.10, 스트레스 금리 하한 3%·주택가격별 한도·규제지역 LTV 40%) · 금융위원회 3단계 스트레스 DSR(2025.7.1 시행) · 금융위원회 중도상환수수료 개편(2025.1.13 시행) · 금융감독원 금융상품통합비교공시 · 계산 값은 원리금균등 공식으로 직접 계산(2026-11-24) -->
+<!-- 허브: 주택담보대출 계산기 | 하위 검색어 11개 -->
+<p data-ke-size="size16">3억 원을 연 4%, 30년 원리금균등으로 빌리면 한 달에 <b>143만2,246원</b>을 갚습니다. 30년 동안 내는 이자만 2억1,561만원으로, 빌린 돈의 70%가 넘어요. 주택담보대출 계산기는 대출금·금리·기간·상환 방식 네 가지를 넣으면 이 숫자를 바로 보여 주고, 아래 계산기에 거치기간과 DSR 한도까지 넣어 뒀습니다.</p>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@a957053c079b0f91234a8cd7b3c7b104d3d77a60/img/2026-11-24/mtg-thumb.jpg" alt="주택담보대출 계산기 3억 연 4% 30년이면 월 143만원" style="max-width:100%;height:auto" /></p>
+<!-- 훅:start --><p data-ke-size="size16" style="background:#fff8e1;border-left:4px solid #fbc400;padding:10px 12px;color:#202124">같은 3억 원이라도 만기일시로 30년을 끌면 이자가 원금균등보다 1억7,950만원 더 나옵니다. 그리고 연봉 6천만원인 사람은 수도권에서 스트레스 금리 3%가 붙으면 빌릴 수 있는 돈이 4억1,892만원에서 3억61만원으로 줄어요. 내 경우가 어느 쪽인지는 바로 아래 계산기와 한도 표에서 갈립니다.</p><!-- 훅:end -->
+<!-- toc:start --><div style="margin:1.2em 0;padding:14px 18px;border:1px solid #e1e6ee;border-radius:12px;background:#ffffff;color:#202124"><p style="margin:0 0 6px;font-weight:700;color:#202124">목차</p><ol style="margin:0;padding-left:22px;line-height:1.8;color:#202124"><li><a href="#s01" style="color:#1a73e8">주택담보대출 계산기, 숫자 네 개면 끝나요</a></li><li><a href="#s02" style="color:#1a73e8">주택담보대출 이자 계산, 한 달 이자는 잔액 × 금리 ÷ 12</a></li><li><a href="#s03" style="color:#1a73e8">주택담보대출 원리금 계산기, 상환 방식 세 가지 비교</a></li><li><a href="#s04" style="color:#1a73e8">주택담보대출 대출기간, 20년·30년·40년 차이</a></li><li><a href="#s05" style="color:#1a73e8">주택담보대출 계산기 거치기간, 1년 거치면 얼마 더 낼까</a></li><li><a href="#s06" style="color:#1a73e8">주택담보대출 계산기 체증식, 처음에 덜 내는 대신</a></li><li><a href="#s07" style="color:#1a73e8">주택담보대출 한도 계산기, 세 개 중 가장 작은 값</a></li><li><a href="#s08" style="color:#1a73e8">주택담보대출 계산기 DSR, 스트레스 금리 3%를 넣어 보세요</a></li><li><a href="#s09" style="color:#1a73e8">주택담보대출 계산기 중도상환, 수수료는 이렇게 매겨요</a></li><li><a href="#s10" style="color:#1a73e8">주택담보대출 계산기 엑셀로 만들 때 쓰는 식</a></li><li><a href="#s11" style="color:#1a73e8">은행별 주택담보대출 계산기와 금리 비교</a></li><li><a href="#s12" style="color:#1a73e8">주택담보대출 계산기, 자주 묻는 것</a></li></ol></div><!-- toc:end -->
+<!-- 요약:start --><div style="margin:1.4em 0;padding:16px 18px;background:#f7f9fc;border:1px solid #e1e6ee;border-radius:12px;color:#202124"><p style="margin:0 0 8px;font-weight:700;color:#202124">3억·연 4%·30년으로 먼저 보는 숫자</p><ul style="margin:0;padding-left:20px;line-height:1.7;color:#202124"><li>원리금균등 월 143만2,246원, 총이자 2억1,561만원</li><li>원금균등 첫 달 183만3,333원, 총이자 1억8,050만원</li><li>1년 거치하면 이후 월 145만7,920원, 이자 약 375만원 더</li><li>연봉 6천만원 DSR 한도 4억1,892만원 → 스트레스 금리 3% 넣으면 3억61만원</li><li>한도는 LTV·DSR·주택가격별 상한 중 가장 작은 값</li></ul></div><!-- 요약:end -->
+<h2 id="s01" data-ke-size="size26">주택담보대출 계산기, 숫자 네 개면 끝나요</h2>
+<p data-ke-size="size16">칸에 숫자를 바꿔 넣으면 결과가 바로 바뀝니다. 금리는 은행 상담 때 받은 숫자를, 모르면 4를 그대로 두세요. 거치기간은 이자만 내는 기간이라 없으면 0입니다.</p>
+<div id="mtgcalc" style="margin:16px 0;padding:18px;border:2px solid #dadce0;border-radius:14px;background:#f8f9fa;color:#202124">
+<p style="margin:0 0 10px;font-weight:700;font-size:17px;color:#202124">주택담보대출 상환 계산기</p>
+<p style="margin:6px 0;color:#202124">대출금(만원) <input id="mtg-amt" type="number" value="30000" min="100" step="100" style="width:130px;padding:6px;border:1px solid #9aa0a6;border-radius:6px" /></p>
+<p style="margin:6px 0;color:#202124">금리(연 %) <input id="mtg-rate" type="number" value="4" min="0" step="0.05" style="width:90px;padding:6px;border:1px solid #9aa0a6;border-radius:6px" /></p>
+<p style="margin:6px 0;color:#202124">대출기간(년) <select id="mtg-year" style="padding:6px;border:1px solid #9aa0a6;border-radius:6px"><option value="10">10년</option><option value="15">15년</option><option value="20">20년</option><option value="25">25년</option><option value="30" selected="selected">30년</option><option value="35">35년</option><option value="40">40년</option></select></p>
+<p style="margin:6px 0;color:#202124">거치기간(년) <select id="mtg-grace" style="padding:6px;border:1px solid #9aa0a6;border-radius:6px"><option value="0" selected="selected">없음</option><option value="1">1년</option><option value="2">2년</option><option value="3">3년</option></select></p>
+<p style="margin:6px 0;color:#202124">상환 방식 <select id="mtg-way" style="padding:6px;border:1px solid #9aa0a6;border-radius:6px"><option value="pi" selected="selected">원리금균등</option><option value="p">원금균등</option><option value="b">만기일시</option></select></p>
+<p style="margin:6px 0;color:#202124">연소득(만원, DSR 한도용) <input id="mtg-inc" type="number" value="6000" min="0" step="100" style="width:110px;padding:6px;border:1px solid #9aa0a6;border-radius:6px" /></p>
+<div style="margin-top:12px;padding:12px;background:#ffffff;border-radius:10px;line-height:1.9;color:#202124">
+첫 달 내는 돈: <span class="mtg-o-first" style="font-weight:700;color:#1a73e8">-</span><br />
+거치 끝난 뒤·원금 갚기 시작한 달: <span class="mtg-o-after" style="font-weight:700">-</span><br />
+마지막 달: <span class="mtg-o-last" style="font-weight:700">-</span><br />
+전체 기간 이자 합계: <span class="mtg-o-int" style="font-weight:700;color:#c5221f">-</span><br />
+DSR 40%로 빌릴 수 있는 돈(이 금리 그대로): <span class="mtg-o-dsr" style="font-weight:700">-</span><br />
+같은 조건에 스트레스 금리 3% 더해 심사하면: <span class="mtg-o-dsrs" style="font-weight:700">-</span>
+</div>
+<p style="margin:8px 0 0;font-size:14px;color:#5f6368">금리가 끝까지 같다고 본 계산입니다. DSR 칸은 다른 대출이 없고 원리금균등으로 갚는다고 가정했어요.</p>
+</div>
+<script>
+(function(){
+var box=document.getElementById('mtgcalc');if(!box)return;
+function q(s){return box.querySelector(s);}
+function won(x){return Math.round(x).toLocaleString('ko-KR')+'원';}
+function eok(x){var m=Math.round(x/10000);var e=Math.floor(m/10000),r=m%10000;return (e?e+'억':'')+(r?r.toLocaleString('ko-KR')+'만':'')+'원';}
+function pmt(P,r,n){if(r===0)return P/n;return P*r/(1-Math.pow(1+r,-n));}
+function pv(M,r,n){if(r===0)return M*n;return M*(1-Math.pow(1+r,-n))/r;}
+function go(){
+var P=(parseFloat(q('#mtg-amt').value)||0)*10000;
+var y=parseFloat(q('#mtg-rate').value)||0;var r=y/100/12;
+var n=parseInt(q('#mtg-year').value,10)*12;
+var g=parseInt(q('#mtg-grace').value,10)*12;
+var way=q('#mtg-way').value;var m=n-g;
+var first,after,last,tot;
+if(way==='b'){first=P*r;after=P*r;last=P*r+P;tot=P*r*n;}
+else if(way==='p'){var pp=P/m;after=pp+P*r;last=pp+pp*r;tot=P*r*g+r*P*(m+1)/2;first=g?P*r:after;}
+else{var a=pmt(P,r,m);after=a;last=a;tot=P*r*g+a*m-P;first=g?P*r:a;}
+q('.mtg-o-first').textContent=won(first)+(g?' (거치 중 이자만)':'');
+q('.mtg-o-after').textContent=won(after);
+q('.mtg-o-last').textContent=won(last)+(way==='b'?' (원금 한 번에)':'');
+q('.mtg-o-int').textContent=won(tot);
+var inc=(parseFloat(q('#mtg-inc').value)||0)*10000;var M=inc*0.4/12;
+q('.mtg-o-dsr').textContent=eok(pv(M,r,n));
+q('.mtg-o-dsrs').textContent=eok(pv(M,(y+3)/100/12,n));
+}
+var els=box.querySelectorAll('input,select');for(var i=0;i!==els.length;i++){els[i].addEventListener('input',go);els[i].addEventListener('change',go);}
+go();
+})();
+</script>
+<p data-ke-size="size16">계산기에 넣은 숫자가 은행 화면과 몇천 원 다를 수 있어요. 은행은 날짜 수(한 달 30일·31일)로 이자를 매기고, 원 단위를 잘라내기 때문입니다. 금액이 정해졌으면 실제 금리는 아래 버튼에서 은행별로 맞춰 보세요.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<center><a class="myButton1" href="https://finlife.fss.or.kr/finlife/ldng/houseMrtg/list.do?menuNo=700007" target="_blank" rel="noopener">은행별 주택담보대출 금리 비교하기</a></center>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 id="s02" data-ke-size="size26">주택담보대출 이자 계산, 한 달 이자는 잔액 × 금리 ÷ 12</h2>
+<p data-ke-size="size16">주택담보대출 계산기 이자 칸이 보여 주는 숫자도 결국 식 하나에서 나옵니다. 그달 남은 대출 잔액에 연 금리를 곱하고 12로 나눠요. 3억 원에 연 4%면 첫 달 이자는 3억 × 0.04 ÷ 12 = 100만원입니다. 원리금균등이면 첫 달 143만2,246원 가운데 100만원이 이자이고, 원금은 43만2,246원만 줄어요.</p>
+<p data-ke-size="size16">그래서 처음 몇 년은 갚아도 잔액이 잘 안 줄어드는 느낌이 듭니다. 원금이 조금씩 줄면서 이자 몫이 작아지고, 같은 납입액 안에서 원금 몫이 커지는 구조라서 그래요. 금리 0.5%p 차이도 30년이면 커집니다. 3억·30년 기준 연 3.5%면 월 134만7,134원, 4.5%면 152만56원으로 한 달 17만원 넘게 벌어져요.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 id="s03" data-ke-size="size26">주택담보대출 원리금 계산기, 상환 방식 세 가지 비교</h2>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@4fcff396aadced8f2f615541a2581f423f0c6a71/img/2026-11-24/mtg-methods.svg" alt="주택담보대출 3억 연 4% 30년 원리금균등 원금균등 만기일시 월 납입액 비교" style="max-width:100%;height:auto" /></p>
+<p data-ke-size="size16">같은 돈을 빌려도 어떻게 갚느냐에 따라 첫 달 부담과 총이자가 정반대로 움직입니다. 3억·연 4%·30년으로 맞춰 계산한 값이에요.</p>
+<table style="border-collapse:collapse;width:100%;margin:12px 0" data-ke-style="style12">
+<tr><th style="border:1px solid #dadce0;padding:8px;color:#202124;background:#f1f3f4">상환 방식</th><th style="border:1px solid #dadce0;padding:8px;color:#202124;background:#f1f3f4">첫 달</th><th style="border:1px solid #dadce0;padding:8px;color:#202124;background:#f1f3f4">마지막 달</th><th style="border:1px solid #dadce0;padding:8px;color:#202124;background:#f1f3f4">30년 총이자</th></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">원리금균등</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">143만2,246원</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">143만2,246원</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">2억1,561만원</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">원금균등</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">183만3,333원</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">83만6,111원</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">1억8,050만원</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">만기일시</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">100만원(이자만)</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">3억100만원</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">3억6,000만원</td></tr>
+</table>
+<p data-ke-size="size16" style="font-size:14px;color:#5f6368">금리 고정 가정, 2026-11-24 직접 계산</p>
+<p data-ke-size="size16">원금균등은 첫 달이 40만원 넘게 무겁지만 총이자가 3,511만원 적습니다. 월급이 빠듯한 첫 몇 년을 버틸 수 있다면 원금균등이 이득이고, 매달 같은 돈이 나가야 가계부가 서는 집은 원리금균등이 편해요. 만기일시는 집을 담보로 오래 쓰기엔 이자가 가장 많아서, 짧게 빌렸다가 곧 팔거나 갚을 계획일 때나 맞는 방식입니다.</p>
+<h2 id="s04" data-ke-size="size26">주택담보대출 대출기간, 20년·30년·40년 차이</h2>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@2cbf05f8899001c87a2c1a91cb061511947b3bf7/img/2026-11-24/mtg-term.svg" alt="주택담보대출 대출기간 20년 30년 40년 월 납입액과 총이자" style="max-width:100%;height:auto" /></p>
+<table style="border-collapse:collapse;width:100%;margin:12px 0" data-ke-style="style12">
+<tr><th style="border:1px solid #dadce0;padding:8px;color:#202124;background:#f1f3f4">기간(3억·4%·원리금균등)</th><th style="border:1px solid #dadce0;padding:8px;color:#202124;background:#f1f3f4">한 달</th><th style="border:1px solid #dadce0;padding:8px;color:#202124;background:#f1f3f4">총이자</th></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">20년</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">181만7,941원</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">1억3,631만원</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">30년</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">143만2,246원</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">2억1,561만원</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">40년</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">125만3,815원</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">3억183만원</td></tr>
+</table>
+<p data-ke-size="size16">30년에서 40년으로 늘리면 한 달 18만원이 줄지만 이자는 8,600만원 넘게 늘어요. 반대로 20년으로 줄이면 한 달 38만원 더 내는 대신 이자가 약 8천만원 빠집니다. 기간이 길수록 DSR 한도는 넉넉해지니 처음엔 길게 잡고, 여유가 생길 때 일부를 미리 갚는 방법도 많이 씁니다. 40년짜리는 상품·지역에 따라 막혀 있을 수 있어서 은행에 먼저 물어보는 게 빠릅니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 id="s05" data-ke-size="size26">주택담보대출 계산기 거치기간, 1년 거치면 얼마 더 낼까</h2>
+<p data-ke-size="size16">거치기간은 원금은 그대로 두고 이자만 내는 기간입니다. 3억·4%·30년에 1년 거치를 두면 첫 12개월은 매달 100만원만 나가요. 문제는 그다음입니다. 남은 29년 동안 3억 원을 다 갚아야 하니 월 납입액이 145만7,920원으로, 거치 없이 시작했을 때보다 2만5천원쯤 높아져요.</p>
+<p data-ke-size="size16">총이자는 2억1,936만원으로 거치 없을 때보다 약 375만원 늘어납니다. 이사·인테리어로 첫해 돈이 몰리는 집이면 거치가 숨통을 틔워 주지만, 거치가 끝나는 달에 월 45만원 넘게 갑자기 늘어나는 걸 미리 가계부에 넣어 둬야 해요. 계산기 거치기간 칸을 1년·2년으로 바꿔 보면 차이가 바로 보입니다.</p>
+<h2 id="s06" data-ke-size="size26">주택담보대출 계산기 체증식, 처음에 덜 내는 대신</h2>
+<p data-ke-size="size16">체증식은 처음 몇 년은 적게 내고 뒤로 갈수록 납입액이 커지는 방식이에요. 앞으로 소득이 오를 사회 초년생에게 맞춘 구조라, 고를 수 있는 상품이 따로 정해져 있습니다. </p>
+<p data-ke-size="size16">원금이 늦게 줄어드니 총이자는 원리금균등보다 많아져요. 일반 은행 계산기에는 이 방식이 없는 경우가 있어서, 체증식으로 상담받았다면 은행이나 한국주택금융공사 상담 화면의 상환표를 받아 두는 게 확실합니다.</p>
+<h2 id="s07" data-ke-size="size26">주택담보대출 한도 계산기, 세 개 중 가장 작은 값</h2>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@e7d588f2f1f9620ee291db6a45d51cde8425711c/img/2026-11-24/mtg-limit.svg" alt="주택담보대출 한도 LTV DSR 주택가격별 상한 중 가장 작은 값" style="max-width:100%;height:auto" /></p>
+<p data-ke-size="size16">한 달에 얼마 갚느냐보다 먼저 막히는 게 한도예요. 주택담보대출 계산기 한도를 볼 때 숫자가 은행 답과 다른 이유도 여기 있습니다. 은행은 세 가지를 따로 계산해서 그중 가장 작은 금액만 빌려줍니다. LTV(집값 대비 빌릴 수 있는 비율), DSR(연소득 대비 1년 원리금 비율), 그리고 수도권·규제지역의 주택가격별 상한입니다.</p>
+<table style="border-collapse:collapse;width:100%;margin:12px 0" data-ke-style="style12">
+<tr><th style="border:1px solid #dadce0;padding:8px;color:#202124;background:#f1f3f4">기준</th><th style="border:1px solid #dadce0;padding:8px;color:#202124;background:#f1f3f4">내용</th></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">LTV</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">규제지역 40%, 그 밖 지역 70%</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">DSR</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">은행 40%, 2금융권 50% (가진 대출 원리금 모두 포함)</td></tr>
+<tr><td style="border:1px solid #dadce0;padding:8px;color:#202124">주택가격별 상한(수도권·규제지역)</td><td style="border:1px solid #dadce0;padding:8px;color:#202124">15억 이하 6억원 · 15억 초과~25억 4억원 · 25억 초과 2억원</td></tr>
+</table>
+<p data-ke-size="size16" style="font-size:14px;color:#5f6368">금융위원회 10.15 대출수요 관리 방안(2025.10.16 시행) 기준, 2026-11-24 확인</p>
+<p data-ke-size="size16">예를 들어 규제지역의 10억 원 아파트라면 LTV로는 4억 원, 가격 상한으로는 6억 원이라 4억 원이 먼저 걸립니다. 여기서 소득이 낮으면 DSR이 더 작은 값을 만들어 한도를 다시 깎아요.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 id="s08" data-ke-size="size26">주택담보대출 계산기 DSR, 스트레스 금리 3%를 넣어 보세요</h2>
+<p data-ke-size="size16" style="text-align:center"><img src="https://cdn.jsdelivr.net/gh/Kee-Seok/blog-images@a728aecd8753e074dd625311d080dc85e1dedf4a/img/2026-11-24/mtg-dsr.svg" alt="주택담보대출 DSR 연봉 6천만원 스트레스 금리 3% 한도 계산" style="max-width:100%;height:auto" /></p>
+<p data-ke-size="size16">연봉 6천만원이면 은행 DSR 40%로 1년에 2,400만원, 한 달 200만원까지 원리금을 낼 수 있다고 봅니다. 다른 대출이 없고 연 4%·30년이면 이 200만원으로 갚을 수 있는 돈이 4억1,892만원이에요.</p>
+<p data-ke-size="size16">그런데 심사할 때는 금리가 오를 경우를 미리 넣은 '스트레스 금리'를 더합니다. 2025년 10월 16일부터 수도권·규제지역 주택담보대출은 이 가산 폭의 바닥이 3%로 올라갔어요.</p>
+<p data-ke-size="size16">4%에 3%를 더한 7%로 계산하면 같은 200만원으로 빌릴 수 있는 돈이 3억61만원까지 내려갑니다. 실제로 내는 금리가 7%가 되는 건 아니고, 한도를 잴 때만 쓰는 숫자예요.</p>
+<p data-ke-size="size16">고정금리 기간이 긴 상품은 가산 폭이 줄어드니 계산기 마지막 두 칸 사이 어딘가가 내 한도라고 보면 됩니다.</p>
+<p data-ke-size="size16">한도가 모자라 부모님께 일부를 빌리는 집도 많습니다. 차용증을 쓰면 이자 없이 얼마까지 세금 문제가 없는지 숫자로 계산해 둔 글이 있어 같이 걸어 둡니다.</p>
+<p data-ke-size="size16">→ <a href="https://rich.crowdniwant.com/2026/11/21739.html" target="_blank" rel="noopener">부모 자식 차용증 이자, 무이자로 2억1,739만원까지 괜찮을까요?</a></p>
+<h2 id="s09" data-ke-size="size26">주택담보대출 계산기 중도상환, 수수료는 이렇게 매겨요</h2>
+<p data-ke-size="size16">중도상환수수료는 '갚는 금액 × 수수료율 × 남은 기간 ÷ 수수료 부과 기간'으로 셉니다. 부과 기간은 보통 대출 뒤 3년이에요. 수수료율 0.6%인 대출을 1년 쓰고 1억 원을 갚으면 1억 × 0.6% × 2년/3년 = 40만원입니다. 3년이 지나면 0원이고요.</p>
+<p data-ke-size="size16">2025년 1월 13일 이후 새로 맺은 대출은 은행이 실제 드는 비용만 수수료로 받도록 바뀌었어요. 금융위원회 발표로 5대 은행 주택담보대출 수수료율이 1%대에서 0%대 중반으로 내려갔습니다. </p>
+<p data-ke-size="size16">그 전에 받은 대출은 예전 수수료율이 그대로라서 약정서를 꺼내 확인해야 해요. 갈아타기를 생각한다면 아낄 이자와 낼 수수료를 계산기로 나란히 놓고 보면 답이 나옵니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<div>
+<script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5492979878133476"></script>
+<!-- 본문중간광고 --><ins class="adsbygoogle" style="display: block;" data-ad-client="ca-pub-5492979878133476" data-ad-slot="2251436192" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>     (adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<p data-ke-size="size16">&nbsp;</p>
+<h2 id="s10" data-ke-size="size26">주택담보대출 계산기 엑셀로 만들 때 쓰는 식</h2>
+<p data-ke-size="size16">엑셀이나 구글 시트로 직접 표를 만들고 싶다면 PMT 함수 하나면 됩니다. 칸에 <b>=PMT(4%/12, 360, -300000000)</b>을 넣으면 1,432,246이 나와요. 4%는 연 금리, 360은 30년을 달로 바꾼 값, 마지막은 빌린 돈입니다(앞에 빼기를 붙여야 결과가 양수로 나와요).</p>
+<p data-ke-size="size16">원금균등은 '원금 ÷ 개월 수 + 남은 잔액 × 금리 ÷ 12'를 한 줄씩 내려 쓰면 되고, 거치기간은 첫 줄들에 '원금 × 금리 ÷ 12'만 적으면 됩니다.</p>
+<h2 id="s11" data-ke-size="size26">은행별 주택담보대출 계산기와 금리 비교</h2>
+<p data-ke-size="size16">국민·신한·우리·하나·농협 같은 은행도 각자 홈페이지와 앱에 대출 계산기를 둡니다. 계산 방식은 위와 같아서, 은행마다 다른 건 넣는 금리뿐이에요.</p>
+<p data-ke-size="size16">그래서 계산기를 여러 개 돌리기보다 금융감독원 금융상품통합비교공시에서 은행별 금리를 한 화면에 놓고 고른 뒤, 그 금리를 이 계산기에 넣는 편이 빠릅니다. 디딤돌·보금자리론 같은 정책 대출은 금리와 한도 기준이 따로 있어서 주택도시기금·주택금융공사 화면에서 따로 봐야 해요.</p>
+<p data-ke-size="size16">전세로 먼저 들어가는 집이라면 상품별 전세대출 금리를 정리한 글도 있습니다. → <a href="/entry/%EC%8B%A0%ED%98%BC%EB%B6%80%EB%B6%80-%EC%A0%84%EC%84%B8%EB%8C%80%EC%B6%9C-%EA%B8%88%EB%A6%AC-%EA%B3%84%EC%82%B0-2026-2%EC%96%B5-%EB%B9%8C%EB%A6%AC%EB%A9%B4-%ED%95%9C-%EB%8B%AC-%EC%9D%B4%EC%9E%90-48%EB%A7%8C%EC%9B%90">전세대출 금리 2026, 연 1.3%부터 상품별 금리표</a></p>
+<h2 id="s12" data-ke-size="size26">주택담보대출 계산기, 자주 묻는 것</h2>
+<h3 data-ke-size="size23">3억 주택담보대출 한 달 이자는 얼마인가요?</h3>
+<p data-ke-size="size16">연 4%면 첫 달 이자는 100만원입니다. 30년 원리금균등이면 원금까지 합쳐 매달 143만2,246원을 내요.</p>
+<h3 data-ke-size="size23">원리금균등과 원금균등 중 뭐가 유리한가요?</h3>
+<p data-ke-size="size16">총이자는 원금균등이 적습니다. 3억·4%·30년 기준 3,511만원 차이지만 첫 달 부담이 40만원 넘게 커서, 처음 몇 년을 버틸 수 있는지가 기준이에요.</p>
+<h3 data-ke-size="size23">연봉 6천만원이면 주택담보대출 한도가 얼마인가요?</h3>
+<p data-ke-size="size16">다른 대출이 없고 4%·30년이면 DSR 40% 기준 4억1,892만원입니다. 수도권·규제지역에서 스트레스 금리 3%를 더해 심사하면 3억61만원으로 줄고, LTV와 주택가격별 상한 중 더 작은 쪽이 최종 한도예요.</p>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"3억 주택담보대출 한 달 이자는 얼마인가요?","acceptedAnswer":{"@type":"Answer","text":"연 4%면 첫 달 이자는 100만원입니다. 30년 원리금균등이면 원금까지 합쳐 매달 143만2,246원을 냅니다."}},{"@type":"Question","name":"원리금균등과 원금균등 중 뭐가 유리한가요?","acceptedAnswer":{"@type":"Answer","text":"총이자는 원금균등이 적습니다. 3억·4%·30년 기준 3,511만원 차이지만 첫 달 부담이 40만원 넘게 커서, 처음 몇 년을 버틸 수 있는지가 기준입니다."}},{"@type":"Question","name":"연봉 6천만원이면 주택담보대출 한도가 얼마인가요?","acceptedAnswer":{"@type":"Answer","text":"다른 대출이 없고 4%·30년이면 DSR 40% 기준 4억1,892만원입니다. 수도권·규제지역에서 스트레스 금리 3%를 더해 심사하면 3억61만원으로 줄고, LTV와 주택가격별 상한 중 더 작은 쪽이 최종 한도입니다."}}]}</script>
+<!-- 전환:start --><div style="margin:28px 0;padding:18px;border:2px solid #1a73e8;border-radius:14px;background:#f3f8ff;color:#202124"><p style="margin:0 0 6px;font-weight:700;font-size:17px;color:#202124">계산이 끝났다면, 은행 세 곳 금리부터 나란히</p><p style="margin:0 0 12px;line-height:1.7;color:#202124">이 계산기에서 금리 0.5%p를 바꿔 보면 3억·30년 기준 한 달 8만원 넘게 달라집니다. 금융감독원 비교공시에서 내 집 지역·금리 방식으로 은행별 금리를 골라 계산기에 다시 넣어 보세요.</p><center><a class="myButton1" href="https://finlife.fss.or.kr/finlife/ldng/houseMrtg/list.do?menuNo=700007" target="_blank" rel="noopener">은행별 금리표 열어 보기</a></center></div><!-- 전환:end -->
+<!-- track:start --><script>(function(){if(window.__ctaT)return;window.__ctaT=1;if(typeof gtag==='function')gtag('config','G-DHW09SPKFC');document.addEventListener('click',function(e){var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a||typeof gtag!=='function')return;if(!a.closest('.post-body,.entry-content,.tt_article_useless_p_margin,.article-view,article'))return;var h=a.href,s=a.getAttribute('style')||'',k='outbound';if(h.split('#')[0]===location.href.split('#')[0])return;if(a.classList.contains('myButton1')||/max-width:\s*420px/.test(s))k='button';else if(/crowdniwant\.com/.test(h))k=/계산기|자가진단|체크리스트/.test(a.innerText)?'calc':'internal';gtag('event','cta_click',{link_kind:k,link_text:(a.innerText||'').trim().slice(0,60),link_url:h});},true);})();</script><!-- track:end -->
