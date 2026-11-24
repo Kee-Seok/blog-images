@@ -38,7 +38,7 @@ DSR 40%로 빌릴 수 있는 돈(이 금리 그대로): <span class="mtg-o-dsr" 
 var box=document.getElementById('mtgcalc');if(!box)return;
 function q(s){return box.querySelector(s);}
 function won(x){return Math.round(x).toLocaleString('ko-KR')+'원';}
-function eok(x){var m=Math.round(x/10000);var e=Math.floor(m/10000),r=m%10000;return (e?e+'억':'')+(r?r.toLocaleString('ko-KR')+'만':'')+'원';}
+function eok(x){var m=Math.floor(x/10000);var e=Math.floor(m/10000),r=m%10000;return (e?e+'억':'')+(r?r.toLocaleString('ko-KR')+'만':'')+'원';}
 function pmt(P,r,n){if(r===0)return P/n;return P*r/(1-Math.pow(1+r,-n));}
 function pv(M,r,n){if(r===0)return M*n;return M*(1-Math.pow(1+r,-n))/r;}
 function go(){
