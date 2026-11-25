@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="sans-serif">
+<rect width="800" height="560" fill="#ffffff"/>
+<text x="400" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">고양이가 무엇을 했나</text>
+<rect x="40" y="85" width="350" height="190" rx="16" fill="#e8f5e9"/>
+<text x="215" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1e7e34">오줌을 쌈</text>
+<text x="215" y="180" text-anchor="middle" font-size="19" fill="#202124">집 안에 볼일</text>
+<text x="215" y="210" text-anchor="middle" font-size="19" fill="#202124">집안 정리할 때</text>
+<rect x="410" y="85" width="350" height="190" rx="16" fill="#e8f0fe"/>
+<text x="585" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1a56db">똥을 쌈</text>
+<text x="585" y="180" text-anchor="middle" font-size="19" fill="#202124">치울 것이 생김</text>
+<text x="585" y="210" text-anchor="middle" font-size="19" fill="#202124">재물로 잇는 풀이도</text>
+<rect x="40" y="295" width="350" height="190" rx="16" fill="#fff8e1"/>
+<text x="215" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#b06000">죽어 있음</text>
+<text x="215" y="390" text-anchor="middle" font-size="19" fill="#202124">움직이지 않음</text>
+<text x="215" y="420" text-anchor="middle" font-size="19" fill="#202124">걱정이 끝나는 쪽</text>
+<rect x="410" y="295" width="350" height="190" rx="16" fill="#fce8e6"/>
+<text x="585" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#c5221f">쫓아옴</text>
+<text x="585" y="390" text-anchor="middle" font-size="19" fill="#202124">뒤를 따라옴</text>
+<text x="585" y="420" text-anchor="middle" font-size="19" fill="#202124">미룬 일이 따라옴</text>
+<text x="400" y="520" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽 풀이 · 오늘의 꿈 해몽</text></svg>
