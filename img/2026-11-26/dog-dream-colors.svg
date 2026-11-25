@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="sans-serif">
+<rect width="800" height="560" fill="#ffffff"/>
+<text x="400" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">강아지 색깔로 보는 풀이</text>
+<rect x="40" y="85" width="350" height="190" rx="16" fill="#e8f5e9"/>
+<text x="215" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1e7e34">흰 강아지</text>
+<text x="215" y="180" text-anchor="middle" font-size="19" fill="#202124">깨끗하고 밝은 색</text>
+<text x="215" y="210" text-anchor="middle" font-size="19" fill="#202124">반가운 소식 쪽</text>
+<rect x="410" y="85" width="350" height="190" rx="16" fill="#e8f0fe"/>
+<text x="585" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1a56db">갈색·누런</text>
+<text x="585" y="180" text-anchor="middle" font-size="19" fill="#202124">흙빛·황금빛</text>
+<text x="585" y="210" text-anchor="middle" font-size="19" fill="#202124">실속·재물 쪽</text>
+<rect x="40" y="295" width="350" height="190" rx="16" fill="#fff8e1"/>
+<text x="215" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#b06000">검은 강아지</text>
+<text x="215" y="390" text-anchor="middle" font-size="19" fill="#202124">순하면 든든함</text>
+<text x="215" y="420" text-anchor="middle" font-size="19" fill="#202124">사나우면 경계</text>
+<rect x="410" y="295" width="350" height="190" rx="16" fill="#fce8e6"/>
+<text x="585" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#c5221f">얼룩 강아지</text>
+<text x="585" y="390" text-anchor="middle" font-size="19" fill="#202124">여러 색이 섞임</text>
+<text x="585" y="420" text-anchor="middle" font-size="19" fill="#202124">일이 여러 갈래</text>
+<text x="400" y="520" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽 풀이 · 오늘의 꿈 해몽</text></svg>
