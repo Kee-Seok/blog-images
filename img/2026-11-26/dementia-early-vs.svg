@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 460" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="800" height="460" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">건망증과 치매 초기증상, 이렇게 갈려요</text>
+<rect x="30" y="80" width="355" height="350" rx="16" fill="#e8f5e9"/><rect x="415" y="80" width="355" height="350" rx="16" fill="#fff3e0"/>
+<text x="207" y="125" text-anchor="middle" font-size="26" font-weight="700" fill="#1b5e20">건망증</text>
+<text x="592" y="125" text-anchor="middle" font-size="26" font-weight="700" fill="#e65100">치매 의심 신호</text>
+<g font-size="20" fill="#202124">
+<text x="55" y="180">· 내가 먼저 "깜빡했네" 안다</text><text x="55" y="230">· 귀띔하면 "아 맞다" 떠오른다</text><text x="55" y="280">· 사건은 기억, 일부만 잊는다</text><text x="55" y="330">· 잠깐 잊었다가 다시 돌아온다</text>
+<text x="440" y="180">· 남(가족)이 먼저 이상함을 안다</text><text x="440" y="230">· 귀띔해도 기억하지 못한다</text><text x="440" y="280">· 일이 있었던 것 자체를 잊는다</text><text x="440" y="330">· 천천히, 점점 나빠진다</text>
+</g>
+<text x="400" y="412" text-anchor="middle" font-size="16" fill="#5f6368">서울시 미디어허브(2025.3.7) 전문가 설명 정리 · 진단 기준이 아닌 살펴볼 신호</text>
+</svg>
