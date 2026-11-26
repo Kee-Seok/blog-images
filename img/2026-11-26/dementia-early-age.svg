@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="800" height="420" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">나이대별 치매 유병률</text>
+<line x1="120" y1="340" x2="720" y2="340" stroke="#9aa0a6" stroke-width="2"/>
+<rect x="170" y="315" width="120" height="25" fill="#90caf9"/><text x="230" y="300" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">약 5%</text><text x="230" y="372" text-anchor="middle" font-size="20" fill="#202124">70~79세</text>
+<rect x="340" y="260" width="120" height="80" fill="#42a5f5"/><text x="400" y="245" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">16%</text><text x="400" y="372" text-anchor="middle" font-size="20" fill="#202124">80~89세</text>
+<rect x="510" y="185" width="120" height="155" fill="#1565c0"/><text x="570" y="170" text-anchor="middle" font-size="26" font-weight="700" fill="#202124">31%</text><text x="570" y="372" text-anchor="middle" font-size="20" fill="#202124">90세 이상</text>
+<text x="400" y="404" text-anchor="middle" font-size="16" fill="#5f6368">서울시 미디어허브(2025.5.20)가 인용한 서울대학교병원 자료</text>
+</svg>
