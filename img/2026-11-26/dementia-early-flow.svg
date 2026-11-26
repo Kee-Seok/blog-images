@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="400" y="46" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">치매 초기증상 검사, 순서대로 3단계</text>
+<g font-size="20" fill="#202124" text-anchor="middle">
+<rect x="30" y="90" width="220" height="220" rx="16" fill="#e3f2fd"/><text x="140" y="135" font-size="24" font-weight="700" fill="#0d47a1">① 선별검사</text><text x="140" y="180">치매안심센터</text><text x="140" y="215">1:1 문답 약 15분</text><text x="140" y="250">결과 바로 확인</text><text x="140" y="290" font-weight="700" fill="#0d47a1">만 60세 이상 무료</text>
+<rect x="290" y="90" width="220" height="220" rx="16" fill="#ede7f6"/><text x="400" y="135" font-size="24" font-weight="700" fill="#4527a0">② 진단검사</text><text x="400" y="180">협약 병원·의원</text><text x="400" y="215">신경인지검사</text><text x="400" y="250">전문의 진찰</text><text x="400" y="290" font-weight="700" fill="#4527a0">최대 15만원 지원</text>
+<rect x="550" y="90" width="220" height="220" rx="16" fill="#fce4ec"/><text x="660" y="135" font-size="24" font-weight="700" fill="#880e4f">③ 감별검사</text><text x="660" y="180">혈액·소변</text><text x="660" y="215">뇌 CT·MRI</text><text x="660" y="250">원인 찾기</text><text x="660" y="290" font-weight="700" fill="#880e4f">최대 8만~11만원</text>
+</g>
+<path d="M255 200 l25 0 M272 190 l10 10 -10 10 M515 200 l25 0 M532 190 l10 10 -10 10" stroke="#5f6368" stroke-width="4" fill="none"/>
+<text x="400" y="355" text-anchor="middle" font-size="16" fill="#5f6368">②③ 지원은 센터를 거치고 소득 기준(지역별, 많게는 기준 중위소득 120% 이하)에 맞을 때</text>
+</svg>
