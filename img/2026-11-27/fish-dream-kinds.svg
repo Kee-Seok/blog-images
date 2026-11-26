@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="sans-serif">
+<rect width="800" height="560" fill="#ffffff"/>
+<text x="400" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">물고기 종류로 보는 풀이</text>
+<rect x="40" y="85" width="350" height="190" rx="16" fill="#e8f5e9"/>
+<text x="215" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1e7e34">잉어</text>
+<text x="215" y="180" text-anchor="middle" font-size="19" fill="#202124">크고 힘찬 물고기</text>
+<text x="215" y="210" text-anchor="middle" font-size="19" fill="#202124">출세·태몽 쪽</text>
+<rect x="410" y="85" width="350" height="190" rx="16" fill="#e8f0fe"/>
+<text x="585" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1a56db">금붕어</text>
+<text x="585" y="180" text-anchor="middle" font-size="19" fill="#202124">어항 속 고운 물고기</text>
+<text x="585" y="210" text-anchor="middle" font-size="19" fill="#202124">작은 기쁨·여유</text>
+<rect x="40" y="295" width="350" height="190" rx="16" fill="#fff8e1"/>
+<text x="215" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#b06000">붕어·작은 물고기</text>
+<text x="215" y="390" text-anchor="middle" font-size="19" fill="#202124">손바닥만 한 크기</text>
+<text x="215" y="420" text-anchor="middle" font-size="19" fill="#202124">소소한 실속</text>
+<rect x="410" y="295" width="350" height="190" rx="16" fill="#fce8e6"/>
+<text x="585" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#c5221f">검은 물고기</text>
+<text x="585" y="390" text-anchor="middle" font-size="19" fill="#202124">어둡고 탁한 색</text>
+<text x="585" y="420" text-anchor="middle" font-size="19" fill="#202124">근심·속앓이 경계</text>
+<text x="400" y="520" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽 풀이 · 오늘의 꿈 해몽</text></svg>
