@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="sans-serif">
+<rect width="800" height="560" fill="#ffffff"/>
+<text x="400" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">2년 안에 팔면 붙는 단기세율</text>
+<rect x="40" y="85" width="350" height="190" rx="16" fill="#e8f5e9"/>
+<text x="215" y="140" text-anchor="middle" font-size="25" font-weight="700" fill="#1e7e34">주택 1년 미만</text>
+<text x="215" y="185" text-anchor="middle" font-size="19" fill="#202124">양도차익의</text>
+<text x="215" y="217" text-anchor="middle" font-size="19" fill="#202124">70%</text>
+<rect x="410" y="85" width="350" height="190" rx="16" fill="#e8f0fe"/>
+<text x="585" y="140" text-anchor="middle" font-size="25" font-weight="700" fill="#1a56db">주택 2년 미만</text>
+<text x="585" y="185" text-anchor="middle" font-size="19" fill="#202124">양도차익의</text>
+<text x="585" y="217" text-anchor="middle" font-size="19" fill="#202124">60%</text>
+<rect x="40" y="295" width="350" height="190" rx="16" fill="#fff8e1"/>
+<text x="215" y="350" text-anchor="middle" font-size="25" font-weight="700" fill="#b06000">토지·상가 1년 미만</text>
+<text x="215" y="395" text-anchor="middle" font-size="19" fill="#202124">양도차익의</text>
+<text x="215" y="427" text-anchor="middle" font-size="19" fill="#202124">50%</text>
+<rect x="410" y="295" width="350" height="190" rx="16" fill="#fce8e6"/>
+<text x="585" y="350" text-anchor="middle" font-size="25" font-weight="700" fill="#c5221f">토지·상가 2년 미만</text>
+<text x="585" y="395" text-anchor="middle" font-size="19" fill="#202124">양도차익의</text>
+<text x="585" y="427" text-anchor="middle" font-size="19" fill="#202124">40%</text>
+<text x="400" y="520" text-anchor="middle" font-size="16" fill="#5f6368">국세청 양도소득세 세율표(2021.6.1 이후 양도분) · 크라우드의 Money</text></svg>
