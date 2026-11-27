@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 700" font-family="sans-serif"><rect width="800" height="700" fill="#ffffff"/>
+<text x="400" y="48" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">양도세 계산 순서 여섯 칸</text>
+<rect x="120" y="80" width="560" height="72" rx="14" fill="#f3f8ff" stroke="#1a56db" stroke-width="2"/>
+<circle cx="160" cy="116" r="20" fill="#1a56db"/><text x="160" y="123" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">1</text>
+<text x="200" y="112" font-size="22" font-weight="700" fill="#202124">양도차익</text>
+<text x="200" y="138" font-size="17" fill="#5f6368">판 값 − 산 값 − 필요경비</text>
+<text x="400" y="170" text-anchor="middle" font-size="18" fill="#9aa0a6">▼</text>
+<rect x="120" y="175" width="560" height="72" rx="14" fill="#f3f8ff" stroke="#1e7e34" stroke-width="2"/>
+<circle cx="160" cy="211" r="20" fill="#1e7e34"/><text x="160" y="218" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">2</text>
+<text x="200" y="207" font-size="22" font-weight="700" fill="#202124">12억 넘는 부분만</text>
+<text x="200" y="233" font-size="17" fill="#5f6368">1주택 2년 보유일 때</text>
+<text x="400" y="265" text-anchor="middle" font-size="18" fill="#9aa0a6">▼</text>
+<rect x="120" y="270" width="560" height="72" rx="14" fill="#f3f8ff" stroke="#1a56db" stroke-width="2"/>
+<circle cx="160" cy="306" r="20" fill="#1a56db"/><text x="160" y="313" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">3</text>
+<text x="200" y="302" font-size="22" font-weight="700" fill="#202124">장기보유특별공제</text>
+<text x="200" y="328" font-size="17" fill="#5f6368">3년 이상 보유하면 빼 줌</text>
+<text x="400" y="360" text-anchor="middle" font-size="18" fill="#9aa0a6">▼</text>
+<rect x="120" y="365" width="560" height="72" rx="14" fill="#f3f8ff" stroke="#1e7e34" stroke-width="2"/>
+<circle cx="160" cy="401" r="20" fill="#1e7e34"/><text x="160" y="408" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">4</text>
+<text x="200" y="397" font-size="22" font-weight="700" fill="#202124">기본공제 250만원</text>
+<text x="200" y="423" font-size="17" fill="#5f6368">한 사람당 1년에 한 번</text>
+<text x="400" y="455" text-anchor="middle" font-size="18" fill="#9aa0a6">▼</text>
+<rect x="120" y="460" width="560" height="72" rx="14" fill="#f3f8ff" stroke="#1a56db" stroke-width="2"/>
+<circle cx="160" cy="496" r="20" fill="#1a56db"/><text x="160" y="503" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">5</text>
+<text x="200" y="492" font-size="22" font-weight="700" fill="#202124">세율 곱하기</text>
+<text x="200" y="518" font-size="17" fill="#5f6368">2년 미만은 단기세율</text>
+<text x="400" y="550" text-anchor="middle" font-size="18" fill="#9aa0a6">▼</text>
+<rect x="120" y="555" width="560" height="72" rx="14" fill="#f3f8ff" stroke="#1e7e34" stroke-width="2"/>
+<circle cx="160" cy="591" r="20" fill="#1e7e34"/><text x="160" y="598" text-anchor="middle" font-size="20" font-weight="700" fill="#ffffff">6</text>
+<text x="200" y="587" font-size="22" font-weight="700" fill="#202124">지방소득세 10% 더하기</text>
+<text x="200" y="613" font-size="17" fill="#5f6368">내야 할 돈 합계</text>
+<text x="400" y="680" text-anchor="middle" font-size="15" fill="#5f6368">국세청 양도소득세 세액계산 흐름 기준 · 크라우드의 Money</text></svg>
