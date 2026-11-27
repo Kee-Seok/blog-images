@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" font-family="sans-serif">
+<rect width="800" height="560" fill="#ffffff"/>
+<text x="400" y="50" text-anchor="middle" font-size="28" font-weight="700" fill="#202124">돼지에게 무엇을 했나</text>
+<rect x="40" y="85" width="350" height="190" rx="16" fill="#e8f5e9"/>
+<text x="215" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1e7e34">안음·업음</text>
+<text x="215" y="180" text-anchor="middle" font-size="19" fill="#202124">품에 쥠</text>
+<text x="215" y="210" text-anchor="middle" font-size="19" fill="#202124">손에 들어오는 재물</text>
+<rect x="410" y="85" width="350" height="190" rx="16" fill="#e8f0fe"/>
+<text x="585" y="135" text-anchor="middle" font-size="23" font-weight="700" fill="#1a56db">집에 들임</text>
+<text x="585" y="180" text-anchor="middle" font-size="19" fill="#202124">대문 안으로</text>
+<text x="585" y="210" text-anchor="middle" font-size="19" fill="#202124">돈·식구가 늚</text>
+<rect x="40" y="295" width="350" height="190" rx="16" fill="#fff8e1"/>
+<text x="215" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#b06000">쫓아냄·놓침</text>
+<text x="215" y="390" text-anchor="middle" font-size="19" fill="#202124">문밖으로</text>
+<text x="215" y="420" text-anchor="middle" font-size="19" fill="#202124">기회를 흘려보냄</text>
+<rect x="410" y="295" width="350" height="190" rx="16" fill="#fce8e6"/>
+<text x="585" y="345" text-anchor="middle" font-size="23" font-weight="700" fill="#c5221f">물림·덤빔</text>
+<text x="585" y="390" text-anchor="middle" font-size="19" fill="#202124">나에게 달려듦</text>
+<text x="585" y="420" text-anchor="middle" font-size="19" fill="#202124">큰 몫이 거칠게 옴</text>
+<text x="400" y="520" text-anchor="middle" font-size="16" fill="#5f6368">전통 해몽 풀이 · 오늘의 꿈 해몽</text></svg>
